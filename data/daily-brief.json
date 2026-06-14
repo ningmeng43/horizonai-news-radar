@@ -1,8 +1,68 @@
 {
-  "generated_at": "2026-06-14T17:56:46.700814Z",
+  "generated_at": "2026-06-14T19:42:14.393010Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_bc26e4958a43",
+      "title": "Anthropic 因出口管制派员赴华盛顿修复白宫冲突",
+      "url": "https://x.com/kimmonismus/status/2066240276075528533",
+      "primary_url": "https://x.com/kimmonismus/status/2066240276075528533",
+      "source": "X：Kim (@kimmonismus)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e5108c8489ad7c7225b39756580e0c97514da4af",
+          "title": "Anthropic 因出口管制派员赴华盛顿修复白宫冲突",
+          "url": "https://x.com/kimmonismus/status/2066240276075528533",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T19:24:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kim (@kimmonismus)"
+      ],
+      "items": [
+        {
+          "id": "e5108c8489ad7c7225b39756580e0c97514da4af",
+          "title": "Anthropic 因出口管制派员赴华盛顿修复白宫冲突",
+          "url": "https://x.com/kimmonismus/status/2066240276075528533",
+          "source": "X：Kim (@kimmonismus)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T19:24:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9874,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-14T19:24:05Z",
+      "latest_at": "2026-06-14T19:24:05Z",
+      "primary_item": {
+        "id": "e5108c8489ad7c7225b39756580e0c97514da4af",
+        "title": "Anthropic 因出口管制派员赴华盛顿修复白宫冲突",
+        "url": "https://x.com/kimmonismus/status/2066240276075528533",
+        "source": "X：Kim (@kimmonismus)",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_4b22351e826d",
       "title": "白宫AI监管决定被指偏袒OpenAI与亚马逊",
@@ -38,14 +98,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,14 +158,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9004,
+        "recency": 0.8272,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -158,14 +218,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8548,
+        "recency": 0.7816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -237,14 +297,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7124,
-      "importance": 0.7124,
-      "importance_score": 0.7124,
+      "score": 0.6978,
+      "importance": 0.6978,
+      "importance_score": 0.6978,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3772,
+        "recency": 0.304,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -263,82 +323,100 @@
       }
     },
     {
-      "story_id": "story_989cdb1a0573",
-      "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
-      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-      "primary_url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_f9a9fd467da0",
+      "title": "里约热内卢的“本土化”LLM似乎是现有模型的融合体",
+      "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "primary_url": "https://github.com/nex-agi/Nex-N2/issues/4",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "cfa75b5c8ce3574d871a2c732e929335ed3d0e5a",
-          "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
-          "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T18:22:19Z"
-        },
-        {
-          "id": "38ce5025aa5ed4f6c3d78d8fa7a624add5897a99",
-          "title": "亚马逊首席执行官与美国官员的会谈引发了对Anthropic模型的整治",
-          "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-          "source": "www.wsj.com",
+          "id": "2d574c099c396c71d0f2b16d025707e83db82942",
+          "title": "里约热内卢的“本土化”LLM似乎是现有模型的融合体",
+          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-13T18:22:19.626000Z"
+          "published_at": "2026-06-14T18:06:03.242000Z"
+        },
+        {
+          "id": "195e74de1c761bfcaac56dd3b51857dd4c40996c",
+          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://news.ycombinator.com/item?id=48528371",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "79cf793518fabce2826b2455bd5ce61f54b9c1cf",
+          "title": "里约热内卢的“本土化”LLM似乎是现有模型的融合体 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T15:37:31Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.wsj.com"
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "cfa75b5c8ce3574d871a2c732e929335ed3d0e5a",
-          "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
-          "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T18:22:19Z"
-        },
-        {
-          "id": "38ce5025aa5ed4f6c3d78d8fa7a624add5897a99",
-          "title": "亚马逊首席执行官与美国官员的会谈引发了对Anthropic模型的整治",
-          "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-          "source": "www.wsj.com",
+          "id": "2d574c099c396c71d0f2b16d025707e83db82942",
+          "title": "里约热内卢的“本土化”LLM似乎是现有模型的融合体",
+          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-13T18:22:19.626000Z"
+          "published_at": "2026-06-14T18:06:03.242000Z"
+        },
+        {
+          "id": "195e74de1c761bfcaac56dd3b51857dd4c40996c",
+          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://news.ycombinator.com/item?id=48528371",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T16:22:15.355000Z"
+        },
+        {
+          "id": "79cf793518fabce2826b2455bd5ce61f54b9c1cf",
+          "title": "里约热内卢的“本土化”LLM似乎是现有模型的融合体 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T15:37:31Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6405,
-      "importance": 0.6405,
-      "importance_score": 0.6405,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5596,
+      "importance": 0.5596,
+      "importance_score": 0.5596,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0177,
-        "story_heat": 0.25
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9332,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-13T18:22:19Z",
-      "latest_at": "2026-06-13T18:22:19.626000Z",
+      "earliest_at": "2026-06-14T15:37:31Z",
+      "latest_at": "2026-06-14T18:06:03.242000Z",
       "primary_item": {
-        "id": "cfa75b5c8ce3574d871a2c732e929335ed3d0e5a",
-        "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
-        "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "2d574c099c396c71d0f2b16d025707e83db82942",
+        "title": "里约热内卢的“本土化”LLM似乎是现有模型的融合体",
+        "url": "https://github.com/nex-agi/Nex-N2/issues/4",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -414,14 +492,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5721,
-      "importance": 0.5721,
-      "importance_score": 0.5721,
+      "score": 0.5574,
+      "importance": 0.5574,
+      "importance_score": 0.5574,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9221,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -435,6 +513,162 @@
         "title": "欧盟委员会发言人表示，欧盟委员会正在评估Anthropic裁决的实际影响 - Reuters",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMjV5UElrM0pwdjE0dkFUM09CRHd6elhGdTJuUXVkb29QWVNrU3lpQnBNSXpJT2lfUnppQVlzN0NZMHBienBaWWlub3lxTjItbm1FbFNSdnZtMUE4MndyMWVEV0FfVE9iYjBsbGJnNGVkT3kyNEN2NE04ZXI3WUN3a2dxSWV5bUh0aVBrLWFZVEpXOERDWU9Qc3NPbGlRQkZLZEtrR3ktb04tY2ZHRmM0NzlKVm5ITF8zNVM3TlpXSUFYc2dSQWRieA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e3adff762066",
+      "title": "人工智能无法拯救一家无法按时交付产品的公司",
+      "url": "https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship",
+      "primary_url": "https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship",
+      "source": "agileproductdevelopment.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a760f8db87d21447ebf238a1947f9d35e40da7d8",
+          "title": "人工智能无法拯救一家无法按时交付产品的公司",
+          "url": "https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship",
+          "source": "agileproductdevelopment.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T18:53:56.462000Z"
+        },
+        {
+          "id": "e91640413768e0c06b9a913f6c99fcc0d0bf342a",
+          "title": "人工智能无法拯救一家无法按时交付产品的公司 / AI Won’t Fix a Company That Can’t Ship",
+          "url": "https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T18:46:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "agileproductdevelopment.substack.com"
+      ],
+      "items": [
+        {
+          "id": "a760f8db87d21447ebf238a1947f9d35e40da7d8",
+          "title": "人工智能无法拯救一家无法按时交付产品的公司",
+          "url": "https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship",
+          "source": "agileproductdevelopment.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T18:53:56.462000Z"
+        },
+        {
+          "id": "e91640413768e0c06b9a913f6c99fcc0d0bf342a",
+          "title": "人工智能无法拯救一家无法按时交付产品的公司 / AI Won’t Fix a Company That Can’t Ship",
+          "url": "https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-14T18:46:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5413,
+      "importance": 0.5413,
+      "importance_score": 0.5413,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9665,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T18:46:19Z",
+      "latest_at": "2026-06-14T18:53:56.462000Z",
+      "primary_item": {
+        "id": "a760f8db87d21447ebf238a1947f9d35e40da7d8",
+        "title": "人工智能无法拯救一家无法按时交付产品的公司",
+        "url": "https://agileproductdevelopment.substack.com/p/ai-wont-fix-a-company-that-cant-ship",
+        "source": "agileproductdevelopment.substack.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9d46ec2a3200",
+      "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么",
+      "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
+      "primary_url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cddf78308c6ad14bf11084f51c0e3970ed4b7531",
+          "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么",
+          "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T18:38:10.744000Z"
+        },
+        {
+          "id": "bd95a778dcd23801b2bb67706696108fc3fb6508",
+          "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么 / Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic",
+          "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T17:15:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "cddf78308c6ad14bf11084f51c0e3970ed4b7531",
+          "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么",
+          "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T18:38:10.744000Z"
+        },
+        {
+          "id": "bd95a778dcd23801b2bb67706696108fc3fb6508",
+          "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么 / Inside the whirlwind 24 hours that led the White House to slap export controls on Anthropic",
+          "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T17:15:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9555,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T17:15:27Z",
+      "latest_at": "2026-06-14T18:38:10.744000Z",
+      "primary_item": {
+        "id": "cddf78308c6ad14bf11084f51c0e3970ed4b7531",
+        "title": "白宫对Anthropic实施出口管制背后的那场风波：24小时内发生了什么",
+        "url": "https://www.businessinsider.com/why-white-house-ordered-export-controls-anthropic-mythos-fable-2026-6",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -492,14 +726,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9268,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -570,14 +804,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9271,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -648,14 +882,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9855,
+        "recency": 0.9123,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -670,84 +904,6 @@
         "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
         "source": "Lobsters (技术社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_9e4ea697984a",
-      "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。",
-      "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
-      "primary_url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5b0d3a66b8379f3a175a1d6bd53665587f442cf6",
-          "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。",
-          "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T16:46:14.988000Z"
-        },
-        {
-          "id": "5ed4e4d5fe4743300ef68c15921e5e8b2b5854aa",
-          "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。 / I saved about $16,000 by not using a traditional agent to sell my home. I used an AI-powered online service instead.",
-          "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T12:37:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "5b0d3a66b8379f3a175a1d6bd53665587f442cf6",
-          "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。",
-          "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T16:46:14.988000Z"
-        },
-        {
-          "id": "5ed4e4d5fe4743300ef68c15921e5e8b2b5854aa",
-          "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。 / I saved about $16,000 by not using a traditional agent to sell my home. I used an AI-powered online service instead.",
-          "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T12:37:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5382,
-      "importance": 0.5382,
-      "importance_score": 0.5382,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.951,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T12:37:02Z",
-      "latest_at": "2026-06-14T16:46:14.988000Z",
-      "primary_item": {
-        "id": "5b0d3a66b8379f3a175a1d6bd53665587f442cf6",
-        "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。",
-        "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -804,14 +960,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9268,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -826,6 +982,84 @@
         "url": "https://www.huxiu.com/article/4867241.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_a2a2a7c8197e",
+      "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议",
+      "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
+      "primary_url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0de6d0b140eaf3b985ceafd7a48903c2c8d7713f",
+          "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议",
+          "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T17:02:19.290000Z"
+        },
+        {
+          "id": "9112d8eb2bbce9936594aae1aab5ff855af5f182",
+          "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议 / Emily Blunt refused Steven Spielberg's offer to use AI for her alien voice in 'Disclosure Day'",
+          "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T16:32:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "0de6d0b140eaf3b985ceafd7a48903c2c8d7713f",
+          "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议",
+          "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-14T17:02:19.290000Z"
+        },
+        {
+          "id": "9112d8eb2bbce9936594aae1aab5ff855af5f182",
+          "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议 / Emily Blunt refused Steven Spielberg's offer to use AI for her alien voice in 'Disclosure Day'",
+          "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T16:32:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8889,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T16:32:09Z",
+      "latest_at": "2026-06-14T17:02:19.290000Z",
+      "primary_item": {
+        "id": "0de6d0b140eaf3b985ceafd7a48903c2c8d7713f",
+        "title": "艾米莉·布朗特拒绝了史蒂文·斯皮尔伯格在《披露日》中使用人工智能为她的外星人配音的提议",
+        "url": "https://www.businessinsider.com/emily-blunt-rejected-ai-alien-voice-spielberg-disclosure-day-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -882,14 +1116,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9344,
+        "recency": 0.8611,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -960,14 +1194,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5016,
-      "importance": 0.5016,
-      "importance_score": 0.5016,
+      "score": 0.487,
+      "importance": 0.487,
+      "importance_score": 0.487,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.768,
+        "recency": 0.6948,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -985,30 +1219,30 @@
       }
     },
     {
-      "story_id": "story_73870a5499e5",
-      "title": "我十几岁的儿子反对人工智能，但我每天在公司工作时都在使用它。这导致我们在家里很难谈论这个话题。",
-      "url": "https://www.businessinsider.com/teenager-against-ai-mom-uses-corporate-job-2026-6",
-      "primary_url": "https://www.businessinsider.com/teenager-against-ai-mom-uses-corporate-job-2026-6",
+      "story_id": "story_9e4ea697984a",
+      "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。",
+      "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
+      "primary_url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c888c76a22bc16f8a1902776b27769d7806edfe9",
-          "title": "我十几岁的儿子反对人工智能，但我每天在公司工作时都在使用它。这导致我们在家里很难谈论这个话题。",
-          "url": "https://www.businessinsider.com/teenager-against-ai-mom-uses-corporate-job-2026-6",
+          "id": "5b0d3a66b8379f3a175a1d6bd53665587f442cf6",
+          "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。",
+          "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-14T13:18:03.129000Z"
+          "published_at": "2026-06-14T16:46:14.988000Z"
         },
         {
-          "id": "9ca28d02b102d4e49fe83dbdfd967a0f9f7437ec",
-          "title": "我十几岁的儿子反对人工智能，但我每天在公司工作时都在使用它。这导致我们在家里很难谈论这个话题。 / My teenage son is against AI, but I use it every day at my corporate job. It's made for difficult conversations at home.",
-          "url": "https://www.businessinsider.com/teenager-against-ai-mom-uses-corporate-job-2026-6",
+          "id": "5ed4e4d5fe4743300ef68c15921e5e8b2b5854aa",
+          "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。 / I saved about $16,000 by not using a traditional agent to sell my home. I used an AI-powered online service instead.",
+          "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-06-14T13:07:01Z"
+          "published_at": "2026-06-14T12:37:02Z"
         }
       ],
       "source_count": 2,
@@ -1018,46 +1252,46 @@
       ],
       "items": [
         {
-          "id": "c888c76a22bc16f8a1902776b27769d7806edfe9",
-          "title": "我十几岁的儿子反对人工智能，但我每天在公司工作时都在使用它。这导致我们在家里很难谈论这个话题。",
-          "url": "https://www.businessinsider.com/teenager-against-ai-mom-uses-corporate-job-2026-6",
+          "id": "5b0d3a66b8379f3a175a1d6bd53665587f442cf6",
+          "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。",
+          "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-14T13:18:03.129000Z"
+          "published_at": "2026-06-14T16:46:14.988000Z"
         },
         {
-          "id": "9ca28d02b102d4e49fe83dbdfd967a0f9f7437ec",
-          "title": "我十几岁的儿子反对人工智能，但我每天在公司工作时都在使用它。这导致我们在家里很难谈论这个话题。 / My teenage son is against AI, but I use it every day at my corporate job. It's made for difficult conversations at home.",
-          "url": "https://www.businessinsider.com/teenager-against-ai-mom-uses-corporate-job-2026-6",
+          "id": "5ed4e4d5fe4743300ef68c15921e5e8b2b5854aa",
+          "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。 / I saved about $16,000 by not using a traditional agent to sell my home. I used an AI-powered online service instead.",
+          "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-06-14T13:07:01Z"
+          "published_at": "2026-06-14T12:37:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5093,
-      "importance": 0.5093,
-      "importance_score": 0.5093,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8064,
+        "recency": 0.8778,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-14T13:07:01Z",
-      "latest_at": "2026-06-14T13:18:03.129000Z",
+      "earliest_at": "2026-06-14T12:37:02Z",
+      "latest_at": "2026-06-14T16:46:14.988000Z",
       "primary_item": {
-        "id": "c888c76a22bc16f8a1902776b27769d7806edfe9",
-        "title": "我十几岁的儿子反对人工智能，但我每天在公司工作时都在使用它。这导致我们在家里很难谈论这个话题。",
-        "url": "https://www.businessinsider.com/teenager-against-ai-mom-uses-corporate-job-2026-6",
+        "id": "5b0d3a66b8379f3a175a1d6bd53665587f442cf6",
+        "title": "由于没有通过传统中介出售房子，我节省了大约16,000美元。我转而使用了一项基于人工智能的在线服务。",
+        "url": "https://www.businessinsider.com/retiree-saved-16k-sold-condo-without-real-estate-agent-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1116,14 +1350,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9344,
+        "recency": 0.8611,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1194,14 +1428,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9339,
+        "recency": 0.8607,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1272,14 +1506,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4493,
-      "importance": 0.4493,
-      "importance_score": 0.4493,
+      "score": 0.4347,
+      "importance": 0.4347,
+      "importance_score": 0.4347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5065,
+        "recency": 0.4333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1293,240 +1527,6 @@
         "title": "俄罗斯家庭利用人工智能“复活”在乌克兰阵亡的亲人",
         "url": "https://www.bbc.com/news/articles/cwy24v72n19o?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f9a9fd467da0",
-      "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "url": "https://news.ycombinator.com/item?id=48528371",
-      "primary_url": "https://news.ycombinator.com/item?id=48528371",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "195e74de1c761bfcaac56dd3b51857dd4c40996c",
-          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-          "url": "https://news.ycombinator.com/item?id=48528371",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-14T16:22:15.355000Z"
-        },
-        {
-          "id": "79cf793518fabce2826b2455bd5ce61f54b9c1cf",
-          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T15:37:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "195e74de1c761bfcaac56dd3b51857dd4c40996c",
-          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-          "url": "https://news.ycombinator.com/item?id=48528371",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-14T16:22:15.355000Z"
-        },
-        {
-          "id": "79cf793518fabce2826b2455bd5ce61f54b9c1cf",
-          "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-          "url": "https://github.com/nex-agi/Nex-N2/issues/4",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T15:37:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9344,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T15:37:31Z",
-      "latest_at": "2026-06-14T16:22:15.355000Z",
-      "primary_item": {
-        "id": "195e74de1c761bfcaac56dd3b51857dd4c40996c",
-        "title": "里约热内卢的“本土”法学硕士似乎是现有模式的合并 / Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-        "url": "https://news.ycombinator.com/item?id=48528371",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_6396443b5b46",
-      "title": "AI 互动叙事行业仍陷「剧本之困」",
-      "url": "https://www.huxiu.com/article/4867213.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4867213.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c23d43bca8bafa70b4d83dabbff015ad00046f3f",
-          "title": "AI 互动叙事行业仍陷「剧本之困」",
-          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "bb531d27a7d1756e06150b30160a05e1b1d1f2fb",
-          "title": "AI互动叙事行业仍陷“剧本之困”",
-          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T13:57:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "c23d43bca8bafa70b4d83dabbff015ad00046f3f",
-          "title": "AI 互动叙事行业仍陷「剧本之困」",
-          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "bb531d27a7d1756e06150b30160a05e1b1d1f2fb",
-          "title": "AI互动叙事行业仍陷“剧本之困”",
-          "url": "https://www.huxiu.com/article/4867213.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-14T13:57:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5207,
-      "importance": 0.5207,
-      "importance_score": 0.5207,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8637,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T13:57:41Z",
-      "latest_at": "2026-06-14T14:40:34.477449Z",
-      "primary_item": {
-        "id": "c23d43bca8bafa70b4d83dabbff015ad00046f3f",
-        "title": "AI 互动叙事行业仍陷「剧本之困」",
-        "url": "https://www.huxiu.com/article/4867213.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6e6d7b3119e4",
-      "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌",
-      "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
-      "primary_url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bd3e70dfe896136ad483a2c3925fc4d72696efc7",
-          "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌",
-          "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T10:54:19.847000Z"
-        },
-        {
-          "id": "bdb9e7ad447191ce8d0968c45ab4d7e0a0ff675a",
-          "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌 / How a Texas lawyer used AI to beat Meta in the social media addiction trial",
-          "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T08:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "bd3e70dfe896136ad483a2c3925fc4d72696efc7",
-          "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌",
-          "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-14T10:54:19.847000Z"
-        },
-        {
-          "id": "bdb9e7ad447191ce8d0968c45ab4d7e0a0ff675a",
-          "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌 / How a Texas lawyer used AI to beat Meta in the social media addiction trial",
-          "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-14T08:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4893,
-      "importance": 0.4893,
-      "importance_score": 0.4893,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7066,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T08:41:01Z",
-      "latest_at": "2026-06-14T10:54:19.847000Z",
-      "primary_item": {
-        "id": "bd3e70dfe896136ad483a2c3925fc4d72696efc7",
-        "title": "德克萨斯州一名律师如何利用人工智能在具有里程碑意义的社交媒体成瘾诉讼中击败Meta和谷歌",
-        "url": "https://www.businessinsider.com/texas-lawyer-used-ai-meta-social-media-addiction-trial-2026-6",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
