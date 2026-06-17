@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T21:06:21.737258Z",
+  "generated_at": "2026-06-17T22:57:20.014798Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8953,
-      "importance": 0.8953,
-      "importance_score": 0.8953,
+      "score": 0.8798,
+      "importance": 0.8798,
+      "importance_score": 0.8798,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9413,
+        "recency": 0.8642,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,14 +119,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9567,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -217,14 +217,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.5372,
+        "recency": 0.4602,
         "story_heat": 0.5
       },
       "category": "official",
@@ -298,14 +298,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5498,
+        "recency": 0.4727,
         "story_heat": 0.25
       },
       "category": "official",
@@ -323,6 +323,66 @@
         "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1647b19c64ea",
+      "title": "Claude Code v2.1.181 发布",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
+      "primary_url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "79215adba98553cd332dd60232545b36023833d8",
+          "title": "Claude Code v2.1.181 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T22:07:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude Code：GitHub Releases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "79215adba98553cd332dd60232545b36023833d8",
+          "title": "Claude Code v2.1.181 发布",
+          "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
+          "source": "Claude Code：GitHub Releases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T22:07:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8051,
+      "importance": 0.8051,
+      "importance_score": 0.8051,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-17T22:07:41Z",
+      "latest_at": "2026-06-17T22:07:41Z",
+      "primary_item": {
+        "id": "79215adba98553cd332dd60232545b36023833d8",
+        "title": "Claude Code v2.1.181 发布",
+        "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
+        "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -360,14 +420,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8467,
-      "importance": 0.8467,
-      "importance_score": 0.8467,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9287,
+        "recency": 0.8516,
         "story_heat": 0.0
       },
       "category": "official",
@@ -384,6 +444,66 @@
         "url": "https://github.blog/changelog/2026-06-17-secret-scanning-updates-june-2026",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2a133e08e439",
+      "title": "Google 分享 A2UI 与 MCP Apps 三种集成架构模式",
+      "url": "https://developers.googleblog.com/a2ui-and-mcp-apps",
+      "primary_url": "https://developers.googleblog.com/a2ui-and-mcp-apps",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "348246b7ce6c048fcbb7e8ed58687d1f78e59ff2",
+          "title": "Google 分享 A2UI 与 MCP Apps 三种集成架构模式",
+          "url": "https://developers.googleblog.com/a2ui-and-mcp-apps",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T21:13:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "348246b7ce6c048fcbb7e8ed58687d1f78e59ff2",
+          "title": "Google 分享 A2UI 与 MCP Apps 三种集成架构模式",
+          "url": "https://developers.googleblog.com/a2ui-and-mcp-apps",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T21:13:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9282,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-17T21:13:53Z",
+      "latest_at": "2026-06-17T21:13:53Z",
+      "primary_item": {
+        "id": "348246b7ce6c048fcbb7e8ed58687d1f78e59ff2",
+        "title": "Google 分享 A2UI 与 MCP Apps 三种集成架构模式",
+        "url": "https://developers.googleblog.com/a2ui-and-mcp-apps",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -421,14 +541,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9849,
+        "recency": 0.9078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -500,14 +620,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8082,
+        "recency": 0.7311,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -561,14 +681,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9319,
+        "recency": 0.8548,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -621,14 +741,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9278,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -700,14 +820,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7641,
+        "recency": 0.6871,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -761,14 +881,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.882,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -840,14 +960,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7861,
-      "importance": 0.7861,
-      "importance_score": 0.7861,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7456,
+        "recency": 0.6685,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -901,14 +1021,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8662,
+        "recency": 0.7891,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -961,14 +1081,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8448,
+        "recency": 0.7677,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1021,14 +1141,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9849,
+        "recency": 0.9078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1081,14 +1201,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8043,
+        "recency": 0.7272,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1142,14 +1262,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8088,
+        "recency": 0.7318,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1164,66 +1284,6 @@
         "title": "NVIDIA GEAR实验室发布ENPIRE：8个Codex智能体自主控制机器人完成物理实验",
         "url": "https://x.com/DrJimFan/status/2067283904986517866",
         "source": "X：Jim Fan (@DrJimFan)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e998c4e59382",
-      "title": "谷歌发布Agentic Resource Discovery（ARD）开放规范",
-      "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
-      "primary_url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3c0932c8a7fc5d1bd38e932a6b784a33b6766812",
-          "title": "谷歌发布Agentic Resource Discovery（ARD）开放规范",
-          "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T16:08:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "3c0932c8a7fc5d1bd38e932a6b784a33b6766812",
-          "title": "谷歌发布Agentic Resource Discovery（ARD）开放规范",
-          "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T16:08:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7706,
-      "importance": 0.7706,
-      "importance_score": 0.7706,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7932,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-17T16:08:36Z",
-      "latest_at": "2026-06-17T16:08:36Z",
-      "primary_item": {
-        "id": "3c0932c8a7fc5d1bd38e932a6b784a33b6766812",
-        "title": "谷歌发布Agentic Resource Discovery（ARD）开放规范",
-        "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
-        "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1262,14 +1322,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7788,
+        "recency": 0.7017,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1285,67 +1345,6 @@
         "url": "https://x.com/Yuchenj_UW/status/2067273020352380950",
         "source": "X：Yuchen Jin (@Yuchenj_UW)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_64d6b4cbeaac",
-      "title": "GLM-5.2：专为长期任务而设计 / GLM-5.2: Built for Long-Horizon Tasks",
-      "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "primary_url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d80788b9601aeb15a43d1190bd006d9767657097",
-          "title": "GLM-5.2：专为长期任务而设计 / GLM-5.2: Built for Long-Horizon Tasks",
-          "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T09:01:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d80788b9601aeb15a43d1190bd006d9767657097",
-          "title": "GLM-5.2：专为长期任务而设计 / GLM-5.2: Built for Long-Horizon Tasks",
-          "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T09:01:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7843,
-      "importance": 0.7843,
-      "importance_score": 0.7843,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.4966,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-17T09:01:25Z",
-      "latest_at": "2026-06-17T09:01:25Z",
-      "primary_item": {
-        "id": "d80788b9601aeb15a43d1190bd006d9767657097",
-        "title": "GLM-5.2：专为长期任务而设计 / GLM-5.2: Built for Long-Horizon Tasks",
-        "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
