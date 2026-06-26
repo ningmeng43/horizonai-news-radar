@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T19:47:55.961881Z",
+  "generated_at": "2026-06-26T21:18:55.343459Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0548-275d-b9cd-e28e6aeed40b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0548-275d-b9cd-e28e6aeed40b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0719-2671-b09a-76e38b39dca5&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0719-2671-b09a-76e38b39dca5&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d7e178f39ef7dd515b752e7cd805bb99653c2252",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0719-2671-b09a-76e38b39dca5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f175c51ccbdc291e7215f8700950d7e9f0fca1cf",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "36db1dfdb5412d130e4622b4321f75a5e5d59572",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0825-0457-a33e-4afa3725c7fe&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "63e42d3209ac8098fffa325e2b71234d09eba025",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0657-209f-98ee-f6daec4a5698&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "d7e178f39ef7dd515b752e7cd805bb99653c2252",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0719-2671-b09a-76e38b39dca5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f175c51ccbdc291e7215f8700950d7e9f0fca1cf",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0548-275d-b9cd-e28e6aeed40b&fp=-3",
@@ -183,15 +192,6 @@
           "id": "36db1dfdb5412d130e4622b4321f75a5e5d59572",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0825-0457-a33e-4afa3725c7fe&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "63e42d3209ac8098fffa325e2b71234d09eba025",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0657-209f-98ee-f6daec4a5698&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,12 +216,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-25T20:56:55.009478Z",
-      "latest_at": "2026-06-26T19:47:55.961881Z",
+      "earliest_at": "2026-06-25T22:23:01.335779Z",
+      "latest_at": "2026-06-26T21:18:55.343459Z",
       "primary_item": {
-        "id": "f175c51ccbdc291e7215f8700950d7e9f0fca1cf",
+        "id": "d7e178f39ef7dd515b752e7cd805bb99653c2252",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0548-275d-b9cd-e28e6aeed40b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0719-2671-b09a-76e38b39dca5&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -299,14 +299,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8533,
-      "importance": 0.8533,
-      "importance_score": 0.8533,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5917,
+        "recency": 0.5285,
         "story_heat": 0.5
       },
       "category": "official",
@@ -361,14 +361,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8661,
+        "recency": 0.8029,
         "story_heat": 0.0
       },
       "category": "official",
@@ -385,6 +385,66 @@
         "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0f359af5e38c",
+      "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+      "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+      "primary_url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
+          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+          "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T20:04:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
+          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+          "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T20:04:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9486,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T20:04:55Z",
+      "latest_at": "2026-06-26T20:04:55Z",
+      "primary_item": {
+        "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
+        "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+        "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -422,14 +482,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8773,
+        "recency": 0.8141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -482,14 +542,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8262,
+        "recency": 0.7631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -542,14 +602,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.762,
+      "importance": 0.762,
+      "importance_score": 0.762,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8132,
+        "recency": 0.75,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -602,14 +662,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6146,
+        "recency": 0.5514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -682,14 +742,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7377,
-      "importance": 0.7377,
-      "importance_score": 0.7377,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5034,
+        "recency": 0.4402,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -705,65 +765,6 @@
         "url": "https://www.aibase.com/news/29198",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6da74133e3ec",
-      "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-      "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-      "primary_url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5917,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T10:00:00Z",
-      "latest_at": "2026-06-26T10:00:00Z",
-      "primary_item": {
-        "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
-        "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-        "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -801,14 +802,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6274,
+        "recency": 0.5642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -860,14 +861,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6274,
+        "recency": 0.5642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -919,14 +920,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6274,
+        "recency": 0.5642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -978,14 +979,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6274,
+        "recency": 0.5642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1037,14 +1038,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6274,
+        "recency": 0.5642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1059,6 +1060,103 @@
         "url": "https://www.aibase.com/news/29201",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_14667f465e75",
+      "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由",
+      "url": "https://github.com/workweave/router",
+      "primary_url": "https://github.com/workweave/router",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ee5fea65a7338a7b23f3078a93694c23273ccde",
+          "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由",
+          "url": "https://github.com/workweave/router",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T20:43:47.163000Z"
+        },
+        {
+          "id": "7449a83952280a36ec2433a1b107ce29e6984a4c",
+          "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "url": "https://news.ycombinator.com/item?id=48688700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T17:32:25.106000Z"
+        },
+        {
+          "id": "f3b2cb4b369c131dffe73c547e518c7e850bdcb4",
+          "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "url": "https://github.com/workweave/router",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T16:40:11Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2ee5fea65a7338a7b23f3078a93694c23273ccde",
+          "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由",
+          "url": "https://github.com/workweave/router",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T20:43:47.163000Z"
+        },
+        {
+          "id": "7449a83952280a36ec2433a1b107ce29e6984a4c",
+          "title": "Show HN：直接在 Claude、Codex 和 Cursor 中显示智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "url": "https://news.ycombinator.com/item?id=48688700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T17:32:25.106000Z"
+        },
+        {
+          "id": "f3b2cb4b369c131dffe73c547e518c7e850bdcb4",
+          "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由 / Show HN: Smart model routing directly in Claude, Codex and Cursor",
+          "url": "https://github.com/workweave/router",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T16:40:11Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5681,
+      "importance": 0.5681,
+      "importance_score": 0.5681,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9756,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T16:40:11Z",
+      "latest_at": "2026-06-26T20:43:47.163000Z",
+      "primary_item": {
+        "id": "2ee5fea65a7338a7b23f3078a93694c23273ccde",
+        "title": "Show HN: 在 Claude、Codex 和 Cursor 中直接进行智能模型路由",
+        "url": "https://github.com/workweave/router",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1134,14 +1232,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.557,
+      "importance": 0.557,
+      "importance_score": 0.557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9832,
+        "recency": 0.9201,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1231,14 +1329,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.5504,
+      "importance": 0.5504,
+      "importance_score": 0.5504,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.95,
+        "recency": 0.8868,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1290,14 +1388,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6274,
+        "recency": 0.5642,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1368,14 +1466,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9389,
+        "recency": 0.8757,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1446,14 +1544,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9059,
+        "recency": 0.8427,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1468,84 +1566,6 @@
         "url": "https://news.ycombinator.com/item?id=48688961",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_cef5fdea064c",
-      "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
-      "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-      "primary_url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-      "source": "iankduncan.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
-          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
-          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-          "source": "iankduncan.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T17:16:00.813000Z"
-        },
-        {
-          "id": "d6cfacf92fafea582caaf0fc2089ecfd8bf0fe89",
-          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择 / The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era",
-          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T16:48:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "iankduncan.com"
-      ],
-      "items": [
-        {
-          "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
-          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
-          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-          "source": "iankduncan.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T17:16:00.813000Z"
-        },
-        {
-          "id": "d6cfacf92fafea582caaf0fc2089ecfd8bf0fe89",
-          "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择 / The New Blub Paradox, or: Why TypeScript Is a Poor Choice for the AI Era",
-          "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T16:48:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8945,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T16:48:35Z",
-      "latest_at": "2026-06-26T17:16:00.813000Z",
-      "primary_item": {
-        "id": "9c31cf0b5536001c1bd6f0e0a4af9ec0e33c25b0",
-        "title": "“新布卢布悖论”，或：为何 TypeScript 并非人工智能时代的理想选择",
-        "url": "https://iankduncan.com/engineering/2026-06-26-the-new-blub-paradox",
-        "source": "iankduncan.com",
-        "source_name": "Buzzing"
       }
     }
   ]
