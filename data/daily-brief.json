@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T04:34:24.868194Z",
+  "generated_at": "2026-06-27T04:37:43.135950Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -21,38 +21,12 @@
           "published_at": "2026-06-26T10:00:00Z"
         },
         {
-          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
-          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "id": "10d60fef99eb785c267b4bb1466e3170f6051790",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
           "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T17:31:54.233000Z"
-        },
-        {
-          "id": "e84bcd00c3a98a59d2762293230a2bde808754cc",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT‑5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T17:06:55Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
-          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
           "published_at": "2026-06-26T10:00:00Z"
         },
         {
@@ -74,18 +48,63 @@
           "published_at": "2026-06-26T17:06:55Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8677,
-      "importance": 0.8677,
-      "importance_score": 0.8677,
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "6a8ed476ab2dd24ba1fadd1c70a5085f20ec203e",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT-5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "10d60fef99eb785c267b4bb1466e3170f6051790",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T10:00:00Z"
+        },
+        {
+          "id": "50b846d11b890d19e5f2173adc6d2954f7217666",
+          "title": "GPT‑5.6 Sol 预览：新一代模型",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T17:31:54.233000Z"
+        },
+        {
+          "id": "e84bcd00c3a98a59d2762293230a2bde808754cc",
+          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol / Previewing GPT‑5.6 Sol: a next-generation model",
+          "url": "https://openai.com/index/previewing-gpt-5-6-sol",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T17:06:55Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8925,
+      "importance": 0.8925,
+      "importance_score": 0.8925,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7647,
-        "story_heat": 0.5
+        "recency": 0.7641,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
@@ -283,15 +302,15 @@
       ],
       "item_count": 9,
       "duplicate_count": 9,
-      "score": 0.8564,
-      "importance": 0.8564,
-      "importance_score": 0.8564,
+      "score": 0.8563,
+      "importance": 0.8563,
+      "importance_score": 0.8563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9378,
+        "recency": 0.937,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -308,6 +327,106 @@
         "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1007-5700-b91c-22cd34581e17&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_2732ab390af9",
+      "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "74d718ee871efa44813c398a96de8e65bf89c4d9",
+          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T20:04:55Z"
+        },
+        {
+          "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
+          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
+          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T21:15:51.287000Z"
+        },
+        {
+          "id": "32f0aee5e6b0093c1bd129cc39b8486b9d3374da",
+          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机 / NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T20:04:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "74d718ee871efa44813c398a96de8e65bf89c4d9",
+          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T20:04:55Z"
+        },
+        {
+          "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
+          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
+          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T21:15:51.287000Z"
+        },
+        {
+          "id": "32f0aee5e6b0093c1bd129cc39b8486b9d3374da",
+          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机 / NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
+          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T20:04:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8327,
+      "importance": 0.8327,
+      "importance_score": 0.8327,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8839,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-26T20:04:55Z",
+      "latest_at": "2026-06-26T21:15:51.287000Z",
+      "primary_item": {
+        "id": "74d718ee871efa44813c398a96de8e65bf89c4d9",
+        "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
+        "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -345,15 +464,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8953,
+        "recency": 0.8946,
         "story_heat": 0.0
       },
       "category": "official",
@@ -407,15 +526,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.841,
+        "recency": 0.8404,
         "story_heat": 0.0
       },
       "category": "official",
@@ -488,15 +607,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.986,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -516,124 +635,83 @@
       }
     },
     {
-      "story_id": "story_85f3f6a5eb71",
+      "story_id": "story_197d3e40effb",
       "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-      "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
-      "primary_url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+      "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+      "primary_url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
       "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "id": "817844f699333774d8e5fb25531bcbe3fe5f8501",
           "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-06-26T23:31:29Z"
+        },
+        {
+          "id": "2cbde04445d2a71156adab5dd9cfda900ac1807a",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数 / Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro",
+          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T23:31:29Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "MarkTechPost Research",
         "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+          "id": "817844f699333774d8e5fb25531bcbe3fe5f8501",
           "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-          "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
           "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-06-26T23:31:29Z"
+        },
+        {
+          "id": "2cbde04445d2a71156adab5dd9cfda900ac1807a",
+          "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数 / Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro",
+          "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T23:31:29Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9297,
-        "story_heat": 0.0
+        "recency": 0.9289,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-06-26T23:31:29Z",
       "latest_at": "2026-06-26T23:31:29Z",
       "primary_item": {
-        "id": "b5173d6f7222ef4fbb72b08621c539c0a0b1d8e9",
+        "id": "817844f699333774d8e5fb25531bcbe3fe5f8501",
         "title": "Cursor 研究发现奖励攻击虚增编码智能体 SWE-bench Pro 分数",
-        "url": "https://aihot.virxact.com/items/cmqvkko1q0dvqsl80vjsqu4rm",
+        "url": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro",
         "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0f359af5e38c",
-      "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-      "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-      "primary_url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
-          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-          "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T20:04:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
-          "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-          "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T20:04:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8846,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T20:04:55Z",
-      "latest_at": "2026-06-26T20:04:55Z",
-      "primary_item": {
-        "id": "eff2346d1a458a4473468a1002f19ba4b9e8c3f3",
-        "title": "纽约时报修订诉讼，指控微软为OpenAI建造版权侵权超级计算机",
-        "url": "https://aihot.virxact.com/items/cmqvdw37s0cb7sl80kpi0thke",
-        "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -672,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8443,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -695,67 +773,6 @@
         "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
         "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_85a7e86ef122",
-      "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-      "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-      "primary_url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
-          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T15:37:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
-          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T15:37:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8295,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-26T15:37:43Z",
-      "latest_at": "2026-06-26T15:37:43Z",
-      "primary_item": {
-        "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
-        "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-        "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
@@ -794,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7541,
+      "importance": 0.7541,
+      "importance_score": 0.7541,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8258,
+        "recency": 0.8251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -874,15 +891,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9597,
+        "recency": 0.9589,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -936,15 +953,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7708,
+        "recency": 0.7702,
         "story_heat": 0.0
       },
       "category": "official",
@@ -961,6 +978,66 @@
         "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e56d406e16bf",
+      "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+      "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+      "primary_url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e1cd1734ccb17dd32195e228b02b17c795fa92c1",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "e1cd1734ccb17dd32195e228b02b17c795fa92c1",
+          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+          "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-26T15:37:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8288,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-26T15:37:43Z",
+      "latest_at": "2026-06-26T15:37:43Z",
+      "primary_item": {
+        "id": "e1cd1734ccb17dd32195e228b02b17c795fa92c1",
+        "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
+        "url": "https://x.com/AYi_AInotes/status/2070531964067623381",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1017,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7417,
+        "recency": 0.7411,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1041,66 +1118,6 @@
         "url": "https://www.aibase.com/news/29198",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6da74133e3ec",
-      "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-      "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-      "primary_url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
-          "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-          "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7647,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T10:00:00Z",
-      "latest_at": "2026-06-26T10:00:00Z",
-      "primary_item": {
-        "id": "0ab63ad5e42f5dcd9df3f9a658dbe19da83ae070",
-        "title": "OpenAI 预览新一代模型 GPT-5.6 Sol",
-        "url": "https://aihot.virxact.com/items/cmqv6ikhu0ah8sl80m2p7v2m4",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1138,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8443,
+        "recency": 0.8436,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1198,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7743,
+        "recency": 0.7736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1224,61 +1241,81 @@
       }
     },
     {
-      "story_id": "story_f1c0696003cb",
-      "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-      "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
-      "primary_url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+      "story_id": "story_bab6f6953d7a",
+      "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
+      "url": "https://www.ithome.com/0/968/872.htm",
+      "primary_url": "https://www.ithome.com/0/968/872.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
-          "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-          "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+          "id": "b66f49ab0dde70742499f100ab45e7708329182d",
+          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
+          "url": "https://www.ithome.com/0/968/872.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-26T05:40:52Z"
+          "published_at": "2026-06-26T04:37:58Z"
+        },
+        {
+          "id": "693d758be1695a9e76981ebabc8984eb7d4ab5c8",
+          "title": "近 400 家美国报纸联合起诉 OpenAI 和微软白嫖内容，AI 热潮恐成地方新闻“丧钟”",
+          "url": "https://www.ithome.com/0/968/872.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T04:37:58Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "IT之家 (ITHome)",
         "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
-          "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-          "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+          "id": "b66f49ab0dde70742499f100ab45e7708329182d",
+          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
+          "url": "https://www.ithome.com/0/968/872.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-26T05:40:52Z"
+          "published_at": "2026-06-26T04:37:58Z"
+        },
+        {
+          "id": "693d758be1695a9e76981ebabc8984eb7d4ab5c8",
+          "title": "近 400 家美国报纸联合起诉 OpenAI 和微软白嫖内容，AI 热潮恐成地方新闻“丧钟”",
+          "url": "https://www.ithome.com/0/968/872.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T04:37:58Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7185,
-        "story_heat": 0.0
+        "recency": 0.7071,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-26T05:40:52Z",
-      "latest_at": "2026-06-26T05:40:52Z",
+      "earliest_at": "2026-06-26T04:37:58Z",
+      "latest_at": "2026-06-26T04:37:58Z",
       "primary_item": {
-        "id": "bfdc7ded1a59b19eb320853586e46e8a8c465b36",
-        "title": "小鹏 CEO 何小鹏：2026 年底自动驾驶可以合法进入全球",
-        "url": "https://aihot.virxact.com/items/cmquitk6o04qnsl805yictrvb",
+        "id": "b66f49ab0dde70742499f100ab45e7708329182d",
+        "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
+        "url": "https://www.ithome.com/0/968/872.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
@@ -1318,15 +1355,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7743,
+        "recency": 0.7736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1341,66 +1378,6 @@
         "url": "https://www.aibase.com/news/29203",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_24be2fa5cbd6",
-      "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-      "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-      "primary_url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
-          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-          "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T04:37:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
-          "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-          "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T04:37:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7077,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T04:37:58Z",
-      "latest_at": "2026-06-26T04:37:58Z",
-      "primary_item": {
-        "id": "6b5fb9f59c971c8595f74700401f97f3e735130b",
-        "title": "近400家美国报纸起诉微软和OpenAI：未经授权抓取新闻内容训练AI",
-        "url": "https://aihot.virxact.com/items/cmqugodz30481sl80as72hqx1",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1438,15 +1415,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7743,
+        "recency": 0.7736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1459,6 +1436,145 @@
         "id": "e2e19254ce2674c90aa628a15beb40d8a9948774",
         "title": "扩产受限需求高涨，AI存储紧缺周期或将延续至明年末",
         "url": "https://www.aibase.com/news/29199",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2175f124b087",
+      "title": "OpenAI 挖走 Uber 印度首席执行官，领导其美国以外最大市场 / OpenAI poaches Uber India chief to lead its biggest market outside the US",
+      "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
+      "primary_url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "fcccc181646b2f2ceb390195dc5ab965ec01d66a",
+          "title": "OpenAI 挖走 Uber 印度首席执行官，领导其美国以外最大市场 / OpenAI poaches Uber India chief to lead its biggest market outside the US",
+          "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T18:19:36Z"
+        },
+        {
+          "id": "7d24efd25d880affc05ba348a81477b89a1e0f7e",
+          "title": "OpenAI 挖走 Uber 印度首席执行官，领导其美国以外最大市场 / OpenAI poaches Uber India chief to lead its biggest market outside the U.S.",
+          "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T18:19:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "fcccc181646b2f2ceb390195dc5ab965ec01d66a",
+          "title": "OpenAI 挖走 Uber 印度首席执行官，领导其美国以外最大市场 / OpenAI poaches Uber India chief to lead its biggest market outside the US",
+          "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-06-26T18:19:36Z"
+        },
+        {
+          "id": "7d24efd25d880affc05ba348a81477b89a1e0f7e",
+          "title": "OpenAI 挖走 Uber 印度首席执行官，领导其美国以外最大市场 / OpenAI poaches Uber India chief to lead its biggest market outside the U.S.",
+          "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T18:19:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6364,
+      "importance": 0.6364,
+      "importance_score": 0.6364,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.8618,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T18:19:36Z",
+      "latest_at": "2026-06-26T18:19:36Z",
+      "primary_item": {
+        "id": "fcccc181646b2f2ceb390195dc5ab965ec01d66a",
+        "title": "OpenAI 挖走 Uber 印度首席执行官，领导其美国以外最大市场 / OpenAI poaches Uber India chief to lead its biggest market outside the US",
+        "url": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_b5de8a57ec0d",
+      "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+      "url": "https://www.aibase.com/news/29205",
+      "primary_url": "https://www.aibase.com/news/29205",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
+          "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+          "url": "https://www.aibase.com/news/29205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
+          "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+          "url": "https://www.aibase.com/news/29205",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-26T10:51:21.158421Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7736,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-26T10:51:21.158421Z",
+      "latest_at": "2026-06-26T10:51:21.158421Z",
+      "primary_item": {
+        "id": "5c26f4020a2e647bb8dec5c8bee3d7351f71fefd",
+        "title": "百度千帆Coding Plan停止套餐续费，7月将升级推Token Plan按量计费产品",
+        "url": "https://www.aibase.com/news/29205",
         "source": "AIbase",
         "source_name": "AIbase"
       }
