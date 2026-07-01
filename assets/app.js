@@ -101,7 +101,7 @@ const SOURCE_KINDS = {
   opmlrss: { label: "OPML", tone: "newsletter" },
 };
 
-const SECTION_DEFS = [
+const SECTION_DEFS = [ 
   { id: "hot", label: "热点选题", short: "选题", description: "跨来源聚合后的高价值 AI 选题与热点动态" },
   { id: "models", label: "大模型", short: "大模型", description: "模型发布、能力升级、推理、多模态与基础模型动态" },
   { id: "products", label: "AI 产品", short: "产品", description: "AI 应用、产品更新、工具体验与商业化动态" },
