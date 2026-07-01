@@ -2188,7 +2188,7 @@ function buildIntelCard(item, rank) {
   const card = document.createElement("article");
   card.className = "intel-card";
 
-  const meta = document.createElement("div");
+  const meta = document.createElement("div"); 
   meta.className = "intel-card-meta";
   const rankEl = document.createElement("span");
   rankEl.className = "intel-card-rank";
