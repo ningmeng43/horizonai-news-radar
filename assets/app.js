@@ -2075,7 +2075,7 @@ function writingHintsFor(item) {
   } else if (text.includes("model") || text.includes("gpt") || text.includes("claude") || text.includes("gemini") || text.includes("qwen") || text.includes("deepseek")) {
     platform = "短视频 / 公众号";
     angle = "能力对比、模型升级、使用场景";
-    type = "大模型";
+    type = "大模型"; 
   } else if (text.includes("arxiv") || text.includes("paper") || text.includes("research") || text.includes("benchmark")) {
     platform = "公众号 / 长文";
     angle = "论文拆解、技术趋势、方法总结";
