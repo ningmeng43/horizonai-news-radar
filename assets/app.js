@@ -2220,7 +2220,8 @@ function renderItemNode(item, context = {}) {
   titleEl.href = item.url;
   const summaryEl = node.querySelector(".news-summary");
   if (summaryEl) summaryEl.textContent = feedSummaryText(item);
-  return node;
+appendWritingModule(node, item);
+return node;
 }
 
 const SOURCE_ITEM_INITIAL_LIMIT = 3;
