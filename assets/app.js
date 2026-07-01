@@ -2155,7 +2155,7 @@ ${hints.type}
       border:1px solid rgba(20,116,122,0.3);
       border-radius:999px;
       background:#0f766e;
-      color:white;
+      color:white; 
       font-size:12px;
       font-weight:700;
       cursor:pointer;
