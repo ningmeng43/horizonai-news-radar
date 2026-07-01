@@ -1258,8 +1258,9 @@ function buildBoleLead(row) {
   foot.className = "bole-lead-foot";
   foot.innerHTML = `<span>${item.site_name || "来源"}</span><span>${item.source || "未分区"}</span>`;
 
-  lead.append(top, title, reason, foot);
-appendWritingModule(lead, row);
+lead.append(top, title, reason);
+appendWritingModule(lead, item);
+lead.append(foot);
 return lead;
 }
 
