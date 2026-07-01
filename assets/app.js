@@ -2093,7 +2093,7 @@ function writingHintsFor(item) {
   return { platform, angle, type };
 }
 
-function appendWritingModule(card, item) {
+function appendWritingModuleV2(card, item) {
   const hints = writingHintsFor(item);
 
   const box = document.createElement("div");
