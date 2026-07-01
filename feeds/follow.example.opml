@@ -4,7 +4,7 @@
     <title>AI News Radar RSS Example</title>
   </head>
   <body>
-    <outline text="Official AI Sources">
+    <outline text="Official AI Sources"> 
       <outline
         text="OpenAI News"
         title="OpenAI News"
@@ -79,4 +79,55 @@
       />
     </outline>
   </body>
+    <outline text="Creator Focus Sources">
+      <outline
+        text="GitHub Changelog"
+        title="GitHub Changelog"
+        type="rss"
+        xmlUrl="https://github.blog/changelog/feed/"
+        htmlUrl="https://github.blog/changelog/"
+      />
+      <outline
+        text="GitHub Blog AI"
+        title="GitHub Blog AI"
+        type="rss"
+        xmlUrl="https://github.blog/category/ai-ml/feed/"
+        htmlUrl="https://github.blog/category/ai-ml/"
+      />
+      <outline
+        text="arXiv cs.AI"
+        title="arXiv cs.AI"
+        type="rss"
+        xmlUrl="https://rss.arxiv.org/rss/cs.AI"
+        htmlUrl="https://arxiv.org/list/cs.AI/recent"
+      />
+      <outline
+        text="arXiv cs.LG"
+        title="arXiv cs.LG"
+        type="rss"
+        xmlUrl="https://rss.arxiv.org/rss/cs.LG"
+        htmlUrl="https://arxiv.org/list/cs.LG/recent"
+      />
+      <outline
+        text="arXiv cs.CL"
+        title="arXiv cs.CL"
+        type="rss"
+        xmlUrl="https://rss.arxiv.org/rss/cs.CL"
+        htmlUrl="https://arxiv.org/list/cs.CL/recent"
+      />
+      <outline
+        text="arXiv cs.CV"
+        title="arXiv cs.CV"
+        type="rss"
+        xmlUrl="https://rss.arxiv.org/rss/cs.CV"
+        htmlUrl="https://arxiv.org/list/cs.CV/recent"
+      />
+      <outline
+        text="Hacker News AI"
+        title="Hacker News AI"
+        type="rss"
+        xmlUrl="https://hnrss.org/newest?q=AI"
+        htmlUrl="https://news.ycombinator.com/newest"
+      />
+    </outline>
 </opml>
