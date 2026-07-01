@@ -2098,6 +2098,29 @@ function appendWritingModule(card, item) {
 
   const box = document.createElement("div");
   box.className = "writing-module";
+  box.style.cssText = `
+    margin-top: 12px;
+    padding: 12px 14px;
+    border: 1px solid rgba(20, 116, 122, 0.22);
+    border-radius: 12px;
+    background: rgba(20, 116, 122, 0.06);
+    font-size: 13px;
+    line-height: 1.65;
+    color: #344545;
+  `;
+
+  box.innerHTML = `
+    <div style="margin-bottom:8px;font-size:13px;font-weight:800;color:#0f766e;">写作模块</div>
+    <div style="margin-top:4px;"><strong style="color:#1f3939;font-weight:800;">适合平台：</strong>${hints.platform}</div>
+    <div style="margin-top:4px;"><strong style="color:#1f3939;font-weight:800;">写作角度：</strong>${hints.angle}</div>
+    <div style="margin-top:4px;"><strong style="color:#1f3939;font-weight:800;">选题类型：</strong>${hints.type}</div>
+  `;
+
+  card.appendChild(box);
+}
+
+  const box = document.createElement("div");
+  box.className = "writing-module";
   box.innerHTML = `
     <div class="writing-module-title">写作模块</div>
     <div class="writing-module-row"><strong>适合平台：</strong>${hints.platform}</div>
