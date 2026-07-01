@@ -1259,7 +1259,7 @@ function buildBoleLead(row) {
   foot.innerHTML = `<span>${item.site_name || "来源"}</span><span>${item.source || "未分区"}</span>`;
 
 lead.append(top, title, reason);
-appendWritingModule(lead, item);
+appendWritingModuleV2(lead, item);
 lead.append(foot);
 return lead;
 }
@@ -2175,7 +2175,7 @@ function buildIntelCard(item, rank) {
   });
 
   card.append(meta, title, reason, tags, sources);
-appendWritingModule(card, item);
+appendWritingModuleV2(card, item);
 return card;
 }
 
@@ -2243,7 +2243,7 @@ function renderItemNode(item, context = {}) {
   titleEl.href = item.url;
   const summaryEl = node.querySelector(".news-summary");
   if (summaryEl) summaryEl.textContent = feedSummaryText(item);
-appendWritingModule(node, item);
+appendWritingModuleV2(node, item);
 return node;
 }
 
