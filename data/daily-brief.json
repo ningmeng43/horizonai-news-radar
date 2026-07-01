@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T14:49:27.258033Z",
+  "generated_at": "2026-07-01T15:36:49.464107Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,18 +48,18 @@
           "published_at": "2026-07-01T06:24:06Z"
         },
         {
-          "id": "25fa127293f0b04bf42d27f3be42b806266acde5",
+          "id": "6b4b8c03155dbef88763fb8f302125c66dad7a3e",
           "title": "重新部署《克劳德·法布尔 5》 / Redeploying Fable 5",
           "url": "https://www.anthropic.com/news/redeploying-fable-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-01T03:11:40Z"
         }
       ],
       "source_count": 5,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "Lobsters (技术社区)",
         "www.anthropic.com"
@@ -102,26 +102,26 @@
           "published_at": "2026-07-01T06:24:06Z"
         },
         {
-          "id": "25fa127293f0b04bf42d27f3be42b806266acde5",
+          "id": "6b4b8c03155dbef88763fb8f302125c66dad7a3e",
           "title": "重新部署《克劳德·法布尔 5》 / Redeploying Fable 5",
           "url": "https://www.anthropic.com/news/redeploying-fable-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-01T03:11:40Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8679,
-      "importance": 0.8679,
-      "importance_score": 0.8679,
+      "score": 0.866,
+      "importance": 0.866,
+      "importance_score": 0.866,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9014,
+        "recency": 0.8912,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -138,6 +138,68 @@
         "url": "https://www.anthropic.com/news/redeploying-fable-5",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_97b869cd06ee",
+      "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
+      "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+      "primary_url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03e252234a3e401b08046b6006873441a064de2a",
+          "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T15:13:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "03e252234a3e401b08046b6006873441a064de2a",
+          "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
+          "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-01T15:13:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9944,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-01T15:13:29Z",
+      "latest_at": "2026-07-01T15:13:29Z",
+      "primary_item": {
+        "id": "03e252234a3e401b08046b6006873441a064de2a",
+        "title": "Copilot CLI 根据任务自动选择模型路线 / Copilot CLI auto model selection routes based on task",
+        "url": "https://github.blog/changelog/2026-07-01-copilot-cli-auto-model-selection-routes-based-on-task",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -175,15 +237,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8297,
+      "importance": 0.8297,
+      "importance_score": 0.8297,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8073,
+        "recency": 0.7981,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,15 +318,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8265,
-      "importance": 0.8265,
-      "importance_score": 0.8265,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7197,
+        "recency": 0.7115,
         "story_heat": 0.25
       },
       "category": "official",
@@ -285,21 +347,21 @@
       }
     },
     {
-      "story_id": "story_8654826289ec",
-      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "story_id": "story_b7f49b2bc148",
+      "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "primary_url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "id": "528f1ed34c1c8a79dd2084e986232f4dd5964781",
+          "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
+          "published_at": "2026-07-01T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -308,88 +370,26 @@
       ],
       "items": [
         {
-          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "id": "528f1ed34c1c8a79dd2084e986232f4dd5964781",
+          "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+          "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T18:32:50Z"
+          "published_at": "2026-07-01T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7462,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T18:32:50Z",
-      "latest_at": "2026-06-30T18:32:50Z",
-      "primary_item": {
-        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
-        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_baf3220209a7",
-      "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
-          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T17:25:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
-          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T17:25:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7342,
+        "recency": 0.7981,
         "story_heat": 0.0
       },
       "category": "official",
@@ -398,13 +398,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T17:25:51Z",
-      "latest_at": "2026-06-30T17:25:51Z",
+      "earliest_at": "2026-07-01T00:00:00Z",
+      "latest_at": "2026-07-01T00:00:00Z",
       "primary_item": {
-        "id": "f63297030ebe8435fd635e15f434f76869319b6f",
-        "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-        "source": "GitHub Changelog",
+        "id": "528f1ed34c1c8a79dd2084e986232f4dd5964781",
+        "title": "Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI / Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+        "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -480,15 +480,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9335,
+        "recency": 0.923,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -580,15 +580,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7407,
+        "recency": 0.7323,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -661,15 +661,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8094,
+        "recency": 0.8003,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -742,15 +742,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8358,
+        "recency": 0.8263,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -767,6 +767,68 @@
         "url": "https://mp.weixin.qq.com/s/9XFcx3fmFcmbry5bHMJsow",
         "source": "公众号：龙猫LongCat（美团）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8654826289ec",
+      "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "primary_url": "https://huggingface.co/blog/ibm-research/scarfbench",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+          "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+          "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T18:32:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7377,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T18:32:50Z",
+      "latest_at": "2026-06-30T18:32:50Z",
+      "primary_item": {
+        "id": "b166af0b386e2c9eb68e80320f4ae1df613895f9",
+        "title": "ScarfBench：企业 Java 框架迁移的 AI 代理基准测试 / ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -823,15 +885,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7897,
-      "importance": 0.7897,
-      "importance_score": 0.7897,
+      "score": 0.7877,
+      "importance": 0.7877,
+      "importance_score": 0.7877,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9842,
+        "recency": 0.973,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -848,6 +910,68 @@
         "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_baf3220209a7",
+      "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
+          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T17:25:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f63297030ebe8435fd635e15f434f76869319b6f",
+          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-30T17:25:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7259,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T17:25:51Z",
+      "latest_at": "2026-06-30T17:25:51Z",
+      "primary_item": {
+        "id": "f63297030ebe8435fd635e15f434f76869319b6f",
+        "title": "Claude Sonnet 5 一般可用于 GitHub Copilot / Claude Sonnet 5 is generally available for GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -904,15 +1028,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9084,
+        "recency": 0.8981,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -985,15 +1109,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7712,
+      "importance": 0.7712,
+      "importance_score": 0.7712,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7397,
+        "recency": 0.7313,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1010,68 +1134,6 @@
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
         "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_66857aac9970",
-      "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-      "primary_url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
-          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:00:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
-          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-30T16:00:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7193,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T16:00:19Z",
-      "latest_at": "2026-06-30T16:00:19Z",
-      "primary_item": {
-        "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
-        "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
-        "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1128,15 +1190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8544,
+        "recency": 0.8447,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1209,15 +1271,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8041,
+        "recency": 0.795,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1271,15 +1333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7429,
+      "importance": 0.7429,
+      "importance_score": 0.7429,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.822,
+        "recency": 0.8127,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1331,15 +1393,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7905,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1357,21 +1419,21 @@
       }
     },
     {
-      "story_id": "story_0b9cb68fce80",
-      "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
-      "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+      "story_id": "story_66857aac9970",
+      "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+      "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
+      "primary_url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
-          "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
-          "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
+          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T16:42:21Z"
+          "published_at": "2026-06-30T16:00:19Z"
         }
       ],
       "source_count": 1,
@@ -1380,26 +1442,26 @@
       ],
       "items": [
         {
-          "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
-          "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
-          "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+          "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
+          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-30T16:42:21Z"
+          "published_at": "2026-06-30T16:00:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7266,
+        "ai_relevance": 0.91,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1408,12 +1470,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T16:42:21Z",
-      "latest_at": "2026-06-30T16:42:21Z",
+      "earliest_at": "2026-06-30T16:00:19Z",
+      "latest_at": "2026-06-30T16:00:19Z",
       "primary_item": {
-        "id": "e656c5b571cc3cac8063e9b71a8ec01791c49782",
-        "title": "GitHub 代码覆盖率合并保护拉取请求 / GitHub code coverage merge protection for pull requests",
-        "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
+        "id": "3cd7525059deffd71d6c53a058c4762cef4a7a58",
+        "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用 / Copilot Agent is now available in JetBrains AI Assistant",
+        "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1453,15 +1515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9549,
+        "recency": 0.9441,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1477,66 +1539,6 @@
         "url": "https://www.aibase.com/news/29313",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ea75cbc697c1",
-      "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-      "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-      "primary_url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "05239e6ad111231fdc74d5d787317cdba652d506",
-          "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-          "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:54:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "05239e6ad111231fdc74d5d787317cdba652d506",
-          "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-          "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-30T16:54:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7287,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-30T16:54:26Z",
-      "latest_at": "2026-06-30T16:54:26Z",
-      "primary_item": {
-        "id": "05239e6ad111231fdc74d5d787317cdba652d506",
-        "title": "用 shot-scraper video 让 AI 智能体录制工作演示视频",
-        "url": "https://simonwillison.net/2026/Jun/30/shot-scraper-video",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
       }
     }
   ]
