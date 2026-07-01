@@ -118,7 +118,7 @@ const SECTION_BY_ID = Object.fromEntries(SECTION_DEFS.map((section) => [section.
 const LIST_SORT_DEFS = [
   { id: "priority", label: "综合" },
   { id: "latest", label: "最新" },
-  { id: "ai", label: "高分" },
+  { id: "ai", label: " 爆点" },
   { id: "source", label: "来源" },
 ];
 
@@ -609,8 +609,8 @@ function renderModeSwitch() {
 function listTitleText() {
   const section = SECTION_BY_ID[state.activeSection] || SECTION_BY_ID.hot;
   const pool = state.mode === "all"
-    ? (state.allDedup ? "情报流 · 全量去重" : "情报流 · 全量原始")
-    : "情报流";
+    ? (state.allDedup ? "写作素材池 · 全量去重" : "写作素材池 · 全量原始")
+    : "写作素材池";
   return state.activeSection === "hot" ? pool : `${section.label} · ${pool}`;
 }
 
@@ -1828,7 +1828,7 @@ function renderBolePicks() {
   if (!top.length) {
     const empty = document.createElement("div");
     empty.className = "bole-empty";
-    empty.textContent = "当前栏目和筛选条件下没有可展示的 Top 3。";
+    empty.textContent = "当前栏目下暂无可写选题。";
     bolePicksListEl.appendChild(empty);
   } else {
     top.forEach((row, index) => {
@@ -2027,7 +2027,7 @@ function buildTopStoryCard(row, rank) {
   const why = document.createElement("div");
   why.className = "top-story-why";
   const whyLabel = document.createElement("span");
-  whyLabel.textContent = "为什么重要";
+  whyLabel.textContent = "可写角度";
   const whyText = document.createElement("p");
   whyText.textContent = whyImportantText(row);
   why.append(whyLabel, whyText);
@@ -2433,7 +2433,7 @@ function renderList() {
   if (!filtered.length) {
     const empty = document.createElement("div");
     empty.className = "empty";
-    empty.textContent = "当前筛选条件下没有结果。";
+    empty.textContent = "当前筛选条件下没有可写素材。";
     newsListEl.appendChild(empty);
     return;
   }
