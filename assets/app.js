@@ -30,7 +30,7 @@ const state = {
   listSort: "priority",
   sourceTypeFilter: "",
   signalLevelFilter: "",
-  siteGroupsExpanded: false,
+  siteGroupsExpanded: false, 
   xAuthorsExpanded: false,
 };
 
