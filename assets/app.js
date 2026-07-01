@@ -2049,7 +2049,62 @@ function buildTopStoryCard(row, rank) {
   link.append(meta, title, summary, why, tags, impact);
   return link;
 }
+function writingHintsFor(item) {
+  const text = [
+    item.title,
+    item.summary,
+    item.why,
+    item.source,
+    ...(item.labels || []),
+    ...(item.signals || []),
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
 
+  let platform = "资讯快报";
+  let angle = "趋势判断";
+  let type = "热点解读";
+
+  if (text.includes("github") || text.includes("api") || text.includes("codex") || text.includes("code") || text.includes("developer")) {
+    platform = "视频教程 / 公众号";
+    angle = "工具教程、实测体验、上手指南";
+    type = "AI 编程";
+  } else if (text.includes("model") || text.includes("gpt") || text.includes("claude") || text.includes("gemini") || text.includes("qwen") || text.includes("deepseek")) {
+    platform = "短视频 / 公众号";
+    angle = "能力对比、模型升级、使用场景";
+    type = "大模型";
+  } else if (text.includes("arxiv") || text.includes("paper") || text.includes("research") || text.includes("benchmark")) {
+    platform = "公众号 / 长文";
+    angle = "论文拆解、技术趋势、方法总结";
+    type = "论文研究";
+  } else if (text.includes("product") || text.includes("launch") || text.includes("app") || text.includes("tool")) {
+    platform = "小红书 / 短视频";
+    angle = "新品体验、功能亮点、使用场景";
+    type = "AI 产品";
+  } else if (text.includes("funding") || text.includes("investment") || text.includes("business") || text.includes("company")) {
+    platform = "公众号 / 资讯快报";
+    angle = "行业变化、商业判断、公司动向";
+    type = "商业动态";
+  }
+
+  return { platform, angle, type };
+}
+
+function appendWritingModule(card, item) {
+  const hints = writingHintsFor(item);
+
+  const box = document.createElement("div");
+  box.className = "writing-module";
+  box.innerHTML = `
+    <div class="writing-module-title">写作模块</div>
+    <div class="writing-module-row"><strong>适合平台：</strong>${hints.platform}</div>
+    <div class="writing-module-row"><strong>写作角度：</strong>${hints.angle}</div>
+    <div class="writing-module-row"><strong>选题类型：</strong>${hints.type}</div>
+  `;
+
+  card.appendChild(box);
+}
 function buildIntelCard(item, rank) {
   const card = document.createElement("article");
   card.className = "intel-card";
@@ -2095,7 +2150,8 @@ function buildIntelCard(item, rank) {
   });
 
   card.append(meta, title, reason, tags, sources);
-  return card;
+appendWritingModule(card, item);
+return card;
 }
 
 function feedSummaryText(item) {
