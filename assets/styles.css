@@ -2782,3 +2782,31 @@ summary:focus-visible {
     box-shadow: none;
   }
 }
+.writing-module {
+  grid-column: 1 / -1;
+  display: block;
+  margin-top: 10px;
+  padding: 10px 12px;
+  border: 1px solid rgba(20, 116, 122, 0.18);
+  border-radius: 12px;
+  background: rgba(20, 116, 122, 0.05);
+  font-size: 13px;
+  line-height: 1.6;
+  color: #344545;
+}
+
+.writing-module-title {
+  margin-bottom: 6px;
+  font-size: 13px;
+  font-weight: 700;
+  color: #0f766e;
+}
+
+.writing-module-row {
+  margin-top: 4px;
+}
+
+.writing-module-row strong {
+  color: #1f3939;
+  font-weight: 700;
+}
