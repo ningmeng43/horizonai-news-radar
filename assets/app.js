@@ -2167,7 +2167,7 @@ ${hints.type}
     event.preventDefault();
     event.stopPropagation();
 
-    try {
+    try { 
       await navigator.clipboard.writeText(prompt);
       btn.textContent = "已复制";
       setTimeout(() => {
