@@ -2184,19 +2184,6 @@ ${hints.type}
   card.appendChild(box);
 }
 
-  
-
-  const box = document.createElement("div");
-  box.className = "writing-module";
-  box.innerHTML = `
-    <div class="writing-module-title">写作模块</div>
-    <div class="writing-module-row"><strong>适合平台：</strong>${hints.platform}</div>
-    <div class="writing-module-row"><strong>写作角度：</strong>${hints.angle}</div>
-    <div class="writing-module-row"><strong>选题类型：</strong>${hints.type}</div>
-  `;
-
-  card.appendChild(box);
-}
 function buildIntelCard(item, rank) {
   const card = document.createElement("article");
   card.className = "intel-card";
