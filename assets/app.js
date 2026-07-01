@@ -3,7 +3,7 @@ const state = {
   itemsAll: [],
   itemsAllRaw: [],
   creatorItemsAi: [],
-  creatorItemsAll: [],
+  creatorItemsAll: [], 
   creatorWindowDays: 7,
   statsAi: [],
   totalAi: 0,
