@@ -1259,7 +1259,8 @@ function buildBoleLead(row) {
   foot.innerHTML = `<span>${item.site_name || "来源"}</span><span>${item.source || "未分区"}</span>`;
 
   lead.append(top, title, reason, foot);
-  return lead;
+appendWritingModule(lead, row);
+return lead;
 }
 
 function buildBoleTimelineRow(row, rank) {
