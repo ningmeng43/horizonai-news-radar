@@ -2099,6 +2099,11 @@ function appendWritingModuleV2(card, item) {
  const summary =
   item.summary ||
   item.description ||
+  item.title_en ||
+  item.original_title ||
+  item.raw_title ||
+  item.subtitle ||
+  item.excerpt ||
   reasonText(item) ||
   feedSummaryText(item) ||
   itemTitleText(item) ||
