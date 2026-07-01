@@ -102,15 +102,15 @@ const SOURCE_KINDS = {
 };
 
 const SECTION_DEFS = [
-  { id: "hot", label: "热点", short: "热点", description: "跨来源聚合后的优先阅读列表" },
-  { id: "models", label: "模型", short: "模型", description: "模型发布、能力升级、评测与开源权重" },
-  { id: "products", label: "产品", short: "产品", description: "AI 应用、Agent、生成工具和用户产品更新" },
-  { id: "devtools", label: "开发者", short: "开发者", description: "编程工具、API、开源项目、推理与工程实践" },
-  { id: "hn", label: "HN热议", short: "HN", description: "Hacker News 过去 24 小时的 AI 关键词讨论与高互动 story" },
-  { id: "industry", label: "行业", short: "行业", description: "公司战略、融资收购、监管、芯片与产业变化" },
-  { id: "research", label: "研究", short: "研究", description: "论文、基准、方法、数据集与研究团队动态" },
-  { id: "creator", label: "自媒体", short: "自媒体", description: "一周内互动热度优先，24 小时新内容额外加分" },
-  { id: "community", label: "社区", short: "社区", description: "WaytoAGI、中文社区、AIbase、公众号和 Builders/X 信号" },
+  { id: "hot", label: "热点选题", short: "选题", description: "跨来源聚合后的高价值 AI 选题与热点动态" },
+  { id: "models", label: "大模型", short: "大模型", description: "模型发布、能力升级、推理、多模态与基础模型动态" },
+  { id: "products", label: "AI 产品", short: "产品", description: "AI 应用、产品更新、工具体验与商业化动态" },
+  { id: "devtools", label: "AI 编程", short: "编程", description: "编程工具、API、开源项目、推理与工程实践" },
+  { id: "hn", label: "社区热议", short: "社区", description: "Hacker News 过去 24 小时的 AI 关键词讨论与高互动 story" },
+  { id: "industry", label: "商业动态", short: "商业", description: "公司战略、融资收购、监管、芯片与产业变化" },
+  { id: "research", label: "论文研究", short: "论文", description: "论文、研究进展、评测基准与技术路线变化" },
+  { id: "creator", label: "内容参考", short: "内容", description: "适合 AI 博主参考的自媒体、观点和选题素材" },
+  { id: "community", label: "开源社区", short: "开源", description: "GitHub、开源社区、开发者生态与项目趋势" },
 ];
 
 const SECTION_BY_ID = Object.fromEntries(SECTION_DEFS.map((section) => [section.id, section]));
@@ -1812,7 +1812,7 @@ function renderBolePicks() {
     : rankedFallbackRows(filtered).slice(0, defaultLimit);
   const top = rows.slice(0, 3);
   const remainingCount = Math.max(0, rows.length - top.length);
-  if (topStoriesTitleEl) topStoriesTitleEl.textContent = state.activeSection === "hot" ? "今日重点信号" : `${section.label}重点信号`;
+  if (topStoriesTitleEl) topStoriesTitleEl.textContent = state.activeSection === "hot" ? "今日高价值选题" : `${section.label}重点信号`;
   const storyMeta = usesStories
     ? `展示池：热点 ${fmtNumber(candidateCounts.hot)}/${fmtNumber(candidateCounts.hotTotal)} · 时间线 ${fmtNumber(candidateCounts.timeline)}/${fmtNumber(candidateCounts.timelineTotal)}`
     : `展示池：${fmtNumber(rows.length)} 条`;
