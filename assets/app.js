@@ -2095,6 +2095,94 @@ function writingHintsFor(item) {
 
 function appendWritingModuleV2(card, item) {
   const hints = writingHintsFor(item);
+  const title = itemTitleText(item);
+  const summary = item.summary || item.description || "";
+  const site = item.site_name || item.source || "未知来源";
+
+  const prompt = `请基于下面这条 AI 资讯，帮我生成一篇适合「${hints.platform}」发布的中文内容。
+
+【标题】
+${title}
+
+【来源】
+${site}
+
+【摘要】
+${summary}
+
+【写作角度】
+${hints.angle}
+
+【选题类型】
+${hints.type}
+
+请输出：
+1. 3 个吸引人的中文标题
+2. 1 段适合开头的钩子
+3. 文章结构大纲
+4. 正文草稿
+5. 适合普通读者理解的解释
+6. 可用于短视频/公众号的结尾观点
+
+要求：
+- 不要写成新闻播报
+- 要有个人判断
+- 语言自然，不要 AI 味
+- 适合普通人理解
+- 中文输出`;
+
+  const box = document.createElement("div");
+  box.className = "writing-module";
+  box.style.cssText = `
+    margin-top: 12px;
+    padding: 12px 14px;
+    border: 1px solid rgba(20, 116, 122, 0.22);
+    border-radius: 12px;
+    background: rgba(20, 116, 122, 0.06);
+    font-size: 13px;
+    line-height: 1.65;
+    color: #344545;
+  `;
+
+  box.innerHTML = `
+    <div style="margin-bottom:8px;font-size:13px;font-weight:800;color:#0f766e;">写作模块</div>
+    <div style="margin-top:4px;"><strong style="color:#1f3939;font-weight:800;">适合平台：</strong>${hints.platform}</div>
+    <div style="margin-top:4px;"><strong style="color:#1f3939;font-weight:800;">写作角度：</strong>${hints.angle}</div>
+    <div style="margin-top:4px;"><strong style="color:#1f3939;font-weight:800;">选题类型：</strong>${hints.type}</div>
+    <button type="button" class="copy-writing-prompt" style="
+      margin-top:10px;
+      padding:6px 10px;
+      border:1px solid rgba(20,116,122,0.3);
+      border-radius:999px;
+      background:#0f766e;
+      color:white;
+      font-size:12px;
+      font-weight:700;
+      cursor:pointer;
+    ">复制写作提示词</button>
+  `;
+
+  const btn = box.querySelector(".copy-writing-prompt");
+  btn.addEventListener("click", async (event) => {
+    event.preventDefault();
+    event.stopPropagation();
+
+    try {
+      await navigator.clipboard.writeText(prompt);
+      btn.textContent = "已复制";
+      setTimeout(() => {
+        btn.textContent = "复制写作提示词";
+      }, 1200);
+    } catch (error) {
+      btn.textContent = "复制失败";
+      setTimeout(() => {
+        btn.textContent = "复制写作提示词";
+      }, 1200);
+    }
+  });
+
+  card.appendChild(box);
+}
 
   const box = document.createElement("div");
   box.className = "writing-module";
