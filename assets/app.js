@@ -2109,6 +2109,7 @@ function appendWritingModuleV2(card, item) {
   itemTitleText(item) ||
   "这条资讯暂无摘要，请基于标题、来源和写作角度进行判断。";
   const site = item.site_name || item.source || "未知来源";
+const url = item.url || item.link || item.href || "";
 
   const prompt = `请基于下面这条 AI 资讯，帮我生成一篇适合「${hints.platform}」发布的中文内容。
 
