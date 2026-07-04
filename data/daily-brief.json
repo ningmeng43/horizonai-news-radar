@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T08:09:28.086379Z",
+  "generated_at": "2026-07-04T10:31:37.398214Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7987,
+      "importance": 0.7987,
+      "importance_score": 0.7987,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7741,
+        "recency": 0.7481,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8309,
+        "recency": 0.8029,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -143,87 +143,6 @@
         "title": "pxpipe：通过图像化压缩输入token降低Claude Code成本",
         "url": "https://github.com/teamchong/pxpipe",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b0737e4d391d",
-      "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-      "url": "https://www.ithome.com/0/972/341.htm",
-      "primary_url": "https://www.ithome.com/0/972/341.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
-        },
-        {
-          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
-          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T09:15:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-          "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T09:15:08Z"
-        },
-        {
-          "id": "d9e68f314dbb9109330ac351eaaf2a313301d1ab",
-          "title": "AI 服务首设专门规范：国家网信办就《互联网信息服务管理办法》再次公开征求意见，拟强化算法监管与账号管理",
-          "url": "https://www.ithome.com/0/972/341.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T09:15:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7184,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-03T09:15:08Z",
-      "latest_at": "2026-07-03T09:15:08Z",
-      "primary_item": {
-        "id": "c38c6afa12cdea3d0ce8f7a8e5c9409dd288db31",
-        "title": "国家网信办就《互联网信息服务管理办法》再次征求意见，首设\"智能信息服务\"专章规范AI服务",
-        "url": "https://www.ithome.com/0/972/341.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -300,15 +219,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7843,
+        "recency": 0.7579,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -362,15 +281,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8252,
+        "recency": 0.7974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -384,6 +303,66 @@
         "title": "Fable 的判断力：Simon Willison 从 Claude Code 团队获得的效率技巧",
         "url": "https://simonwillison.net/2026/Jul/3/judgement",
         "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_065c0c83539d",
+      "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+      "url": "https://www.ithome.com/0/972/424.htm",
+      "primary_url": "https://www.ithome.com/0/972/424.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+          "url": "https://www.ithome.com/0/972/424.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T11:57:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+          "url": "https://www.ithome.com/0/972/424.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T11:57:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7218,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-03T11:57:00Z",
+      "latest_at": "2026-07-03T11:57:00Z",
+      "primary_item": {
+        "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
+        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
+        "url": "https://www.ithome.com/0/972/424.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -422,15 +401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.752,
+        "recency": 0.7267,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -445,246 +424,6 @@
         "url": "https://x.com/op7418/status/2073020264083050811",
         "source": "X：歸藏 (@op7418)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2f3259c510e3",
-      "title": "Wan Video 推出\"音乐伴舞\"新功能",
-      "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-      "primary_url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cea08410338b9e562902d07b4b0a9f41897c215a",
-          "title": "Wan Video 推出\"音乐伴舞\"新功能",
-          "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T08:55:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿里云 / Alibaba Cloud (@alibaba_cloud)"
-      ],
-      "items": [
-        {
-          "id": "cea08410338b9e562902d07b4b0a9f41897c215a",
-          "title": "Wan Video 推出\"音乐伴舞\"新功能",
-          "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-          "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T08:55:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7151,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T08:55:57Z",
-      "latest_at": "2026-07-03T08:55:57Z",
-      "primary_item": {
-        "id": "cea08410338b9e562902d07b4b0a9f41897c215a",
-        "title": "Wan Video 推出\"音乐伴舞\"新功能",
-        "url": "https://x.com/alibaba_cloud/status/2072967570441834771",
-        "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_45743761a27c",
-      "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-      "url": "https://www.aibase.com/news/29378",
-      "primary_url": "https://www.aibase.com/news/29378",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T12:04:40.392189Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-          "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-          "url": "https://www.aibase.com/news/29378",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T12:04:40.392189Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7483,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T12:04:40.392189Z",
-      "latest_at": "2026-07-03T12:04:40.392189Z",
-      "primary_item": {
-        "id": "df760b5e8050cdf647a51fab8cff89d2dd6aebe2",
-        "title": "9.9元解锁无限出图！香蕉 2、Image2免费随便造",
-        "url": "https://www.aibase.com/news/29378",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_065c0c83539d",
-      "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-      "url": "https://www.ithome.com/0/972/424.htm",
-      "primary_url": "https://www.ithome.com/0/972/424.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
-          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-          "url": "https://www.ithome.com/0/972/424.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:57:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
-          "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-          "url": "https://www.ithome.com/0/972/424.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-03T11:57:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7469,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T11:57:00Z",
-      "latest_at": "2026-07-03T11:57:00Z",
-      "primary_item": {
-        "id": "d84e8e89198d578068fefa2f458bf27f1faf738e",
-        "title": "全球首例 AI Agent 勒索攻击曝光，从漏洞利用到数据库加密全程自主完成",
-        "url": "https://www.ithome.com/0/972/424.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d4df2d66480c",
-      "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-      "url": "https://www.aibase.com/news/29379",
-      "primary_url": "https://www.aibase.com/news/29379",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/news/29379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T12:04:40.392189Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-          "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-          "url": "https://www.aibase.com/news/29379",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-03T12:04:40.392189Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7483,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-03T12:04:40.392189Z",
-      "latest_at": "2026-07-03T12:04:40.392189Z",
-      "primary_item": {
-        "id": "3d51ef61f5d2f1cc92bae7295e7c3a7a7eb89d65",
-        "title": "让机器人学会番茄炒蛋的“幕后推手”：Genesis AI 开源全栈训练场",
-        "url": "https://www.aibase.com/news/29379",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -776,15 +515,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6149,
-      "importance": 0.6149,
-      "importance_score": 0.6149,
+      "score": 0.61,
+      "importance": 0.61,
+      "importance_score": 0.61,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4752,
         "source_tier": 0.54,
         "ai_relevance": 0.66,
-        "recency": 0.8142,
+        "recency": 0.7868,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -799,6 +538,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-03",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_616f8e70b9f8",
+      "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "source": "epoch.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "epoch.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:11:45.212000Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:56:54.240000Z"
+        },
+        {
+          "id": "a69b5d2a2742a9b181059bdaea6d413489b551e8",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:16:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "epoch.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "epoch.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:11:45.212000Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:56:54.240000Z"
+        },
+        {
+          "id": "a69b5d2a2742a9b181059bdaea6d413489b551e8",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:16:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5674,
+      "importance": 0.5674,
+      "importance_score": 0.5674,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.981,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:16:16Z",
+      "latest_at": "2026-07-04T09:11:45.212000Z",
+      "primary_item": {
+        "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
+        "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+        "url": "https://epoch.ai/data-insights/cve-severity-spike",
+        "source": "epoch.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -893,15 +730,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5677,
-      "importance": 0.5677,
-      "importance_score": 0.5677,
+      "score": 0.5626,
+      "importance": 0.5626,
+      "importance_score": 0.5626,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8438,
+        "recency": 0.8154,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -990,15 +827,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5567,
-      "importance": 0.5567,
-      "importance_score": 0.5567,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9219,
+        "recency": 0.8909,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1016,55 +853,55 @@
       }
     },
     {
-      "story_id": "story_ec5e6b0606c1",
-      "title": "业内首个 AI-eSIM 产业协同平台成立",
-      "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+      "story_id": "story_cec279eb3744",
+      "title": "都有 AI 了，还要读书博主干吗？",
+      "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872670.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
-          "title": "业内首个 AI-eSIM 产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
+          "title": "都有 AI 了，还要读书博主干吗？",
+          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
+          "title": "都有AI了，还要读书博主干吗？",
+          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-04T07:20:31Z"
+          "published_at": "2026-07-04T09:35:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
-          "title": "业内首个 AI-eSIM 产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
+          "title": "都有 AI 了，还要读书博主干吗？",
+          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
+          "title": "都有AI了，还要读书博主干吗？",
+          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-04T07:20:31Z"
+          "published_at": "2026-07-04T09:35:34Z"
         }
       ],
       "item_count": 2,
@@ -1084,14 +921,93 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T07:20:31Z",
-      "latest_at": "2026-07-04T08:09:28.086379Z",
+      "earliest_at": "2026-07-04T09:35:34Z",
+      "latest_at": "2026-07-04T10:31:37.398214Z",
       "primary_item": {
-        "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
-        "title": "业内首个 AI-eSIM 产业协同平台成立",
-        "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+        "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
+        "title": "都有 AI 了，还要读书博主干吗？",
+        "url": "https://www.huxiu.com/article/4872670.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_f7fd9ce4f776",
+      "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+      "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+      "primary_url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6252ba767d0366878cb43434c625c1990ae4e6b8",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:27:38.407000Z"
+        },
+        {
+          "id": "f22265f9812b93d6026b4a00d521e856d2e92ccb",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。 / If you're worried AI will take your job, here's what to do in the next 30 days, according to an executive coach",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T09:05:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6252ba767d0366878cb43434c625c1990ae4e6b8",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:27:38.407000Z"
+        },
+        {
+          "id": "f22265f9812b93d6026b4a00d521e856d2e92ccb",
+          "title": "担心人工智能会抢走你的工作？未来30天内请这样做。 / If you're worried AI will take your job, here's what to do in the next 30 days, according to an executive coach",
+          "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-04T09:05:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9847,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T09:05:02Z",
+      "latest_at": "2026-07-04T09:27:38.407000Z",
+      "primary_item": {
+        "id": "6252ba767d0366878cb43434c625c1990ae4e6b8",
+        "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
+        "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1148,15 +1064,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9948,
+        "recency": 0.9614,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1246,15 +1162,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8245,
+        "recency": 0.7968,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1325,15 +1241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9564,
+        "recency": 0.9243,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1404,15 +1320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5368,
-      "importance": 0.5368,
-      "importance_score": 0.5368,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9502,
+        "recency": 0.9182,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1502,15 +1418,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7753,
+        "recency": 0.7492,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1528,101 +1444,238 @@
       }
     },
     {
-      "story_id": "story_d162f41fa6af",
-      "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "primary_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
+      "story_id": "story_ec5e6b0606c1",
+      "title": "业内首个 AI-eSIM 产业协同平台成立",
+      "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T11:19:37.346000Z"
+          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
+          "title": "业内首个 AI-eSIM 产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T09:41:48.474000Z"
-        },
-        {
-          "id": "664aff5b8d44231669ac962aa750d3d424376895",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T08:31:37Z"
+          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T07:20:31Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.reuters.com"
+        "36氪 (36Kr)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T11:19:37.346000Z"
+          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
+          "title": "业内首个 AI-eSIM 产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T09:41:48.474000Z"
-        },
-        {
-          "id": "664aff5b8d44231669ac962aa750d3d424376895",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T08:31:37Z"
+          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
+          "title": "业内首个AI-eSIM产业协同平台成立",
+          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T07:20:31Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7402,
-        "story_heat": 0.5
+        "recency": 0.9664,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T08:31:37Z",
-      "latest_at": "2026-07-03T11:19:37.346000Z",
+      "earliest_at": "2026-07-04T07:20:31Z",
+      "latest_at": "2026-07-04T08:09:28.086379Z",
       "primary_item": {
-        "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-        "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-        "source": "www.reuters.com",
+        "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
+        "title": "业内首个 AI-eSIM 产业协同平台成立",
+        "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b21c281561e9",
+      "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.711000Z"
+        },
+        {
+          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
+          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T15:51:47.909000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+          "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T16:55:50.711000Z"
+        },
+        {
+          "id": "ef245d2e47504f2f721f826e1c1e6378309381cd",
+          "title": "加拿大养老金计划（CPP）向EQT的人工智能基础设施建设项目投资17.5亿美元",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-03T15:51:47.909000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7756,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T15:51:47.909000Z",
+      "latest_at": "2026-07-03T16:55:50.711000Z",
+      "primary_item": {
+        "id": "aa5545d68e21ad251bd6a01c479d170e46dabdd5",
+        "title": "CPP向EQT的人工智能建设项目投资17.5亿美元",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ddfb0d3e9261",
+      "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+      "url": "https://www.v2ex.com/t/1224864",
+      "primary_url": "https://www.v2ex.com/t/1224864",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "a7d832f009cd8bbad74d4845eedfeb28a885f744",
+          "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
+        },
+        {
+          "id": "881b5b2732d49545988e99e8d6bc666ad4dc02dd",
+          "title": "[程序员] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "a7d832f009cd8bbad74d4845eedfeb28a885f744",
+          "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
+        },
+        {
+          "id": "881b5b2732d49545988e99e8d6bc666ad4dc02dd",
+          "title": "[程序员] 盲猜 2 小时后发布 GPT-5.6!",
+          "url": "https://www.v2ex.com/t/1224864",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T16:39:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7727,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T16:39:57Z",
+      "latest_at": "2026-07-03T16:39:57Z",
+      "primary_item": {
+        "id": "a7d832f009cd8bbad74d4845eedfeb28a885f744",
+        "title": "[OpenAI] 盲猜 2 小时后发布 GPT-5.6!",
+        "url": "https://www.v2ex.com/t/1224864",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
