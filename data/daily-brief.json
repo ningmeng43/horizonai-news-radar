@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T02:38:42.550139Z",
+  "generated_at": "2026-07-05T06:34:47.101750Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,22 +57,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7767,
+        "recency": 0.7338,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-04T09:08:41Z",
       "latest_at": "2026-07-04T09:08:41Z",
@@ -81,66 +80,6 @@
         "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
         "url": "https://the-decoder.com/a-26000-student-study-shows-ais-hidden-learning-cost-takes-two-full-years-to-surface",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf238df386fd",
-      "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-      "url": "https://www.ithome.com/0/972/526.htm",
-      "primary_url": "https://www.ithome.com/0/972/526.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "62b3f204ab1808a0bdca1c844189a9ff700c8346",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://www.ithome.com/0/972/526.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "62b3f204ab1808a0bdca1c844189a9ff700c8346",
-          "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-          "url": "https://www.ithome.com/0/972/526.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T05:01:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7317,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-04T05:01:02Z",
-      "latest_at": "2026-07-04T05:01:02Z",
-      "primary_item": {
-        "id": "62b3f204ab1808a0bdca1c844189a9ff700c8346",
-        "title": "我国研制全球首款基于可控存内计算的忆阻器神经动力学芯片",
-        "url": "https://www.ithome.com/0/972/526.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -251,15 +190,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6731,
-      "importance": 0.6731,
-      "importance_score": 0.6731,
+      "score": 0.6643,
+      "importance": 0.6643,
+      "importance_score": 0.6643,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.54,
         "ai_relevance": 0.71,
-        "recency": 0.883,
+        "recency": 0.8342,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -349,15 +288,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5542,
+      "importance": 0.5542,
+      "importance_score": 0.5542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9606,
+        "recency": 0.9075,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -372,6 +311,477 @@
         "url": "https://github.com/openai/codex/issues/30364",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_481f7d3244f8",
+      "title": "Codex、ChatGPT 为何合体？Codex 未来何去何从？OpenAI 核心 leader 回应一切",
+      "url": "https://www.huxiu.com/article/4872739.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872739.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "21fd1104613f8016d326c4a6eb75c4385266e25f",
+          "title": "Codex、ChatGPT 为何合体？Codex 未来何去何从？OpenAI 核心 leader 回应一切",
+          "url": "https://www.huxiu.com/article/4872739.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2ec3a4d9293736cbd6ecacd7722636238f601707",
+          "title": "Codex、ChatGPT为何合体？Codex未来何去何从？OpenAI核心leader回应一切",
+          "url": "https://www.huxiu.com/article/4872739.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:43:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "21fd1104613f8016d326c4a6eb75c4385266e25f",
+          "title": "Codex、ChatGPT 为何合体？Codex 未来何去何从？OpenAI 核心 leader 回应一切",
+          "url": "https://www.huxiu.com/article/4872739.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "2ec3a4d9293736cbd6ecacd7722636238f601707",
+          "title": "Codex、ChatGPT为何合体？Codex未来何去何从？OpenAI核心leader回应一切",
+          "url": "https://www.huxiu.com/article/4872739.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:43:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T04:43:57Z",
+      "latest_at": "2026-07-05T06:34:47.101750Z",
+      "primary_item": {
+        "id": "21fd1104613f8016d326c4a6eb75c4385266e25f",
+        "title": "Codex、ChatGPT 为何合体？Codex 未来何去何从？OpenAI 核心 leader 回应一切",
+        "url": "https://www.huxiu.com/article/4872739.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_854a38c44b10",
+      "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+      "url": "https://news.ycombinator.com/item?id=48791380",
+      "primary_url": "https://news.ycombinator.com/item?id=48791380",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T06:24:24.629000Z"
+        },
+        {
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://news.ycombinator.com/item?id=48791380",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T06:24:24.629000Z"
+        },
+        {
+          "id": "7099819c095c4c195d71135dec37d895ad569659",
+          "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+          "url": "https://hic-ai.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T05:01:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T05:01:14Z",
+      "latest_at": "2026-07-05T06:24:24.629000Z",
+      "primary_item": {
+        "id": "586726e899c23e1c24b4af5d0033e0814bf3e0a4",
+        "title": "鼠标：AI 编码代理的精确编辑工具 / Mouse: Precision Editing Tools for AI Coding Agents",
+        "url": "https://news.ycombinator.com/item?id=48791380",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_53b7a4657994",
+      "title": "对断头台的思考 / Reflections on the Guillotine",
+      "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+      "primary_url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "97be2472a7e881b7ddf8c37437c78fc6518eb285",
+          "title": "对断头台的思考 / Reflections on the Guillotine",
+          "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:36:11Z"
+        },
+        {
+          "id": "a28c3c0a77226b70c070de7bd93bb2975b369767",
+          "title": "对断头台的反思 (1957) / Reflections on the Guillotine (1957)",
+          "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:36:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "97be2472a7e881b7ddf8c37437c78fc6518eb285",
+          "title": "对断头台的思考 / Reflections on the Guillotine",
+          "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:36:11Z"
+        },
+        {
+          "id": "a28c3c0a77226b70c070de7bd93bb2975b369767",
+          "title": "对断头台的反思 (1957) / Reflections on the Guillotine (1957)",
+          "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T23:36:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5285,
+      "importance": 0.5285,
+      "importance_score": 0.5285,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9042,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T23:36:11Z",
+      "latest_at": "2026-07-04T23:36:11Z",
+      "primary_item": {
+        "id": "97be2472a7e881b7ddf8c37437c78fc6518eb285",
+        "title": "对断头台的思考 / Reflections on the Guillotine",
+        "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_9c79f138d1f8",
+      "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+      "url": "https://rakyll.org/coding-agents",
+      "primary_url": "https://rakyll.org/coding-agents",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        },
+        {
+          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)"
+      ],
+      "items": [
+        {
+          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        },
+        {
+          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.84,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T18:30:17Z",
+      "latest_at": "2026-07-04T18:30:17Z",
+      "primary_item": {
+        "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
+        "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+        "url": "https://rakyll.org/coding-agents",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_791a371bcccc",
+      "title": "当 AI 成为一种文化，人类的知识、理解与判断力需要重构",
+      "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872740.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "036a89f77839dbd9cc8068eb6c1b22668ee7fead",
+          "title": "当 AI 成为一种文化，人类的知识、理解与判断力需要重构",
+          "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a1d10e914c1859509be0e759b3ff87d181f3a1dc",
+          "title": "当AI成为一种文化，人类的知识、理解与判断力需要重构",
+          "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:49:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "036a89f77839dbd9cc8068eb6c1b22668ee7fead",
+          "title": "当 AI 成为一种文化，人类的知识、理解与判断力需要重构",
+          "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a1d10e914c1859509be0e759b3ff87d181f3a1dc",
+          "title": "当AI成为一种文化，人类的知识、理解与判断力需要重构",
+          "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-05T04:49:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T04:49:26Z",
+      "latest_at": "2026-07-05T06:34:47.101750Z",
+      "primary_item": {
+        "id": "036a89f77839dbd9cc8068eb6c1b22668ee7fead",
+        "title": "当 AI 成为一种文化，人类的知识、理解与判断力需要重构",
+        "url": "https://www.huxiu.com/article/4872740.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_2083792150ae",
+      "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
+      "url": "https://www.v2ex.com/t/1225009",
+      "primary_url": "https://www.v2ex.com/t/1225009",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
+          "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
+          "url": "https://www.v2ex.com/t/1225009",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T17:40:10Z"
+        },
+        {
+          "id": "a9a58c17ceb6ff2a520c4f4d3526b208cc3463c6",
+          "title": "[问与答] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
+          "url": "https://www.v2ex.com/t/1225009",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T17:40:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
+          "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
+          "url": "https://www.v2ex.com/t/1225009",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T17:40:10Z"
+        },
+        {
+          "id": "a9a58c17ceb6ff2a520c4f4d3526b208cc3463c6",
+          "title": "[问与答] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
+          "url": "https://www.v2ex.com/t/1225009",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T17:40:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8299,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T17:40:10Z",
+      "latest_at": "2026-07-04T17:40:10Z",
+      "primary_item": {
+        "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
+        "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
+        "url": "https://www.v2ex.com/t/1225009",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -428,15 +838,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9937,
+        "recency": 0.9388,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -449,320 +859,6 @@
         "id": "0e8ed2c37801c06d976d3f578d5fa22a8639d602",
         "title": "与内存层映射以减少 LLM 过载 / Mapping with In-Memory Layers to Reduce LLM Overload",
         "url": "https://news.ycombinator.com/item?id=48789986",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_9c79f138d1f8",
-      "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-      "url": "https://rakyll.org/coding-agents",
-      "primary_url": "https://rakyll.org/coding-agents",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        },
-        {
-          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)"
-      ],
-      "items": [
-        {
-          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        },
-        {
-          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5258,
-      "importance": 0.5258,
-      "importance_score": 0.5258,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8891,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T18:30:17Z",
-      "latest_at": "2026-07-04T18:30:17Z",
-      "primary_item": {
-        "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-        "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-        "url": "https://rakyll.org/coding-agents",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_2083792150ae",
-      "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-      "url": "https://www.v2ex.com/t/1225009",
-      "primary_url": "https://www.v2ex.com/t/1225009",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
-          "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        },
-        {
-          "id": "a9a58c17ceb6ff2a520c4f4d3526b208cc3463c6",
-          "title": "[问与答] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
-          "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        },
-        {
-          "id": "a9a58c17ceb6ff2a520c4f4d3526b208cc3463c6",
-          "title": "[问与答] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8784,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T17:40:10Z",
-      "latest_at": "2026-07-04T17:40:10Z",
-      "primary_item": {
-        "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
-        "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-        "url": "https://www.v2ex.com/t/1225009",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_abc36e33f856",
-      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
-          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
-          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T15:19:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8695,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T15:19:14Z",
-      "latest_at": "2026-07-04T16:57:33.758113Z",
-      "primary_item": {
-        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
-        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
-        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9e78dadfe763",
-      "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-      "url": "https://news.ycombinator.com/item?id=48789325",
-      "primary_url": "https://news.ycombinator.com/item?id=48789325",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://news.ycombinator.com/item?id=48789325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T02:12:16.432000Z"
-        },
-        {
-          "id": "b6ac2954ebcce3521cd485b49567d248d83c015f",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T21:35:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://news.ycombinator.com/item?id=48789325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T02:12:16.432000Z"
-        },
-        {
-          "id": "b6ac2954ebcce3521cd485b49567d248d83c015f",
-          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T21:35:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9937,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T21:35:30Z",
-      "latest_at": "2026-07-05T02:12:16.432000Z",
-      "primary_item": {
-        "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
-        "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
-        "url": "https://news.ycombinator.com/item?id=48789325",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -821,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5116,
-      "importance": 0.5116,
-      "importance_score": 0.5116,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8099,
+        "recency": 0.7652,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -900,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5073,
-      "importance": 0.5073,
-      "importance_score": 0.5073,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7863,
+        "recency": 0.7428,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -926,80 +1022,158 @@
       }
     },
     {
-      "story_id": "story_c6444be85c41",
-      "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
-      "url": "https://danluu.com/ai-coding",
-      "primary_url": "https://danluu.com/ai-coding",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_df185242ad58",
+      "title": "老登对 AI 时代的思考：盛世与先驱",
+      "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872737.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "87af066a3c168f120d99f40d94e83edb0f7ae2b0",
-          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
-          "url": "https://danluu.com/ai-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T04:37:15Z"
+          "id": "fcc8695fb434508a6db22267e19df1ec1df59d2f",
+          "title": "老登对 AI 时代的思考：盛世与先驱",
+          "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "81f944eefb311f798f75869464b64b9d4e69f4d8",
-          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapogos Island",
-          "url": "https://danluu.com/ai-coding",
-          "source": "Lobsters (技术社区)",
+          "id": "10fa2fe16c3441eb6d319dd5693ffe68fe29ad9a",
+          "title": "老登对AI时代的思考：盛世与先驱",
+          "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-04T03:54:01Z"
+          "published_at": "2026-07-05T04:34:52Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "87af066a3c168f120d99f40d94e83edb0f7ae2b0",
-          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
-          "url": "https://danluu.com/ai-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T04:37:15Z"
+          "id": "fcc8695fb434508a6db22267e19df1ec1df59d2f",
+          "title": "老登对 AI 时代的思考：盛世与先驱",
+          "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "81f944eefb311f798f75869464b64b9d4e69f4d8",
-          "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapogos Island",
-          "url": "https://danluu.com/ai-coding",
-          "source": "Lobsters (技术社区)",
+          "id": "10fa2fe16c3441eb6d319dd5693ffe68fe29ad9a",
+          "title": "老登对AI时代的思考：盛世与先驱",
+          "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-04T03:54:01Z"
+          "published_at": "2026-07-05T04:34:52Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7276,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T03:54:01Z",
-      "latest_at": "2026-07-04T04:37:15Z",
+      "earliest_at": "2026-07-05T04:34:52Z",
+      "latest_at": "2026-07-05T06:34:47.101750Z",
       "primary_item": {
-        "id": "87af066a3c168f120d99f40d94e83edb0f7ae2b0",
-        "title": "来自加拉帕戈斯群岛的代理编码笔记 / Agentic coding notes from Galapagos Island",
-        "url": "https://danluu.com/ai-coding",
+        "id": "fcc8695fb434508a6db22267e19df1ec1df59d2f",
+        "title": "老登对 AI 时代的思考：盛世与先驱",
+        "url": "https://www.huxiu.com/article/4872737.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_5f09d23ce6db",
+      "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+      "url": "https://www.eso.org/public/news/eso2607",
+      "primary_url": "https://www.eso.org/public/news/eso2607",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
+        },
+        {
+          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
+        },
+        {
+          "id": "d5b0cd59fb184fc83d97261880c8b27d944c8553",
+          "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / No more than 100 000 faint satellites should orbit Earth",
+          "url": "https://www.eso.org/public/news/eso2607",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-04T17:17:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8254,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T17:17:28Z",
+      "latest_at": "2026-07-04T17:17:28Z",
+      "primary_item": {
+        "id": "7df13f63758458c35615fd24fcc64448672c2ae2",
+        "title": "绕地球运行的微弱信号卫星数量不应超过100 000颗 / \"Beyond the limit\": Satellites and mirrors in space pose threat to the night sky",
+        "url": "https://www.eso.org/public/news/eso2607",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1057,15 +1231,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8615,
+        "recency": 0.8139,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1083,81 +1257,82 @@
       }
     },
     {
-      "story_id": "story_96aeaf10e3fa",
-      "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-      "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
-      "primary_url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_9e78dadfe763",
+      "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "url": "https://news.ycombinator.com/item?id=48789325",
+      "primary_url": "https://news.ycombinator.com/item?id=48789325",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:12:16.432000Z"
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b6ac2954ebcce3521cd485b49567d248d83c015f",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T21:35:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-          "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://news.ycombinator.com/item?id=48789325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T02:12:16.432000Z"
         },
         {
-          "id": "ff3628170a79464c46f6b829cfd2e52ec67ecad7",
-          "title": "机器人出口每 4 元产值有 1 元深圳造深圳机器人全球卖爆",
-          "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-04/doc-inifrtiy0065228.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "b6ac2954ebcce3521cd485b49567d248d83c015f",
+          "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+          "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T21:35:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.516,
-      "importance": 0.516,
-      "importance_score": 0.516,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8346,
+        "recency": 0.9388,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T12:02:50.194039Z",
-      "latest_at": "2026-07-04T14:07:39.135047Z",
+      "earliest_at": "2026-07-04T21:35:30Z",
+      "latest_at": "2026-07-05T02:12:16.432000Z",
       "primary_item": {
-        "id": "9df8bcd2ebaf4abd686cca72f861dcf558ebc2a1",
-        "title": "机器人出口每 4 元产值有 1 元深圳造 深圳机器人全球卖爆",
-        "url": "https://finance.sina.com.cn/roll/2026-07-04/doc-inifscxv2476365.shtml",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "89b2538d1a28a69f682dbd59a9904f782745948b",
+        "title": "我在 Rust 中构建的 AI PHP 引擎通过了 17% 的 PHP-src 测试，渲染了 WordPress / My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+        "url": "https://news.ycombinator.com/item?id=48789325",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1214,15 +1389,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5116,
-      "importance": 0.5116,
-      "importance_score": 0.5116,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8099,
+        "recency": 0.7652,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1293,15 +1468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
+      "score": 0.4985,
+      "importance": 0.4985,
+      "importance_score": 0.4985,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7802,
+        "recency": 0.7371,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1372,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5116,
-      "importance": 0.5116,
-      "importance_score": 0.5116,
+      "score": 0.5035,
+      "importance": 0.5035,
+      "importance_score": 0.5035,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8099,
+        "recency": 0.7652,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1398,30 +1573,30 @@
       }
     },
     {
-      "story_id": "story_cec279eb3744",
-      "title": "都有 AI 了，还要读书博主干吗？",
-      "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872670.html?f=rss",
+      "story_id": "story_abc36e33f856",
+      "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+      "url": "https://www.huxiu.com/article/4872701.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872701.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-          "title": "都有 AI 了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
-          "title": "都有AI了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-04T09:35:34Z"
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "source_count": 2,
@@ -1431,205 +1606,47 @@
       ],
       "items": [
         {
-          "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-          "title": "都有 AI 了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+          "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "5eec2cc1156caeb142ac8f9342c6ecdc043fd564",
-          "title": "都有AI了，还要读书博主干吗？",
-          "url": "https://www.huxiu.com/article/4872670.html?f=rss",
+          "id": "53299dc8f0cb2373cacdda58e0c2380dde75f468",
+          "title": "AI时代的一种认知错位，正导致无数人疲于奔命",
+          "url": "https://www.huxiu.com/article/4872701.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-04T09:35:34Z"
+          "published_at": "2026-07-04T15:19:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5084,
-      "importance": 0.5084,
-      "importance_score": 0.5084,
+      "score": 0.5137,
+      "importance": 0.5137,
+      "importance_score": 0.5137,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7923,
+        "recency": 0.8214,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T09:35:34Z",
-      "latest_at": "2026-07-04T10:31:37.398214Z",
+      "earliest_at": "2026-07-04T15:19:14Z",
+      "latest_at": "2026-07-04T16:57:33.758113Z",
       "primary_item": {
-        "id": "f6e540dd69f7370049cac2fe05b87357d81f4048",
-        "title": "都有 AI 了，还要读书博主干吗？",
-        "url": "https://www.huxiu.com/article/4872670.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ac8d4855fa95",
-      "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-      "url": "https://news.ycombinator.com/item?id=48782890",
-      "primary_url": "https://news.ycombinator.com/item?id=48782890",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://news.ycombinator.com/item?id=48782890",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T07:47:59.648000Z"
-        },
-        {
-          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T05:37:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://news.ycombinator.com/item?id=48782890",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-04T07:47:59.648000Z"
-        },
-        {
-          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
-          "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-          "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T05:37:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5029,
-      "importance": 0.5029,
-      "importance_score": 0.5029,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7618,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T05:37:25Z",
-      "latest_at": "2026-07-04T07:47:59.648000Z",
-      "primary_item": {
-        "id": "3e53f24fce138d386cf78a1fca3dc07acb7bb65a",
-        "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
-        "url": "https://news.ycombinator.com/item?id=48782890",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ec5e6b0606c1",
-      "title": "业内首个 AI-eSIM 产业协同平台成立",
-      "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
-          "title": "业内首个 AI-eSIM 产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T07:20:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
-          "title": "业内首个 AI-eSIM 产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b7b47fca066db4837f697a7d9e579125c9805328",
-          "title": "业内首个AI-eSIM产业协同平台成立",
-          "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T07:20:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5036,
-      "importance": 0.5036,
-      "importance_score": 0.5036,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7657,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T07:20:31Z",
-      "latest_at": "2026-07-04T08:09:28.086379Z",
-      "primary_item": {
-        "id": "c640ca021718f18f8553b7e5be837030e9ccefbb",
-        "title": "业内首个 AI-eSIM 产业协同平台成立",
-        "url": "https://36kr.com/newsflashes/3880945005228038?f=rss",
+        "id": "2a19e1cbee0c3c25f4e0bee2ec41613160224476",
+        "title": "AI 时代的一种认知错位，正导致无数人疲于奔命",
+        "url": "https://www.huxiu.com/article/4872701.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
