@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T17:01:00.492305Z",
+  "generated_at": "2026-07-05T18:35:18.905842Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9797,
+        "recency": 0.9577,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -119,6 +119,67 @@
         "title": "Anthropic Claude Design 反向工程提示词开源更新",
         "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7922f10f113d",
+      "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+      "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "53258a420fcd5e82ddf65c72dbfc5a4e39d64f3b",
+          "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+          "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T18:19:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "53258a420fcd5e82ddf65c72dbfc5a4e39d64f3b",
+          "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+          "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T18:19:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9962,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T18:19:42Z",
+      "latest_at": "2026-07-05T18:19:42Z",
+      "primary_item": {
+        "id": "53258a420fcd5e82ddf65c72dbfc5a4e39d64f3b",
+        "title": "扎克伯格：建千兆瓦级AI集群，集中精英与资本",
+        "url": "https://x.com/rohanpaul_ai/status/2073834219659534816",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -176,15 +237,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8759,
+        "recency": 0.8562,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -200,6 +261,87 @@
         "title": "LlamaIndex 发布 legal-kb：基于 Index v2 的智能体检索参考应用",
         "url": "https://www.marktechpost.com/2026/07/05/llamaindex-legal-kb-agentic-retrieval-over-index-v2-with-retrieve-find-read-and-grep-tools",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0a49822c4024",
+      "title": "三周前，我不小心创办了一家小公司",
+      "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+      "primary_url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
+          "title": "三周前，我不小心创办了一家小公司",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T17:43:57.442000Z"
+        },
+        {
+          "id": "2f6a7703c48d7cf57ae5789509dabfcc37bf1581",
+          "title": "三周前，我不小心创办了一家小公司 / I Accidentally Started a Small Business Three Weeks Ago",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T03:36:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
+          "title": "三周前，我不小心创办了一家小公司",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-05T17:43:57.442000Z"
+        },
+        {
+          "id": "2f6a7703c48d7cf57ae5789509dabfcc37bf1581",
+          "title": "三周前，我不小心创办了一家小公司 / I Accidentally Started a Small Business Three Weeks Ago",
+          "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-05T03:36:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9877,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-05T03:36:49Z",
+      "latest_at": "2026-07-05T17:43:57.442000Z",
+      "primary_item": {
+        "id": "5a6aea02d46b8f0c44960de602a866e339c8d511",
+        "title": "三周前，我不小心创办了一家小公司",
+        "url": "https://extelligence.substack.com/p/i-accidentally-started-a-small-business",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -257,15 +399,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9911,
+        "recency": 0.9688,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -336,38 +478,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-05T14:26:51.478743Z"
-        },
-        {
-          "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
-          "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T18:01:31.424470Z"
-        },
-        {
-          "id": "2740c4ee78a51f3a39014127a4eed4895fe3f5c7",
-          "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T18:01:31.424470Z"
-        },
-        {
-          "id": "0e78145e55abed8abe13fd3ed9da824db1c4f046",
-          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T18:01:31.424470Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-07-04",
         "社区更新 · 2026-07-05"
       ],
       "items": [
@@ -415,53 +529,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-05T14:26:51.478743Z"
-        },
-        {
-          "id": "92f7d898593aeb16900a5965794d4c6bd90d29cd",
-          "title": "大多数人每天都在使用ChatGPT和Claude，却完全不知道它们究竟是怎么构建出来的。只有一小部分人理解那个精确的流程：它如何把原始互联网文本变成一个能够写作、推理和编程的模型。一旦理解这个流程，你也能从零构建自己的 LLM。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T18:01:31.424470Z"
-        },
-        {
-          "id": "2740c4ee78a51f3a39014127a4eed4895fe3f5c7",
-          "title": "曾任职于OpenAI、Google等多家头部AI企业的作者结合大厂求职与创业经历，给出了智能体时代专属职业成长路线。文章中围绕稀缺资源投入、问题发掘、选择高难度赛道、打磨落地细节、平衡机会与转化、低成本入局研究六大维度分享了实操思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T18:01:31.424470Z"
-        },
-        {
-          "id": "0e78145e55abed8abe13fd3ed9da824db1c4f046",
-          "title": "未来硅世界第18期邀请到了前微软、字节资深工程师分享了很多可直接落地的独立开发经验。这次直播不仅给出Claude Code与Codex互补互审的高效工作流，还顺带分享了低成本 VPS 服务、高效信息筛选路线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-04",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-04T18:01:31.424470Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6652,
+      "importance": 0.6652,
+      "importance_score": 0.6652,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9776,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-04T18:01:31.424470Z",
+      "earliest_at": "2026-07-05T14:26:51.478743Z",
       "latest_at": "2026-07-05T17:01:00.492305Z",
       "primary_item": {
         "id": "3a5920148152ebbc651d634969fe3012dbb461fb",
@@ -469,6 +556,85 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-05",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_b97dfb6a3918",
+      "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+      "url": "https://news.ycombinator.com/item?id=48795826",
+      "primary_url": "https://news.ycombinator.com/item?id=48795826",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://news.ycombinator.com/item?id=48795826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T18:15:31.661000Z"
+        },
+        {
+          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T17:05:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://news.ycombinator.com/item?id=48795826",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-05T18:15:31.661000Z"
+        },
+        {
+          "id": "d5fb070d15bed262278a2d988de6a25ddac601ce",
+          "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+          "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T17:05:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9952,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T17:05:35Z",
+      "latest_at": "2026-07-05T18:15:31.661000Z",
+      "primary_item": {
+        "id": "8cb64127f2391593a1227b8d8be00ec0f927fbc5",
+        "title": "马克扎克伯格告诉员工人工智能代理还不够进步 / Mark Zuckerberg tells staff that AI agents haven't progressed enough",
+        "url": "https://news.ycombinator.com/item?id=48795826",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -525,15 +691,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -548,85 +714,6 @@
         "url": "https://www.huxiu.com/article/4872798.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d900ec4b1bf6",
-      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-      "url": "https://news.ycombinator.com/item?id=48795174",
-      "primary_url": "https://news.ycombinator.com/item?id=48795174",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T16:45:13.529000Z"
-        },
-        {
-          "id": "37b07960c20bfbfbb84c351ad7c851a028c29bda",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T15:49:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://news.ycombinator.com/item?id=48795174",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-05T16:45:13.529000Z"
-        },
-        {
-          "id": "37b07960c20bfbfbb84c351ad7c851a028c29bda",
-          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-05T15:49:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9962,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T15:49:18Z",
-      "latest_at": "2026-07-05T16:45:13.529000Z",
-      "primary_item": {
-        "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
-        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
-        "url": "https://news.ycombinator.com/item?id=48795174",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -683,15 +770,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9227,
+        "recency": 0.902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -706,85 +793,6 @@
         "url": "https://github.com/hesreallyhim/awesome-claude-code",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_86b22559dc84",
-      "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-      "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-      "primary_url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T11:19:41.901000Z"
-        },
-        {
-          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T11:06:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-05T11:19:41.901000Z"
-        },
-        {
-          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
-          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
-          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-05T11:06:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9211,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-05T11:06:01Z",
-      "latest_at": "2026-07-05T11:19:41.901000Z",
-      "primary_item": {
-        "id": "c9394fa856aed24e10debffb50f237b97632c66b",
-        "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
-        "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -860,15 +868,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7805,
+        "recency": 0.763,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -886,30 +894,109 @@
       }
     },
     {
-      "story_id": "story_9c447cfb3acb",
-      "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
-      "url": "https://news.ycombinator.com/item?id=48794803",
-      "primary_url": "https://news.ycombinator.com/item?id=48794803",
+      "story_id": "story_86b22559dc84",
+      "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+      "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+      "primary_url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T11:19:41.901000Z"
+        },
+        {
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T11:06:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-05T11:19:41.901000Z"
+        },
+        {
+          "id": "db49aa386974ea8d478b6d2055abd8b58d4e87f1",
+          "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁 / My 11-year-old son used AI to build his own video game — I see it as a creativity boost, not a threat",
+          "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-05T11:06:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9005,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-05T11:06:01Z",
+      "latest_at": "2026-07-05T11:19:41.901000Z",
+      "primary_item": {
+        "id": "c9394fa856aed24e10debffb50f237b97632c66b",
+        "title": "我11岁的儿子利用人工智能开发了自己的电子游戏——我认为这能激发创造力，而不是一种威胁",
+        "url": "https://www.businessinsider.com/11-year-old-built-his-own-video-game-with-ai-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d900ec4b1bf6",
+      "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+      "url": "https://news.ycombinator.com/item?id=48795174",
+      "primary_url": "https://news.ycombinator.com/item?id=48795174",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "3c3ee946a69790b95bb5ff01978156de54be4c44",
-          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
-          "url": "https://news.ycombinator.com/item?id=48794803",
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T15:46:51.006000Z"
+          "published_at": "2026-07-05T16:45:13.529000Z"
         },
         {
-          "id": "be216cbd56f0fcf069ac16ced70190a2c66568bf",
-          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
-          "url": "https://github.com/christopherkarani/Espresso",
+          "id": "37b07960c20bfbfbb84c351ad7c851a028c29bda",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T15:02:43Z"
+          "published_at": "2026-07-05T15:49:18Z"
         }
       ],
       "source_count": 2,
@@ -919,47 +1006,47 @@
       ],
       "items": [
         {
-          "id": "3c3ee946a69790b95bb5ff01978156de54be4c44",
-          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
-          "url": "https://news.ycombinator.com/item?id=48794803",
+          "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://news.ycombinator.com/item?id=48795174",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-05T15:46:51.006000Z"
+          "published_at": "2026-07-05T16:45:13.529000Z"
         },
         {
-          "id": "be216cbd56f0fcf069ac16ced70190a2c66568bf",
-          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
-          "url": "https://github.com/christopherkarani/Espresso",
+          "id": "37b07960c20bfbfbb84c351ad7c851a028c29bda",
+          "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+          "url": "https://www.designboom.com/technology/autonomous-flying-umbrella-follows-users-rain-sunlight-i-build-stuff-01-13-2026",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T15:02:43Z"
+          "published_at": "2026-07-05T15:49:18Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "recency": 0.9739,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T15:02:43Z",
-      "latest_at": "2026-07-05T15:46:51.006000Z",
+      "earliest_at": "2026-07-05T15:49:18Z",
+      "latest_at": "2026-07-05T16:45:13.529000Z",
       "primary_item": {
-        "id": "3c3ee946a69790b95bb5ff01978156de54be4c44",
-        "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
-        "url": "https://news.ycombinator.com/item?id=48794803",
+        "id": "6c18215290354b98b0b5010bc72185e5c3095c9f",
+        "title": "自动飞行伞跟随并保护用户免受雨淋和阳光照射 / Autonomous flying umbrella follows and shields users from rain and sunlight",
+        "url": "https://news.ycombinator.com/item?id=48795174",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1018,15 +1105,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9636,
+        "recency": 0.942,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1096,15 +1183,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
+      "score": 0.5026,
+      "importance": 0.5026,
+      "importance_score": 0.5026,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7777,
+        "recency": 0.7602,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1175,15 +1262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9227,
+        "recency": 0.902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,15 +1341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5266,
-      "importance": 0.5266,
-      "importance_score": 0.5266,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8932,
+        "recency": 0.8731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1280,186 +1367,30 @@
       }
     },
     {
-      "story_id": "story_9c79f138d1f8",
-      "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-      "url": "https://rakyll.org/coding-agents",
-      "primary_url": "https://rakyll.org/coding-agents",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        },
-        {
-          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)"
-      ],
-      "items": [
-        {
-          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        },
-        {
-          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
-          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
-          "url": "https://rakyll.org/coding-agents",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T18:30:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4958,
-      "importance": 0.4958,
-      "importance_score": 0.4958,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7225,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T18:30:17Z",
-      "latest_at": "2026-07-04T18:30:17Z",
-      "primary_item": {
-        "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
-        "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
-        "url": "https://rakyll.org/coding-agents",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_2083792150ae",
-      "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-      "url": "https://www.v2ex.com/t/1225009",
-      "primary_url": "https://www.v2ex.com/t/1225009",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
-          "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        },
-        {
-          "id": "a9a58c17ceb6ff2a520c4f4d3526b208cc3463c6",
-          "title": "[问与答] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
-          "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        },
-        {
-          "id": "a9a58c17ceb6ff2a520c4f4d3526b208cc3463c6",
-          "title": "[问与答] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-          "url": "https://www.v2ex.com/t/1225009",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-04T17:40:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4943,
-      "importance": 0.4943,
-      "importance_score": 0.4943,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7138,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-04T17:40:10Z",
-      "latest_at": "2026-07-04T17:40:10Z",
-      "primary_item": {
-        "id": "0796e7b4d7d75131ba3b950071c57763285790f0",
-        "title": "[Claude Code] 放弃折腾 claude 了，请给我推荐纯血的 claude 的中转站",
-        "url": "https://www.v2ex.com/t/1225009",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_d7e88052ae44",
-      "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-      "url": "https://news.ycombinator.com/item?id=48793298",
-      "primary_url": "https://news.ycombinator.com/item?id=48793298",
+      "story_id": "story_9c447cfb3acb",
+      "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+      "url": "https://news.ycombinator.com/item?id=48794803",
+      "primary_url": "https://news.ycombinator.com/item?id=48794803",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://news.ycombinator.com/item?id=48793298",
+          "id": "3c3ee946a69790b95bb5ff01978156de54be4c44",
+          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+          "url": "https://news.ycombinator.com/item?id=48794803",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-05T15:46:51.006000Z"
         },
         {
-          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://prediohq.com",
+          "id": "be216cbd56f0fcf069ac16ced70190a2c66568bf",
+          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+          "url": "https://github.com/christopherkarani/Espresso",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T11:30:14Z"
+          "published_at": "2026-07-05T15:02:43Z"
         }
       ],
       "source_count": 2,
@@ -1469,47 +1400,47 @@
       ],
       "items": [
         {
-          "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://news.ycombinator.com/item?id=48793298",
+          "id": "3c3ee946a69790b95bb5ff01978156de54be4c44",
+          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+          "url": "https://news.ycombinator.com/item?id=48794803",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-05T15:46:51.006000Z"
         },
         {
-          "id": "89ebd91e13853e7391eb854e8c1987494f07f504",
-          "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-          "url": "https://prediohq.com",
+          "id": "be216cbd56f0fcf069ac16ced70190a2c66568bf",
+          "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+          "url": "https://github.com/christopherkarani/Espresso",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-05T11:30:14Z"
+          "published_at": "2026-07-05T15:02:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9823,
+        "recency": 0.9603,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-05T11:30:14Z",
+      "earliest_at": "2026-07-05T15:02:43Z",
       "latest_at": "2026-07-05T15:46:51.006000Z",
       "primary_item": {
-        "id": "357be83223bf8a775dd349ab4908d405b32ff73a",
-        "title": "西班牙的地籍 API 从 2003 年开始就是 SOAP，所以我构建了一个 JSON 包装器 (+MCP) / Spain's cadastre API is SOAP from 2003, so I built a JSON wrapper (+MCP)",
-        "url": "https://news.ycombinator.com/item?id=48793298",
+        "id": "3c3ee946a69790b95bb5ff01978156de54be4c44",
+        "title": "直接在 Apple 的神经引擎上训练和运行 Transformer / Train and run transformers directly on Apple's Neural Engine",
+        "url": "https://news.ycombinator.com/item?id=48794803",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1567,15 +1498,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5053,
-      "importance": 0.5053,
-      "importance_score": 0.5053,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7751,
+        "recency": 0.7577,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1646,15 +1577,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9225,
+        "recency": 0.9018,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1725,15 +1656,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8897,
+        "recency": 0.8698,
         "story_heat": 0.25
       },
       "category": "watch",
