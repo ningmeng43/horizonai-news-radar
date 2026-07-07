@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:07:00.270283Z",
+  "generated_at": "2026-07-07T23:28:11.267080Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8578,
-      "importance": 0.8578,
-      "importance_score": 0.8578,
+      "score": 0.8543,
+      "importance": 0.8543,
+      "importance_score": 0.8543,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9877,
+        "recency": 0.9686,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8537,
-      "importance": 0.8537,
-      "importance_score": 0.8537,
+      "score": 0.8508,
+      "importance": 0.8508,
+      "importance_score": 0.8508,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8263,
+        "recency": 0.8103,
         "story_heat": 0.25
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8348,
-      "importance": 0.8348,
-      "importance_score": 0.8348,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9046,
+        "recency": 0.8871,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7266,
+        "recency": 0.7125,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9067,
+        "recency": 0.8892,
         "story_heat": 0.0
       },
       "category": "official",
@@ -406,15 +406,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8066,
+      "importance": 0.8066,
+      "importance_score": 0.8066,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9405,
+        "recency": 0.9223,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -430,6 +430,106 @@
         "title": "YC CEO声称每日用AI部署3.7万行代码，开发者审查发现前端代码大量臃肿低效",
         "url": "https://www.fastcompany.com/91520702/y-combinator-garry-tan-agentic-ai-social-media",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e2be33636230",
+      "title": "Rowboat：开源、本地优先的桌面AI助手",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "primary_url": "https://github.com/rowboatlabs/rowboat",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a367a1ae1f30bf387c227f6dc57e5a7ace64d8b",
+          "title": "Rowboat：开源、本地优先的桌面AI助手",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T16:10:44Z"
+        },
+        {
+          "id": "714ea864cb1ba25214517302fe79105a5c75c083",
+          "title": "Show HN: Rowboat——Claude Desktop 的开源、本地优先替代方案",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-07T16:17:31.301000Z"
+        },
+        {
+          "id": "8c4bf7d0007db5d17b80574c9a1529838dd96ffe",
+          "title": "Rowboat：开源、本地优先的桌面AI助手 / Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-07T16:10:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News：AI 热帖",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "0a367a1ae1f30bf387c227f6dc57e5a7ace64d8b",
+          "title": "Rowboat：开源、本地优先的桌面AI助手",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T16:10:44Z"
+        },
+        {
+          "id": "714ea864cb1ba25214517302fe79105a5c75c083",
+          "title": "Show HN: Rowboat——Claude Desktop 的开源、本地优先替代方案",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-07T16:17:31.301000Z"
+        },
+        {
+          "id": "8c4bf7d0007db5d17b80574c9a1529838dd96ffe",
+          "title": "Rowboat：开源、本地优先的桌面AI助手 / Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+          "url": "https://github.com/rowboatlabs/rowboat",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-07T16:10:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9001,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T16:10:44Z",
+      "latest_at": "2026-07-07T16:17:31.301000Z",
+      "primary_item": {
+        "id": "0a367a1ae1f30bf387c227f6dc57e5a7ace64d8b",
+        "title": "Rowboat：开源、本地优先的桌面AI助手",
+        "url": "https://github.com/rowboatlabs/rowboat",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       }
     },
@@ -468,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9004,
+        "recency": 0.883,
         "story_heat": 0.0
       },
       "category": "official",
@@ -549,15 +649,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7266,
+        "recency": 0.7125,
         "story_heat": 0.25
       },
       "category": "official",
@@ -631,15 +731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9505,
+        "recency": 0.9321,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,15 +812,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7734,
-      "importance": 0.7734,
-      "importance_score": 0.7734,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9267,
+        "recency": 0.9088,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -736,6 +836,67 @@
         "title": "Liquid AI 开源 Antidoom：基于最终 Token 偏好优化的推理模型死循环修复方法",
         "url": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4930f6a41be1",
+      "title": "中国拟限制外国访问最强AI模型",
+      "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "241f566835a2017dff0514efc1065475f7186340",
+          "title": "中国拟限制外国访问最强AI模型",
+          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T15:14:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "241f566835a2017dff0514efc1065475f7186340",
+          "title": "中国拟限制外国访问最强AI模型",
+          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T15:14:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.888,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:14:30Z",
+      "latest_at": "2026-07-07T15:14:30Z",
+      "primary_item": {
+        "id": "241f566835a2017dff0514efc1065475f7186340",
+        "title": "中国拟限制外国访问最强AI模型",
+        "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -774,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9309,
+        "recency": 0.9129,
         "story_heat": 0.0
       },
       "category": "official",
@@ -799,67 +960,6 @@
         "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4930f6a41be1",
-      "title": "中国拟限制外国访问最强AI模型",
-      "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "241f566835a2017dff0514efc1065475f7186340",
-          "title": "中国拟限制外国访问最强AI模型",
-          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T15:14:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "241f566835a2017dff0514efc1065475f7186340",
-          "title": "中国拟限制外国访问最强AI模型",
-          "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T15:14:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7716,
-      "importance": 0.7716,
-      "importance_score": 0.7716,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9055,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T15:14:30Z",
-      "latest_at": "2026-07-07T15:14:30Z",
-      "primary_item": {
-        "id": "241f566835a2017dff0514efc1065475f7186340",
-        "title": "中国拟限制外国访问最强AI模型",
-        "url": "https://x.com/rohanpaul_ai/status/2074512389526237609",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -897,15 +997,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9638,
+        "recency": 0.9452,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -958,15 +1058,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8926,
+        "recency": 0.8753,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,15 +1119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9001,
+        "recency": 0.8827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1099,15 +1199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8256,
+        "recency": 0.8096,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1180,15 +1280,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8274,
+        "recency": 0.8114,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1242,21 +1342,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9208,
+        "recency": 0.903,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T16:24:13.051000Z",
       "latest_at": "2026-07-07T16:24:13.051000Z",
@@ -1303,15 +1402,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1325,87 +1424,6 @@
         "title": "Krea 2 身份保留功能上线",
         "url": "https://x.com/krea_ai/status/2074589965653303321",
         "source": "X：Krea AI (@krea_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9feb923244e",
-      "title": "欧盟议会通过《聊天控制法案》第一轮审议",
-      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-      "primary_url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "04b73a98c0d36b3fa4fbed18f1bfc3cd5d3157ec",
-          "title": "欧盟议会通过《聊天控制法案》第一轮审议",
-          "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:17:31.015000Z"
-        },
-        {
-          "id": "5c39949df6cdad13a5c19ccbaabce502048f2530",
-          "title": "欧盟议会通过《聊天控制法案》第一轮审议 / Chat Control passed first round in EU Parliament",
-          "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-07T15:16:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "04b73a98c0d36b3fa4fbed18f1bfc3cd5d3157ec",
-          "title": "欧盟议会通过《聊天控制法案》第一轮审议",
-          "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T16:17:31.015000Z"
-        },
-        {
-          "id": "5c39949df6cdad13a5c19ccbaabce502048f2530",
-          "title": "欧盟议会通过《聊天控制法案》第一轮审议 / Chat Control passed first round in EU Parliament",
-          "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-07T15:16:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9193,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T15:16:15Z",
-      "latest_at": "2026-07-07T16:17:31.015000Z",
-      "primary_item": {
-        "id": "04b73a98c0d36b3fa4fbed18f1bfc3cd5d3157ec",
-        "title": "欧盟议会通过《聊天控制法案》第一轮审议",
-        "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     }
