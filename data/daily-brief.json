@@ -1,109 +1,8 @@
 {
-  "generated_at": "2026-07-09T10:03:06.567227Z",
+  "generated_at": "2026-07-09T13:29:30.136875Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_eaad4cbcfa7f",
-      "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "primary_url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "3952d15a35a38f3fd6065379cb0a0cf517084d5e",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / OpenAI no longer recommends SWE-Bench Pro",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-08T21:03:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "3952d15a35a38f3fd6065379cb0a0cf517084d5e",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / OpenAI no longer recommends SWE-Bench Pro",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-08T21:03:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8668,
-      "importance": 0.8668,
-      "importance_score": 0.8668,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.97,
-        "recency": 0.7379,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T13:00:00Z",
-      "latest_at": "2026-07-08T21:03:51Z",
-      "primary_item": {
-        "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
-        "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
-        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_5535aeb9eb9d",
       "title": "代理商数据 / Data for Agents",
@@ -139,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8224,
+      "importance": 0.8224,
+      "importance_score": 0.8224,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7848,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8131,
+      "importance": 0.8131,
+      "importance_score": 0.8131,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.824,
+        "recency": 0.7841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8306,
+        "recency": 0.7904,
         "story_heat": 0.0
       },
       "category": "official",
@@ -287,6 +186,68 @@
         "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
         "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_41b85c9cdb7a",
+      "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+      "url": "https://openai.com/index/government-national-security-partnerships",
+      "primary_url": "https://openai.com/index/government-national-security-partnerships",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T13:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+          "url": "https://openai.com/index/government-national-security-partnerships",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T13:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7072,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T13:30:00Z",
+      "latest_at": "2026-07-08T13:30:00Z",
+      "primary_item": {
+        "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
+        "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
+        "url": "https://openai.com/index/government-national-security-partnerships",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -382,15 +343,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7546,
+        "recency": 0.7181,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -444,15 +405,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8156,
-      "importance": 0.8156,
-      "importance_score": 0.8156,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7979,
+        "recency": 0.7592,
         "story_heat": 0.0
       },
       "category": "official",
@@ -525,15 +486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7767,
+      "importance": 0.7767,
+      "importance_score": 0.7767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.9118,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -606,15 +567,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.982,
+        "recency": 0.9344,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -668,15 +629,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7705,
+        "recency": 0.7332,
         "story_heat": 0.0
       },
       "category": "official",
@@ -692,68 +653,6 @@
         "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_41b85c9cdb7a",
-      "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-      "url": "https://openai.com/index/government-national-security-partnerships",
-      "primary_url": "https://openai.com/index/government-national-security-partnerships",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-          "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-          "url": "https://openai.com/index/government-national-security-partnerships",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T13:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7432,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T13:30:00Z",
-      "latest_at": "2026-07-08T13:30:00Z",
-      "primary_item": {
-        "id": "555bc3285c16faa16a3d0b7f1aaae0db801c09bc",
-        "title": "我们与政府和国家安全伙伴关系的方法 / Our approach to government and national security partnerships",
-        "url": "https://openai.com/index/government-national-security-partnerships",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -811,15 +710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7659,
+      "importance": 0.7659,
+      "importance_score": 0.7659,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.8516,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -873,15 +772,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
+      "score": 0.8069,
+      "importance": 0.8069,
+      "importance_score": 0.8069,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8343,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "official",
@@ -898,87 +797,6 @@
         "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_87a47eec308c",
-      "title": "Meta Muse Image 上线：AI 智能体式图像生成，但 Instagram 照片功能引隐私争议",
-      "url": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions",
-      "primary_url": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "770191a5364972051d45c83ac333583d8b2b60da",
-          "title": "Meta Muse Image 上线：AI 智能体式图像生成，但 Instagram 照片功能引隐私争议",
-          "url": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T11:16:37Z"
-        },
-        {
-          "id": "cfc3e840d6199a51240d0d48996feb864163e572",
-          "title": "Meta Muse Image 上线：AI 智能体式图像生成，但 Instagram 照片功能引隐私争议 / Muse Image is technically impressive, but Meta's use of Instagram photos raises questions",
-          "url": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-08T11:16:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "770191a5364972051d45c83ac333583d8b2b60da",
-          "title": "Meta Muse Image 上线：AI 智能体式图像生成，但 Instagram 照片功能引隐私争议",
-          "url": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T11:16:37Z"
-        },
-        {
-          "id": "cfc3e840d6199a51240d0d48996feb864163e572",
-          "title": "Meta Muse Image 上线：AI 智能体式图像生成，但 Instagram 照片功能引隐私争议 / Muse Image is technically impressive, but Meta's use of Instagram photos raises questions",
-          "url": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-08T11:16:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7197,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T11:16:37Z",
-      "latest_at": "2026-07-08T11:16:37Z",
-      "primary_item": {
-        "id": "770191a5364972051d45c83ac333583d8b2b60da",
-        "title": "Meta Muse Image 上线：AI 智能体式图像生成，但 Instagram 照片功能引隐私争议",
-        "url": "https://the-decoder.com/muse-image-is-technically-impressive-but-metas-use-of-instagram-photos-raises-questions",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1016,15 +834,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7408,
-      "importance": 0.7408,
-      "importance_score": 0.7408,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7847,
+        "recency": 0.7467,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1042,82 +860,62 @@
       }
     },
     {
-      "story_id": "story_b5e863e8173e",
-      "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-      "url": "https://www.ithome.com/0/974/275.htm",
-      "primary_url": "https://www.ithome.com/0/974/275.htm",
+      "story_id": "story_d296c213b987",
+      "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
+      "url": "https://www.ithome.com/0/974/744.htm",
+      "primary_url": "https://www.ithome.com/0/974/744.htm",
       "source": "IT之家（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1474b3b29bdec555836421da2a3061e13c73b9f5",
-          "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-          "url": "https://www.ithome.com/0/974/275.htm",
+          "id": "ecead2417a84261a5320a2127de452e7a1df9490",
+          "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
+          "url": "https://www.ithome.com/0/974/744.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T22:30:38Z"
-        },
-        {
-          "id": "3475a53cf2456750bb05bdf1c9c2aa2e1fa3fa79",
-          "title": "利润超 10 亿美元、ARR 剑指千亿，Anthropic 抢先 OpenAI 冲击 IPO",
-          "url": "https://www.ithome.com/0/974/275.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-09T13:01:09Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "1474b3b29bdec555836421da2a3061e13c73b9f5",
-          "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-          "url": "https://www.ithome.com/0/974/275.htm",
+          "id": "ecead2417a84261a5320a2127de452e7a1df9490",
+          "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
+          "url": "https://www.ithome.com/0/974/744.htm",
           "source": "IT之家（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T22:30:38Z"
-        },
-        {
-          "id": "3475a53cf2456750bb05bdf1c9c2aa2e1fa3fa79",
-          "title": "利润超 10 亿美元、ARR 剑指千亿，Anthropic 抢先 OpenAI 冲击 IPO",
-          "url": "https://www.ithome.com/0/974/275.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-09T13:01:09Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.73,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8465,
-        "story_heat": 0.25
+        "recency": 0.9932,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T22:30:38Z",
-      "latest_at": "2026-07-08T23:34:43.238100Z",
+      "earliest_at": "2026-07-09T13:01:09Z",
+      "latest_at": "2026-07-09T13:01:09Z",
       "primary_item": {
-        "id": "1474b3b29bdec555836421da2a3061e13c73b9f5",
-        "title": "利润超10亿美元、ARR剑指千亿，Anthropic抢先OpenAI冲击IPO",
-        "url": "https://www.ithome.com/0/974/275.htm",
+        "id": "ecead2417a84261a5320a2127de452e7a1df9490",
+        "title": "法国对英伟达反垄断调查接近尾声，聚焦 CUDA 生态和产业投资",
+        "url": "https://www.ithome.com/0/974/744.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
@@ -1157,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9515,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1218,15 +1016,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7344,
-      "importance": 0.7344,
-      "importance_score": 0.7344,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8157,
+        "recency": 0.7762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8744,
+        "recency": 0.8321,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1359,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.786,
+        "recency": 0.7479,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1385,63 +1183,185 @@
       }
     },
     {
-      "story_id": "story_3615d9eeb3d0",
-      "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-      "url": "https://x.com/berryxia/status/2074827915779580055",
-      "primary_url": "https://x.com/berryxia/status/2074827915779580055",
-      "source": "X：Berry Xia (@berryxia)",
+      "story_id": "story_5d670371f68d",
+      "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+      "url": "https://x.com/runwayml/status/2074982268175630814",
+      "primary_url": "https://x.com/runwayml/status/2074982268175630814",
+      "source": "X：Runway (@runwayml)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://x.com/berryxia/status/2074827915779580055",
-          "source": "X：Berry Xia (@berryxia)",
+          "id": "32865bd97cf74f27440efce695f063620648524a",
+          "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+          "url": "https://x.com/runwayml/status/2074982268175630814",
+          "source": "X：Runway (@runwayml)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
+          "published_at": "2026-07-08T22:21:38Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Berry Xia (@berryxia)"
+        "X：Runway (@runwayml)"
       ],
       "items": [
         {
-          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://x.com/berryxia/status/2074827915779580055",
-          "source": "X：Berry Xia (@berryxia)",
+          "id": "32865bd97cf74f27440efce695f063620648524a",
+          "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+          "url": "https://x.com/runwayml/status/2074982268175630814",
+          "source": "X：Runway (@runwayml)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
+          "published_at": "2026-07-08T22:21:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7287,
+        "recency": 0.8037,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-08T12:08:18Z",
-      "latest_at": "2026-07-08T12:08:18Z",
+      "earliest_at": "2026-07-08T22:21:38Z",
+      "latest_at": "2026-07-08T22:21:38Z",
       "primary_item": {
-        "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-        "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-        "url": "https://x.com/berryxia/status/2074827915779580055",
-        "source": "X：Berry Xia (@berryxia)",
+        "id": "32865bd97cf74f27440efce695f063620648524a",
+        "title": "Seedream 5.0 Pro 登陆 Runway，支持14种语言",
+        "url": "https://x.com/runwayml/status/2074982268175630814",
+        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7695175fa495",
+      "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+      "url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "primary_url": "https://www.anthropic.com/research/off-switch-dual-use",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5f1161aae05285ff66deedadf26060d8716b302a",
+          "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+          "url": "https://www.anthropic.com/research/off-switch-dual-use",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T23:27:02.554000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "5f1161aae05285ff66deedadf26060d8716b302a",
+          "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+          "url": "https://www.anthropic.com/research/off-switch-dual-use",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T23:27:02.554000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7226,
+      "importance": 0.7226,
+      "importance_score": 0.7226,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8165,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T23:27:02.554000Z",
+      "latest_at": "2026-07-08T23:27:02.554000Z",
+      "primary_item": {
+        "id": "5f1161aae05285ff66deedadf26060d8716b302a",
+        "title": "面向AI模型双重用途知识的\"开关\"：Anthropic与AE Studio提出GRAM方法",
+        "url": "https://www.anthropic.com/research/off-switch-dual-use",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ce2436329e7b",
+      "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+      "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+      "primary_url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:50:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T20:50:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7862,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T20:50:07Z",
+      "latest_at": "2026-07-08T20:50:07Z",
+      "primary_item": {
+        "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
+        "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
+        "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
