@@ -1,8 +1,251 @@
 {
-  "generated_at": "2026-07-11T13:03:08.357882Z",
+  "generated_at": "2026-07-11T14:34:09.376640Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a02db43ccd2c",
+      "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "primary_url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "cdn.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "46540be3e8a57ebb17b11711d6a724691bc29d93",
+          "title": "GPT-5.6 Sol Ultra 证明了循环双盖猜想 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48863490",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T19:47:08.565000Z"
+        },
+        {
+          "id": "0092c1eaf33fcc97252260a6d5c18c1a1e8ac3c9",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\" / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T18:29:19Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cdn.openai.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "a4d4e1d0b7c8ab2558d994fbd60056dfd8580ee7",
+          "title": "GPT-5.6 Sol Ultra 给出了“循环双覆盖猜想”的证明 [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "cdn.openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-10T19:59:11.362000Z"
+        },
+        {
+          "id": "46540be3e8a57ebb17b11711d6a724691bc29d93",
+          "title": "GPT-5.6 Sol Ultra 证明了循环双盖猜想 [pdf] / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48863490",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T19:47:08.565000Z"
+        },
+        {
+          "id": "0092c1eaf33fcc97252260a6d5c18c1a1e8ac3c9",
+          "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\" / GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
+          "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T18:29:19Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7646,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T18:29:19Z",
+      "latest_at": "2026-07-10T19:59:11.362000Z",
+      "primary_item": {
+        "id": "feafedc0669c405607e613d397ecd9560defc7b4",
+        "title": "OpenAI 论文：GPT-5.6 Sol Ultra 证明图论\"循环双覆盖猜想\"",
+        "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4071a63c6a0f",
+      "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+      "primary_url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
+          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:40:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
+          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:40:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7724,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T20:40:56Z",
+      "latest_at": "2026-07-10T20:40:56Z",
+      "primary_item": {
+        "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
+        "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6e4b204fac83",
+      "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T15:57:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7215,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T15:57:47Z",
+      "latest_at": "2026-07-10T15:57:47Z",
+      "primary_item": {
+        "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
+        "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
+        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_04c3e5477225",
       "title": "博科圣地如何利用前沿AI技术",
@@ -95,15 +338,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8227,
-      "importance": 0.8227,
-      "importance_score": 0.8227,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8061,
+        "recency": 0.7886,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -120,130 +363,6 @@
         "url": "https://casp.ac/reports/ai-enabled-terrorism",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4071a63c6a0f",
-      "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-      "primary_url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:40:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:40:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7895,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T20:40:56Z",
-      "latest_at": "2026-07-10T20:40:56Z",
-      "primary_item": {
-        "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
-        "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
-        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6e4b204fac83",
-      "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
-      "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
-          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
-          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T15:57:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
-          "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
-          "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T15:57:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7375,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T15:57:47Z",
-      "latest_at": "2026-07-10T15:57:47Z",
-      "primary_item": {
-        "id": "6c466be7f4e3747a9ce02c3d3ca10b9bffad94bc",
-        "title": "更好的工具使 Copilot 代码审查变得更糟。以下是我们实际改进的方法。 / Better tools made Copilot code review worse. Here’s how we actually improved it.",
-        "url": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -300,15 +419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9288,
+        "recency": 0.9087,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7784,
-      "importance": 0.7784,
-      "importance_score": 0.7784,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7878,
+        "recency": 0.7707,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -405,6 +524,87 @@
         "title": "Apple 起诉 OpenAI 窃取商业机密",
         "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6d7dc2911118",
+      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+      "url": "https://www.ithome.com/0/975/469.htm",
+      "primary_url": "https://www.ithome.com/0/975/469.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
+          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:33:08Z"
+        },
+        {
+          "id": "48ab288af4e443d20b63901488425e4a96338a61",
+          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T07:33:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
+          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:33:08Z"
+        },
+        {
+          "id": "48ab288af4e443d20b63901488425e4a96338a61",
+          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T07:33:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9036,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T07:33:08Z",
+      "latest_at": "2026-07-11T07:33:08Z",
+      "primary_item": {
+        "id": "2a61ae129b00bfd8553580d905cd56ab08d34b14",
+        "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+        "url": "https://www.ithome.com/0/975/469.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -443,15 +643,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7829,
+        "recency": 0.7659,
         "story_heat": 0.0
       },
       "category": "official",
@@ -468,6 +668,148 @@
         "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6c4a6e1919dc",
+      "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "primary_url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
+          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T23:49:50Z"
+        },
+        {
+          "id": "4da42be56fa7d8a150922bb5c5f4032d39d80bb3",
+          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-10T23:49:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
+          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T23:49:50Z"
+        },
+        {
+          "id": "4da42be56fa7d8a150922bb5c5f4032d39d80bb3",
+          "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能 / Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
+          "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-10T23:49:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8083,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T23:49:50Z",
+      "latest_at": "2026-07-10T23:49:50Z",
+      "primary_item": {
+        "id": "ec4f06aa0a65267e94138cb5c816c98887e6b602",
+        "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
+        "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1f16fd4d5a46",
+      "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
+      "url": "https://x.com/dotey/status/2075712647723397452",
+      "primary_url": "https://x.com/dotey/status/2075712647723397452",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2307252350cc21c98542f24bced584562a8206da",
+          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
+          "url": "https://x.com/dotey/status/2075712647723397452",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T22:43:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：宝玉 (@dotey)"
+      ],
+      "items": [
+        {
+          "id": "2307252350cc21c98542f24bced584562a8206da",
+          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
+          "url": "https://x.com/dotey/status/2075712647723397452",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T22:43:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7956,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T22:43:54Z",
+      "latest_at": "2026-07-10T22:43:54Z",
+      "primary_item": {
+        "id": "2307252350cc21c98542f24bced584562a8206da",
+        "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
+        "url": "https://x.com/dotey/status/2075712647723397452",
+        "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -505,15 +847,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8205,
+        "recency": 0.8027,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -566,21 +908,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7496,
+      "importance": 0.7496,
+      "importance_score": 0.7496,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8518,
+        "recency": 0.8334,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T01:56:54Z",
       "latest_at": "2026-07-11T01:56:54Z",
@@ -627,15 +968,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7587,
+        "recency": 0.7423,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -687,15 +1028,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7286,
+        "recency": 0.7128,
         "story_heat": 0.0
       },
       "category": "official",
@@ -803,15 +1144,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6015,
-      "importance": 0.6015,
-      "importance_score": 0.6015,
+      "score": 0.5986,
+      "importance": 0.5986,
+      "importance_score": 0.5986,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.763,
+        "recency": 0.7464,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -882,15 +1223,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.592,
-      "importance": 0.592,
-      "importance_score": 0.592,
+      "score": 0.5889,
+      "importance": 0.5889,
+      "importance_score": 0.5889,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8002,
+        "recency": 0.7828,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -999,15 +1340,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5643,
-      "importance": 0.5643,
-      "importance_score": 0.5643,
+      "score": 0.5611,
+      "importance": 0.5611,
+      "importance_score": 0.5611,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8249,
+        "recency": 0.8071,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1022,6 +1363,163 @@
         "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
         "source": "discuss.ai.google.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c8fd19569bf4",
+      "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "primary_url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T12:31:28.579000Z"
+        },
+        {
+          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T12:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T12:31:28.579000Z"
+        },
+        {
+          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T12:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9709,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:02:01Z",
+      "latest_at": "2026-07-11T12:31:28.579000Z",
+      "primary_item": {
+        "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+        "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+        "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5a71c356e918",
+      "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+      "url": "https://www.v2ex.com/t/1226598",
+      "primary_url": "https://www.v2ex.com/t/1226598",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9707,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:30:42Z",
+      "latest_at": "2026-07-11T12:30:42Z",
+      "primary_item": {
+        "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+        "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+        "url": "https://www.v2ex.com/t/1226598",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1096,15 +1594,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8474,
+        "recency": 0.829,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1118,518 +1616,6 @@
         "title": "Meta在推出AI图像功能数日后，因引发隐私争议而将其下架",
         "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
         "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b3a404e8e56a",
-      "title": "DayuanJiang / next-ai-draw-io",
-      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "primary_url": "https://github.com/DayuanJiang/next-ai-draw-io",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
-          "title": "DayuanJiang / next-ai-draw-io",
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
-          "title": "DayuanJiang /      next-ai-draw-io",
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T11:18:21.718000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
-          "title": "DayuanJiang / next-ai-draw-io",
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
-          "title": "DayuanJiang /      next-ai-draw-io",
-          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T11:18:21.718000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9818,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T11:18:21.718000Z",
-      "latest_at": "2026-07-11T11:46:51.218134Z",
-      "primary_item": {
-        "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
-        "title": "DayuanJiang / next-ai-draw-io",
-        "url": "https://github.com/DayuanJiang/next-ai-draw-io",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0a7e85008191",
-      "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-      "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874519.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
-          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
-          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:23:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
-          "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "53bd41ce08b667aee69742d6c135f7803d7da97c",
-          "title": "OpenAI48小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-          "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:23:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9661,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T09:23:45Z",
-      "latest_at": "2026-07-11T10:39:52.691045Z",
-      "primary_item": {
-        "id": "4a160e187edde4df54204d98b5d103546dbdac2f",
-        "title": "OpenAI48 小时六连发：一家市值万亿公司，为何还能像初创团队一样狂奔",
-        "url": "https://www.huxiu.com/article/4874519.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9c885636aaf2",
-      "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-      "url": "https://news.ycombinator.com/item?id=48870381",
-      "primary_url": "https://news.ycombinator.com/item?id=48870381",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:40:48.474000Z"
-        },
-        {
-          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://news.ycombinator.com/item?id=48870381",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T10:40:48.474000Z"
-        },
-        {
-          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T09:36:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9663,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T09:36:53Z",
-      "latest_at": "2026-07-11T10:40:48.474000Z",
-      "primary_item": {
-        "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
-        "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
-        "url": "https://news.ycombinator.com/item?id=48870381",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_fcf1a756fad9",
-      "title": "人工智能监控与社会进步",
-      "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-      "primary_url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-      "source": "www.schneier.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
-          "title": "人工智能监控与社会进步",
-          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-          "source": "www.schneier.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T09:51:09.924000Z"
-        },
-        {
-          "id": "13040820bc1a09759c52883be28b7224ffb3d5f3",
-          "title": "人工智能监控与社会进步 / AI Surveillance and Social Progress",
-          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:40:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.schneier.com"
-      ],
-      "items": [
-        {
-          "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
-          "title": "人工智能监控与社会进步",
-          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-          "source": "www.schneier.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T09:51:09.924000Z"
-        },
-        {
-          "id": "13040820bc1a09759c52883be28b7224ffb3d5f3",
-          "title": "人工智能监控与社会进步 / AI Surveillance and Social Progress",
-          "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T09:40:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9548,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T09:40:40Z",
-      "latest_at": "2026-07-11T09:51:09.924000Z",
-      "primary_item": {
-        "id": "a16d914d2e02c7b2611e63195e3a2a4bfe6bcd2b",
-        "title": "人工智能监控与社会进步",
-        "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
-        "source": "www.schneier.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ab00d130ea51",
-      "title": "苹果起诉OpenAI，指控其窃取公司机密",
-      "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "primary_url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b75f547ed568285a2f5f8e7b5519a411d45f14d9",
-          "title": "苹果起诉OpenAI，指控其窃取公司机密",
-          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:39:09.137000Z"
-        },
-        {
-          "id": "2f1c45300213f61cf6f3b5ee41f8e835afe808f0",
-          "title": "苹果起诉 OpenAI，指控其窃取公司机密 / Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-          "url": "https://news.ycombinator.com/item?id=48865431",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:17:18.539000Z"
-        },
-        {
-          "id": "d90ff07e87a158a1a4011bf3b505806b8619f9c3",
-          "title": "苹果起诉OpenAI，指控其窃取公司机密 / Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T21:20:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "b75f547ed568285a2f5f8e7b5519a411d45f14d9",
-          "title": "苹果起诉OpenAI，指控其窃取公司机密",
-          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:39:09.137000Z"
-        },
-        {
-          "id": "2f1c45300213f61cf6f3b5ee41f8e835afe808f0",
-          "title": "苹果起诉 OpenAI，指控其窃取公司机密 / Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-          "url": "https://news.ycombinator.com/item?id=48865431",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:17:18.539000Z"
-        },
-        {
-          "id": "d90ff07e87a158a1a4011bf3b505806b8619f9c3",
-          "title": "苹果起诉OpenAI，指控其窃取公司机密 / Apple Sues OpenAI, Accusing It of Stealing Company Secrets",
-          "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T21:20:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8123,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T21:20:29Z",
-      "latest_at": "2026-07-10T22:39:09.137000Z",
-      "primary_item": {
-        "id": "b75f547ed568285a2f5f8e7b5519a411d45f14d9",
-        "title": "苹果起诉OpenAI，指控其窃取公司机密",
-        "url": "https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_50774a9f366d",
-      "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
-      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-      "primary_url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-      "source": "www.tryai.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2fd03cf31c104dc231c28958c4a7ed7d192b4ab3",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "www.tryai.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:23:12.895000Z"
-        },
-        {
-          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://news.ycombinator.com/item?id=48865093",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:17:18.539000Z"
-        },
-        {
-          "id": "18351c60e30991d5c9f4f0e512e118dbbf42f61a",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:52:28Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "www.tryai.dev"
-      ],
-      "items": [
-        {
-          "id": "2fd03cf31c104dc231c28958c4a7ed7d192b4ab3",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "www.tryai.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:23:12.895000Z"
-        },
-        {
-          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://news.ycombinator.com/item?id=48865093",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T22:17:18.539000Z"
-        },
-        {
-          "id": "18351c60e30991d5c9f4f0e512e118dbbf42f61a",
-          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
-          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:52:28Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8091,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T20:52:28Z",
-      "latest_at": "2026-07-10T22:23:12.895000Z",
-      "primary_item": {
-        "id": "2fd03cf31c104dc231c28958c4a7ed7d192b4ab3",
-        "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
-        "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
-        "source": "www.tryai.dev",
         "source_name": "Buzzing"
       }
     }
