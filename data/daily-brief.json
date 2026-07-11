@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:12:21.336554Z",
+  "generated_at": "2026-07-11T23:23:46.900651Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -132,15 +132,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8624,
-      "importance": 0.8624,
-      "importance_score": 0.8624,
+      "score": 0.8596,
+      "importance": 0.8596,
+      "importance_score": 0.8596,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9212,
+        "recency": 0.9055,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -213,15 +213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9286,
+        "recency": 0.9128,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -294,15 +294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8138,
+        "recency": 0.7999,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -375,15 +375,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7955,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -456,15 +456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7239,
+        "recency": 0.7116,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -480,67 +480,6 @@
         "title": "Meta 关闭 Instagram 用户可基于公开账户生成 AI 深度伪造图片的功能",
         "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
         "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1f16fd4d5a46",
-      "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-      "url": "https://x.com/dotey/status/2075712647723397452",
-      "primary_url": "https://x.com/dotey/status/2075712647723397452",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2307252350cc21c98542f24bced584562a8206da",
-          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-          "url": "https://x.com/dotey/status/2075712647723397452",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:43:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "2307252350cc21c98542f24bced584562a8206da",
-          "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-          "url": "https://x.com/dotey/status/2075712647723397452",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T22:43:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.84,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7125,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T22:43:54Z",
-      "latest_at": "2026-07-10T22:43:54Z",
-      "primary_item": {
-        "id": "2307252350cc21c98542f24bced584562a8206da",
-        "title": "苹果起诉OpenAI窃取商业机密开发AI硬件",
-        "url": "https://x.com/dotey/status/2075712647723397452",
-        "source": "X：宝玉 (@dotey)",
         "source_name": "AI HOT"
       }
     },
@@ -579,15 +518,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9245,
+        "recency": 0.9088,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -601,66 +540,6 @@
         "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
         "url": "https://x.com/sama/status/2075985056846451123",
         "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b5fc8eb572b3",
-      "title": "苹果起诉OpenAI窃取硬件商业机密，涉及前员工与65亿美元设备项目",
-      "url": "https://x.com/rohanpaul_ai/status/2075722001713635659",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2075722001713635659",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b4955f8999e1e0e64e847fb387d69768529e0f05",
-          "title": "苹果起诉OpenAI窃取硬件商业机密，涉及前员工与65亿美元设备项目",
-          "url": "https://x.com/rohanpaul_ai/status/2075722001713635659",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:21:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "b4955f8999e1e0e64e847fb387d69768529e0f05",
-          "title": "苹果起诉OpenAI窃取硬件商业机密，涉及前员工与65亿美元设备项目",
-          "url": "https://x.com/rohanpaul_ai/status/2075722001713635659",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T23:21:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7189,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T23:21:04Z",
-      "latest_at": "2026-07-10T23:21:04Z",
-      "primary_item": {
-        "id": "b4955f8999e1e0e64e847fb387d69768529e0f05",
-        "title": "苹果起诉OpenAI窃取硬件商业机密，涉及前员工与65亿美元设备项目",
-        "url": "https://x.com/rohanpaul_ai/status/2075722001713635659",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -699,15 +578,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7464,
+        "recency": 0.7337,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -813,15 +692,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6456,
-      "importance": 0.6456,
-      "importance_score": 0.6456,
+      "score": 0.6428,
+      "importance": 0.6428,
+      "importance_score": 0.6428,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9387,
+        "recency": 0.9227,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -911,15 +790,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.5608,
+      "importance": 0.5608,
+      "importance_score": 0.5608,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.961,
+        "recency": 0.9446,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1009,15 +888,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5619,
-      "importance": 0.5619,
-      "importance_score": 0.5619,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9503,
+        "recency": 0.9341,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1088,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9797,
+        "recency": 0.963,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1166,15 +1045,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5282,
+      "importance": 0.5282,
+      "importance_score": 0.5282,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9177,
+        "recency": 0.902,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1263,15 +1142,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7425,
+        "recency": 0.7298,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1341,15 +1220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5223,
-      "importance": 0.5223,
-      "importance_score": 0.5223,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8694,
+        "recency": 0.8545,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1419,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5189,
+      "importance": 0.5189,
+      "importance_score": 0.5189,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8656,
+        "recency": 0.8508,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1498,15 +1377,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8602,
+        "recency": 0.8456,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1577,15 +1456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5182,
-      "importance": 0.5182,
-      "importance_score": 0.5182,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8465,
+        "recency": 0.8321,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1600,6 +1479,85 @@
         "url": "https://www.huxiu.com/article/4874519.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_3822e0e0e383",
+      "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+      "url": "https://news.ycombinator.com/item?id=48876505",
+      "primary_url": "https://news.ycombinator.com/item?id=48876505",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://news.ycombinator.com/item?id=48876505",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T22:38:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://news.ycombinator.com/item?id=48876505",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T23:11:32.847000Z"
+        },
+        {
+          "id": "8e05c5de6932301ae68f8674d66b4ca481bad391",
+          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+          "url": "https://www.iroh.computer/blog/mesh-llm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T22:38:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9971,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T22:38:57Z",
+      "latest_at": "2026-07-11T23:11:32.847000Z",
+      "primary_item": {
+        "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
+        "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
+        "url": "https://news.ycombinator.com/item?id=48876505",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1656,15 +1614,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5164,
-      "importance": 0.5164,
-      "importance_score": 0.5164,
+      "score": 0.5138,
+      "importance": 0.5138,
+      "importance_score": 0.5138,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8366,
+        "recency": 0.8224,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1679,6 +1637,85 @@
         "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
         "source": "www.schneier.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0cfeb65a5957",
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447891.html",
+      "primary_url": "https://www.qbitai.com/2026/07/447891.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "073d82cfd7c0cd9c6800e8537e85bc6b16b34134",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "073d82cfd7c0cd9c6800e8537e85bc6b16b34134",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5122,
+      "importance": 0.5122,
+      "importance_score": 0.5122,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8135,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T07:22:38.218241Z",
+      "latest_at": "2026-07-11T09:06:06.059728Z",
+      "primary_item": {
+        "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
+        "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+        "url": "https://www.qbitai.com/2026/07/447891.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
       }
     }
   ]
