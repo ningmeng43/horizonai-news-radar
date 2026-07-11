@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T14:34:09.376640Z",
+  "generated_at": "2026-07-11T15:48:22.047449Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8362,
-      "importance": 0.8362,
-      "importance_score": 0.8362,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7646,
+        "recency": 0.7511,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -157,15 +157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7724,
+        "recency": 0.7587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7215,
+        "recency": 0.7087,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,15 +338,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7886,
+        "recency": 0.7746,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -419,15 +419,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7793,
+      "importance": 0.7793,
+      "importance_score": 0.7793,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.8926,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -500,15 +500,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7729,
+      "importance": 0.7729,
+      "importance_score": 0.7729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7707,
+        "recency": 0.7571,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -525,6 +525,68 @@
         "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f46516359f1f",
+      "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+      "primary_url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:06:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:06:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7524,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T20:06:10Z",
+      "latest_at": "2026-07-10T20:06:10Z",
+      "primary_item": {
+        "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+        "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+        "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -581,15 +643,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9036,
+        "recency": 0.8876,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -606,68 +668,6 @@
         "url": "https://www.ithome.com/0/975/469.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f46516359f1f",
-      "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-      "primary_url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:06:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T20:06:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8019,
-      "importance": 0.8019,
-      "importance_score": 0.8019,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7659,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T20:06:10Z",
-      "latest_at": "2026-07-10T20:06:10Z",
-      "primary_item": {
-        "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
-        "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
-        "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -724,15 +724,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8083,
+        "recency": 0.794,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -786,15 +786,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7956,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -847,15 +847,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8027,
+        "recency": 0.7885,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -908,15 +908,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8334,
+        "recency": 0.8186,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -968,15 +968,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7398,
+      "importance": 0.7398,
+      "importance_score": 0.7398,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7423,
+        "recency": 0.7291,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,76 +994,23 @@
       }
     },
     {
-      "story_id": "story_2a4bac593207",
-      "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T15:07:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T15:07:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7128,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T15:07:23Z",
-      "latest_at": "2026-07-10T15:07:23Z",
-      "primary_item": {
-        "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-        "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-        "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_2df82173bb28",
-      "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
+      "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-10",
+      "source": "社区更新 · 2026-07-11",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
+          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T15:48:22.047449Z"
+        },
+        {
           "id": "59f17f8ca4f9baed12e51969b78f3df92e05b6ff",
           "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1100,12 +1047,22 @@
           "published_at": "2026-07-10T16:36:20.188212Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
-        "社区更新 · 2026-07-10"
+        "社区更新 · 2026-07-10",
+        "社区更新 · 2026-07-11"
       ],
       "items": [
         {
+          "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
+          "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-11",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-11T15:48:22.047449Z"
+        },
+        {
           "id": "59f17f8ca4f9baed12e51969b78f3df92e05b6ff",
           "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -1142,31 +1099,147 @@
           "published_at": "2026-07-10T16:36:20.188212Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5986,
-      "importance": 0.5986,
-      "importance_score": 0.5986,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7464,
-        "story_heat": 0.75
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-10T16:36:20.188212Z",
-      "latest_at": "2026-07-10T18:18:58.780248Z",
+      "latest_at": "2026-07-11T15:48:22.047449Z",
       "primary_item": {
-        "id": "59f17f8ca4f9baed12e51969b78f3df92e05b6ff",
-        "title": "卡尔这篇文章完整拆解了 GPT 5.6 全系列更新的亮点。而且还整理了3个高阶提示词，涵盖产品黑盒自测、项目风险审查、多模型协同编排实操方案，快来上手试试。",
+        "id": "6775699f131f34b8575fd1be93bbcef39425e7ce",
+        "title": "藏师傅用GPT-5.6 Sol做了一个非常完整而且好玩的小工具。上传一张你的照片，选一个跟你经历有关的\"人生成就\"，工具会给照片加上字符、像素或实验性滤镜，再叠上一张游戏风格的成就卡。最后你拿到一张 1080×1440 的竖图，直接发朋友圈、社交媒体，或者存到手机里留着。整个过程全在浏览器本地跑，不上传照片，不联网处理，打开就能用。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-10",
+        "source": "社区更新 · 2026-07-11",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_9c885636aaf2",
+      "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+      "url": "https://news.ycombinator.com/item?id=48870381",
+      "primary_url": "https://news.ycombinator.com/item?id=48870381",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T15:48:59.985000Z"
+        },
+        {
+          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T10:40:48.474000Z"
+        },
+        {
+          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
+        },
+        {
+          "id": "35f8a6eeb00072a80660916c200bc9920707947b",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:36:53Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T15:48:59.985000Z"
+        },
+        {
+          "id": "c1e3f041770c9bdbc92726c31eeb2c7415ec4d2d",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://news.ycombinator.com/item?id=48870381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T10:40:48.474000Z"
+        },
+        {
+          "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
+          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T09:36:53Z"
+        },
+        {
+          "id": "35f8a6eeb00072a80660916c200bc9920707947b",
+          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T09:36:53Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5958,
+      "importance": 0.5958,
+      "importance_score": 0.5958,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T09:36:53Z",
+      "latest_at": "2026-07-11T15:48:59.985000Z",
+      "primary_item": {
+        "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
+        "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+        "url": "https://news.ycombinator.com/item?id=48870381",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1223,15 +1296,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5889,
-      "importance": 0.5889,
-      "importance_score": 0.5889,
+      "score": 0.5864,
+      "importance": 0.5864,
+      "importance_score": 0.5864,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7828,
+        "recency": 0.769,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1340,15 +1413,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5611,
-      "importance": 0.5611,
-      "importance_score": 0.5611,
+      "score": 0.5585,
+      "importance": 0.5585,
+      "importance_score": 0.5585,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8071,
+        "recency": 0.7928,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1366,30 +1439,30 @@
       }
     },
     {
-      "story_id": "story_c8fd19569bf4",
-      "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
-      "primary_url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "story_id": "story_29bdf2d82a96",
+      "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+      "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-11T12:31:28.579000Z"
+          "published_at": "2026-07-11T14:55:03.064000Z"
         },
         {
-          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "e4a2f3d82961e889ae133cbee60e09dc5b9e6e41",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。 / AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-11T12:02:01Z"
+          "published_at": "2026-07-11T14:31:01Z"
         }
       ],
       "source_count": 2,
@@ -1399,127 +1472,49 @@
       ],
       "items": [
         {
-          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-11T12:31:28.579000Z"
+          "published_at": "2026-07-11T14:55:03.064000Z"
         },
         {
-          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
-          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
-          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "id": "e4a2f3d82961e889ae133cbee60e09dc5b9e6e41",
+          "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。 / AI is rewriting the Big Tech org chart. See which roles are getting hit the most.",
+          "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-11T12:02:01Z"
+          "published_at": "2026-07-11T14:31:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5435,
+      "importance": 0.5435,
+      "importance_score": 0.5435,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9709,
+        "recency": 0.9872,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T12:02:01Z",
-      "latest_at": "2026-07-11T12:31:28.579000Z",
+      "earliest_at": "2026-07-11T14:31:01Z",
+      "latest_at": "2026-07-11T14:55:03.064000Z",
       "primary_item": {
-        "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
-        "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
-        "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+        "id": "2d5efbc20aac79a3b956e18402becb9631558f3d",
+        "title": "人工智能正在重塑科技巨头的组织架构。看看哪些岗位受到的影响最大。",
+        "url": "https://www.businessinsider.com/ai-rewrites-big-tech-org-chart-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5a71c356e918",
-      "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-      "url": "https://www.v2ex.com/t/1226598",
-      "primary_url": "https://www.v2ex.com/t/1226598",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        },
-        {
-          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
-          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        },
-        {
-          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
-          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
-          "url": "https://www.v2ex.com/t/1226598",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T12:30:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5405,
-      "importance": 0.5405,
-      "importance_score": 0.5405,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9707,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T12:30:42Z",
-      "latest_at": "2026-07-11T12:30:42Z",
-      "primary_item": {
-        "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
-        "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
-        "url": "https://www.v2ex.com/t/1226598",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1594,15 +1589,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.829,
+        "recency": 0.8143,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1617,6 +1612,84 @@
         "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5a71c356e918",
+      "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+      "url": "https://www.v2ex.com/t/1226598",
+      "primary_url": "https://www.v2ex.com/t/1226598",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5374,
+      "importance": 0.5374,
+      "importance_score": 0.5374,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9535,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:30:42Z",
+      "latest_at": "2026-07-11T12:30:42Z",
+      "primary_item": {
+        "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+        "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+        "url": "https://www.v2ex.com/t/1226598",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
