@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T14:21:57.417009Z",
+  "generated_at": "2026-07-14T15:54:43.216896Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8482,
-      "importance": 0.8482,
-      "importance_score": 0.8482,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9791,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8127,
+        "recency": 0.7947,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8127,
+        "recency": 0.7947,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8127,
+        "recency": 0.7947,
         "story_heat": 0.0
       },
       "category": "official",
@@ -270,7 +270,7 @@
         },
         {
           "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -279,7 +279,7 @@
         },
         {
           "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -304,7 +304,7 @@
         },
         {
           "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models",
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -313,7 +313,7 @@
         },
         {
           "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
+          "title": "前沿模型的实际价格。代币 * 价格，对吧？ / The real prices of frontier models. Tokens * Price, right?",
           "url": "https://playcode.io/blog/real-price-of-frontier-models",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -323,15 +323,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7944,
-      "importance": 0.7944,
-      "importance_score": 0.7944,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7877,
+        "recency": 0.7703,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -347,6 +347,87 @@
         "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
         "url": "https://playcode.io/blog/real-price-of-frontier-models",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a4b29ff806d7",
+      "title": "纽约州暂停所有新建大型数据中心项目",
+      "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+      "primary_url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
+          "title": "纽约州暂停所有新建大型数据中心项目",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:59Z"
+        },
+        {
+          "id": "0270c884a779ec63062be205b14ce881b4f6415e",
+          "title": "纽约州暂停所有新建大型数据中心项目 / New York State halts construction of all new data centers",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T15:17:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
+          "title": "纽约州暂停所有新建大型数据中心项目",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:59Z"
+        },
+        {
+          "id": "0270c884a779ec63062be205b14ce881b4f6415e",
+          "title": "纽约州暂停所有新建大型数据中心项目 / New York State halts construction of all new data centers",
+          "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-14T15:17:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9912,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T15:17:59Z",
+      "latest_at": "2026-07-14T15:17:59Z",
+      "primary_item": {
+        "id": "a32b1d644b136455a25a1266059f71b15538ff6b",
+        "title": "纽约州暂停所有新建大型数据中心项目",
+        "url": "https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -404,15 +485,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.948,
+        "recency": 0.9271,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -466,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8086,
+        "recency": 0.7908,
         "story_heat": 0.0
       },
       "category": "official",
@@ -547,15 +628,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7727,
+      "importance": 0.7727,
+      "importance_score": 0.7727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -628,15 +709,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.743,
+        "recency": 0.7266,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -728,15 +809,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7937,
-      "importance": 0.7937,
-      "importance_score": 0.7937,
+      "score": 0.7902,
+      "importance": 0.7902,
+      "importance_score": 0.7902,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9007,
+        "recency": 0.8808,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -752,6 +833,67 @@
         "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
         "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_963623cb91e6",
+      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+      "url": "https://x.com/googleaidevs/status/2077049898059354565",
+      "primary_url": "https://x.com/googleaidevs/status/2077049898059354565",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://x.com/googleaidevs/status/2077049898059354565",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI for Developers (@googleaidevs)"
+      ],
+      "items": [
+        {
+          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://x.com/googleaidevs/status/2077049898059354565",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9911,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T15:17:40Z",
+      "latest_at": "2026-07-14T15:17:40Z",
+      "primary_item": {
+        "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
+        "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+        "url": "https://x.com/googleaidevs/status/2077049898059354565",
+        "source": "X：Google AI for Developers (@googleaidevs)",
         "source_name": "AI HOT"
       }
     },
@@ -790,15 +932,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -851,15 +993,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9246,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -878,83 +1020,62 @@
       }
     },
     {
-      "story_id": "story_dc42d63d4f1a",
-      "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-      "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-      "primary_url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-      "source": "TechCrunch：AI（RSS）",
+      "story_id": "story_d37ce11fa5e9",
+      "title": "Anthropic 推出 Claude for Teachers",
+      "url": "https://www.anthropic.com/news/claude-for-teachers",
+      "primary_url": "https://www.anthropic.com/news/claude-for-teachers",
+      "source": "Anthropic：Newsroom（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ade4cf205463e36e2a719c2a6807ecd1e1bdbcdc",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "f55cac4450b28ebb4ef289394be64e434856b95d",
+          "title": "Anthropic 推出 Claude for Teachers",
+          "url": "https://www.anthropic.com/news/claude-for-teachers",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T00:00:00Z"
-        },
-        {
-          "id": "2870e52a1360f93e652f360eab7e3b3e97404595",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T00:00:00Z"
+          "published_at": "2026-07-14T15:11:11.440000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
-          "id": "ade4cf205463e36e2a719c2a6807ecd1e1bdbcdc",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-          "source": "TechCrunch：AI（RSS）",
+          "id": "f55cac4450b28ebb4ef289394be64e434856b95d",
+          "title": "Anthropic 推出 Claude for Teachers",
+          "url": "https://www.anthropic.com/news/claude-for-teachers",
+          "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-14T00:00:00Z"
-        },
-        {
-          "id": "2870e52a1360f93e652f360eab7e3b3e97404595",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元 / Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-          "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-14T00:00:00Z"
+          "published_at": "2026-07-14T15:11:11.440000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8127,
-        "story_heat": 0.25
+        "recency": 0.9896,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
+      "earliest_at": "2026-07-14T15:11:11.440000Z",
+      "latest_at": "2026-07-14T15:11:11.440000Z",
       "primary_item": {
-        "id": "ade4cf205463e36e2a719c2a6807ecd1e1bdbcdc",
-        "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-        "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b",
-        "source": "TechCrunch：AI（RSS）",
+        "id": "f55cac4450b28ebb4ef289394be64e434856b95d",
+        "title": "Anthropic 推出 Claude for Teachers",
+        "url": "https://www.anthropic.com/news/claude-for-teachers",
+        "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       }
     },
@@ -1012,15 +1133,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9195,
+        "recency": 0.8992,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1074,15 +1195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7426,
-      "importance": 0.7426,
-      "importance_score": 0.7426,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9277,
+        "recency": 0.9072,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1134,15 +1255,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.738,
+      "importance": 0.738,
+      "importance_score": 0.738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8202,
+        "recency": 0.8021,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7943,
-      "importance": 0.7943,
-      "importance_score": 0.7943,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7236,
+        "recency": 0.7077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1256,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9821,
+        "recency": 0.9604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1279,148 +1400,6 @@
         "url": "https://www.anthropic.com/research/how-canada-uses-claude",
         "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5d3ffb4c6f4d",
-      "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-      "url": "https://www.ithome.com/0/976/453.htm",
-      "primary_url": "https://www.ithome.com/0/976/453.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
-          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-          "url": "https://www.ithome.com/0/976/453.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T05:43:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
-          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-          "url": "https://www.ithome.com/0/976/453.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T05:43:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8827,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T05:43:25Z",
-      "latest_at": "2026-07-14T05:43:25Z",
-      "primary_item": {
-        "id": "82a2e205293819aecf0e1fad2e9aa425c941d57e",
-        "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-        "url": "https://www.ithome.com/0/976/453.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_60e9c897b324",
-      "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-      "url": "https://www.aibase.com/news/29579",
-      "primary_url": "https://www.aibase.com/news/29579",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-          "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/news/29579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T08:33:19.434021Z"
-        },
-        {
-          "id": "356ea6b83f75690ac16deaae9d40691d25444d28",
-          "title": "西湖大学联合阿里达摩院推出干细胞 AI 模型「归元」，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/zh/news/29579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-          "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/news/29579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T08:33:19.434021Z"
-        },
-        {
-          "id": "356ea6b83f75690ac16deaae9d40691d25444d28",
-          "title": "西湖大学联合阿里达摩院推出干细胞 AI 模型「归元」，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/zh/news/29579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9195,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T08:33:19.434021Z",
-      "latest_at": "2026-07-14T08:33:19.434021Z",
-      "primary_item": {
-        "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-        "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-        "url": "https://www.aibase.com/news/29579",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
