@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T10:40:01.421453Z",
+  "generated_at": "2026-07-14T12:06:34.130294Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8572,
+        "recency": 0.8396,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,68 @@
         "title": "法典 CLI 0.144.4 / Codex CLI 0.144.4",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cca00ce68781",
+      "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "primary_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8396,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+        "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.853,
+        "recency": 0.8354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -125,6 +187,391 @@
         "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_248b5ff06999",
+      "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "primary_url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
+          "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
+          "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8396,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
+        "title": "销售团队如何使用 ChatGPT Work / How sales teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ee8739307658",
+      "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "primary_url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T21:50:30.963000Z"
+        },
+        {
+          "id": "3689d75285319512be005960484067a1a1c50562",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        },
+        {
+          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T21:50:30.963000Z"
+        },
+        {
+          "id": "3689d75285319512be005960484067a1a1c50562",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        },
+        {
+          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
+          "url": "https://playcode.io/blog/real-price-of-frontier-models",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T18:32:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8138,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T18:32:27Z",
+      "latest_at": "2026-07-13T21:50:30.963000Z",
+      "primary_item": {
+        "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
+        "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+        "url": "https://playcode.io/blog/real-price-of-frontier-models",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_77ccb073c59f",
+      "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
+      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+      "primary_url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "87578bed341fd0971cb7837fab5906aa5398793f",
+          "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
+          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T12:37:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "87578bed341fd0971cb7837fab5906aa5398793f",
+          "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
+          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T12:37:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7124,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T12:37:28Z",
+      "latest_at": "2026-07-13T12:37:28Z",
+      "primary_item": {
+        "id": "87578bed341fd0971cb7837fab5906aa5398793f",
+        "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
+        "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3329ba8670e1",
+      "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+      "url": "https://www.aibase.com/news/29585",
+      "primary_url": "https://www.aibase.com/news/29585",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "url": "https://www.aibase.com/news/29585",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T10:40:01.421453Z"
+        },
+        {
+          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
+          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
+          "url": "https://www.ithome.com/0/976/525.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T07:30:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "url": "https://www.aibase.com/news/29585",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T10:40:01.421453Z"
+        },
+        {
+          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
+          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
+          "url": "https://www.ithome.com/0/976/525.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T07:30:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9794,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T07:30:11Z",
+      "latest_at": "2026-07-14T10:40:01.421453Z",
+      "primary_item": {
+        "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+        "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+        "url": "https://www.aibase.com/news/29585",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fd885fb42c2e",
+      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+      "url": "https://www.ithome.com/0/976/538.htm",
+      "primary_url": "https://www.ithome.com/0/976/538.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d175968ce830a107641f2faabd1b491517898122",
+          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:46:46Z"
+        },
+        {
+          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
+          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d175968ce830a107641f2faabd1b491517898122",
+          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:46:46Z"
+        },
+        {
+          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
+          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
+          "url": "https://www.ithome.com/0/976/538.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9394,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T07:46:46Z",
+      "latest_at": "2026-07-14T08:33:19.434021Z",
+      "primary_item": {
+        "id": "d175968ce830a107641f2faabd1b491517898122",
+        "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
+        "url": "https://www.ithome.com/0/976/538.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -200,15 +647,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7991,
+      "importance": 0.7991,
+      "importance_score": 0.7991,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9502,
+        "recency": 0.9306,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -224,230 +671,6 @@
         "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
         "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_77ccb073c59f",
-      "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
-      "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-      "primary_url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "87578bed341fd0971cb7837fab5906aa5398793f",
-          "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
-          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T12:37:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "87578bed341fd0971cb7837fab5906aa5398793f",
-          "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
-          "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T12:37:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7274,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T12:37:28Z",
-      "latest_at": "2026-07-13T12:37:28Z",
-      "primary_item": {
-        "id": "87578bed341fd0971cb7837fab5906aa5398793f",
-        "title": "通过 ATL Saathi 为印度下一代创新者提供支持 / Empowering India’s next generation of innovators with ATL Saathi",
-        "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3329ba8670e1",
-      "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-      "url": "https://www.aibase.com/news/29585",
-      "primary_url": "https://www.aibase.com/news/29585",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
-          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-          "url": "https://www.aibase.com/news/29585",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T10:40:01.421453Z"
-        },
-        {
-          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
-          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
-          "url": "https://www.ithome.com/0/976/525.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T07:30:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
-          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-          "url": "https://www.aibase.com/news/29585",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T10:40:01.421453Z"
-        },
-        {
-          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
-          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
-          "url": "https://www.ithome.com/0/976/525.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T07:30:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T07:30:11Z",
-      "latest_at": "2026-07-14T10:40:01.421453Z",
-      "primary_item": {
-        "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
-        "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
-        "url": "https://www.aibase.com/news/29585",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fd885fb42c2e",
-      "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-      "url": "https://www.ithome.com/0/976/538.htm",
-      "primary_url": "https://www.ithome.com/0/976/538.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        },
-        {
-          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
-          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d175968ce830a107641f2faabd1b491517898122",
-          "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:46:46Z"
-        },
-        {
-          "id": "96ff95b783feeb6506bab7084d4b58bfc8644e40",
-          "title": "内置「任意门」，高德发布通用世界模型工坊 ABot-WorldStudio",
-          "url": "https://www.ithome.com/0/976/538.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7852,
-      "importance": 0.7852,
-      "importance_score": 0.7852,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9592,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T07:46:46Z",
-      "latest_at": "2026-07-14T08:33:19.434021Z",
-      "primary_item": {
-        "id": "d175968ce830a107641f2faabd1b491517898122",
-        "title": "高德发布通用世界模型工坊 ABot-WorldStudio，已开放测试",
-        "url": "https://www.ithome.com/0/976/538.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -486,15 +709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7725,
-      "importance": 0.7725,
-      "importance_score": 0.7725,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.957,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -509,105 +732,6 @@
         "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
         "url": "https://mp.weixin.qq.com/s/39fw1L1E8fa80PGW7qIUdw",
         "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ee8739307658",
-      "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-      "url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "primary_url": "https://playcode.io/blog/real-price-of-frontier-models",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T21:50:30.963000Z"
-        },
-        {
-          "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T21:50:30.963000Z"
-        },
-        {
-          "id": "3689d75285319512be005960484067a1a1c50562",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        },
-        {
-          "id": "2622addce2623f589af0e5e838105a0bd9990e20",
-          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价 / The real prices of frontier models. Tokens * Price, right?",
-          "url": "https://playcode.io/blog/real-price-of-frontier-models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-13T18:32:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8309,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T18:32:27Z",
-      "latest_at": "2026-07-13T21:50:30.963000Z",
-      "primary_item": {
-        "id": "558d80d8404ab2a816d9af4f54266ac2ee090e32",
-        "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
-        "url": "https://playcode.io/blog/real-price-of-frontier-models",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -665,15 +789,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7717,
-      "importance": 0.7717,
-      "importance_score": 0.7717,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7676,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -727,15 +851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7986,
+      "importance": 0.7986,
+      "importance_score": 0.7986,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7633,
+        "recency": 0.7476,
         "story_heat": 0.0
       },
       "category": "official",
@@ -789,15 +913,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9753,
+        "recency": 0.9552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -869,15 +993,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8572,
+        "recency": 0.8396,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -950,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.95,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1012,21 +1136,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T09:10:16Z",
       "latest_at": "2026-07-14T09:10:16Z",
@@ -1073,15 +1196,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8652,
+        "recency": 0.8474,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1133,15 +1256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7642,
-      "importance": 0.7642,
-      "importance_score": 0.7642,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.9119,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1213,15 +1336,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.95,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1238,146 +1361,6 @@
         "url": "https://www.aibase.com/news/29579",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9d6f1edd7517",
-      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-      "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
-        },
-        {
-          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T11:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:41:01Z"
-        },
-        {
-          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
-          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
-          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-13T11:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7358,
-      "importance": 0.7358,
-      "importance_score": 0.7358,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7176,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T11:41:01Z",
-      "latest_at": "2026-07-13T11:41:01Z",
-      "primary_item": {
-        "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
-        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
-        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c88804a1a15e",
-      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "primary_url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7279,
-      "importance": 0.7279,
-      "importance_score": 0.7279,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7127,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T11:12:59Z",
-      "latest_at": "2026-07-13T11:12:59Z",
-      "primary_item": {
-        "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
-        "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-        "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1434,15 +1417,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7754,
-      "importance": 0.7754,
-      "importance_score": 0.7754,
+      "score": 0.7721,
+      "importance": 0.7721,
+      "importance_score": 0.7721,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.8859,
         "story_heat": 0.25
       },
       "category": "industry",
