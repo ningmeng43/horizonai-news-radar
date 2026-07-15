@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T04:45:31.704824Z",
+  "generated_at": "2026-07-15T07:09:50.610598Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -21,6 +21,24 @@
           "published_at": "2026-07-14T21:27:11.693000Z"
         },
         {
+          "id": "3866feccb17eb0d861be30029f299f0a295e8d84",
+          "title": "完全披露：Cursor 中存在任意代码执行漏洞",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "mindgard.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T04:55:21.542000Z"
+        },
+        {
+          "id": "39de46bc3c39610026b5943df3ef0a3a20f15444",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Full disclosure: Arbitrary code execution in Cursor",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T02:02:02Z"
+        },
+        {
           "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
           "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
@@ -39,19 +57,20 @@
           "published_at": "2026-07-14T21:10:26.324000Z"
         },
         {
-          "id": "78cfa2463e5499e29db33484e9d029f5744a1d3b",
+          "id": "54b76b5e2e04fe8f42e744419635c156ccc82015",
           "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-14T17:58:35Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
         "hackernews",
         "mindgard.ai"
       ],
@@ -66,6 +85,24 @@
           "published_at": "2026-07-14T21:27:11.693000Z"
         },
         {
+          "id": "3866feccb17eb0d861be30029f299f0a295e8d84",
+          "title": "完全披露：Cursor 中存在任意代码执行漏洞",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "mindgard.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T04:55:21.542000Z"
+        },
+        {
+          "id": "39de46bc3c39610026b5943df3ef0a3a20f15444",
+          "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Full disclosure: Arbitrary code execution in Cursor",
+          "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T02:02:02Z"
+        },
+        {
           "id": "b247e0d454e1e52c0b5dcde8c59b706571854a3d",
           "title": "Cursor 0day：当全面披露成为唯一的防护手段时",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
@@ -84,27 +121,27 @@
           "published_at": "2026-07-14T21:10:26.324000Z"
         },
         {
-          "id": "78cfa2463e5499e29db33484e9d029f5744a1d3b",
+          "id": "54b76b5e2e04fe8f42e744419635c156ccc82015",
           "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码 / Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-14T17:58:35Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.877,
+      "importance": 0.877,
+      "importance_score": 0.877,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8999,
-        "story_heat": 0.75
+        "recency": 0.8692,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -113,7 +150,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-14T17:58:35Z",
-      "latest_at": "2026-07-14T21:27:11.693000Z",
+      "latest_at": "2026-07-15T04:55:21.542000Z",
       "primary_item": {
         "id": "6ea915c5c6c95883a37fe10b4f2fe0b1172f2a29",
         "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
@@ -157,15 +194,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9339,
+        "recency": 0.902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +256,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8137,
-      "importance": 0.8137,
-      "importance_score": 0.8137,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8317,
+        "recency": 0.8033,
         "story_heat": 0.0
       },
       "category": "official",
@@ -281,15 +318,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7627,
+        "recency": 0.7367,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9285,
+        "recency": 0.8968,
         "story_heat": 0.0
       },
       "category": "official",
@@ -462,15 +499,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8794,
+        "recency": 0.8493,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -490,55 +527,54 @@
       }
     },
     {
-      "story_id": "story_3cb375934083",
-      "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-      "url": "https://www.aibase.com/news/29609",
-      "primary_url": "https://www.aibase.com/news/29609",
+      "story_id": "story_467fe263bae9",
+      "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+      "url": "https://www.aibase.com/news/29610",
+      "primary_url": "https://www.aibase.com/news/29610",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-          "url": "https://www.aibase.com/news/29609",
+          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T07:09:50.610598Z"
+        },
+        {
+          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
+          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
+          "url": "https://www.aibase.com/news/29610",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-15T04:45:31.704824Z"
-        },
-        {
-          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
-          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
-          "url": "https://www.ithome.com/0/976/812.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T01:37:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-          "url": "https://www.aibase.com/news/29609",
+          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T07:09:50.610598Z"
+        },
+        {
+          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
+          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
+          "url": "https://www.aibase.com/news/29610",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-07-15T04:45:31.704824Z"
-        },
-        {
-          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
-          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
-          "url": "https://www.ithome.com/0/976/812.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T01:37:49Z"
         }
       ],
       "item_count": 2,
@@ -560,12 +596,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T01:37:49Z",
-      "latest_at": "2026-07-15T04:45:31.704824Z",
+      "earliest_at": "2026-07-15T04:45:31.704824Z",
+      "latest_at": "2026-07-15T07:09:50.610598Z",
       "primary_item": {
-        "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
-        "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
-        "url": "https://www.aibase.com/news/29609",
+        "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+        "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+        "url": "https://www.aibase.com/news/29610",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -624,15 +660,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9049,
+        "recency": 0.874,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -686,15 +722,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.9333,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -747,15 +783,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.935,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -771,6 +807,87 @@
         "url": "https://mp.weixin.qq.com/s/hFp5rtV8-6KVRrgZoCj03A",
         "source": "公众号：通义实验室（千问）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3cb375934083",
+      "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+      "url": "https://www.aibase.com/news/29609",
+      "primary_url": "https://www.aibase.com/news/29609",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
+          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "url": "https://www.aibase.com/news/29609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T04:45:31.704824Z"
+        },
+        {
+          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
+          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
+          "url": "https://www.ithome.com/0/976/812.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T01:37:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
+          "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+          "url": "https://www.aibase.com/news/29609",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T04:45:31.704824Z"
+        },
+        {
+          "id": "233fccf637e7d448c766f90673d7b0169a2f7b62",
+          "title": "AI 转录 Mac 工具 MacWhisper 14 发布：新增编辑器视图，修复 CPU 占用过高问题",
+          "url": "https://www.ithome.com/0/976/812.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T01:37:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9659,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T01:37:49Z",
+      "latest_at": "2026-07-15T04:45:31.704824Z",
+      "primary_item": {
+        "id": "f42390251bc986e4ab09f27a61b95d1832ec7738",
+        "title": "AI 转录 Mac 工具MacWhisper14 发布：新增编辑器视图可直接编辑转录稿，修复CPU占用过高问题",
+        "url": "https://www.aibase.com/news/29609",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -808,15 +925,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8712,
+        "recency": 0.8415,
         "story_heat": 0.0
       },
       "category": "official",
@@ -870,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
+      "score": 0.7536,
+      "importance": 0.7536,
+      "importance_score": 0.7536,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9204,
+        "recency": 0.889,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,15 +1048,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9591,
+        "recency": 0.9264,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,87 +1072,6 @@
         "url": "https://mp.weixin.qq.com/s/QcGHxKohg0gW9e84Nd_9jA",
         "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_82b1ef1c8ca0",
-      "title": "Hinge创始人筹资1800万美元，推出全新AI语音约会服务Overtone",
-      "url": "https://www.aibase.com/news/29595",
-      "primary_url": "https://www.aibase.com/news/29595",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "19cb14b1824e5e39a13f6f07cd59b0179cdd480f",
-          "title": "Hinge创始人筹资1800万美元，推出全新AI语音约会服务Overtone",
-          "url": "https://www.aibase.com/news/29595",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T01:49:01.239408Z"
-        },
-        {
-          "id": "b4772f8ba369a667c0f7f7c54731b159f3199b89",
-          "title": "Hinge 创始人筹资 1800 万美元，推出全新 AI 语音约会服务 Overtone",
-          "url": "https://www.aibase.com/zh/news/29595",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "19cb14b1824e5e39a13f6f07cd59b0179cdd480f",
-          "title": "Hinge创始人筹资1800万美元，推出全新AI语音约会服务Overtone",
-          "url": "https://www.aibase.com/news/29595",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T01:49:01.239408Z"
-        },
-        {
-          "id": "b4772f8ba369a667c0f7f7c54731b159f3199b89",
-          "title": "Hinge 创始人筹资 1800 万美元，推出全新 AI 语音约会服务 Overtone",
-          "url": "https://www.aibase.com/zh/news/29595",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9584,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T01:49:01.239408Z",
-      "latest_at": "2026-07-15T01:49:01.239408Z",
-      "primary_item": {
-        "id": "19cb14b1824e5e39a13f6f07cd59b0179cdd480f",
-        "title": "Hinge创始人筹资1800万美元，推出全新AI语音约会服务Overtone",
-        "url": "https://www.aibase.com/news/29595",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1092,15 +1128,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7386,
+        "recency": 0.7134,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1172,15 +1208,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 0.8336,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1234,15 +1270,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.934,
+        "recency": 0.9022,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1256,6 +1292,66 @@
         "title": "每天Vibe Coding 16小时，作者分享Fable 5与GPT-5.6 Sol的AI开发流程",
         "url": "https://mp.weixin.qq.com/s/wm_LM83gyLM-auidBxprZw",
         "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_963623cb91e6",
+      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+      "url": "https://x.com/googleaidevs/status/2077049898059354565",
+      "primary_url": "https://x.com/googleaidevs/status/2077049898059354565",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://x.com/googleaidevs/status/2077049898059354565",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI for Developers (@googleaidevs)"
+      ],
+      "items": [
+        {
+          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://x.com/googleaidevs/status/2077049898059354565",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7247,
+      "importance": 0.7247,
+      "importance_score": 0.7247,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7952,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T15:17:40Z",
+      "latest_at": "2026-07-14T15:17:40Z",
+      "primary_item": {
+        "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
+        "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+        "url": "https://x.com/googleaidevs/status/2077049898059354565",
+        "source": "X：Google AI for Developers (@googleaidevs)",
         "source_name": "AI HOT"
       }
     },
@@ -1313,15 +1409,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.987,
+        "recency": 0.9533,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1337,66 +1433,6 @@
         "title": "数据中心已使美国公众电费增加230亿美元，回收成本困难重重",
         "url": "https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_963623cb91e6",
-      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-      "url": "https://x.com/googleaidevs/status/2077049898059354565",
-      "primary_url": "https://x.com/googleaidevs/status/2077049898059354565",
-      "source": "X：Google AI for Developers (@googleaidevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
-          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-          "url": "https://x.com/googleaidevs/status/2077049898059354565",
-          "source": "X：Google AI for Developers (@googleaidevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:17:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI for Developers (@googleaidevs)"
-      ],
-      "items": [
-        {
-          "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
-          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-          "url": "https://x.com/googleaidevs/status/2077049898059354565",
-          "source": "X：Google AI for Developers (@googleaidevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:17:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8233,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T15:17:40Z",
-      "latest_at": "2026-07-14T15:17:40Z",
-      "primary_item": {
-        "id": "9bc51c2fb59cd6c689018ebf99993d43dca6a689",
-        "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-        "url": "https://x.com/googleaidevs/status/2077049898059354565",
-        "source": "X：Google AI for Developers (@googleaidevs)",
         "source_name": "AI HOT"
       }
     },
@@ -1435,15 +1471,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
+      "score": 0.7212,
+      "importance": 0.7212,
+      "importance_score": 0.7212,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7511,
+        "recency": 0.7254,
         "story_heat": 0.0
       },
       "category": "industry",
