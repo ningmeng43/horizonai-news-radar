@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T01:59:10.212482Z",
+  "generated_at": "2026-07-16T05:14:28.791583Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8729,
-      "importance": 0.8729,
-      "importance_score": 0.8729,
+      "score": 0.8663,
+      "importance": 0.8663,
+      "importance_score": 0.8663,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7939,
+        "recency": 0.7574,
         "story_heat": 0.5
       },
       "category": "official",
@@ -101,6 +101,68 @@
         "title": "OpenAI 发布 GPT-Red：通过自动化红队测试提升模型鲁棒性 / GPT-Red: Unlocking Self-Improvement for Robustness",
         "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+          "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+          "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8529,
+      "importance": 0.8529,
+      "importance_score": 0.8529,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9271,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:00:00Z",
+      "latest_at": "2026-07-16T00:00:00Z",
+      "primary_item": {
+        "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+        "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -139,15 +201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8846,
+        "recency": 0.844,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +263,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9528,
+        "recency": 0.909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -320,15 +382,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
+      "score": 0.8122,
+      "importance": 0.8122,
+      "importance_score": 0.8122,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.871,
+        "recency": 0.831,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -382,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8318,
+      "importance": 0.8318,
+      "importance_score": 0.8318,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.884,
+        "recency": 0.8434,
         "story_heat": 0.0
       },
       "category": "official",
@@ -463,15 +525,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9541,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -525,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8171,
+        "recency": 0.7796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -606,15 +668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.779,
+        "recency": 0.7432,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -630,6 +692,67 @@
         "title": "国行 Apple 智能完成备案，阿里千问将集成至苹果 AI 能力",
         "url": "https://www.ithome.com/0/977/109.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9cd0612d8690",
+      "title": "远程操控Agent干活：Codex+UU远程方案",
+      "url": "https://x.com/Khazix0918/status/2077615013913883003",
+      "primary_url": "https://x.com/Khazix0918/status/2077615013913883003",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fdc8e37265ca0b809787a7ac9d006c08435d3dab",
+          "title": "远程操控Agent干活：Codex+UU远程方案",
+          "url": "https://x.com/Khazix0918/status/2077615013913883003",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T04:43:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "fdc8e37265ca0b809787a7ac9d006c08435d3dab",
+          "title": "远程操控Agent干活：Codex+UU远程方案",
+          "url": "https://x.com/Khazix0918/status/2077615013913883003",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T04:43:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9925,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T04:43:14Z",
+      "latest_at": "2026-07-16T04:43:14Z",
+      "primary_item": {
+        "id": "fdc8e37265ca0b809787a7ac9d006c08435d3dab",
+        "title": "远程操控Agent干活：Codex+UU远程方案",
+        "url": "https://x.com/Khazix0918/status/2077615013913883003",
+        "source": "X：卡兹克 (@Khazix0918)",
         "source_name": "AI HOT"
       }
     },
@@ -668,15 +791,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7704,
-      "importance": 0.7704,
-      "importance_score": 0.7704,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9323,
+        "recency": 0.8894,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,15 +871,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7966,
-      "importance": 0.7966,
-      "importance_score": 0.7966,
+      "score": 0.7887,
+      "importance": 0.7887,
+      "importance_score": 0.7887,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9553,
+        "recency": 0.9115,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -810,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7639,
-      "importance": 0.7639,
-      "importance_score": 0.7639,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9795,
+        "recency": 0.9346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -890,15 +1013,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9541,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -918,124 +1041,62 @@
       }
     },
     {
-      "story_id": "story_d223be4610de",
-      "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-      "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-      "primary_url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_c252e41214e7",
+      "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+      "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+      "primary_url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+      "source": "公众号：昆仑万维（天工）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
-          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-          "source": "公众号：数字生命卡兹克",
+          "id": "b7f7afe5952e709350ca5c8634d0837a7ee8b409",
+          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+          "source": "公众号：昆仑万维（天工）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T00:12:00Z"
+          "published_at": "2026-07-16T02:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "公众号：昆仑万维（天工）"
       ],
       "items": [
         {
-          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
-          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-          "source": "公众号：数字生命卡兹克",
+          "id": "b7f7afe5952e709350ca5c8634d0837a7ee8b409",
+          "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+          "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+          "source": "公众号：昆仑万维（天工）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T00:12:00Z"
+          "published_at": "2026-07-16T02:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9745,
+        "recency": 0.9543,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T00:12:00Z",
-      "latest_at": "2026-07-16T00:12:00Z",
+      "earliest_at": "2026-07-16T02:00:00Z",
+      "latest_at": "2026-07-16T02:00:00Z",
       "primary_item": {
-        "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
-        "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-        "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_25d632ed3557",
-      "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-      "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-      "primary_url": "https://x.com/AnthropicAI/status/2077452646303006927",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Anthropic (@AnthropicAI)"
-      ],
-      "items": [
-        {
-          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8907,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T17:58:02Z",
-      "latest_at": "2026-07-15T17:58:02Z",
-      "primary_item": {
-        "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
-        "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-        "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-        "source": "X：Anthropic (@AnthropicAI)",
+        "id": "b7f7afe5952e709350ca5c8634d0837a7ee8b409",
+        "title": "天工短剧工作台发布\"Agent智能分镜+无限画布\"双轨创作模式",
+        "url": "https://mp.weixin.qq.com/s/WlGAeogkF_N5122nHA0TtQ",
+        "source": "公众号：昆仑万维（天工）",
         "source_name": "AI HOT"
       }
     },
@@ -1074,21 +1135,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8049,
+        "recency": 0.7679,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T10:57:15Z",
       "latest_at": "2026-07-15T10:57:15Z",
@@ -1097,6 +1157,126 @@
         "title": "阿里Qwen将集成至Apple Intelligence服务中国用户",
         "url": "https://x.com/thexpin/status/2077346752219521469",
         "source": "X：X.PIN (@thexpin)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_25d632ed3557",
+      "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
+      "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "primary_url": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
+          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T17:58:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
+          "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-15T17:58:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8498,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T17:58:02Z",
+      "latest_at": "2026-07-15T17:58:02Z",
+      "primary_item": {
+        "id": "9e3a209c107b8eebe49833c7a7af585ee46afb55",
+        "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
+        "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d223be4610de",
+      "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+      "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+      "primary_url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
+          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:12:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
+          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+          "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T00:12:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9298,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-16T00:12:00Z",
+      "latest_at": "2026-07-16T00:12:00Z",
+      "primary_item": {
+        "id": "a61c6e99f28af9a1fdca4942051b64dec8baf05d",
+        "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
+        "url": "https://mp.weixin.qq.com/s/x2JlkhOlGNVhL8oe7AVk9Q",
+        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -1135,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9945,
+        "recency": 0.9488,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1195,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8923,
+        "recency": 0.8514,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1217,207 +1397,6 @@
         "title": "Thinking Machines 发布多模态模型 Inkling",
         "url": "https://x.com/thinkymachines/status/2077454609551921208",
         "source": "X：Thinking Machines (@thinkymachines)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1e0b0464a728",
-      "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-      "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-      "primary_url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
-          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:22:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
-          "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-          "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T02:22:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7111,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T02:22:50Z",
-      "latest_at": "2026-07-15T02:22:50Z",
-      "primary_item": {
-        "id": "709f0f21fa4519d273c42d59b48c693e161a2a1e",
-        "title": "Airtap iMessage 新功能：发条短信让 AI 替你操作手机",
-        "url": "https://x.com/AYi_AInotes/status/2077217295504490992",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b02eb08df82a",
-      "title": "Claude Code 新增 MCP 连接器调用功能",
-      "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-      "primary_url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
-          "title": "Claude Code 新增 MCP 连接器调用功能",
-          "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T20:26:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
-          "title": "Claude Code 新增 MCP 连接器调用功能",
-          "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T20:26:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.923,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T20:26:06Z",
-      "latest_at": "2026-07-15T20:26:06Z",
-      "primary_item": {
-        "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
-        "title": "Claude Code 新增 MCP 连接器调用功能",
-        "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e21c965e6aed",
-      "title": "Telegram 无服务器架构",
-      "url": "https://core.telegram.org/bots/serverless",
-      "primary_url": "https://core.telegram.org/bots/serverless",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-          "title": "Telegram 无服务器架构",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T15:37:19.450000Z"
-        },
-        {
-          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
-          "title": "Telegram 无服务器架构 / Telegram Serverless",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T10:06:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-          "title": "Telegram 无服务器架构",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T15:37:19.450000Z"
-        },
-        {
-          "id": "896aa7903770e1ec702edbf7b8920e29b26a2232",
-          "title": "Telegram 无服务器架构 / Telegram Serverless",
-          "url": "https://core.telegram.org/bots/serverless",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T10:06:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.861,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T10:06:39Z",
-      "latest_at": "2026-07-15T15:37:19.450000Z",
-      "primary_item": {
-        "id": "b48d0bcf1ac9713812076dcfd68a880183ee0fa8",
-        "title": "Telegram 无服务器架构",
-        "url": "https://core.telegram.org/bots/serverless",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     }
