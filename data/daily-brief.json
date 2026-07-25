@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:25:03.208221Z",
+  "generated_at": "2026-07-25T23:28:34.598519Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.781,
+      "importance": 0.781,
+      "importance_score": 0.781,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8691,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7355,
+        "recency": 0.7244,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -161,66 +161,6 @@
         "id": "e6800627a2a9f0b44852539be4d0ff91c6ccd109",
         "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
         "url": "https://www.ithome.com/0/981/432.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_0b65d58eaaa3",
-      "title": "Anthropic Opus 5 发布：性能逼近 Fable 5 但价格砍半，刷新 ARC-AGI-3 纪录",
-      "url": "https://www.ithome.com/0/981/398.htm",
-      "primary_url": "https://www.ithome.com/0/981/398.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "19344f3e4c7ad4dae6b4d2e0651f96571c98c75d",
-          "title": "Anthropic Opus 5 发布：性能逼近 Fable 5 但价格砍半，刷新 ARC-AGI-3 纪录",
-          "url": "https://www.ithome.com/0/981/398.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:42:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "19344f3e4c7ad4dae6b4d2e0651f96571c98c75d",
-          "title": "Anthropic Opus 5 发布：性能逼近 Fable 5 但价格砍半，刷新 ARC-AGI-3 纪录",
-          "url": "https://www.ithome.com/0/981/398.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T22:42:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7101,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T22:42:53Z",
-      "latest_at": "2026-07-24T22:42:53Z",
-      "primary_item": {
-        "id": "19344f3e4c7ad4dae6b4d2e0651f96571c98c75d",
-        "title": "Anthropic Opus 5 发布：性能逼近 Fable 5 但价格砍半，刷新 ARC-AGI-3 纪录",
-        "url": "https://www.ithome.com/0/981/398.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
@@ -314,15 +254,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6385,
-      "importance": 0.6385,
-      "importance_score": 0.6385,
+      "score": 0.6358,
+      "importance": 0.6358,
+      "importance_score": 0.6358,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9681,
+        "recency": 0.9534,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -337,6 +277,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-25",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_81e43f035001",
+      "title": "Claude 5 生成模型的上下文工程新规则",
+      "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "primary_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+      "source": "claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T22:25:37.670000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "claude.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+          "title": "Claude 5 生成模型的上下文工程新规则",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T23:23:09.413000Z"
+        },
+        {
+          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
+          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://news.ycombinator.com/item?id=49051361",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T22:25:37.670000Z"
+        },
+        {
+          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
+          "title": "Claude 5 生成模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
+          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T20:42:35Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5706,
+      "importance": 0.5706,
+      "importance_score": 0.5706,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9987,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T20:42:35Z",
+      "latest_at": "2026-07-25T23:23:09.413000Z",
+      "primary_item": {
+        "id": "2ae9320b0f7625aac5d63abc709ee8fdadf835c2",
+        "title": "Claude 5 生成模型的上下文工程新规则",
+        "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+        "source": "claude.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -412,15 +450,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5579,
+      "importance": 0.5579,
+      "importance_score": 0.5579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9425,
+        "recency": 0.9282,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -438,80 +476,80 @@
       }
     },
     {
-      "story_id": "story_81e43f035001",
-      "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-      "url": "https://news.ycombinator.com/item?id=49051361",
-      "primary_url": "https://news.ycombinator.com/item?id=49051361",
+      "story_id": "story_5f284decdfa5",
+      "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+      "url": "https://news.ycombinator.com/item?id=49050512",
+      "primary_url": "https://news.ycombinator.com/item?id=49050512",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T22:25:37.670000Z"
+          "published_at": "2026-07-25T23:06:07.579000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://news.ycombinator.com/item?id=49051361",
+          "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://news.ycombinator.com/item?id=49050512",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-25T22:25:37.670000Z"
+          "published_at": "2026-07-25T23:06:07.579000Z"
         },
         {
-          "id": "5920a73ab632ecf7df801097810fdd2b22fd624d",
-          "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-          "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T20:42:35Z"
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9946,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T20:42:35Z",
-      "latest_at": "2026-07-25T22:25:37.670000Z",
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-25T23:06:07.579000Z",
       "primary_item": {
-        "id": "b27cf50203d00f94165e44664ab63b7e378aecbc",
-        "title": "Claude 5代模型的上下文工程新规则 / The new rules of context engineering for Claude 5 generation models",
-        "url": "https://news.ycombinator.com/item?id=49051361",
+        "id": "78d7d4403a4002210cc614ea22b03df47beea53e",
+        "title": "在 8 美元的微控制器上运行 2890 万参数的 LLM / Running a 28.9M parameter LLM on an $8 microcontroller",
+        "url": "https://news.ycombinator.com/item?id=49050512",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -570,15 +608,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9795,
+        "recency": 0.9647,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -592,6 +630,85 @@
         "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
         "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_98671c483284",
+      "title": "Show HN: 《扫雷》光线投射版",
+      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+      "primary_url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+      "source": "claude.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
+          "title": "Show HN: 《扫雷》光线投射版",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T19:55:34.429000Z"
+        },
+        {
+          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:39:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "claude.ai"
+      ],
+      "items": [
+        {
+          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
+          "title": "Show HN: 《扫雷》光线投射版",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T19:55:34.429000Z"
+        },
+        {
+          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:39:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.95,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T19:39:12Z",
+      "latest_at": "2026-07-25T19:55:34.429000Z",
+      "primary_item": {
+        "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
+        "title": "Show HN: 《扫雷》光线投射版",
+        "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+        "source": "claude.ai",
         "source_name": "Buzzing"
       }
     },
@@ -649,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9621,
+        "recency": 0.9475,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -679,16 +796,16 @@
       "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
       "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
       "primary_url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
           "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
           "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         },
         {
@@ -703,17 +820,16 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
           "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
           "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T16:31:15Z"
         },
         {
@@ -728,15 +844,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9184,
+        "recency": 0.9044,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -746,11 +862,11 @@
       "earliest_at": "2026-07-25T02:36:51Z",
       "latest_at": "2026-07-25T16:31:15Z",
       "primary_item": {
-        "id": "4dc6a85d4e09312aefe3a953a436dbc1bb5a8a53",
+        "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
         "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
         "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -807,15 +923,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9104,
+        "recency": 0.8966,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -830,85 +946,6 @@
         "url": "https://news.ycombinator.com/item?id=49048571",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_64934dbed4f8",
-      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
-        },
-        {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T14:41:06Z"
-        },
-        {
-          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
-          "title": "人工智能引发的就业危机短期内恐怕不会到来",
-          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.753000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8943,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:14:51.753000Z",
-      "latest_at": "2026-07-25T14:41:06Z",
-      "primary_item": {
-        "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
-        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
-        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -965,15 +1002,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5118,
-      "importance": 0.5118,
-      "importance_score": 0.5118,
+      "score": 0.5096,
+      "importance": 0.5096,
+      "importance_score": 0.5096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8112,
+        "recency": 0.7989,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1043,15 +1080,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8081,
+        "recency": 0.7958,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1066,84 +1103,6 @@
         "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8b70706ef7b0",
-      "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-      "url": "https://news.ycombinator.com/item?id=49048034",
-      "primary_url": "https://news.ycombinator.com/item?id=49048034",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
-          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T18:58:14.680000Z"
-        },
-        {
-          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T16:22:05.765000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
-          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T18:58:14.680000Z"
-        },
-        {
-          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
-          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-          "url": "https://news.ycombinator.com/item?id=49048034",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T16:22:05.765000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9514,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T16:22:05.765000Z",
-      "latest_at": "2026-07-25T18:58:14.680000Z",
-      "primary_item": {
-        "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
-        "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
-        "url": "https://news.ycombinator.com/item?id=49048034",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1200,15 +1159,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7846,
+        "recency": 0.7727,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1223,6 +1182,84 @@
         "url": "https://www.36kr.com/p/3910351337821318",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_8b70706ef7b0",
+      "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+      "url": "https://news.ycombinator.com/item?id=49048034",
+      "primary_url": "https://news.ycombinator.com/item?id=49048034",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T18:58:14.680000Z"
+        },
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:22:05.765000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+          "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T18:58:14.680000Z"
+        },
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开放式人工智能正在迎来 Kubernetes 时刻。我们不要毁掉它 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:22:05.765000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.937,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T16:22:05.765000Z",
+      "latest_at": "2026-07-25T18:58:14.680000Z",
+      "primary_item": {
+        "id": "022e97c1d3677e4208c9c17090d5febdbabf66af",
+        "title": "开放重量人工智能正在迎来 Kubernetes 时刻 / Open-weight AI is having its Kubernetes moment",
+        "url": "https://news.ycombinator.com/item?id=49048034",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1279,15 +1316,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
+      "score": 0.5036,
+      "importance": 0.5036,
+      "importance_score": 0.5036,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7776,
+        "recency": 0.7658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1358,15 +1395,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5024,
-      "importance": 0.5024,
-      "importance_score": 0.5024,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7591,
+        "recency": 0.7476,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1384,161 +1421,82 @@
       }
     },
     {
-      "story_id": "story_bbb0789ef07d",
-      "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
+      "story_id": "story_64934dbed4f8",
+      "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "primary_url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
+          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T14:41:06Z"
         },
         {
-          "id": "25dc5909b4cf398592022c9660920382a50d9471",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T23:11:13Z"
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "BBC News",
-        "www.bbc.co.uk"
+        "Hacker News · 24h最热",
+        "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
+          "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T14:41:06Z"
         },
         {
-          "id": "25dc5909b4cf398592022c9660920382a50d9471",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T23:11:13Z"
+          "id": "ce0e3db950f079daf8e9da4564174d5011676407",
+          "title": "人工智能引发的就业危机短期内恐怕不会到来",
+          "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.753000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4954,
-      "importance": 0.4954,
-      "importance_score": 0.4954,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7199,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T23:11:13Z",
-      "latest_at": "2026-07-24T23:39:48.013000Z",
+      "earliest_at": "2026-07-25T13:14:51.753000Z",
+      "latest_at": "2026-07-25T14:41:06Z",
       "primary_item": {
-        "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-        "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-        "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b2e8ce2bc9a2",
-      "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-      "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-      "primary_url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-      "source": "unsung.aresluna.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "unsung.aresluna.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.216000Z"
-        },
-        {
-          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:04:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "unsung.aresluna.org"
-      ],
-      "items": [
-        {
-          "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "unsung.aresluna.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:07:45.216000Z"
-        },
-        {
-          "id": "ad53f7596fdcf009a092b960b37b9ad3d4e38ceb",
-          "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键 / Chrome registers a global shortcut for Gemini popup window",
-          "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:04:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4944,
-      "importance": 0.4944,
-      "importance_score": 0.4944,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7144,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T23:04:57Z",
-      "latest_at": "2026-07-24T23:07:45.216000Z",
-      "primary_item": {
-        "id": "d0b2e976bfac416a1b5a2b3c76d0c7ceab3059e7",
-        "title": "Chrome 为 Gemini 弹出窗口注册了一个全局快捷键",
-        "url": "https://unsung.aresluna.org/chromes-breaking-and-entering",
-        "source": "unsung.aresluna.org",
-        "source_name": "Buzzing"
+        "id": "c06737b4d54c3e003092a352435c90dcc45ff3ba",
+        "title": "人工智能引发的就业危机短期内恐怕不会到来 / The AI jobs apocalypse probably isn't coming anytime soon",
+        "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1595,15 +1553,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.876,
+        "recency": 0.8627,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1618,6 +1576,85 @@
         "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_eff75d4ec392",
+      "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
+      "url": "https://www.ithome.com/0/981/445.htm",
+      "primary_url": "https://www.ithome.com/0/981/445.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
+          "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
+          "url": "https://www.ithome.com/0/981/445.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "994ec55364a1cd588f7c4a6df1b16f7ecc8d1a69",
+          "title": "OpenAI 将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
+          "url": "https://www.ithome.com/0/981/445.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T02:10:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
+          "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
+          "url": "https://www.ithome.com/0/981/445.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "994ec55364a1cd588f7c4a6df1b16f7ecc8d1a69",
+          "title": "OpenAI 将打造“贾维斯”式语音助手，未来有望登陆第三方智能眼镜",
+          "url": "https://www.ithome.com/0/981/445.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T02:10:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7427,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T02:10:26Z",
+      "latest_at": "2026-07-25T02:52:53.835269Z",
+      "primary_item": {
+        "id": "f13bc873de171d188d7e50ef313ffad88064bb48",
+        "title": "OpenAI 将打造「贾维斯」式语音助手，未来有望登陆第三方智能眼镜",
+        "url": "https://www.ithome.com/0/981/445.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
