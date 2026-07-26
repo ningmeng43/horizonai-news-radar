@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T19:07:07.682404Z",
+  "generated_at": "2026-07-26T20:28:28.656192Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.771,
+      "importance": 0.771,
+      "importance_score": 0.771,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9142,
+        "recency": 0.8965,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.859,
+        "recency": 0.8424,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -219,15 +219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8029,
+        "recency": 0.7873,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -281,21 +281,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9874,
+        "recency": 0.9683,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-26T18:14:29Z",
       "latest_at": "2026-07-26T18:14:29Z",
@@ -361,15 +360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8222,
+        "recency": 0.8063,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -422,38 +421,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T16:52:17.540989Z"
-        },
-        {
-          "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
-          "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:10:23.683103Z"
-        },
-        {
-          "id": "5613709695b567a2783bb96dd67b4aad3cc1e0c9",
-          "title": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:10:23.683103Z"
-        },
-        {
-          "id": "9bfe739b4d31abcc6e3626ba28819f72e3e0caa1",
-          "title": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:10:23.683103Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 3,
       "source_names": [
-        "社区更新 · 2026-07-25",
         "社区更新 · 2026-07-26"
       ],
       "items": [
@@ -483,53 +454,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-07-26T16:52:17.540989Z"
-        },
-        {
-          "id": "75b2d0780822c91405a0dec36835176c263d4ab6",
-          "title": "Claude Code 负责人发布了最新的Prompt指南：面向Opus 5 / Fable 5，他们直接删掉了 80% 以上系统提示词，编码评测几乎没掉，反而说明新模型更需要清爽、按需加载的上下文。系统提示词只放产品语境；CLAUDE.md 保持轻量，把token留给代码库里的坑；Skill做成轻量指路牌，用渐进式披露按需加载；工具设计靠清晰参数和schema；参照物尽量给代码、HTML mockup、测试用例这类高保真材料。如果你也在维护一堆越写越厚的 Prompt/Skill，这篇文章很适合拿来做一次“减法体检”。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:10:23.683103Z"
-        },
-        {
-          "id": "5613709695b567a2783bb96dd67b4aad3cc1e0c9",
-          "title": "写作很难靠一个万能工具解决，你要先判断写什么，再搭框架、补素材，最后慢慢校准自己的表达。不过YouMind的这6 个写作Skills或许会在各个阶段帮助到你：选题阶段用「公众号选题分析师」做定位、热度调研和竞品拆解，用「智能选题助手」把知识库素材和实时热点组合成可写方向；写作阶段用商业特稿助手、新世相编辑、卡兹克文风教练，分别处理商业深度、都市情绪和 AI 观点风格；长期风格建设则交给「灵魂笔触」，沉淀个人写作资产。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:10:23.683103Z"
-        },
-        {
-          "id": "9bfe739b4d31abcc6e3626ba28819f72e3e0caa1",
-          "title": "现在做GEO，最容易踩的坑，是把它当成新版 SEO：内容发了很多，却没搞清楚豆包、元宝、文心、DeepSeek、Kimi 各自更愿意引用谁。姚金刚和向阳乔木的GEO公开课第3期基于21万条AI引用记录，拆解了12个AI平台的信源偏好。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-07-25",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-07-25T20:10:23.683103Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6662,
-      "importance": 0.6662,
-      "importance_score": 0.6662,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6128,
+      "importance": 0.6128,
+      "importance_score": 0.6128,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9833,
-        "story_heat": 1.0
+        "recency": 0.9642,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T20:10:23.683103Z",
+      "earliest_at": "2026-07-26T16:52:17.540989Z",
       "latest_at": "2026-07-26T17:56:57.782576Z",
       "primary_item": {
         "id": "e9ccd8491eaa729087b74400bef42d02506e733a",
@@ -537,141 +481,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-26",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 中 LLM 的应用：三项提案",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:08:31.455000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:25:37.670000Z"
-        },
-        {
-          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "afb2f58c5eb9c9f4f8c2012771d27ebc7de67450",
-          "title": "LLM 在 Debian 中的使用：三个建议 / LLM Usage in Debian: Three Proposals",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:08:31.455000Z"
-        },
-        {
-          "id": "440e2dd4cb92209bfcfcee18fc3616a9d0d0dd2a",
-          "title": "一般解决方案：LLM 在 Debian 中的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://news.ycombinator.com/item?id=49050859",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T22:25:37.670000Z"
-        },
-        {
-          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
-          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "353dda68bd2b71b983bbe24960003dadadfcac32",
-          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:44:39Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5853,
-      "importance": 0.5853,
-      "importance_score": 0.5853,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8029,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T19:44:39Z",
-      "latest_at": "2026-07-26T03:54:52.336000Z",
-      "primary_item": {
-        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-        "title": "Debian 中 LLM 的应用：三项提案",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -701,18 +510,18 @@
           "published_at": "2026-07-26T14:40:27Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "Hacker News · 24h最热",
         "aerospaceglobalnews.com"
       ],
@@ -736,26 +545,26 @@
           "published_at": "2026-07-26T14:40:27Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "id": "447392d8ca6ea964dbae249d9541cb7539cd750b",
           "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-07-26T14:40:27Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9659,
+        "recency": 0.9471,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -799,18 +608,18 @@
           "published_at": "2026-07-26T01:08:31.455000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "blog.cloudflare.com",
         "hackernews"
       ],
@@ -834,26 +643,26 @@
           "published_at": "2026-07-26T01:08:31.455000Z"
         },
         {
-          "id": "2d1e732658f9db304dfc22de572764252c7c2efa",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项 / Cloudflare's new AI traffic options for customers",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5439,
-      "importance": 0.5439,
-      "importance_score": 0.5439,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8506,
+        "recency": 0.8341,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -924,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9834,
+        "recency": 0.9643,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1003,15 +812,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9771,
+        "recency": 0.9582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1026,6 +835,84 @@
         "url": "https://github.com/MicSm/boffin",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_94d030042966",
+      "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+      "url": "https://vectoral.com/blog/token-relay-market",
+      "primary_url": "https://vectoral.com/blog/token-relay-market",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        },
+        {
+          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
+          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+          "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        },
+        {
+          "id": "38aaec0d18c0844c3ac88be02b7fa27cef04a6f4",
+          "title": "中继市场为代币经销商和欺诈提供动力 / The relay market powering token resellers and fraud",
+          "url": "https://vectoral.com/blog/token-relay-market",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-26T15:17:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9278,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T15:17:06Z",
+      "latest_at": "2026-07-26T15:17:06Z",
+      "primary_item": {
+        "id": "042de61b0f27be331d5dc3e84886de697a5e1862",
+        "title": "代币经销商市场的内部观察 / An Inside Look at the Token Reseller Market",
+        "url": "https://vectoral.com/blog/token-relay-market",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1082,15 +969,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9223,
+        "recency": 0.9044,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1180,15 +1067,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.752,
+        "recency": 0.7375,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1259,15 +1146,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8908,
+        "recency": 0.8736,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1302,18 +1189,18 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
+          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "huggingface.co"
       ],
       "items": [
@@ -1327,26 +1214,26 @@
           "published_at": "2026-07-26T07:38:53.861000Z"
         },
         {
-          "id": "282dbd4ec66043d7dffac55bce9bf5442c733001",
+          "id": "506f7f8a432e1e633dad3ec2bccf81f95b355878",
           "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型 / Inflect-Micro-v2: complete voice in 9.36M parameters",
           "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-26T00:36:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.5154,
+      "importance": 0.5154,
+      "importance_score": 0.5154,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8474,
+        "recency": 0.8309,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1364,81 +1251,82 @@
       }
     },
     {
-      "story_id": "story_8ca75aca4ab6",
-      "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-      "url": "https://golfcoursebrowser.com",
-      "primary_url": "https://golfcoursebrowser.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_40b66364c786",
+      "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-          "url": "https://golfcoursebrowser.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
+          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T02:18:54.069000Z"
         },
         {
-          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-          "url": "https://golfcoursebrowser.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
+          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T20:59:11.659000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "news.google.com",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-          "url": "https://golfcoursebrowser.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
+          "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T02:18:54.069000Z"
         },
         {
-          "id": "a43faab724386e56e5a4956c91402045b9b1022e",
-          "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course – 16k+ courses, free, no signup",
-          "url": "https://golfcoursebrowser.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-26T02:22:26Z"
+          "id": "e5c2fb315cc604ef49b0a39661ddb7b587e54d0b",
+          "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对”",
+          "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T20:59:11.659000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5071,
-      "importance": 0.5071,
-      "importance_score": 0.5071,
+      "score": 0.5043,
+      "importance": 0.5043,
+      "importance_score": 0.5043,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7852,
+        "recency": 0.7693,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T02:22:26Z",
-      "latest_at": "2026-07-26T02:22:26Z",
+      "earliest_at": "2026-07-25T20:59:11.659000Z",
+      "latest_at": "2026-07-26T02:18:54.069000Z",
       "primary_item": {
-        "id": "1cd2da5d2e867cae928d9d7358e34c5b4074ea92",
-        "title": "Show HN: 我绘制了美国所有高尔夫球场的地图——共1.8万个球场，免费，无需注册 / Show HN: I mapped every US golf course",
-        "url": "https://golfcoursebrowser.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "b7981426bffe3d23a62448cb01ea9ad24dacb8ca",
+        "title": "Hugging Face 首席执行官在“失控”智能体入侵事件后阐述了对 OpenAI 的要求：“此事理应得到史无前例的应对” - Business Insider",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmtJbm81Snd2OVhfdmM1V0dWSDNRYnVaUkNVV3NMQmlxU2pXTFFkRzBDc2p1UXF2dkhrSHRsOVV6OWpiakxSbkpvNFB5ck5sOWJodjdMejhYdzd6ZnJsX0todVo2bk9BeDJla1JRY0tQNlFycmdnM19Ic25Hd0ZZbTduSUVua0RpWFEzdFI1cV8xbmYzTzNYMA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1495,15 +1383,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9481,
+        "recency": 0.9297,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1593,15 +1481,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8029,
+        "recency": 0.7873,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1672,15 +1560,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7713,
+        "recency": 0.7563,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1698,81 +1586,81 @@
       }
     },
     {
-      "story_id": "story_98671c483284",
-      "title": "Show HN: 《扫雷》光线投射版",
-      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "primary_url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-      "source": "claude.ai",
+      "story_id": "story_79cae2a287d1",
+      "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+      "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+      "primary_url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-          "title": "Show HN: 《扫雷》光线投射版",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "claude.ai",
+          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T19:55:34.429000Z"
+          "published_at": "2026-07-26T10:18:47.689000Z"
         },
         {
-          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
-          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:39:12Z"
+          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:03:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "claude.ai"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-          "title": "Show HN: 《扫雷》光线投射版",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "claude.ai",
+          "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T19:55:34.429000Z"
+          "published_at": "2026-07-26T10:18:47.689000Z"
         },
         {
-          "id": "438253bcd342488e146d10a5ec5bb88b2ca3ecc0",
-          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
-          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T19:39:12Z"
+          "id": "b805cb5d72d56bc1ef0f0e1b7f93d7ff633db4d1",
+          "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧 / CEOs and execs can't agree on what AI means for Gen Z workers",
+          "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T10:03:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4946,
-      "importance": 0.4946,
-      "importance_score": 0.4946,
+      "score": 0.5212,
+      "importance": 0.5212,
+      "importance_score": 0.5212,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7154,
+        "recency": 0.8635,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T19:39:12Z",
-      "latest_at": "2026-07-25T19:55:34.429000Z",
+      "earliest_at": "2026-07-26T10:03:01Z",
+      "latest_at": "2026-07-26T10:18:47.689000Z",
       "primary_item": {
-        "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
-        "title": "Show HN: 《扫雷》光线投射版",
-        "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
-        "source": "claude.ai",
+        "id": "93a43ed5a625b02b8fd0a24882c0e117287bf19b",
+        "title": "首席执行官和高管们对人工智能对Z世代员工意味着什么存在分歧",
+        "url": "https://www.businessinsider.com/ceos-execs-what-ai-means-gen-z-workers-2026-7",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
