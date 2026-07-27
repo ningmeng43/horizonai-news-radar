@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T20:49:22.311093Z",
+  "generated_at": "2026-07-27T21:59:22.052204Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8649,
-      "importance": 0.8649,
-      "importance_score": 0.8649,
+      "score": 0.8621,
+      "importance": 0.8621,
+      "importance_score": 0.8621,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9327,
+        "recency": 0.9171,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8518,
-      "importance": 0.8518,
-      "importance_score": 0.8518,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9986,
+        "recency": 0.9819,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8496,
+        "recency": 0.8354,
         "story_heat": 0.0
       },
       "category": "official",
@@ -263,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8618,
-      "importance": 0.8618,
-      "importance_score": 0.8618,
+      "score": 0.8589,
+      "importance": 0.8589,
+      "importance_score": 0.8589,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9601,
+        "recency": 0.944,
         "story_heat": 0.25
       },
       "category": "official",
@@ -288,6 +288,68 @@
         "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
         "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_58d617805c7f",
+      "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9306,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:00:35Z",
+      "latest_at": "2026-07-27T17:00:35Z",
+      "primary_item": {
+        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+        "title": "GitHub Copilot 应用程序和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -326,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8098,
+      "importance": 0.8098,
+      "importance_score": 0.8098,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7787,
+        "recency": 0.7657,
         "story_heat": 0.0
       },
       "category": "official",
@@ -407,15 +469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9321,
+        "recency": 0.9165,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -488,15 +550,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.962,
+        "recency": 0.9459,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -569,15 +631,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7823,
-      "importance": 0.7823,
-      "importance_score": 0.7823,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9761,
+        "recency": 0.9598,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -631,15 +693,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9226,
+        "recency": 0.9072,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -711,15 +773,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7645,
+      "importance": 0.7645,
+      "importance_score": 0.7645,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8583,
+        "recency": 0.844,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -773,15 +835,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9578,
+        "recency": 0.9418,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -834,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7684,
+        "recency": 0.7555,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -894,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9706,
+        "recency": 0.9544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8431,
+        "recency": 0.829,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1054,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8079,
+        "recency": 0.7944,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1135,15 +1197,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8079,
+        "recency": 0.7944,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1197,15 +1259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9292,
+        "recency": 0.9136,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1276,15 +1338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8079,
+        "recency": 0.7944,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1464,15 +1526,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.657,
-      "importance": 0.657,
-      "importance_score": 0.657,
+      "score": 0.6542,
+      "importance": 0.6542,
+      "importance_score": 0.6542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9321,
+        "recency": 0.9166,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1487,66 +1549,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-27",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_19eeca1736fb",
-      "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-          "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:25:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9251,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T15:25:45Z",
-      "latest_at": "2026-07-27T15:25:45Z",
-      "primary_item": {
-        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
-        "title": "Kimi K3 开源分布式智能体环境 AgentENV",
-        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
       }
     }
   ]
