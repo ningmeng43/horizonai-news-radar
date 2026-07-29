@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T11:02:37.573860Z",
+  "generated_at": "2026-07-29T13:12:45.011211Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9815,
+        "recency": 0.9513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8526,
+        "recency": 0.8263,
         "story_heat": 0.0
       },
       "category": "official",
@@ -219,15 +219,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9194,
+        "recency": 0.8911,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -300,15 +300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7706,
+        "recency": 0.7469,
         "story_heat": 0.25
       },
       "category": "official",
@@ -382,15 +382,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8337,
-      "importance": 0.8337,
-      "importance_score": 0.8337,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7596,
+        "recency": 0.7362,
         "story_heat": 0.25
       },
       "category": "official",
@@ -445,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.749,
+        "recency": 0.7259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -470,6 +470,168 @@
         "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e8035148749c",
+      "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
+          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T11:54:29Z"
+        },
+        {
+          "id": "e4482ec486bbf2efaad08162d5957615af16ef05",
+          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-29T11:54:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
+          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T11:54:29Z"
+        },
+        {
+          "id": "e4482ec486bbf2efaad08162d5957615af16ef05",
+          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-29T11:54:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9813,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T11:54:29Z",
+      "latest_at": "2026-07-29T11:54:29Z",
+      "primary_item": {
+        "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
+        "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1d50a0b3fba4",
+      "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+      "url": "https://www.ithome.com/0/983/298.htm",
+      "primary_url": "https://www.ithome.com/0/983/298.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
+          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+          "url": "https://www.ithome.com/0/983/298.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:12:21Z"
+        },
+        {
+          "id": "11eaa9c43709f9e2ceac622414ec18b15ca957ca",
+          "title": "马斯克旗下 SpaceXAI 起诉明尼苏达州，反对“AI 脱衣”应用禁令",
+          "url": "https://www.ithome.com/0/983/298.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T12:12:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
+          "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+          "url": "https://www.ithome.com/0/983/298.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:12:21Z"
+        },
+        {
+          "id": "11eaa9c43709f9e2ceac622414ec18b15ca957ca",
+          "title": "马斯克旗下 SpaceXAI 起诉明尼苏达州，反对“AI 脱衣”应用禁令",
+          "url": "https://www.ithome.com/0/983/298.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T12:12:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9856,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T12:12:21Z",
+      "latest_at": "2026-07-29T12:12:21Z",
+      "primary_item": {
+        "id": "5ca59a0643596dfc6a18ae43bf97dec6063d5ddd",
+        "title": "SpaceXAI 起诉明尼苏达州，反对\"AI 脱衣\"应用禁令",
+        "url": "https://www.ithome.com/0/983/298.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -507,15 +669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8245,
-      "importance": 0.8245,
-      "importance_score": 0.8245,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8475,
+        "recency": 0.8213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -532,6 +694,87 @@
         "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6692077c43c1",
+      "title": "Google AI Overviews 在搜索中占比升至 43%",
+      "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
+      "primary_url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
+      "source": "Artificial Intelligence News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bd2eb5c1f9f38405f986c03d2cbcb79a3153263c",
+          "title": "Google AI Overviews 在搜索中占比升至 43%",
+          "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
+          "source": "Artificial Intelligence News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T10:00:00Z"
+        },
+        {
+          "id": "5fe233c945b4d9748351de90de109d7cb348a93c",
+          "title": "Google AI Overviews 在搜索中占比升至 43% / Google AI Overviews become more common in search",
+          "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
+          "source": "Artificial Intelligence News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-29T10:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Artificial Intelligence News",
+        "Artificial Intelligence News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bd2eb5c1f9f38405f986c03d2cbcb79a3153263c",
+          "title": "Google AI Overviews 在搜索中占比升至 43%",
+          "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
+          "source": "Artificial Intelligence News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T10:00:00Z"
+        },
+        {
+          "id": "5fe233c945b4d9748351de90de109d7cb348a93c",
+          "title": "Google AI Overviews 在搜索中占比升至 43% / Google AI Overviews become more common in search",
+          "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
+          "source": "Artificial Intelligence News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-29T10:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9547,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:00:00Z",
+      "latest_at": "2026-07-29T10:00:00Z",
+      "primary_item": {
+        "id": "bd2eb5c1f9f38405f986c03d2cbcb79a3153263c",
+        "title": "Google AI Overviews 在搜索中占比升至 43%",
+        "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
+        "source": "Artificial Intelligence News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -588,15 +831,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9692,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -613,88 +856,6 @@
         "url": "https://www.aibase.com/news/29983",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_50bf9e90585e",
-      "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0580dda2085465aa909fe1fe3301e7696273096d",
-          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T13:00:00Z"
-        },
-        {
-          "id": "43af4d2ec045945749a67087f2e19e6cf9a66e57",
-          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0580dda2085465aa909fe1fe3301e7696273096d",
-          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T13:00:00Z"
-        },
-        {
-          "id": "43af4d2ec045945749a67087f2e19e6cf9a66e57",
-          "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活",
-          "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T13:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7274,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T13:00:00Z",
-      "latest_at": "2026-07-28T13:00:00Z",
-      "primary_item": {
-        "id": "0580dda2085465aa909fe1fe3301e7696273096d",
-        "title": "Google Search 的 AI Mode 推出 5 项新功能，帮你规划线下生活 / 5 ways AI Mode in Search helps you enjoy the real world",
-        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -732,15 +893,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7647,
+        "recency": 0.7411,
         "story_heat": 0.0
       },
       "category": "official",
@@ -760,83 +921,63 @@
       }
     },
     {
-      "story_id": "story_c6a6786160fa",
-      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-      "url": "https://www.ithome.com/0/982/816.htm",
-      "primary_url": "https://www.ithome.com/0/982/816.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_b250f943b483",
+      "title": "腾讯混元开源 AngelSpec 投机解码框架",
+      "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+      "primary_url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5a8238ba1d1119bcc903825877fef30893dff034",
-          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-          "url": "https://www.ithome.com/0/982/816.htm",
-          "source": "IT之家（RSS）",
+          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
+          "title": "腾讯混元开源 AngelSpec 投机解码框架",
+          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T00:20:32Z"
-        },
-        {
-          "id": "45b6bdb1fd95b7fa33bae28d4c37fe3fc36f111d",
-          "title": "上千名员工呼吁美国政府控制 AI 发展，OpenAI CEO 奥尔特曼表态",
-          "url": "https://www.ithome.com/0/982/816.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T00:20:32Z"
+          "published_at": "2026-07-29T12:43:55Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "X：腾讯混元 (@TencentHunyuan)"
       ],
       "items": [
         {
-          "id": "5a8238ba1d1119bcc903825877fef30893dff034",
-          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-          "url": "https://www.ithome.com/0/982/816.htm",
-          "source": "IT之家（RSS）",
+          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
+          "title": "腾讯混元开源 AngelSpec 投机解码框架",
+          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T00:20:32Z"
-        },
-        {
-          "id": "45b6bdb1fd95b7fa33bae28d4c37fe3fc36f111d",
-          "title": "上千名员工呼吁美国政府控制 AI 发展，OpenAI CEO 奥尔特曼表态",
-          "url": "https://www.ithome.com/0/982/816.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T00:20:32Z"
+          "published_at": "2026-07-29T12:43:55Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8568,
-        "story_heat": 0.25
+        "recency": 0.9931,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T00:20:32Z",
-      "latest_at": "2026-07-29T00:20:32Z",
+      "earliest_at": "2026-07-29T12:43:55Z",
+      "latest_at": "2026-07-29T12:43:55Z",
       "primary_item": {
-        "id": "5a8238ba1d1119bcc903825877fef30893dff034",
-        "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-        "url": "https://www.ithome.com/0/982/816.htm",
-        "source": "IT之家（RSS）",
+        "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
+        "title": "腾讯混元开源 AngelSpec 投机解码框架",
+        "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+        "source": "X：腾讯混元 (@TencentHunyuan)",
         "source_name": "AI HOT"
       }
     },
@@ -894,15 +1035,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7738,
-      "importance": 0.7738,
-      "importance_score": 0.7738,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7956,
+        "recency": 0.771,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -918,67 +1059,6 @@
         "title": "Anthropic 的 Claude Mythos Preview 模型发现 AES 和 HAWK 加密算法漏洞",
         "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6692077c43c1",
-      "title": "Google AI Overviews 在搜索中占比升至 43%",
-      "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
-      "primary_url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
-      "source": "Artificial Intelligence News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bd2eb5c1f9f38405f986c03d2cbcb79a3153263c",
-          "title": "Google AI Overviews 在搜索中占比升至 43%",
-          "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
-          "source": "Artificial Intelligence News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Artificial Intelligence News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bd2eb5c1f9f38405f986c03d2cbcb79a3153263c",
-          "title": "Google AI Overviews 在搜索中占比升至 43%",
-          "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
-          "source": "Artificial Intelligence News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.985,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T10:00:00Z",
-      "latest_at": "2026-07-29T10:00:00Z",
-      "primary_item": {
-        "id": "bd2eb5c1f9f38405f986c03d2cbcb79a3153263c",
-        "title": "Google AI Overviews 在搜索中占比升至 43%",
-        "url": "https://www.artificialintelligence-news.com/news/google-ai-overviews-us-searches",
-        "source": "Artificial Intelligence News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1017,15 +1097,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7664,
-      "importance": 0.7664,
-      "importance_score": 0.7664,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.81,
+        "recency": 0.7851,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1097,15 +1177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8081,
+        "recency": 0.7831,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1178,15 +1258,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9692,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1240,15 +1320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.8151,
-      "importance_score": 0.8151,
+      "score": 0.8107,
+      "importance": 0.8107,
+      "importance_score": 0.8107,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7953,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1321,15 +1401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7845,
-      "importance": 0.7845,
-      "importance_score": 0.7845,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8881,
+        "recency": 0.8607,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1383,21 +1463,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8416,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T23:05:54Z",
       "latest_at": "2026-07-28T23:05:54Z",
@@ -1406,67 +1485,6 @@
         "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
         "url": "https://x.com/thsottiaux/status/2082241164850364555",
         "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ede30d0e38d9",
-      "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-      "url": "https://x.com/AndrewYNg/status/2082199333920027009",
-      "primary_url": "https://x.com/AndrewYNg/status/2082199333920027009",
-      "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3daba011f98ad8aa67a0d462dadda8b888956974",
-          "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-          "url": "https://x.com/AndrewYNg/status/2082199333920027009",
-          "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:19:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)"
-      ],
-      "items": [
-        {
-          "id": "3daba011f98ad8aa67a0d462dadda8b888956974",
-          "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-          "url": "https://x.com/AndrewYNg/status/2082199333920027009",
-          "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T20:19:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8086,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T20:19:41Z",
-      "latest_at": "2026-07-28T20:19:41Z",
-      "primary_item": {
-        "id": "3daba011f98ad8aa67a0d462dadda8b888956974",
-        "title": "Andrew Ng 创办 LearnVector，用 AI 实现一对一学习",
-        "url": "https://x.com/AndrewYNg/status/2082199333920027009",
-        "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
         "source_name": "AI HOT"
       }
     }
