@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T02:22:49.885805Z",
+  "generated_at": "2026-07-29T05:35:11.189907Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.8599,
-      "importance_score": 0.8599,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9662,
+        "recency": 0.9225,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,125 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bb11c447dc13",
+      "title": "吴恩达创立 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资",
+      "url": "https://learnvector.ai",
+      "primary_url": "https://learnvector.ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb9e57821699334855f51387e33c9f4ee815cbe4",
+          "title": "吴恩达创立 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资",
+          "url": "https://learnvector.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T05:13:29.739000Z"
+        },
+        {
+          "id": "b8a99ccf693a37b9e2ed1ee442101fbf9826b41a",
+          "title": "LearnVector——吴恩达创立的人工智能公司，致力于打造一对一的学习体验",
+          "url": "https://learnvector.ai",
+          "source": "learnvector.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T05:13:29.739000Z"
+        },
+        {
+          "id": "98dddb22916426a0aff828d85268a1f202ee4f21",
+          "title": "LearnVector – 吴恩达的人工智能公司打造一对一的学习体验 / LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+          "url": "https://news.ycombinator.com/item?id=49092499",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T02:04:15.359000Z"
+        },
+        {
+          "id": "1360478c5aa98c12c89a85d6a7d32b8d7949b0c4",
+          "title": "吴恩达创立 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资 / LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+          "url": "https://learnvector.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T01:49:19Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "learnvector.ai"
+      ],
+      "items": [
+        {
+          "id": "bb9e57821699334855f51387e33c9f4ee815cbe4",
+          "title": "吴恩达创立 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资",
+          "url": "https://learnvector.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T05:13:29.739000Z"
+        },
+        {
+          "id": "b8a99ccf693a37b9e2ed1ee442101fbf9826b41a",
+          "title": "LearnVector——吴恩达创立的人工智能公司，致力于打造一对一的学习体验",
+          "url": "https://learnvector.ai",
+          "source": "learnvector.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T05:13:29.739000Z"
+        },
+        {
+          "id": "98dddb22916426a0aff828d85268a1f202ee4f21",
+          "title": "LearnVector – 吴恩达的人工智能公司打造一对一的学习体验 / LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+          "url": "https://news.ycombinator.com/item?id=49092499",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T02:04:15.359000Z"
+        },
+        {
+          "id": "1360478c5aa98c12c89a85d6a7d32b8d7949b0c4",
+          "title": "吴恩达创立 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资 / LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+          "url": "https://learnvector.ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T01:49:19Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8507,
+      "importance": 0.8507,
+      "importance_score": 0.8507,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9948,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T01:49:19Z",
+      "latest_at": "2026-07-29T05:13:29.739000Z",
+      "primary_item": {
+        "id": "bb9e57821699334855f51387e33c9f4ee815cbe4",
+        "title": "吴恩达创立 AI 教育公司 LearnVector，获 Coursera 1 亿美元投资",
+        "url": "https://learnvector.ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -119,15 +238,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8542,
-      "importance": 0.8542,
-      "importance_score": 0.8542,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8733,
+        "recency": 0.8338,
         "story_heat": 0.25
       },
       "category": "official",
@@ -201,15 +320,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8449,
+      "importance": 0.8449,
+      "importance_score": 0.8449,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8608,
+        "recency": 0.8219,
         "story_heat": 0.25
       },
       "category": "official",
@@ -264,15 +383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8449,
-      "importance": 0.8449,
-      "importance_score": 0.8449,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9604,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "official",
@@ -326,15 +445,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8488,
+        "recency": 0.8104,
         "story_heat": 0.0
       },
       "category": "official",
@@ -407,15 +526,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8243,
+        "recency": 0.787,
         "story_heat": 0.25
       },
       "category": "official",
@@ -470,15 +589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.836,
-      "importance": 0.836,
-      "importance_score": 0.836,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8666,
+        "recency": 0.8273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -532,15 +651,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.835,
-      "importance": 0.835,
-      "importance_score": 0.835,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9501,
+        "recency": 0.9071,
         "story_heat": 0.0
       },
       "category": "official",
@@ -613,15 +732,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8024,
-      "importance": 0.8024,
-      "importance_score": 0.8024,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.971,
+        "recency": 0.9271,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -638,6 +757,87 @@
         "url": "https://www.ithome.com/0/982/816.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3bb46e638656",
+      "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+      "url": "https://www.aibase.com/news/29968",
+      "primary_url": "https://www.aibase.com/news/29968",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
+          "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/news/29968",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T05:35:11.189907Z"
+        },
+        {
+          "id": "eda03f69d71b13701e90ab5c8c1031ba92d642da",
+          "title": "AI 让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/zh/news/29968",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
+          "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/news/29968",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T05:35:11.189907Z"
+        },
+        {
+          "id": "eda03f69d71b13701e90ab5c8c1031ba92d642da",
+          "title": "AI 让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+          "url": "https://www.aibase.com/zh/news/29968",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T05:35:11.189907Z",
+      "latest_at": "2026-07-29T05:35:11.189907Z",
+      "primary_item": {
+        "id": "89a9ff0867339ac3cb13d9d8f1c46bc04b0f71b5",
+        "title": "AI让漏洞发现速度飙升，今年安全缺陷数量预计翻番，黑客也在加速跟上",
+        "url": "https://www.aibase.com/news/29968",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -694,15 +894,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9016,
+        "recency": 0.8608,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -719,87 +919,6 @@
         "url": "https://the-decoder.com/anthropic-says-its-mythos-model-found-vulnerabilities-in-cryptographic-algorithms-that-secure-the-internet",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dd445ea7efc8",
-      "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-      "url": "https://www.aibase.com/news/29955",
-      "primary_url": "https://www.aibase.com/news/29955",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "64ab4a91f2aee7a0f7e155d0a32cad149442cbbd",
-          "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/news/29955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T02:22:49.885805Z"
-        },
-        {
-          "id": "7f2ac1cac858a9e504b6d29cba4971d23f522220",
-          "title": "OpenAI 开源 Codex 安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/zh/news/29955",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "64ab4a91f2aee7a0f7e155d0a32cad149442cbbd",
-          "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/news/29955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T02:22:49.885805Z"
-        },
-        {
-          "id": "7f2ac1cac858a9e504b6d29cba4971d23f522220",
-          "title": "OpenAI 开源 Codex 安全扫描工具，把漏洞检测塞进开发者命令行",
-          "url": "https://www.aibase.com/zh/news/29955",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T02:22:49.885805Z",
-      "latest_at": "2026-07-29T02:22:49.885805Z",
-      "primary_item": {
-        "id": "64ab4a91f2aee7a0f7e155d0a32cad149442cbbd",
-        "title": "OpenAI开源Codex安全扫描工具，把漏洞检测塞进开发者命令行",
-        "url": "https://www.aibase.com/news/29955",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -837,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.918,
+        "recency": 0.8765,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -917,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9157,
+        "recency": 0.8743,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -945,30 +1064,30 @@
       }
     },
     {
-      "story_id": "story_6711b1606164",
-      "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-      "url": "https://arxiv.org/abs/2510.26692",
-      "primary_url": "https://arxiv.org/abs/2510.26692",
+      "story_id": "story_dd6007cb67f0",
+      "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+      "url": "https://github.com/gavamedia/deltafin",
+      "primary_url": "https://github.com/gavamedia/deltafin",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
-          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "url": "https://arxiv.org/abs/2510.26692",
+          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "url": "https://github.com/gavamedia/deltafin",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-28T15:21:28.545000Z"
+          "published_at": "2026-07-29T02:49:20.833000Z"
         },
         {
-          "id": "46bf2c11aeae256bf529946f0677b746439684c3",
-          "title": "Kimi Linear：一种表现力强且高效的注意力架构 / Kimi Linear: An Expressive, Efficient Attention Architecture",
-          "url": "https://arxiv.org/abs/2510.26692",
+          "id": "dda83bbb81749d5f1ce52a37d586cf1b10a24f32",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理 / Running Kimi K3 on a M1 Max",
+          "url": "https://github.com/gavamedia/deltafin",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-28T10:52:30Z"
+          "published_at": "2026-07-28T21:35:19Z"
         }
       ],
       "source_count": 2,
@@ -978,35 +1097,35 @@
       ],
       "items": [
         {
-          "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
-          "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-          "url": "https://arxiv.org/abs/2510.26692",
+          "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+          "url": "https://github.com/gavamedia/deltafin",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-28T15:21:28.545000Z"
+          "published_at": "2026-07-29T02:49:20.833000Z"
         },
         {
-          "id": "46bf2c11aeae256bf529946f0677b746439684c3",
-          "title": "Kimi Linear：一种表现力强且高效的注意力架构 / Kimi Linear: An Expressive, Efficient Attention Architecture",
-          "url": "https://arxiv.org/abs/2510.26692",
+          "id": "dda83bbb81749d5f1ce52a37d586cf1b10a24f32",
+          "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理 / Running Kimi K3 on a M1 Max",
+          "url": "https://github.com/gavamedia/deltafin",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-28T10:52:30Z"
+          "published_at": "2026-07-28T21:35:19Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8528,
+        "recency": 0.9609,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1015,74 +1134,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T10:52:30Z",
-      "latest_at": "2026-07-28T15:21:28.545000Z",
+      "earliest_at": "2026-07-28T21:35:19Z",
+      "latest_at": "2026-07-29T02:49:20.833000Z",
       "primary_item": {
-        "id": "38111d2f4a886a6aa3d805b0feecfab85dc5f869",
-        "title": "Kimi Linear：一种表现力强且高效的注意力架构",
-        "url": "https://arxiv.org/abs/2510.26692",
+        "id": "9050f0ea5122c836de98467a9c779842d595f3c0",
+        "title": "在 M1 Max 上运行 2.8T 参数的 Kimi K3：Deltafin 项目实现 0.0687 token/s 推理",
+        "url": "https://github.com/gavamedia/deltafin",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_82f8c7dbc83a",
-      "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-      "url": "https://x.com/thsottiaux/status/2082241164850364555",
-      "primary_url": "https://x.com/thsottiaux/status/2082241164850364555",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
-          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-          "url": "https://x.com/thsottiaux/status/2082241164850364555",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T23:05:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
-          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-          "url": "https://x.com/thsottiaux/status/2082241164850364555",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T23:05:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7743,
-      "importance": 0.7743,
-      "importance_score": 0.7743,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9537,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T23:05:54Z",
-      "latest_at": "2026-07-28T23:05:54Z",
-      "primary_item": {
-        "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
-        "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
-        "url": "https://x.com/thsottiaux/status/2082241164850364555",
-        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -1121,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9012,
+        "recency": 0.8605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1146,6 +1204,67 @@
         "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_82f8c7dbc83a",
+      "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+      "url": "https://x.com/thsottiaux/status/2082241164850364555",
+      "primary_url": "https://x.com/thsottiaux/status/2082241164850364555",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
+          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+          "url": "https://x.com/thsottiaux/status/2082241164850364555",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T23:05:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
+          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+          "url": "https://x.com/thsottiaux/status/2082241164850364555",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T23:05:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9106,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T23:05:54Z",
+      "latest_at": "2026-07-28T23:05:54Z",
+      "primary_item": {
+        "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
+        "title": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+        "url": "https://x.com/thsottiaux/status/2082241164850364555",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1183,15 +1302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7705,
-      "importance": 0.7705,
-      "importance_score": 0.7705,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9163,
+        "recency": 0.8749,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1207,6 +1326,87 @@
         "url": "https://x.com/AndrewYNg/status/2082199333920027009",
         "source": "X：Andrew Ng（DeepLearning.AI 创始人） (@AndrewYNg)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_23882db0ce16",
+      "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+      "url": "https://www.aibase.com/news/29969",
+      "primary_url": "https://www.aibase.com/news/29969",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
+          "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/news/29969",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T05:35:11.189907Z"
+        },
+        {
+          "id": "2215e443b928ea01b3916eeaa84518aa490a86ff",
+          "title": "OpenRouter 推出专用 LangChain 集成包，一行字符串切换 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/zh/news/29969",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
+          "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/news/29969",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T05:35:11.189907Z"
+        },
+        {
+          "id": "2215e443b928ea01b3916eeaa84518aa490a86ff",
+          "title": "OpenRouter 推出专用 LangChain 集成包，一行字符串切换 400 款模型，故障自动绕行",
+          "url": "https://www.aibase.com/zh/news/29969",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T05:35:11.189907Z",
+      "latest_at": "2026-07-29T05:35:11.189907Z",
+      "primary_item": {
+        "id": "4a8337065f8401e8f77f22fa80f6cc5fce941e55",
+        "title": "OpenRouter 推出专用 LangChain 集成包 一行字符串切 400 款模型，故障自动绕行",
+        "url": "https://www.aibase.com/news/29969",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1244,15 +1444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.8952,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1268,148 +1468,6 @@
         "url": "https://x.com/AISafetyMemes/status/2082223372214448303",
         "source": "X：AI Safety Memes (@AISafetyMemes)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fb946d7f5d1a",
-      "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
-      "url": "https://x.com/dotey/status/2082227259096944689",
-      "primary_url": "https://x.com/dotey/status/2082227259096944689",
-      "source": "X：宝玉 (@dotey)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "05656dabab1279549654aae9afd2b185ab239074",
-          "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
-          "url": "https://x.com/dotey/status/2082227259096944689",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:10:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：宝玉 (@dotey)"
-      ],
-      "items": [
-        {
-          "id": "05656dabab1279549654aae9afd2b185ab239074",
-          "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
-          "url": "https://x.com/dotey/status/2082227259096944689",
-          "source": "X：宝玉 (@dotey)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T22:10:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9411,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T22:10:39Z",
-      "latest_at": "2026-07-28T22:10:39Z",
-      "primary_item": {
-        "id": "05656dabab1279549654aae9afd2b185ab239074",
-        "title": "OpenAI 开源 Codex Security 代码安全扫描工具",
-        "url": "https://x.com/dotey/status/2082227259096944689",
-        "source": "X：宝玉 (@dotey)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_aeb6ed419639",
-      "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-      "url": "https://www.aibase.com/news/29959",
-      "primary_url": "https://www.aibase.com/news/29959",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
-          "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-          "url": "https://www.aibase.com/news/29959",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T02:22:49.885805Z"
-        },
-        {
-          "id": "81bdbb603a74fa69432ab764f4338306bd4d2580",
-          "title": "Runlayer 起诉 HR 巨头 Rippling: 指控其利用试用期盗用代码，1:1 克隆 AI 网关",
-          "url": "https://www.aibase.com/zh/news/29959",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
-          "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-          "url": "https://www.aibase.com/news/29959",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T02:22:49.885805Z"
-        },
-        {
-          "id": "81bdbb603a74fa69432ab764f4338306bd4d2580",
-          "title": "Runlayer 起诉 HR 巨头 Rippling: 指控其利用试用期盗用代码，1:1 克隆 AI 网关",
-          "url": "https://www.aibase.com/zh/news/29959",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T02:22:49.885805Z",
-      "latest_at": "2026-07-29T02:22:49.885805Z",
-      "primary_item": {
-        "id": "205a2b1f20f22a9487d9540674f7a8fa9e443de8",
-        "title": "Runlayer 起诉 HR 巨头 Rippling:指控其利用试用期盗用代码，1:1克隆 AI 网关",
-        "url": "https://www.aibase.com/news/29959",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
