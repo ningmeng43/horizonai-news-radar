@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T22:00:49.393325Z",
+  "generated_at": "2026-07-30T23:30:44.489349Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9063,
-      "importance": 0.9063,
-      "importance_score": 0.9063,
+      "score": 0.9031,
+      "importance": 0.9031,
+      "importance_score": 0.9031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8407,
+        "recency": 0.8227,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8717,
-      "importance": 0.8717,
-      "importance_score": 0.8717,
+      "score": 0.8682,
+      "importance": 0.8682,
+      "importance_score": 0.8682,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.9039,
+        "recency": 0.8845,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,15 +259,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8657,
-      "importance": 0.8657,
-      "importance_score": 0.8657,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.937,
+        "recency": 0.9169,
         "story_heat": 0.25
       },
       "category": "official",
@@ -341,15 +341,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8546,
-      "importance": 0.8546,
-      "importance_score": 0.8546,
+      "score": 0.8511,
+      "importance": 0.8511,
+      "importance_score": 0.8511,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.92,
+        "recency": 0.9003,
         "story_heat": 0.25
       },
       "category": "official",
@@ -404,15 +404,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9057,
+        "recency": 0.8863,
         "story_heat": 0.0
       },
       "category": "official",
@@ -466,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7277,
+        "recency": 0.7121,
         "story_heat": 0.0
       },
       "category": "official",
@@ -491,6 +491,87 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d382e1dba0c7",
+      "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "primary_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:27:54.217000Z"
+        },
+        {
+          "id": "3b1811f89c07084116201917c1b3abfc0bee95d3",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T23:00:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:27:54.217000Z"
+        },
+        {
+          "id": "3b1811f89c07084116201917c1b3abfc0bee95d3",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T23:00:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9993,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T23:00:51Z",
+      "latest_at": "2026-07-30T23:27:54.217000Z",
+      "primary_item": {
+        "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
+        "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -528,15 +609,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9607,
+        "recency": 0.9402,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,15 +690,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9776,
+        "recency": 0.9567,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -671,15 +752,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9041,
+        "recency": 0.8847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -752,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8754,
+        "recency": 0.8566,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -833,15 +914,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7619,
+      "importance": 0.7619,
+      "importance_score": 0.7619,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8136,
+        "recency": 0.7961,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -914,15 +995,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7646,
-      "importance": 0.7646,
-      "importance_score": 0.7646,
+      "score": 0.7613,
+      "importance": 0.7613,
+      "importance_score": 0.7613,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8443,
+        "recency": 0.8262,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -939,6 +1020,67 @@
         "url": "https://www.aibase.com/news/30013",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_84801ee9c597",
+      "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+      "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+      "primary_url": "https://x.com/AnthropicAI/status/2082965101083320543",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "696777b39fab352790906cdd06fee08ec3a32190",
+          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+          "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:02:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "696777b39fab352790906cdd06fee08ec3a32190",
+          "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+          "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:02:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9932,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T23:02:34Z",
+      "latest_at": "2026-07-30T23:02:34Z",
+      "primary_item": {
+        "id": "696777b39fab352790906cdd06fee08ec3a32190",
+        "title": "Anthropic 披露 Claude 在安全评估中入侵真实系统",
+        "url": "https://x.com/AnthropicAI/status/2082965101083320543",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -976,15 +1118,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.975,
+        "recency": 0.9541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1037,21 +1179,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.747,
+      "importance": 0.747,
+      "importance_score": 0.747,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9558,
+        "recency": 0.9354,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T18:53:09Z",
       "latest_at": "2026-07-30T18:53:09Z",
@@ -1098,21 +1239,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9376,
+        "recency": 0.9175,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T17:32:59Z",
       "latest_at": "2026-07-30T17:32:59Z",
@@ -1121,86 +1261,6 @@
         "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
         "url": "https://x.com/OpenRouter/status/2082882158574911564",
         "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_4efa01255061",
-      "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-      "url": "https://www.ithome.com/0/983/374.htm",
-      "primary_url": "https://www.ithome.com/0/983/374.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T23:29:34Z"
-        },
-        {
-          "id": "0a9c50d2339410ff0134c03647425301d50a0e4b",
-          "title": "揭秘 AI 入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T23:29:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-          "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T23:29:34Z"
-        },
-        {
-          "id": "0a9c50d2339410ff0134c03647425301d50a0e4b",
-          "title": "揭秘 AI 入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-          "url": "https://www.ithome.com/0/983/374.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-29T23:29:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7224,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T23:29:34Z",
-      "latest_at": "2026-07-29T23:29:34Z",
-      "primary_item": {
-        "id": "e278175a3fa66b0b3ac2a5fcaeeee4ada55313d0",
-        "title": "揭秘 AI 智能体入侵 Hugging Face 全过程：4 天半执行 17600 次操作",
-        "url": "https://www.ithome.com/0/983/374.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1239,15 +1299,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8848,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1261,6 +1321,86 @@
         "title": "Google DeepMind 发布 Gemini Robotics 2 物理 AI",
         "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
         "source": "X：Google DeepMind (@GoogleDeepMind)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf352dddb40c",
+      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+      "url": "https://www.ithome.com/0/983/444.htm",
+      "primary_url": "https://www.ithome.com/0/983/444.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2f2c2962adb80539002c13357b644f38857975fc",
+          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T02:49:47Z"
+        },
+        {
+          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
+          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T02:49:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2f2c2962adb80539002c13357b644f38857975fc",
+          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T02:49:47Z"
+        },
+        {
+          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
+          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
+          "url": "https://www.ithome.com/0/983/444.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T02:49:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7418,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T02:49:47Z",
+      "latest_at": "2026-07-30T02:49:47Z",
+      "primary_item": {
+        "id": "2f2c2962adb80539002c13357b644f38857975fc",
+        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
+        "url": "https://www.ithome.com/0/983/444.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1299,15 +1439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8294,
+      "importance": 0.8294,
+      "importance_score": 0.8294,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9391,
+        "recency": 0.919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1324,126 +1464,6 @@
         "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4ba2b8e03a29",
-      "title": "Perplexity Computer 推出 Projects 功能",
-      "url": "https://x.com/AravSrinivas/status/2082872551538380939",
-      "primary_url": "https://x.com/AravSrinivas/status/2082872551538380939",
-      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14ff5b29d437a0c143166e07943fd861f4b3f54d",
-          "title": "Perplexity Computer 推出 Projects 功能",
-          "url": "https://x.com/AravSrinivas/status/2082872551538380939",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T16:54:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
-      ],
-      "items": [
-        {
-          "id": "14ff5b29d437a0c143166e07943fd861f4b3f54d",
-          "title": "Perplexity Computer 推出 Projects 功能",
-          "url": "https://x.com/AravSrinivas/status/2082872551538380939",
-          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T16:54:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.929,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T16:54:48Z",
-      "latest_at": "2026-07-30T16:54:48Z",
-      "primary_item": {
-        "id": "14ff5b29d437a0c143166e07943fd861f4b3f54d",
-        "title": "Perplexity Computer 推出 Projects 功能",
-        "url": "https://x.com/AravSrinivas/status/2082872551538380939",
-        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_46c8d10a3322",
-      "title": "腾讯混元Hyra破解50年数学难题",
-      "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "primary_url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题",
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：腾讯混元 (@TencentHunyuan)"
-      ],
-      "items": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题",
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.755,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T02:33:16Z",
-      "latest_at": "2026-07-30T02:33:16Z",
-      "primary_item": {
-        "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-        "title": "腾讯混元Hyra破解50年数学难题",
-        "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-        "source": "X：腾讯混元 (@TencentHunyuan)",
-        "source_name": "AI HOT"
       }
     }
   ]
