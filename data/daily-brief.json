@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T02:07:39.506025Z",
+  "generated_at": "2026-07-31T05:48:40.632679Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8976,
-      "importance": 0.8976,
-      "importance_score": 0.8976,
+      "score": 0.8902,
+      "importance": 0.8902,
+      "importance_score": 0.8902,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7922,
+        "recency": 0.7512,
         "story_heat": 0.75
       },
       "category": "official",
@@ -121,6 +121,143 @@
         "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_945ecdf346e3",
+      "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+      "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "primary_url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "55fb76fec5df85d31a652b9de8edd8996a0d724f",
+          "title": "Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "url": "https://news.ycombinator.com/item?id=49113599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T20:40:39.966000Z"
+        },
+        {
+          "id": "0b50c642d7508dab77d935158c12266317951581",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中并不会带来审查。试试看",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T18:17:20.178000Z"
+        },
+        {
+          "id": "f7b4aa2760ca6c843f930071c0896b5674b97753",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中并不会带来审查。试试看 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-30T18:13:06Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "www.ctgt.ai"
+      ],
+      "items": [
+        {
+          "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+          "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "d16a12a7d756f24b6b9333a4d75260566b0628d0",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制。试试看",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T04:57:18.494000Z"
+        },
+        {
+          "id": "55fb76fec5df85d31a652b9de8edd8996a0d724f",
+          "title": "Show HN：将 DeepSeek 提炼为 GPT-OSS 并不会转移审查制度。尝试一下 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "url": "https://news.ycombinator.com/item?id=49113599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-30T20:40:39.966000Z"
+        },
+        {
+          "id": "0b50c642d7508dab77d935158c12266317951581",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中并不会带来审查。试试看",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "www.ctgt.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-30T18:17:20.178000Z"
+        },
+        {
+          "id": "f7b4aa2760ca6c843f930071c0896b5674b97753",
+          "title": "Show HN: 将 DeepSeek 整合到 GPT-OSS 中并不会带来审查。试试看 / Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+          "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-07-30T18:13:06Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8834,
+      "importance": 0.8834,
+      "importance_score": 0.8834,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9877,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T18:13:06Z",
+      "latest_at": "2026-07-31T04:57:18.494000Z",
+      "primary_item": {
+        "id": "30991f97bf0f8d90c3e956f81625ef377ba92bda",
+        "title": "Show HN：将 DeepSeek 整合到 GPT-OSS 中不会带来审查机制",
+        "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -177,15 +314,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8623,
-      "importance": 0.8623,
-      "importance_score": 0.8623,
+      "score": 0.8544,
+      "importance": 0.8544,
+      "importance_score": 0.8544,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8518,
+        "recency": 0.8076,
         "story_heat": 0.25
       },
       "category": "official",
@@ -259,15 +396,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8829,
+        "recency": 0.8372,
         "story_heat": 0.25
       },
       "category": "official",
@@ -285,6 +422,125 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d382e1dba0c7",
+      "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "primary_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:27:54.217000Z"
+        },
+        {
+          "id": "753a6481820d7e73492b2669b46aaa35603dec3a",
+          "title": "在我们的网络安全评估中，对三起真实事件进行了调查",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T02:33:20.855000Z"
+        },
+        {
+          "id": "9ccfb6b30e9c4893f8c643defceea2f56a27b76e",
+          "title": "在我们的网络安全评估中调查三个现实事件 / Investigating three real-world incidents in our cybersecurity evaluations",
+          "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3b1811f89c07084116201917c1b3abfc0bee95d3",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T23:00:51Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Anthropic：Newsroom（网页）",
+        "Hacker News (黑客新闻)",
+        "Readhub · AI",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T23:27:54.217000Z"
+        },
+        {
+          "id": "753a6481820d7e73492b2669b46aaa35603dec3a",
+          "title": "在我们的网络安全评估中，对三起真实事件进行了调查",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-31T02:33:20.855000Z"
+        },
+        {
+          "id": "9ccfb6b30e9c4893f8c643defceea2f56a27b76e",
+          "title": "在我们的网络安全评估中调查三个现实事件 / Investigating three real-world incidents in our cybersecurity evaluations",
+          "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3b1811f89c07084116201917c1b3abfc0bee95d3",
+          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
+          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-30T23:00:51Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9124,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T23:00:51Z",
+      "latest_at": "2026-07-31T02:33:20.855000Z",
+      "primary_item": {
+        "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
+        "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
+        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -341,15 +597,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8451,
-      "importance": 0.8451,
-      "importance_score": 0.8451,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.867,
+        "recency": 0.822,
         "story_heat": 0.25
       },
       "category": "official",
@@ -404,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8534,
+        "recency": 0.8092,
         "story_heat": 0.0
       },
       "category": "official",
@@ -432,103 +688,84 @@
       }
     },
     {
-      "story_id": "story_d382e1dba0c7",
-      "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "primary_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_8c365587ec15",
+      "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+      "url": "https://www.aibase.com/news/30030",
+      "primary_url": "https://www.aibase.com/news/30030",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
-          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T23:27:54.217000Z"
+          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/news/30030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T05:48:40.632679Z"
         },
         {
-          "id": "9ccfb6b30e9c4893f8c643defceea2f56a27b76e",
-          "title": "在我们的网络安全评估中调查三个现实事件 / Investigating three real-world incidents in our cybersecurity evaluations",
-          "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents",
+          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
+          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/zh/news/30030",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "3b1811f89c07084116201917c1b3abfc0bee95d3",
-          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T23:00:51Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)",
+        "AIbase",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
-          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T23:27:54.217000Z"
+          "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+          "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/news/30030",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T05:48:40.632679Z"
         },
         {
-          "id": "9ccfb6b30e9c4893f8c643defceea2f56a27b76e",
-          "title": "在我们的网络安全评估中调查三个现实事件 / Investigating three real-world incidents in our cybersecurity evaluations",
-          "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents",
+          "id": "b253c0a98f87327eb851831cc7739964bdab76bd",
+          "title": "华为开源 5050 亿参数 openPangu-2.0-Pro 模型，权重与推理代码同步开放",
+          "url": "https://www.aibase.com/zh/news/30030",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        },
-        {
-          "id": "3b1811f89c07084116201917c1b3abfc0bee95d3",
-          "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施 / Investigating three real-world incidents in our cybersecurity evaluations",
-          "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T23:00:51Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8228,
-      "importance": 0.8228,
-      "importance_score": 0.8228,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9623,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T23:00:51Z",
-      "latest_at": "2026-07-31T02:07:39.506025Z",
+      "earliest_at": "2026-07-31T05:48:40.632679Z",
+      "latest_at": "2026-07-31T05:48:40.632679Z",
       "primary_item": {
-        "id": "52ffbd58aedd60851070cc0940b2b63bb32768f5",
-        "title": "Anthropic 调查发现 Claude 模型在网络安全评估中入侵三家组织生产基础设施",
-        "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
+        "id": "0eb87d26581970423c8c63c7294151c503e5a65f",
+        "title": "华为开源5050亿参数openPangu-2.0-Pro模型，权重与推理代码同步开放",
+        "url": "https://www.aibase.com/news/30030",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -566,15 +803,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9053,
+        "recency": 0.8584,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,87 +828,6 @@
         "url": "https://github.blog/changelog/2026-07-30-github-models-is-now-retired",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6656d746ada2",
-      "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
-      "url": "https://www.aibase.com/news/30020",
-      "primary_url": "https://www.aibase.com/news/30020",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d96c701c6e6127c01bf24a25e0346f4fa1625454",
-          "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
-          "url": "https://www.aibase.com/news/30020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T02:07:39.506025Z"
-        },
-        {
-          "id": "164b242817b60ee84549f5f6faa504af8e49933e",
-          "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
-          "url": "https://www.aibase.com/zh/news/30020",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d96c701c6e6127c01bf24a25e0346f4fa1625454",
-          "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
-          "url": "https://www.aibase.com/news/30020",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T02:07:39.506025Z"
-        },
-        {
-          "id": "164b242817b60ee84549f5f6faa504af8e49933e",
-          "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
-          "url": "https://www.aibase.com/zh/news/30020",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T02:07:39.506025Z",
-      "latest_at": "2026-07-31T02:07:39.506025Z",
-      "primary_item": {
-        "id": "d96c701c6e6127c01bf24a25e0346f4fa1625454",
-        "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
-        "url": "https://www.aibase.com/news/30020",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -728,15 +884,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9212,
+        "recency": 0.8735,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -752,6 +908,67 @@
         "title": "法官称特朗普政府仍缺乏证据将Anthropic列为供应链风险",
         "url": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c7dbaf790e17",
+      "title": "国家发改委：将加快《人工智能法》立法进程",
+      "url": "https://www.ithome.com/0/983/974.htm",
+      "primary_url": "https://www.ithome.com/0/983/974.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+          "title": "国家发改委：将加快《人工智能法》立法进程",
+          "url": "https://www.ithome.com/0/983/974.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T02:48:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+          "title": "国家发改委：将加快《人工智能法》立法进程",
+          "url": "https://www.ithome.com/0/983/974.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-31T02:48:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9575,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T02:48:12Z",
+      "latest_at": "2026-07-31T02:48:12Z",
+      "primary_item": {
+        "id": "96f8a210f6ec3e094fa97bbe422488013d4d710e",
+        "title": "国家发改委：将加快《人工智能法》立法进程",
+        "url": "https://www.ithome.com/0/983/974.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -809,15 +1026,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8605,
+        "recency": 0.8159,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -833,6 +1050,67 @@
         "title": "llm-chat-completions-server 0.1a0 发布",
         "url": "https://simonwillison.net/2026/Jul/30/llm-chat-completions-server",
         "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7bdbbc9438d6",
+      "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+      "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "primary_url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+      "source": "字节 Seed：Research Feed（网页内嵌数据）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+          "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "字节 Seed：Research Feed（网页内嵌数据）"
+      ],
+      "items": [
+        {
+          "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+          "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+          "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+          "source": "字节 Seed：Research Feed（网页内嵌数据）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8192,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T16:00:00Z",
+      "latest_at": "2026-07-30T16:00:00Z",
+      "primary_item": {
+        "id": "6d9b4c34043c6868841e634ff88d5579ce934753",
+        "title": "字节发布 Seedance 2.5：单次生成 30 秒视频，支持多模态参考与精准编辑",
+        "url": "https://seed.bytedance.com/zh/blog/%E4%B8%80%E9%95%9C%E6%88%90%E7%89%87-%E9%9A%8F%E5%BF%83%E5%8F%82%E8%80%83-seedance-2-5-%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83",
+        "source": "字节 Seed：Research Feed（网页内嵌数据）",
         "source_name": "AI HOT"
       }
     },
@@ -871,15 +1149,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8519,
+        "recency": 0.8078,
         "story_heat": 0.0
       },
       "category": "official",
@@ -896,87 +1174,6 @@
         "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d907e202b26b",
-      "title": "库克告别电话会议：暗示中国内存芯片入局，Apple Intelligence 中国落地获批",
-      "url": "https://www.aibase.com/news/30015",
-      "primary_url": "https://www.aibase.com/news/30015",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "38fb2c2faa5f7fec061dd0fd4d7b0bc6f450e7dc",
-          "title": "库克告别电话会议：暗示中国内存芯片入局，Apple Intelligence 中国落地获批",
-          "url": "https://www.aibase.com/news/30015",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T02:07:39.506025Z"
-        },
-        {
-          "id": "1938659cd25efb13e9a6fade3df762614cf37037",
-          "title": "库克告别电话会议：暗示中国内存芯片入局，Apple Intelligence 中国落地获批",
-          "url": "https://www.aibase.com/zh/news/30015",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "38fb2c2faa5f7fec061dd0fd4d7b0bc6f450e7dc",
-          "title": "库克告别电话会议：暗示中国内存芯片入局，Apple Intelligence 中国落地获批",
-          "url": "https://www.aibase.com/news/30015",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-31T02:07:39.506025Z"
-        },
-        {
-          "id": "1938659cd25efb13e9a6fade3df762614cf37037",
-          "title": "库克告别电话会议：暗示中国内存芯片入局，Apple Intelligence 中国落地获批",
-          "url": "https://www.aibase.com/zh/news/30015",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-31T02:07:39.506025Z",
-      "latest_at": "2026-07-31T02:07:39.506025Z",
-      "primary_item": {
-        "id": "38fb2c2faa5f7fec061dd0fd4d7b0bc6f450e7dc",
-        "title": "库克告别电话会议：暗示中国内存芯片入局，Apple Intelligence 中国落地获批",
-        "url": "https://www.aibase.com/news/30015",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1033,15 +1230,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8249,
+        "recency": 0.7821,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1058,6 +1255,87 @@
         "url": "https://the-decoder.com/fcc-bans-new-chinese-robots-and-power-inverters-to-protect-us-ai-buildout-from-foreign-threats",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6656d746ada2",
+      "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
+      "url": "https://www.aibase.com/news/30020",
+      "primary_url": "https://www.aibase.com/news/30020",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d96c701c6e6127c01bf24a25e0346f4fa1625454",
+          "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
+          "url": "https://www.aibase.com/news/30020",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T02:07:39.506025Z"
+        },
+        {
+          "id": "164b242817b60ee84549f5f6faa504af8e49933e",
+          "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
+          "url": "https://www.aibase.com/zh/news/30020",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d96c701c6e6127c01bf24a25e0346f4fa1625454",
+          "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
+          "url": "https://www.aibase.com/news/30020",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-31T02:07:39.506025Z"
+        },
+        {
+          "id": "164b242817b60ee84549f5f6faa504af8e49933e",
+          "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
+          "url": "https://www.aibase.com/zh/news/30020",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9482,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T02:07:39.506025Z",
+      "latest_at": "2026-07-31T02:07:39.506025Z",
+      "primary_item": {
+        "id": "d96c701c6e6127c01bf24a25e0346f4fa1625454",
+        "title": "Google 用 AI 单月修复上千 Chrome 漏洞，超越过去两年总和",
+        "url": "https://www.aibase.com/news/30020",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1114,22 +1392,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7566,
-      "importance": 0.7566,
-      "importance_score": 0.7566,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7666,
+        "recency": 0.7269,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T07:43:29Z",
       "latest_at": "2026-07-30T07:43:29Z",
@@ -1176,21 +1453,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9564,
+        "recency": 0.9069,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T23:02:34Z",
       "latest_at": "2026-07-30T23:02:34Z",
@@ -1237,15 +1513,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7384,
+      "importance": 0.7384,
+      "importance_score": 0.7384,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.8711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,15 +1573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9698,
+        "recency": 0.9195,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1319,206 +1595,6 @@
         "title": "Replit Design 推出数百设计模板",
         "url": "https://x.com/Replit/status/2082979584799060267",
         "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_235ce9288be4",
-      "title": "Google Earth 集成 Nano Banana 2 图像生成",
-      "url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "primary_url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "source": "X：Google AI (@GoogleAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0868d412089140b46edc3f1649b972040bed8699",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成",
-          "url": "https://x.com/GoogleAI/status/2082902334984609936",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI (@GoogleAI)"
-      ],
-      "items": [
-        {
-          "id": "0868d412089140b46edc3f1649b972040bed8699",
-          "title": "Google Earth 集成 Nano Banana 2 图像生成",
-          "url": "https://x.com/GoogleAI/status/2082902334984609936",
-          "source": "X：Google AI (@GoogleAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T18:53:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7407,
-      "importance": 0.7407,
-      "importance_score": 0.7407,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9007,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T18:53:09Z",
-      "latest_at": "2026-07-30T18:53:09Z",
-      "primary_item": {
-        "id": "0868d412089140b46edc3f1649b972040bed8699",
-        "title": "Google Earth 集成 Nano Banana 2 图像生成",
-        "url": "https://x.com/GoogleAI/status/2082902334984609936",
-        "source": "X：Google AI (@GoogleAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_351e94ae0e4c",
-      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-      "url": "https://x.com/OpenRouter/status/2082882158574911564",
-      "primary_url": "https://x.com/OpenRouter/status/2082882158574911564",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
-          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-          "url": "https://x.com/OpenRouter/status/2082882158574911564",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:32:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
-          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-          "url": "https://x.com/OpenRouter/status/2082882158574911564",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T17:32:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8835,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T17:32:59Z",
-      "latest_at": "2026-07-30T17:32:59Z",
-      "primary_item": {
-        "id": "d7be7168fbb415576642561539fb592c1ba3b13e",
-        "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
-        "url": "https://x.com/OpenRouter/status/2082882158574911564",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cf352dddb40c",
-      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-      "url": "https://www.ithome.com/0/983/444.htm",
-      "primary_url": "https://www.ithome.com/0/983/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7143,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T02:49:47Z",
-      "latest_at": "2026-07-30T02:49:47Z",
-      "primary_item": {
-        "id": "2f2c2962adb80539002c13357b644f38857975fc",
-        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "url": "https://www.ithome.com/0/983/444.htm",
-        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     }
