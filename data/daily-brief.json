@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T18:36:14.785588Z",
+  "generated_at": "2026-08-09T19:27:00.574812Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9425,
+        "recency": 0.931,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +81,67 @@
         "title": "AI安全测试正成为安全风险",
         "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_288a6664298c",
+      "title": "Anthropic 称已基本解决提示注入攻击",
+      "url": "https://x.com/bcherny/status/2086520950259118464",
+      "primary_url": "https://x.com/bcherny/status/2086520950259118464",
+      "source": "X：Boris Cherny (@bcherny)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击",
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Boris Cherny (@bcherny)"
+      ],
+      "items": [
+        {
+          "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+          "title": "Anthropic 称已基本解决提示注入攻击",
+          "url": "https://x.com/bcherny/status/2086520950259118464",
+          "source": "X：Boris Cherny (@bcherny)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T18:32:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9869,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-09T18:32:14Z",
+      "latest_at": "2026-08-09T18:32:14Z",
+      "primary_item": {
+        "id": "5cedf1ddb5710f2162752589c9ba468802ecd56a",
+        "title": "Anthropic 称已基本解决提示注入攻击",
+        "url": "https://x.com/bcherny/status/2086520950259118464",
+        "source": "X：Boris Cherny (@bcherny)",
         "source_name": "AI HOT"
       }
     },
@@ -119,15 +180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8266,
+        "recency": 0.8166,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8493,
+        "recency": 0.839,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -239,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8041,
+        "recency": 0.7944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -299,15 +360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7228,
-      "importance": 0.7228,
-      "importance_score": 0.7228,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.751,
+        "recency": 0.7418,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,15 +420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9486,
+        "recency": 0.9371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -419,15 +480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.803,
+        "recency": 0.7933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -498,15 +559,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6396,
-      "importance": 0.6396,
-      "importance_score": 0.6396,
+      "score": 0.6376,
+      "importance": 0.6376,
+      "importance_score": 0.6376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9493,
+        "recency": 0.9378,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -634,15 +695,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6176,
-      "importance": 0.6176,
-      "importance_score": 0.6176,
+      "score": 0.6155,
+      "importance": 0.6155,
+      "importance_score": 0.6155,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9825,
+        "recency": 0.9706,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -657,102 +718,6 @@
         "url": "https://www.youtube.com/watch?v=Z_O6Lwj1yjQ",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-08",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "867386527044643fb09ee2e07147050f4445b7bd",
-          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-08T20:20:42.037714Z"
-        },
-        {
-          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
-          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-08T20:20:42.037714Z"
-        },
-        {
-          "id": "0440f5c328144c83aa333d5e9c2bf6418b6d41dd",
-          "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-08T19:07:08.064007Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "社区更新 · 2026-08-08"
-      ],
-      "items": [
-        {
-          "id": "867386527044643fb09ee2e07147050f4445b7bd",
-          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-08T20:20:42.037714Z"
-        },
-        {
-          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
-          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-08T20:20:42.037714Z"
-        },
-        {
-          "id": "0440f5c328144c83aa333d5e9c2bf6418b6d41dd",
-          "title": "如果Agent真的拥有长期记忆，它最危险的能力可能不是“记住”，而是“不知道该忘什么”。这篇文章讨论的正是记忆工程的核心：让智能体有选择地保留、压缩、修正和遗忘信息。不主张把所有对话日志和推理过程都塞进系统，而是将关键事实、用户偏好和可复用的技能提炼出来，并对冲突、过期和敏感记忆建立控制机制。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-08T19:07:08.064007Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7251,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T19:07:08.064007Z",
-      "latest_at": "2026-08-08T20:20:42.037714Z",
-      "primary_item": {
-        "id": "867386527044643fb09ee2e07147050f4445b7bd",
-        "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-08",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -809,15 +774,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5652,
-      "importance": 0.5652,
-      "importance_score": 0.5652,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.7491,
+        "recency": 0.74,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -907,15 +872,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5575,
+      "importance": 0.5575,
+      "importance_score": 0.5575,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
+        "recency": 0.9259,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -930,6 +895,84 @@
         "url": "https://news.ycombinator.com/item?id=49230550",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-08",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "867386527044643fb09ee2e07147050f4445b7bd",
+          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T20:20:42.037714Z"
+        },
+        {
+          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
+          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T20:20:42.037714Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "社区更新 · 2026-08-08"
+      ],
+      "items": [
+        {
+          "id": "867386527044643fb09ee2e07147050f4445b7bd",
+          "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T20:20:42.037714Z"
+        },
+        {
+          "id": "ed697c53a630e91895f37a9b467ad4d838561f43",
+          "title": "这篇文章用Anthropic的百万行代码迁移和Python转TypeScript案例，分享了图工程的完整实操方案：先写判定器，再沉淀规则手册，把状态放到磁盘队列里，用独立审查者、确定性检查、串行化昂贵操作和分角色模型来控制流程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-08T20:20:42.037714Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.7163,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T20:20:42.037714Z",
+      "latest_at": "2026-08-08T20:20:42.037714Z",
+      "primary_item": {
+        "id": "867386527044643fb09ee2e07147050f4445b7bd",
+        "title": "Langchain发布了Managed Deep Agents。这是构建、运行和部署生产级智能体最简单的方式。这篇文章分享了他们团队一路走到这里的过程，以及为什么会如此期待智能体构建的下一个阶段。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-08",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -986,15 +1029,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9591,
+        "recency": 0.9474,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1009,6 +1052,84 @@
         "url": "https://www.businessinsider.com/ai-cybersecurity-incidents-openai-astra-anthropic-kimi-meta-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0ab3045a5f87",
+      "title": "硅谷的刑事欺诈案 / Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
+      "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+      "primary_url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "86d96a44aa326006b0ef27c079758d6581f84787",
+          "title": "硅谷的刑事欺诈案 / Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
+          "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T15:26:45Z"
+        },
+        {
+          "id": "2176bf20551981a090d3458e9eae423a6aa2e60d",
+          "title": "硅谷的刑事欺诈案 / Criminal Deception in Silicon Valley",
+          "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T15:26:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "86d96a44aa326006b0ef27c079758d6581f84787",
+          "title": "硅谷的刑事欺诈案 / Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
+          "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T15:26:45Z"
+        },
+        {
+          "id": "2176bf20551981a090d3458e9eae423a6aa2e60d",
+          "title": "硅谷的刑事欺诈案 / Criminal Deception in Silicon Valley",
+          "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T15:26:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9438,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T15:26:45Z",
+      "latest_at": "2026-08-09T15:26:45Z",
+      "primary_item": {
+        "id": "86d96a44aa326006b0ef27c079758d6581f84787",
+        "title": "硅谷的刑事欺诈案 / Analyzing data from Silicon Valley ventures and founders prosecuted for fraud",
+        "url": "https://pubsonline.informs.org/doi/full/10.1287/orsc.2024.19981",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1083,15 +1204,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7583,
+        "recency": 0.7491,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1162,15 +1283,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8381,
+        "recency": 0.828,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1241,15 +1362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1320,15 +1441,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5131,
-      "importance": 0.5131,
-      "importance_score": 0.5131,
+      "score": 0.5113,
+      "importance": 0.5113,
+      "importance_score": 0.5113,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8184,
+        "recency": 0.8084,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1399,15 +1520,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9481,
+        "recency": 0.9366,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1421,164 +1542,6 @@
         "title": "现在轮到OpenAI出招了",
         "url": "https://www.businessinsider.com/dean-ball-openai-court-trump-regulation-2026-8",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5ea6f9702779",
-      "title": "修订提示可优化工业级大型语言模型（LLM）流程",
-      "url": "https://revisionprompting.info",
-      "primary_url": "https://revisionprompting.info",
-      "source": "revisionprompting.info",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5a93128431f50bd022715c4bc4e8a4494637b5f3",
-          "title": "修订提示可优化工业级大型语言模型（LLM）流程",
-          "url": "https://revisionprompting.info",
-          "source": "revisionprompting.info",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T20:30:34.501000Z"
-        },
-        {
-          "id": "e204df48455943545dc273f3e2b6c17d35e35e10",
-          "title": "修订提示可优化工业级大型语言模型（LLM）流程 / Revision Prompting improves industrial LLM processes",
-          "url": "https://revisionprompting.info",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T20:20:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "revisionprompting.info"
-      ],
-      "items": [
-        {
-          "id": "5a93128431f50bd022715c4bc4e8a4494637b5f3",
-          "title": "修订提示可优化工业级大型语言模型（LLM）流程",
-          "url": "https://revisionprompting.info",
-          "source": "revisionprompting.info",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-08T20:30:34.501000Z"
-        },
-        {
-          "id": "e204df48455943545dc273f3e2b6c17d35e35e10",
-          "title": "修订提示可优化工业级大型语言模型（LLM）流程 / Revision Prompting improves industrial LLM processes",
-          "url": "https://revisionprompting.info",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-08T20:20:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.32,
-        "ai_relevance": 0.67,
-        "recency": 0.7268,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T20:20:42Z",
-      "latest_at": "2026-08-08T20:30:34.501000Z",
-      "primary_item": {
-        "id": "5a93128431f50bd022715c4bc4e8a4494637b5f3",
-        "title": "修订提示可优化工业级大型语言模型（LLM）流程",
-        "url": "https://revisionprompting.info",
-        "source": "revisionprompting.info",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bc805777cb92",
-      "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-      "url": "https://github.com/howieyoung/cli-times",
-      "primary_url": "https://github.com/howieyoung/cli-times",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b3a0821017079f724db3a1e6ffdba6670e9ea959",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T07:26:34.934000Z"
-        },
-        {
-          "id": "67b0967eb97dcc8b64189091f61c2b61a63e0a93",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code） / Show HN: CliTimes - Times lives on your CLI (with Claude Code)",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T07:25:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "b3a0821017079f724db3a1e6ffdba6670e9ea959",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T07:26:34.934000Z"
-        },
-        {
-          "id": "67b0967eb97dcc8b64189091f61c2b61a63e0a93",
-          "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code） / Show HN: CliTimes - Times lives on your CLI (with Claude Code)",
-          "url": "https://github.com/howieyoung/cli-times",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-09T07:25:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.519,
-      "importance": 0.519,
-      "importance_score": 0.519,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8511,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T07:25:08Z",
-      "latest_at": "2026-08-09T07:26:34.934000Z",
-      "primary_item": {
-        "id": "b3a0821017079f724db3a1e6ffdba6670e9ea959",
-        "title": "Show HN: CliTimes 驻留在您的 CLI 上（搭载 Claude Code）",
-        "url": "https://github.com/howieyoung/cli-times",
-        "source": "github.com",
         "source_name": "Buzzing"
       }
     }
