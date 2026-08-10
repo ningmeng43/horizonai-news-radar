@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T18:46:09.127783Z",
+  "generated_at": "2026-08-10T19:50:23.743399Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.915,
-      "importance": 0.915,
-      "importance_score": 0.915,
+      "score": 0.9124,
+      "importance": 0.9124,
+      "importance_score": 0.9124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9334,
+        "recency": 0.9191,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.879,
-      "importance": 0.879,
-      "importance_score": 0.879,
+      "score": 0.8763,
+      "importance": 0.8763,
+      "importance_score": 0.8763,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9667,
+        "recency": 0.9519,
         "story_heat": 0.25
       },
       "category": "official",
@@ -316,15 +316,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8558,
-      "importance": 0.8558,
-      "importance_score": 0.8558,
+      "score": 0.8532,
+      "importance": 0.8532,
+      "importance_score": 0.8532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9342,
+        "recency": 0.9199,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -341,6 +341,68 @@
         "url": "https://bobdahacker.com/blog/tldv-hack",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_db6826b82650",
+      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8511,
+      "importance": 0.8511,
+      "importance_score": 0.8511,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9951,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T19:30:00Z",
+      "latest_at": "2026-08-10T19:30:00Z",
+      "primary_item": {
+        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -378,15 +440,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8411,
-      "importance": 0.8411,
-      "importance_score": 0.8411,
+      "score": 0.8385,
+      "importance": 0.8385,
+      "importance_score": 0.8385,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9395,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "official",
@@ -440,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9402,
+        "recency": 0.9258,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,15 +564,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7626,
+        "recency": 0.7509,
         "story_heat": 0.0
       },
       "category": "official",
@@ -564,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8475,
-      "importance": 0.8475,
-      "importance_score": 0.8475,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9748,
+        "recency": 0.9598,
         "story_heat": 0.0
       },
       "category": "official",
@@ -645,15 +707,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "score": 0.8402,
+      "importance": 0.8402,
+      "importance_score": 0.8402,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7626,
+        "recency": 0.7509,
         "story_heat": 0.25
       },
       "category": "official",
@@ -708,15 +770,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9337,
+        "recency": 0.9193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -770,15 +832,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8407,
+      "importance": 0.8407,
+      "importance_score": 0.8407,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9069,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "official",
@@ -832,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8822,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -913,15 +975,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.771,
-      "importance": 0.771,
-      "importance_score": 0.771,
+      "score": 0.7686,
+      "importance": 0.7686,
+      "importance_score": 0.7686,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8801,
+        "recency": 0.8666,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -975,15 +1037,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9169,
+        "recency": 0.9029,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1037,15 +1099,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1117,15 +1179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7623,
+        "recency": 0.7506,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1198,15 +1260,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7863,
+        "recency": 0.7742,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1260,15 +1322,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7531,
+      "importance": 0.7531,
+      "importance_score": 0.7531,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9336,
+        "recency": 0.9193,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1321,21 +1383,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9606,
+        "recency": 0.9458,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T15:58:56Z",
       "latest_at": "2026-08-10T15:58:56Z",
@@ -1382,21 +1443,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7505,
-      "importance": 0.7505,
-      "importance_score": 0.7505,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9051,
+        "recency": 0.8912,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-10T11:51:38.747000Z",
       "latest_at": "2026-08-10T11:51:38.747000Z",
@@ -1406,68 +1466,6 @@
         "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7f776d7829d0",
-      "title": "将前沿网络模型交给更值得信赖的人 / Putting frontier cyber models in more trusted hands",
-      "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "primary_url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0aec5c7bd13ab84e2d66c55839494fb7a8f98e01",
-          "title": "将前沿网络模型交给更值得信赖的人 / Putting frontier cyber models in more trusted hands",
-          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "0aec5c7bd13ab84e2d66c55839494fb7a8f98e01",
-          "title": "将前沿网络模型交给更值得信赖的人 / Putting frontier cyber models in more trusted hands",
-          "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8811,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:00:00Z",
-      "latest_at": "2026-08-10T10:00:00Z",
-      "primary_item": {
-        "id": "0aec5c7bd13ab84e2d66c55839494fb7a8f98e01",
-        "title": "将前沿网络模型交给更值得信赖的人 / Putting frontier cyber models in more trusted hands",
-        "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     }
   ]
