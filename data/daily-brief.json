@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T05:50:09.620289Z",
+  "generated_at": "2026-08-11T06:54:58.098697Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -39,17 +39,8 @@
           "published_at": "2026-08-10T15:54:34.496000Z"
         },
         {
-          "id": "e05568c26cf1f3a6a5f215f4dd05615e1d46056d",
+          "id": "cde69d2706bf4e3eecfebc8d78c3fd65a9655ba5",
           "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / Letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T14:38:20Z"
-        },
-        {
-          "id": "c5b1c9386311bd99eaa8beb0fabb4496aca0fe70",
-          "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -57,9 +48,8 @@
           "published_at": "2026-08-10T14:38:20Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
         "OpenAI News",
         "hackernews",
@@ -94,17 +84,8 @@
           "published_at": "2026-08-10T15:54:34.496000Z"
         },
         {
-          "id": "e05568c26cf1f3a6a5f215f4dd05615e1d46056d",
+          "id": "cde69d2706bf4e3eecfebc8d78c3fd65a9655ba5",
           "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / Letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-10T14:38:20Z"
-        },
-        {
-          "id": "c5b1c9386311bd99eaa8beb0fabb4496aca0fe70",
-          "title": "致阿博特州长的信：关于德克萨斯州负责任的人工智能基础设施 / OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -112,18 +93,18 @@
           "published_at": "2026-08-10T14:38:20Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.9152,
-      "importance": 0.9152,
-      "importance_score": 0.9152,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.888,
+      "importance": 0.888,
+      "importance_score": 0.888,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7956,
-        "story_heat": 1.0
+        "recency": 0.7833,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
@@ -196,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8533,
-      "importance": 0.8533,
-      "importance_score": 0.8533,
+      "score": 0.851,
+      "importance": 0.851,
+      "importance_score": 0.851,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.824,
+        "recency": 0.8112,
         "story_heat": 0.25
       },
       "category": "official",
@@ -335,15 +316,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8309,
-      "importance": 0.8309,
-      "importance_score": 0.8309,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7962,
+        "recency": 0.7839,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -360,6 +341,107 @@
         "url": "https://bobdahacker.com/blog/tldv-hack",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3a8585570cab",
+      "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        },
+        {
+          "id": "d53e1173335713948c031579c35493314db7562c",
+          "title": "GPT 5.6 网络安全",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T05:46:03.587000Z"
+        },
+        {
+          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
+          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:14:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+          "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T10:00:00Z"
+        },
+        {
+          "id": "d53e1173335713948c031579c35493314db7562c",
+          "title": "GPT 5.6 网络安全",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-11T05:46:03.587000Z"
+        },
+        {
+          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
+          "title": "GPT 5.6 网络安全 / GPT 5.6 Cyber",
+          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-10T17:14:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8551,
+      "importance": 0.8551,
+      "importance_score": 0.8551,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7393,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T10:00:00Z",
+      "latest_at": "2026-08-11T05:46:03.587000Z",
+      "primary_item": {
+        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
+        "title": "GPT 5.6 网络安全 / Expanding Daybreak as the Cyber Defense Window Narrows",
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -397,15 +479,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8613,
+        "recency": 0.848,
         "story_heat": 0.0
       },
       "category": "official",
@@ -421,6 +503,230 @@
         "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
         "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
         "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_47efcab38b5c",
+      "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+      "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+      "primary_url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:27:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:27:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7884,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T14:27:04Z",
+      "latest_at": "2026-08-10T14:27:04Z",
+      "primary_item": {
+        "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
+        "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
+        "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+      "source": "公众号：智谱（GLM）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        },
+        {
+          "id": "d29517a81457995e790278d11211679f24adbff8",
+          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T00:12:00Z"
+        },
+        {
+          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
+          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Readhub · AI",
+        "公众号：数字生命卡兹克",
+        "公众号：智谱（GLM）"
+      ],
+      "items": [
+        {
+          "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+          "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+          "source": "公众号：智谱（GLM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T05:52:25Z"
+        },
+        {
+          "id": "d29517a81457995e790278d11211679f24adbff8",
+          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T00:12:00Z"
+        },
+        {
+          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
+          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8119,
+      "importance": 0.8119,
+      "importance_score": 0.8119,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9851,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T00:12:00Z",
+      "latest_at": "2026-08-11T05:52:25Z",
+      "primary_item": {
+        "id": "fcc1f787a8f50694d563e839c3a5df0f5b260040",
+        "title": "ZCode全面升级：Goal、Subagents、Remote Control与闲时任务四大功能上线",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494052&idx=1&sn=ee3ab3d0f4550e9120927c53a27522c9",
+        "source": "公众号：智谱（GLM）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6f027f788573",
+      "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
+      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+      "primary_url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ce59288c8c2b7edd80d7295906b1d752b72ed6ed",
+          "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
+          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "ce59288c8c2b7edd80d7295906b1d752b72ed6ed",
+          "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
+          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T14:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7889,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T14:30:00Z",
+      "latest_at": "2026-08-10T14:30:00Z",
+      "primary_item": {
+        "id": "ce59288c8c2b7edd80d7295906b1d752b72ed6ed",
+        "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
+        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -478,15 +784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8308,
+        "recency": 0.8179,
         "story_heat": 0.25
       },
       "category": "official",
@@ -503,130 +809,6 @@
         "title": "OpenAI CFO分享构建AI原生财务职能的五大经验 / What building an AI-native finance function taught me",
         "url": "https://openai.com/index/building-an-ai-native-finance-function",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_47efcab38b5c",
-      "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
-      "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-      "primary_url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
-          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
-          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:27:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
-          "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
-          "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:27:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8008,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T14:27:04Z",
-      "latest_at": "2026-08-10T14:27:04Z",
-      "primary_item": {
-        "id": "c9c9908049165f3c5eb8117cf0267a539caf65a5",
-        "title": "网络副驾驶扩展了对话控制 / Copilot on web expands conversation controls",
-        "url": "https://github.blog/changelog/2026-08-10-copilot-on-web-expands-conversation-controls",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6f027f788573",
-      "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
-      "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-      "primary_url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ce59288c8c2b7edd80d7295906b1d752b72ed6ed",
-          "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
-          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "ce59288c8c2b7edd80d7295906b1d752b72ed6ed",
-          "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
-          "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T14:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8013,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T14:30:00Z",
-      "latest_at": "2026-08-10T14:30:00Z",
-      "primary_item": {
-        "id": "ce59288c8c2b7edd80d7295906b1d752b72ed6ed",
-        "title": "使用新的人工智能工具发展您的营销 / Evolve your marketing with new AI tools",
-        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -684,15 +866,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9666,
+        "recency": 0.9517,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -746,15 +928,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7519,
+        "recency": 0.7403,
         "story_heat": 0.0
       },
       "category": "official",
@@ -808,15 +990,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9733,
+        "recency": 0.9583,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -869,15 +1051,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8072,
-      "importance": 0.8072,
-      "importance_score": 0.8072,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7958,
+        "recency": 0.7835,
         "story_heat": 0.0
       },
       "category": "official",
@@ -893,88 +1075,6 @@
         "title": "印度的 GitHub 计费现在支持自动定期付款 / GitHub billing in India now supports automatic recurring payments",
         "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3a8585570cab",
-      "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "primary_url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 网络 / GPT 5.6 Cyber",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-          "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T10:00:00Z"
-        },
-        {
-          "id": "95b1b933484992e4ce5309f0273f9f60cf9243d0",
-          "title": "GPT 5.6 网络 / GPT 5.6 Cyber",
-          "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-10T17:14:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8322,
-      "importance": 0.8322,
-      "importance_score": 0.8322,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7509,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T10:00:00Z",
-      "latest_at": "2026-08-10T17:14:00Z",
-      "primary_item": {
-        "id": "5360b7d21091149d76dcd12a52ba8750e544fbae",
-        "title": "随着网络防御窗口的缩小，黎明时间的扩大 / Expanding Daybreak as the Cyber Defense Window Narrows",
-        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -1013,15 +1113,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8922,
+        "recency": 0.8784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1040,83 +1140,63 @@
       }
     },
     {
-      "story_id": "story_6cbde97d8260",
-      "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_ed119d3bc38a",
+      "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+      "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "primary_url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+      "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        },
-        {
-          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
-          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-11T05:44:38Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Readhub · AI",
-        "公众号：数字生命卡兹克"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "d29517a81457995e790278d11211679f24adbff8",
-          "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-          "source": "公众号：数字生命卡兹克",
+          "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+          "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+          "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-11T00:12:00Z"
-        },
-        {
-          "id": "75030745d834589c4a52bcf7fd6f2a25e3fcffcd",
-          "title": "机器学习先驱 Daphne Koller 警告：AI 制药不是魔法棒，下一代药物发现还缺 1000 倍数据",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3NTIyODUzNA%3D%3D&mid=2649802403&idx=1&sn=254c02066da402300ef1b7538ef5207a",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-08-11T05:44:38Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.65,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9218,
-        "story_heat": 0.25
+        "recency": 0.9832,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T00:12:00Z",
-      "latest_at": "2026-08-11T01:51:53.764984Z",
+      "earliest_at": "2026-08-11T05:44:38Z",
+      "latest_at": "2026-08-11T05:44:38Z",
       "primary_item": {
-        "id": "d29517a81457995e790278d11211679f24adbff8",
-        "title": "微信小微AI帮写与AI点评内测：朋友圈最后一点人味正在消失",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685081&idx=1&sn=13a05578a3959c047209c8e74b56fa48",
-        "source": "公众号：数字生命卡兹克",
+        "id": "5af023feb5917b0420ac99ebd023db76d69db035",
+        "title": "用 ComfyUI API 实现 MiniMax-H3 多模态视频与音频生成流水线",
+        "url": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1174,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9666,
+        "recency": 0.9517,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1255,15 +1335,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9876,
+        "recency": 0.9723,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1317,15 +1397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8025,
+      "importance": 0.8025,
+      "importance_score": 0.8025,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7815,
+        "recency": 0.7694,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1379,15 +1459,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7522,
+        "recency": 0.7405,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1439,15 +1519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7957,
+        "recency": 0.7834,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1461,66 +1541,6 @@
         "title": "智能体真的会用电脑吗？a16z 用数据给出答案",
         "url": "https://www.a16z.news/p/can-agents-use-a-computer-yet-weve",
         "source": "a16z：News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13aa163b225a",
-      "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-      "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "primary_url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-      "source": "Databricks：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Databricks：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-          "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-          "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-          "source": "Databricks：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T23:08:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9079,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T23:08:50Z",
-      "latest_at": "2026-08-10T23:08:50Z",
-      "primary_item": {
-        "id": "123277d810480c26bc58f077f9317ab5165ab89f",
-        "title": "Databricks 如何在兼顾治理的前提下让 Genie Agents 同时基于结构化数据与文档运行",
-        "url": "https://www.databricks.com/blog/how-ground-genie-agents-both-structured-data-and-documents-without-losing-governance",
-        "source": "Databricks：Blog（RSS）",
         "source_name": "AI HOT"
       }
     }
