@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T17:52:31.599640Z",
+  "generated_at": "2026-08-11T18:52:54.320391Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8667,
-      "importance": 0.8667,
-      "importance_score": 0.8667,
+      "score": 0.8642,
+      "importance": 0.8642,
+      "importance_score": 0.8642,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9874,
+        "recency": 0.9732,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +82,68 @@
         "title": "AMIE 研究医疗 AI 系统首次展示实时临床视频问诊能力 / AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
         "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_824a73866601",
+      "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9907,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:13:56Z",
+      "latest_at": "2026-08-11T18:13:56Z",
+      "primary_item": {
+        "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+        "title": "MAI-Code-1.1-Flash 可在 GitHub Copilot 中使用 / MAI-Code-1.1-Flash available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9404,
+        "recency": 0.9268,
         "story_heat": 0.0
       },
       "category": "official",
@@ -239,15 +301,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.983,
+        "recency": 0.9688,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -301,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8925,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -325,68 +387,6 @@
         "title": "在 ChatGPT 中测试广告 / Testing ads in ChatGPT",
         "url": "https://openai.com/index/testing-ads-in-chatgpt",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_54600e33879d",
-      "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "primary_url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T14:41:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T14:41:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9551,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T14:41:52Z",
-      "latest_at": "2026-08-11T14:41:52Z",
-      "primary_item": {
-        "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-        "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
-        "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -482,15 +482,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8194,
+      "importance": 0.8194,
+      "importance_score": 0.8194,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.884,
+        "recency": 0.8712,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -563,15 +563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9967,
+        "recency": 0.9823,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -588,6 +588,68 @@
         "url": "https://the-decoder.com/but-marinade-and-leaked-passwords-are-what-researchers-found-in-chatgpts-hidden-reasoning",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_54600e33879d",
+      "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
+      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+      "primary_url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
+          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
+          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T14:41:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
+          "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
+          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T14:41:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9414,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T14:41:52Z",
+      "latest_at": "2026-08-11T14:41:52Z",
+      "primary_item": {
+        "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
+        "title": "使用报告中按型号的令牌细分 / Per-model token breakdown in the usage report",
+        "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -625,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7239,
+        "recency": 0.7134,
         "story_heat": 0.0
       },
       "category": "official",
@@ -706,15 +768,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9792,
+        "recency": 0.9651,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -730,6 +792,106 @@
         "title": "Anthropic 未发布模型在黎曼猜想上取得重大进展",
         "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_220d5105e6c7",
+      "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+      "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "primary_url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:32:57.961000Z"
+        },
+        {
+          "id": "2d9b62395143cb97064bac915efe75dc0dee4ce8",
+          "title": "我通过将 GitHub Copilot 置于 MitM 代理后面学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://news.ycombinator.com/item?id=49256057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T13:22:55.785000Z"
+        },
+        {
+          "id": "d805d5aba535b64c3a9a729f36afbf788b7bb72f",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T10:40:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T18:32:57.961000Z"
+        },
+        {
+          "id": "2d9b62395143cb97064bac915efe75dc0dee4ce8",
+          "title": "我通过将 GitHub Copilot 置于 MitM 代理后面学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://news.ycombinator.com/item?id=49256057",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-11T13:22:55.785000Z"
+        },
+        {
+          "id": "d805d5aba535b64c3a9a729f36afbf788b7bb72f",
+          "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么 / What I learned by putting GitHub Copilot behind a MitM proxy",
+          "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-11T10:40:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9952,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T10:40:47Z",
+      "latest_at": "2026-08-11T18:32:57.961000Z",
+      "primary_item": {
+        "id": "cc776b821336542078cbf9449ac8c69e3bc8dcb8",
+        "title": "将 GitHub Copilot 置于中间人（MitM）代理之后后，我学到了什么",
+        "url": "https://www.lighthousenewsletter.com/p/i-put-github-copilot-behind-a-mitm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -787,15 +949,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9055,
+        "recency": 0.8924,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -849,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7804,
-      "importance": 0.7804,
-      "importance_score": 0.7804,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9876,
+        "recency": 0.9733,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -929,15 +1091,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8858,
+        "recency": 0.873,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -991,15 +1153,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.958,
+        "recency": 0.9442,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1052,15 +1214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9321,
+        "recency": 0.9187,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1132,15 +1294,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8393,
+        "recency": 0.8272,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1194,15 +1356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.761,
+      "importance": 0.761,
+      "importance_score": 0.761,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9437,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1255,15 +1417,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9733,
+        "recency": 0.9592,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1282,203 +1444,63 @@
       }
     },
     {
-      "story_id": "story_4d4abc4981ba",
-      "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-      "url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "primary_url": "https://x.com/JensenHuang/status/2086934705207959965",
-      "source": "X：Jensen Huang (@JensenHuang)",
+      "story_id": "story_e10b35396e1a",
+      "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+      "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+      "primary_url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-          "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-          "url": "https://x.com/JensenHuang/status/2086934705207959965",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+          "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-10T21:56:21Z"
+          "published_at": "2026-08-11T18:20:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Jensen Huang (@JensenHuang)"
+        "X：OpenAI Developers (@OpenAIDevs)"
       ],
       "items": [
         {
-          "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-          "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-          "url": "https://x.com/JensenHuang/status/2086934705207959965",
-          "source": "X：Jensen Huang (@JensenHuang)",
+          "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+          "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+          "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-10T21:56:21Z"
+          "published_at": "2026-08-11T18:20:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7512,
+      "importance": 0.7512,
+      "importance_score": 0.7512,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7498,
+        "recency": 0.9923,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T21:56:21Z",
-      "latest_at": "2026-08-10T21:56:21Z",
-      "primary_item": {
-        "id": "e0c66622d06ad11febd7df57f1e2a2985c98b30a",
-        "title": "英伟达联合六大机构融资5000亿美元建AI工厂",
-        "url": "https://x.com/JensenHuang/status/2086934705207959965",
-        "source": "X：Jensen Huang (@JensenHuang)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_89e2ec81fbde",
-      "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-      "url": "https://www.aibase.com/news/30236",
-      "primary_url": "https://www.aibase.com/news/30236",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-          "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-          "url": "https://www.aibase.com/news/30236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:29:06.823584Z"
-        },
-        {
-          "id": "2ae9b051fb295e4d06e07ef190780a509f7bf81f",
-          "title": "TVB 进军 AI 算力赛道：2027 年启动首期万 P 级算力设施运营",
-          "url": "https://www.aibase.com/zh/news/30236",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-          "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-          "url": "https://www.aibase.com/news/30236",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-11T03:29:06.823584Z"
-        },
-        {
-          "id": "2ae9b051fb295e4d06e07ef190780a509f7bf81f",
-          "title": "TVB 进军 AI 算力赛道：2027 年启动首期万 P 级算力设施运营",
-          "url": "https://www.aibase.com/zh/news/30236",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8124,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T03:29:06.823584Z",
-      "latest_at": "2026-08-11T03:29:06.823584Z",
+      "earliest_at": "2026-08-11T18:20:44Z",
+      "latest_at": "2026-08-11T18:20:44Z",
       "primary_item": {
-        "id": "fef489ba6b0758064e6c4ee38a67e4e5152164c1",
-        "title": "TVB进军AI算力赛道:2027年启动首期万P级算力设施运营",
-        "url": "https://www.aibase.com/news/30236",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8c85a5e4c7a3",
-      "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-      "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "primary_url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
-          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:31:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
-          "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-          "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T16:31:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9807,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-11T16:31:23Z",
-      "latest_at": "2026-08-11T16:31:23Z",
-      "primary_item": {
-        "id": "6beecdb6a981fa0908fad902d332d55e43dcabd0",
-        "title": "Ryan Greenblatt：人类级AI或于2032年前通过递归自我改进催生失控超级智能",
-        "url": "https://www.dwarkesh.com/p/ryan-greenblatt",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
+        "id": "9024af61e406cc4fb1c6876b8f915e9d9f24896d",
+        "title": "ChatGPT 桌面端支持导入其他智能体工作数据",
+        "url": "https://x.com/OpenAIDevs/status/2087242829076791392",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
       }
     }
