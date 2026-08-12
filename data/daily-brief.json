@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:25:07.579334Z",
+  "generated_at": "2026-08-12T19:34:53.253273Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8794,
-      "importance": 0.8794,
-      "importance_score": 0.8794,
+      "score": 0.8765,
+      "importance": 0.8765,
+      "importance_score": 0.8765,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9691,
+        "recency": 0.9529,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +82,68 @@
         "title": "OlmoEarth Studio 推出自定义嵌入导出功能 / Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
         "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d0656ae81e3d",
+      "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
+          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
+          "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8585,
+      "importance": 0.8585,
+      "importance_score": 0.8585,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9916,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T19:00:00Z",
+      "latest_at": "2026-08-12T19:00:00Z",
+      "primary_item": {
+        "id": "21521f8133745ac51cd608ae1879dee3c65d6668",
+        "title": "使用 GitHub Copilot 应用编写您的第一个提示 / Write your first prompt with the GitHub Copilot app",
+        "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9386,
+        "recency": 0.923,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8549,
-      "importance": 0.8549,
-      "importance_score": 0.8549,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9384,
+        "recency": 0.9228,
         "story_heat": 0.0
       },
       "category": "official",
@@ -246,7 +308,7 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -291,7 +353,7 @@
         },
         {
           "id": "789e8ddc12b5311d3469bfd194f4dd3a3241e874",
-          "title": "Research Gold 号称\"100%人类撰写、绝不使用AI\"，实则全程由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
+          "title": "一家声称提供“100%由人类撰写、绝不使用AI”的医学研究的公司，其实100%由AI驱动 / Company Offering '100% Human-Written, Never AI' Medical Research Is 100% AI",
           "url": "https://www.404media.co/company-offering-100-human-written-never-ai-peer-review-is-entirely-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -301,15 +363,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8321,
+        "recency": 0.8183,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -363,15 +425,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8224,
-      "importance": 0.8224,
-      "importance_score": 0.8224,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8358,
+        "recency": 0.8219,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8027,
-      "importance": 0.8027,
-      "importance_score": 0.8027,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7262,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "official",
@@ -506,15 +568,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.8663,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -568,15 +630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.9519,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -648,15 +710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7203,
+        "recency": 0.7083,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -729,15 +791,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7656,
-      "importance": 0.7656,
-      "importance_score": 0.7656,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7665,
+        "recency": 0.7537,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -791,15 +853,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7281,
+        "recency": 0.7159,
         "story_heat": 0.0
       },
       "category": "official",
@@ -853,21 +915,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9115,
+        "recency": 0.8964,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T12:00:18Z",
       "latest_at": "2026-08-12T12:00:18Z",
@@ -876,6 +937,66 @@
         "title": "Meta 开源 Muse Glimmer 登陆 OpenRouter",
         "url": "https://x.com/OpenRouter/status/2087509478480765218",
         "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6acbb8c7572b",
+      "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+      "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "primary_url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T18:00:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+          "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-12T18:00:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9775,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-12T18:00:08Z",
+      "latest_at": "2026-08-12T18:00:08Z",
+      "primary_item": {
+        "id": "db8cb1b09708503077cd0ebbc7d6809608eee5d2",
+        "title": "AutoGPT 如何用 AGENTS.md 和技能门控管理 AI 生成的拉取请求",
+        "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project",
+        "source": "GitHub Blog",
         "source_name": "AI HOT"
       }
     },
@@ -914,15 +1035,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9934,
+        "recency": 0.9769,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -974,15 +1095,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7198,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9659,
+        "recency": 0.9498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7712,
-      "importance": 0.7712,
-      "importance_score": 0.7712,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.8663,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1138,68 +1259,6 @@
         "url": "https://www.aibase.com/news/30289",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6d2ce1842205",
-      "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
-      "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-      "primary_url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
-          "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
-          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T19:03:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
-          "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
-          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T19:03:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7137,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T19:03:57Z",
-      "latest_at": "2026-08-11T19:03:57Z",
-      "primary_item": {
-        "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
-        "title": "自动将分支保护规则迁移到存储库规则集 / Automatically migrate branch protection rules to repository rulesets",
-        "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1237,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9652,
+        "recency": 0.9491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1298,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.925,
+        "recency": 0.9096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1321,87 +1380,6 @@
         "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
         "source": "Nathan Lambert：Interconnects（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_456fc214b456",
-      "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-      "url": "https://www.aibase.com/news/30277",
-      "primary_url": "https://www.aibase.com/news/30277",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "url": "https://www.aibase.com/news/30277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:10:55.740869Z"
-        },
-        {
-          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
-          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
-          "url": "https://www.aibase.com/zh/news/30277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-          "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-          "url": "https://www.aibase.com/news/30277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-12T08:10:55.740869Z"
-        },
-        {
-          "id": "4357d7ce8cfc62fff19f5c9525af3dac6a8dda2d",
-          "title": "LTX 正式发布开放世界模型 LTX-2.5：原生集成 ComfyUI，中小企业免费",
-          "url": "https://www.aibase.com/zh/news/30277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8626,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T08:10:55.740869Z",
-      "latest_at": "2026-08-12T08:10:55.740869Z",
-      "primary_item": {
-        "id": "c51d77e424a4888cb33e07d6af776bd404b2f97d",
-        "title": "LTX正式发布开放世界模型LTX-2.5:原生集成ComfyUI且中小企业免费",
-        "url": "https://www.aibase.com/news/30277",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
