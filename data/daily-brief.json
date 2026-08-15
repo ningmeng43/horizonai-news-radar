@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:45:13.796933Z",
+  "generated_at": "2026-08-15T23:13:48.188593Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.9558,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -137,15 +137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8441,
+        "recency": 0.8383,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -162,6 +162,86 @@
         "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7086513972fc",
+      "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+          "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-15T18:58:39Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关克劳德的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+          "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-15T18:58:39Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic 分享了有关克劳德的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.663,
+      "importance": 0.663,
+      "importance_score": 0.663,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.9404,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-15T18:58:39Z",
+      "latest_at": "2026-08-15T22:07:08Z",
+      "primary_item": {
+        "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+        "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -274,15 +354,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6195,
-      "importance": 0.6195,
-      "importance_score": 0.6195,
+      "score": 0.6182,
+      "importance": 0.6182,
+      "importance_score": 0.6182,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9926,
+        "recency": 0.9858,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -371,15 +451,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.5607,
+      "importance": 0.5607,
+      "importance_score": 0.5607,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9502,
+        "recency": 0.9437,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -469,15 +549,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5556,
-      "importance": 0.5556,
-      "importance_score": 0.5556,
+      "score": 0.5544,
+      "importance": 0.5544,
+      "importance_score": 0.5544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9154,
+        "recency": 0.9091,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -567,15 +647,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5494,
-      "importance": 0.5494,
-      "importance_score": 0.5494,
+      "score": 0.5483,
+      "importance": 0.5483,
+      "importance_score": 0.5483,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8808,
+        "recency": 0.8748,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -684,15 +764,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5762,
-      "importance": 0.5762,
-      "importance_score": 0.5762,
+      "score": 0.5751,
+      "importance": 0.5751,
+      "importance_score": 0.5751,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.885,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -763,15 +843,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9698,
+        "recency": 0.9632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -841,15 +921,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9698,
+        "recency": 0.9632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -920,15 +1000,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9661,
+        "recency": 0.9595,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1018,15 +1098,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7878,
+        "recency": 0.7824,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1096,15 +1176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.886,
+        "recency": 0.8799,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1175,15 +1255,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.841,
+        "recency": 0.8353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,15 +1353,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9933,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1352,15 +1432,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5094,
-      "importance": 0.5094,
-      "importance_score": 0.5094,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.7922,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1431,15 +1511,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4996,
-      "importance": 0.4996,
-      "importance_score": 0.4996,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7435,
+        "recency": 0.7384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1510,15 +1590,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.841,
+        "recency": 0.8353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1588,15 +1668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.4986,
+      "importance": 0.4986,
+      "importance_score": 0.4986,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7428,
+        "recency": 0.7377,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1666,15 +1746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
+      "score": 0.4957,
+      "importance": 0.4957,
+      "importance_score": 0.4957,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7268,
+        "recency": 0.7218,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1688,85 +1768,6 @@
         "title": "据《华尔街日报》报道，英伟达缩减了对俄亥俄州OpenAI数据中心的资金担保",
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
         "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6585397986fa",
-      "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-      "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-      "primary_url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9b534af4d903899a735a8130a35795f50995d60a",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:30:00.744000Z"
-        },
-        {
-          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:25:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "9b534af4d903899a735a8130a35795f50995d60a",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:30:00.744000Z"
-        },
-        {
-          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:25:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8378,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:25:02Z",
-      "latest_at": "2026-08-15T10:30:00.744000Z",
-      "primary_item": {
-        "id": "9b534af4d903899a735a8130a35795f50995d60a",
-        "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-        "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
