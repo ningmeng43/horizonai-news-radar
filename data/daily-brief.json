@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T09:19:15.388678Z",
+  "generated_at": "2026-08-15T09:48:04.790124Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8174,
+      "importance": 0.8174,
+      "importance_score": 0.8174,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8582,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8042,
-      "importance": 0.8042,
-      "importance_score": 0.8042,
+      "score": 0.8032,
+      "importance": 0.8032,
+      "importance_score": 0.8032,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7787,
+        "recency": 0.7733,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.782,
+        "recency": 0.7766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,15 +243,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7648,
-      "importance": 0.7648,
-      "importance_score": 0.7648,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7289,
+        "recency": 0.7239,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +343,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8177,
+        "recency": 0.812,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -424,15 +424,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7607,
+      "importance": 0.7607,
+      "importance_score": 0.7607,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7615,
+        "recency": 0.7562,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -449,86 +449,6 @@
         "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
         "source": "Ars Technica：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a33d6318ced2",
-      "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
-      "url": "https://www.aibase.com/news/30362",
-      "primary_url": "https://www.aibase.com/news/30362",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
-          "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
-          "url": "https://www.aibase.com/news/30362",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T09:33:31.224318Z"
-        },
-        {
-          "id": "4d9f70b60b5f70c3cf14cf872215620462d34578",
-          "title": "MiniMax 发布 Music3 音乐模型：可生成最长 5 分钟歌曲",
-          "url": "https://www.aibase.com/zh/news/30362",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
-          "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
-          "url": "https://www.aibase.com/news/30362",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-14T09:33:31.224318Z"
-        },
-        {
-          "id": "4d9f70b60b5f70c3cf14cf872215620462d34578",
-          "title": "MiniMax 发布 Music3 音乐模型：可生成最长 5 分钟歌曲",
-          "url": "https://www.aibase.com/zh/news/30362",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7095,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T09:33:31.224318Z",
-      "latest_at": "2026-08-14T09:33:31.224318Z",
-      "primary_item": {
-        "id": "1f8a249b23cd6211087ba5509d94d9a585ee4e0e",
-        "title": "MiniMax 发布 Music3 音乐模型：给歌词和描述，可生成最长 5 分钟歌曲",
-        "url": "https://www.aibase.com/news/30362",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -566,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7369,
-      "importance": 0.7369,
-      "importance_score": 0.7369,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7463,
+        "recency": 0.7411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -645,15 +565,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.732,
+      "importance": 0.732,
+      "importance_score": 0.732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.735,
+        "recency": 0.7299,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -706,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7229,
-      "importance": 0.7229,
-      "importance_score": 0.7229,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7681,
+        "recency": 0.7627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -785,15 +705,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6094,
-      "importance": 0.6094,
-      "importance_score": 0.6094,
+      "score": 0.6084,
+      "importance": 0.6084,
+      "importance_score": 0.6084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7813,
+        "recency": 0.7759,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,15 +783,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5895,
-      "importance": 0.5895,
-      "importance_score": 0.5895,
+      "score": 0.5885,
+      "importance": 0.5885,
+      "importance_score": 0.5885,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7861,
+        "recency": 0.7807,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -961,15 +881,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5635,
-      "importance": 0.5635,
-      "importance_score": 0.5635,
+      "score": 0.5623,
+      "importance": 0.5623,
+      "importance_score": 0.5623,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9594,
+        "recency": 0.9528,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1059,15 +979,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.563,
-      "importance": 0.563,
-      "importance_score": 0.563,
+      "score": 0.5618,
+      "importance": 0.5618,
+      "importance_score": 0.5618,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9564,
+        "recency": 0.9498,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1157,15 +1077,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8525,
+        "recency": 0.8466,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1179,6 +1099,85 @@
         "title": "充分利用您的克劳德代码（Claude Code）会话",
         "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
         "source": "claude.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c71ab223e5c0",
+      "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
+      "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
+      "primary_url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "dbcc639113a67c34be4b15783c590acda889f65c",
+          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
+          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T08:22:17.069000Z"
+        },
+        {
+          "id": "89c6527e6dbde2f93b0b21e76861baaadbc7d955",
+          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工 / The AI boss at a San Francisco store just fired its first human",
+          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T08:11:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "dbcc639113a67c34be4b15783c590acda889f65c",
+          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
+          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T08:22:17.069000Z"
+        },
+        {
+          "id": "89c6527e6dbde2f93b0b21e76861baaadbc7d955",
+          "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工 / The AI boss at a San Francisco store just fired its first human",
+          "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T08:11:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9796,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T08:11:01Z",
+      "latest_at": "2026-08-15T08:22:17.069000Z",
+      "primary_item": {
+        "id": "dbcc639113a67c34be4b15783c590acda889f65c",
+        "title": "旧金山一家商店的AI主管刚刚解雇了第一位人类员工",
+        "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1236,15 +1235,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9745,
+        "recency": 0.9677,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1315,15 +1314,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9684,
+        "recency": 0.9617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1413,15 +1412,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8176,
+        "recency": 0.8119,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1439,161 +1438,180 @@
       }
     },
     {
-      "story_id": "story_00919b8d9073",
-      "title": "Coinbase首席技术官表示，该公司的AI教练为他提供了职业生涯中“最棒的反馈”",
-      "url": "https://www.businessinsider.com/coinbases-cto-ai-coach-gives-him-best-career-feedback-2026-8",
-      "primary_url": "https://www.businessinsider.com/coinbases-cto-ai-coach-gives-him-best-career-feedback-2026-8",
-      "source": "www.businessinsider.com",
+      "story_id": "story_1beb1f37396c",
+      "title": "当天才失灵：人工智能实验室的智力傲慢",
+      "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "primary_url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+      "source": "weightythoughts.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "567a42de418e027ec744d2d10a73a59355f6ba08",
-          "title": "Coinbase首席技术官表示，该公司的AI教练为他提供了职业生涯中“最棒的反馈”",
-          "url": "https://www.businessinsider.com/coinbases-cto-ai-coach-gives-him-best-career-feedback-2026-8",
-          "source": "www.businessinsider.com",
+          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
+          "title": "当天才失灵：人工智能实验室的智力傲慢",
+          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "source": "weightythoughts.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T04:38:14.548000Z"
+          "published_at": "2026-08-14T16:10:19.001000Z"
         },
         {
-          "id": "48661ac72aaed84de09fcda71b355eff995ed202",
-          "title": "Coinbase首席技术官表示，该公司的AI教练为他提供了职业生涯中“最棒的反馈” / Coinbase CTO says he's getting 'the best feedback' of his career from an AI agent",
-          "url": "https://www.businessinsider.com/coinbases-cto-ai-coach-gives-him-best-career-feedback-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T09:23:01Z"
+          "id": "88da14f6fe324236413e4952b53842d93f2adce3",
+          "title": "当天才失败时：人工智能实验室的知识傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "url": "https://news.ycombinator.com/item?id=49299282",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T15:14:30.250000Z"
+        },
+        {
+          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
+          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T14:34:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "weightythoughts.com"
+      ],
+      "items": [
+        {
+          "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
+          "title": "当天才失灵：人工智能实验室的智力傲慢",
+          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "source": "weightythoughts.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T16:10:19.001000Z"
+        },
+        {
+          "id": "88da14f6fe324236413e4952b53842d93f2adce3",
+          "title": "当天才失败时：人工智能实验室的知识傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "url": "https://news.ycombinator.com/item?id=49299282",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-14T15:14:30.250000Z"
+        },
+        {
+          "id": "aae77e411a82914d7d2661154aa2fbf7cff5aa13",
+          "title": "当天才失灵：人工智能实验室的智力傲慢 / When Genius Fails: The Intellectual Arrogance of the AI Labs",
+          "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-14T14:34:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7752,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-14T14:34:49Z",
+      "latest_at": "2026-08-14T16:10:19.001000Z",
+      "primary_item": {
+        "id": "abb0dd9e623ffc1b8468057aec216f1a40c62611",
+        "title": "当天才失灵：人工智能实验室的智力傲慢",
+        "url": "https://weightythoughts.com/p/when-genius-failsthe-intellectual",
+        "source": "weightythoughts.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a24a68501133",
+      "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "79566cb8b92f83ebeff565947ff3b6bf13276cb3",
+          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T02:13:58.045000Z"
+        },
+        {
+          "id": "377314d71804123b539117226ad83100ddc18e96",
+          "title": "消息人士称，Anthropic的IPO估值取决于其2028年1900亿至2000亿美元的营收预测",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T00:23:20.043000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "news.google.com",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "567a42de418e027ec744d2d10a73a59355f6ba08",
-          "title": "Coinbase首席技术官表示，该公司的AI教练为他提供了职业生涯中“最棒的反馈”",
-          "url": "https://www.businessinsider.com/coinbases-cto-ai-coach-gives-him-best-career-feedback-2026-8",
-          "source": "www.businessinsider.com",
+          "id": "79566cb8b92f83ebeff565947ff3b6bf13276cb3",
+          "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T04:38:14.548000Z"
+          "published_at": "2026-08-15T02:13:58.045000Z"
         },
         {
-          "id": "48661ac72aaed84de09fcda71b355eff995ed202",
-          "title": "Coinbase首席技术官表示，该公司的AI教练为他提供了职业生涯中“最棒的反馈” / Coinbase CTO says he's getting 'the best feedback' of his career from an AI agent",
-          "url": "https://www.businessinsider.com/coinbases-cto-ai-coach-gives-him-best-career-feedback-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T09:23:01Z"
+          "id": "377314d71804123b539117226ad83100ddc18e96",
+          "title": "消息人士称，Anthropic的IPO估值取决于其2028年1900亿至2000亿美元的营收预测",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T00:23:20.043000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
+      "score": 0.5272,
+      "importance": 0.5272,
+      "importance_score": 0.5272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9346,
+        "recency": 0.8965,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-14T09:23:01Z",
-      "latest_at": "2026-08-15T04:38:14.548000Z",
+      "earliest_at": "2026-08-15T00:23:20.043000Z",
+      "latest_at": "2026-08-15T02:13:58.045000Z",
       "primary_item": {
-        "id": "567a42de418e027ec744d2d10a73a59355f6ba08",
-        "title": "Coinbase首席技术官表示，该公司的AI教练为他提供了职业生涯中“最棒的反馈”",
-        "url": "https://www.businessinsider.com/coinbases-cto-ai-coach-gives-him-best-career-feedback-2026-8",
-        "source": "www.businessinsider.com",
+        "id": "79566cb8b92f83ebeff565947ff3b6bf13276cb3",
+        "title": "独家：消息人士称，Anthropic的IPO估值取决于2028年1900亿至2000亿美元的营收预测 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a8d30f7063b5",
-      "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
-          "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T09:21:17Z"
-        },
-        {
-          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
-          "title": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
-          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T09:46:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Mac Rumors",
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
-          "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-14T09:21:17Z"
-        },
-        {
-          "id": "4a92499d9a353c37f2b90952d4ffcb4fd710c8e7",
-          "title": "苹果在阿里巴巴的帮助下为中国市场训练了自己的人工智能模型 / Apple Trained Own AI model for China Market With Help From Alibaba",
-          "url": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china",
-          "source": "Mac Rumors",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T09:46:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5628,
-      "importance": 0.5628,
-      "importance_score": 0.5628,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7075,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T09:21:17Z",
-      "latest_at": "2026-08-14T09:46:29Z",
-      "primary_item": {
-        "id": "b48a94fbbe103bab1b05ca13b32326d5e59b4e5a",
-        "title": "苹果在阿里巴巴的帮助下为中国训练了自己的人工智能模型 / Apple trained its own AI model for China with help from Alibaba",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-        "source": "The Verge",
-        "source_name": "Curated Media"
       }
     }
   ]
