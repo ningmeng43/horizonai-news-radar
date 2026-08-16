@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-08-16T22:44:12.100168Z",
+  "generated_at": "2026-08-16T23:13:05.461919Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_81603460e983",
+      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+      "primary_url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e37a636db32579233e4e64ee024855a5030f5857",
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+          "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T22:00:39Z"
+        },
+        {
+          "id": "91385b526bfe9ee224839162a06c4a96dee31c4d",
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+          "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "e37a636db32579233e4e64ee024855a5030f5857",
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+          "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T22:00:39Z"
+        },
+        {
+          "id": "91385b526bfe9ee224839162a06c4a96dee31c4d",
+          "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent, but it defaults to wildly overthinking things",
+          "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7925,
+      "importance": 0.7925,
+      "importance_score": 0.7925,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9827,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-16T22:00:39Z",
+      "latest_at": "2026-08-16T22:44:12.100168Z",
+      "primary_item": {
+        "id": "e37a636db32579233e4e64ee024855a5030f5857",
+        "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考",
+        "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_af863cb3b215",
       "title": "新兴多智能体系统的模式与问题",
@@ -57,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8478,
+        "recency": 0.8419,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7548,
+        "recency": 0.7495,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -142,6 +223,202 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_0f2dda7c9a41",
+      "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "url": "https://news.ycombinator.com/item?id=49324087",
+      "primary_url": "https://news.ycombinator.com/item?id=49324087",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
+          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "url": "https://news.ycombinator.com/item?id=49324087",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:45:08.332000Z"
+        },
+        {
+          "id": "8a74cffa132b6b8f7353d6e767f6e6e42900bcf5",
+          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T21:53:43Z"
+        },
+        {
+          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
+          "title": "★ Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T19:26:33Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Daring Fireball",
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
+          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "url": "https://news.ycombinator.com/item?id=49324087",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:45:08.332000Z"
+        },
+        {
+          "id": "8a74cffa132b6b8f7353d6e767f6e6e42900bcf5",
+          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T21:53:43Z"
+        },
+        {
+          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
+          "title": "★ Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
+          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T19:26:33Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9933,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T19:26:33Z",
+      "latest_at": "2026-08-16T22:45:08.332000Z",
+      "primary_item": {
+        "id": "d0e9b4dba32697b50990e520b8b6d050fdbd91d8",
+        "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+        "url": "https://news.ycombinator.com/item?id=49324087",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7b2c05cb77f7",
+      "title": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 表示，人工智能赢得公众的方式是“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+      "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
+      "primary_url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
+      "source": "Reddit (热门)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "4b4fdc768257e83bb3fecdbb54a3c9651d99720f",
+          "title": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 表示，人工智能赢得公众的方式是“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+          "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T17:41:11Z"
+        },
+        {
+          "id": "6b7f817511c20eb80d840e5f520413ad9e366270",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症",
+          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.217000Z"
+        },
+        {
+          "id": "b3f6977b46a76bd87884fd151cb205504f398853",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T16:30:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Business Insider",
+        "Reddit (热门)",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "4b4fdc768257e83bb3fecdbb54a3c9651d99720f",
+          "title": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 表示，人工智能赢得公众的方式是“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+          "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T17:41:11Z"
+        },
+        {
+          "id": "6b7f817511c20eb80d840e5f520413ad9e366270",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症",
+          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.217000Z"
+        },
+        {
+          "id": "b3f6977b46a76bd87884fd151cb205504f398853",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T16:30:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.557,
+      "importance": 0.557,
+      "importance_score": 0.557,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9232,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T16:30:38Z",
+      "latest_at": "2026-08-16T17:41:11Z",
+      "primary_item": {
+        "id": "4b4fdc768257e83bb3fecdbb54a3c9651d99720f",
+        "title": "Anthropic 首席执行官达里奥·阿莫迪 (Dario Amodei) 表示，人工智能赢得公众的方式是“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
+        "url": "https://www.reddit.com/r/technology/comments/1vq3dh3/anthropic_ceo_dario_amodei_says_the_way_for_ai_to",
+        "source": "Reddit (热门)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -217,15 +494,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5576,
-      "importance": 0.5576,
-      "importance_score": 0.5576,
+      "score": 0.5564,
+      "importance": 0.5564,
+      "importance_score": 0.5564,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9264,
+        "recency": 0.92,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -243,153 +520,55 @@
       }
     },
     {
-      "story_id": "story_eb6ce119e52b",
-      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-      "url": "https://news.ycombinator.com/item?id=49319814",
-      "primary_url": "https://news.ycombinator.com/item?id=49319814",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:15:17.374000Z"
-        },
-        {
-          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
-          "url": "https://wildstatic.com",
-          "source": "wildstatic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T13:26:06.243000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "wildstatic.com"
-      ],
-      "items": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:15:17.374000Z"
-        },
-        {
-          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
-          "url": "https://wildstatic.com",
-          "source": "wildstatic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T13:26:06.243000Z"
-        },
-        {
-          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
-          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5524,
-      "importance": 0.5524,
-      "importance_score": 0.5524,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8976,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T13:21:45Z",
-      "latest_at": "2026-08-16T15:15:17.374000Z",
-      "primary_item": {
-        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
-        "url": "https://news.ycombinator.com/item?id=49319814",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7ec51ac786a3",
-      "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
-      "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+      "story_id": "story_abaf3e03b97f",
+      "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
+      "url": "https://www.ithome.com/0/990/404.htm",
+      "primary_url": "https://www.ithome.com/0/990/404.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
+          "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
+          "url": "https://www.ithome.com/0/990/404.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T21:45:01.102000Z"
+          "id": "be93018d06b0f6eed6b0dc6111ea6496c61f4766",
+          "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
+          "url": "https://www.ithome.com/0/990/404.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T22:36:24Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "hackernews"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
+          "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
+          "url": "https://www.ithome.com/0/990/404.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
-          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-          "url": "https://news.ycombinator.com/item?id=49323686",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T21:45:01.102000Z"
+          "id": "be93018d06b0f6eed6b0dc6111ea6496c61f4766",
+          "title": "Anthropic Claude 出现大规模服务故障，旗下多项服务无法登录 / 无法加载",
+          "url": "https://www.ithome.com/0/990/404.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T22:36:24Z"
         }
       ],
       "item_count": 2,
@@ -409,93 +588,14 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T21:45:01.102000Z",
-      "latest_at": "2026-08-16T22:44:12.100168Z",
+      "earliest_at": "2026-08-16T22:36:24Z",
+      "latest_at": "2026-08-16T23:13:05.461919Z",
       "primary_item": {
-        "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
-        "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
-        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+        "id": "a60d43ecda7260c7e95879dae273ef8784eac81f",
+        "title": "Anthropic Claude 出现大规模服务故障，多项服务无法登录或加载",
+        "url": "https://www.ithome.com/0/990/404.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0f2dda7c9a41",
-      "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "primary_url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
-      "sources": [
-        {
-          "id": "8a74cffa132b6b8f7353d6e767f6e6e42900bcf5",
-          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T21:53:43Z"
-        },
-        {
-          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "★ Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T19:26:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Daring Fireball",
-        "HN Algolia · AI 24h"
-      ],
-      "items": [
-        {
-          "id": "8a74cffa132b6b8f7353d6e767f6e6e42900bcf5",
-          "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-16T21:53:43Z"
-        },
-        {
-          "id": "1096d4d6014fef89eee8e27720ab7a0eb66fc753",
-          "title": "★ Anthropic 在《克劳德》中的“水印”文本掺假是对写作的歪曲 / ★ Anthropic’s ‘Watermark’ Text Adulteration in Claude Is a Perversion of Writing",
-          "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T19:26:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5436,
-      "importance": 0.5436,
-      "importance_score": 0.5436,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9879,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T19:26:33Z",
-      "latest_at": "2026-08-16T21:53:43Z",
-      "primary_item": {
-        "id": "8a74cffa132b6b8f7353d6e767f6e6e42900bcf5",
-        "title": "《克劳德》中人类的“水印”文本掺假是对写作的歪曲 / Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
-        "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
       }
     },
     {
@@ -552,15 +652,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9685,
+        "recency": 0.9618,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -650,15 +750,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8284,
+        "recency": 0.8227,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -729,15 +829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9407,
+        "recency": 0.9342,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -751,85 +851,6 @@
         "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
         "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7b2c05cb77f7",
-      "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症",
-      "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6b7f817511c20eb80d840e5f520413ad9e366270",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症",
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:40.217000Z"
-        },
-        {
-          "id": "b3f6977b46a76bd87884fd151cb205504f398853",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T16:30:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "6b7f817511c20eb80d840e5f520413ad9e366270",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症",
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T17:26:40.217000Z"
-        },
-        {
-          "id": "b3f6977b46a76bd87884fd151cb205504f398853",
-          "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症 / Anthropic CEO Dario Amodei says the way for AI to win over the public is to 'actually' cure cancer",
-          "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T16:30:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9264,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T16:30:38Z",
-      "latest_at": "2026-08-16T17:26:40.217000Z",
-      "primary_item": {
-        "id": "6b7f817511c20eb80d840e5f520413ad9e366270",
-        "title": "Anthropic首席执行官达里奥·阿莫德伊表示，人工智能要赢得公众认可，就必须“真正”治愈癌症",
-        "url": "https://www.businessinsider.com/anthropic-ceo-dario-amodei-ai-public-opinion-cure-cancer-2026-8",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -887,15 +908,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5245,
+      "importance": 0.5245,
+      "importance_score": 0.5245,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8879,
+        "recency": 0.8818,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -909,6 +930,183 @@
         "title": "克劳德：系统提示",
         "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
         "source": "platform.claude.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_eb6ce119e52b",
+      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+      "url": "https://news.ycombinator.com/item?id=49319814",
+      "primary_url": "https://news.ycombinator.com/item?id=49319814",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:15:17.374000Z"
+        },
+        {
+          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
+          "url": "https://wildstatic.com",
+          "source": "wildstatic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T13:26:06.243000Z"
+        },
+        {
+          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://wildstatic.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "wildstatic.com"
+      ],
+      "items": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:15:17.374000Z"
+        },
+        {
+          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
+          "url": "https://wildstatic.com",
+          "source": "wildstatic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T13:26:06.243000Z"
+        },
+        {
+          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://wildstatic.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8914,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T13:21:45Z",
+      "latest_at": "2026-08-16T15:15:17.374000Z",
+      "primary_item": {
+        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+        "url": "https://news.ycombinator.com/item?id=49319814",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_b9f31d789bca",
+      "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
+      "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
+      "primary_url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "906e7f35326e9b94b119e3b6852d8db5465ead7e",
+          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
+          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T12:21:59.554000Z"
+        },
+        {
+          "id": "75d7766a47c87ba4832c163c6006d5cf8b59a66f",
+          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要 / The skill BCG's North America boss thinks matters more in the AI era",
+          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T09:33:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "906e7f35326e9b94b119e3b6852d8db5465ead7e",
+          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
+          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T12:21:59.554000Z"
+        },
+        {
+          "id": "75d7766a47c87ba4832c163c6006d5cf8b59a66f",
+          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要 / The skill BCG's North America boss thinks matters more in the AI era",
+          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T09:33:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.855,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T09:33:01Z",
+      "latest_at": "2026-08-16T12:21:59.554000Z",
+      "primary_item": {
+        "id": "906e7f35326e9b94b119e3b6852d8db5465ead7e",
+        "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
+        "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -966,15 +1164,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5188,
-      "importance": 0.5188,
-      "importance_score": 0.5188,
+      "score": 0.5178,
+      "importance": 0.5178,
+      "importance_score": 0.5178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8502,
+        "recency": 0.8443,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -992,82 +1190,82 @@
       }
     },
     {
-      "story_id": "story_a24a68501133",
-      "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-      "url": "https://news.ycombinator.com/item?id=49323620",
-      "primary_url": "https://news.ycombinator.com/item?id=49323620",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_7ec51ac786a3",
+      "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+      "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+      "primary_url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
-          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-          "url": "https://news.ycombinator.com/item?id=49323620",
+          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
+          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
+          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "url": "https://news.ycombinator.com/item?id=49323686",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-16T21:45:01.102000Z"
-        },
-        {
-          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
-          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T21:00:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Readhub · AI",
         "hackernews"
       ],
       "items": [
         {
-          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
-          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-          "url": "https://news.ycombinator.com/item?id=49323620",
+          "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
+          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b1183d5a3643a41d2541bcd015a4fb8d11502f76",
+          "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+          "url": "https://news.ycombinator.com/item?id=49323686",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-16T21:45:01.102000Z"
-        },
-        {
-          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
-          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T21:00:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9859,
+        "recency": 0.9931,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T21:00:25Z",
-      "latest_at": "2026-08-16T21:45:01.102000Z",
+      "earliest_at": "2026-08-16T21:45:01.102000Z",
+      "latest_at": "2026-08-16T22:44:12.100168Z",
       "primary_item": {
-        "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
-        "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-        "url": "https://news.ycombinator.com/item?id=49323620",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "457b877e8c2046c0acb3f6e23fde3cbb21883c40",
+        "title": "Nvidia 大幅减少了其可能担保的 OpenAI 基础设施融资金额 / Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+        "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1124,15 +1322,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
+      "score": 0.5099,
+      "importance": 0.5099,
+      "importance_score": 0.5099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8064,
+        "recency": 0.8008,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1147,243 +1345,6 @@
         "url": "https://github.com/mldsveda/PyScrappy",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dc17d35aad93",
-      "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-      "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4883517.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
-          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "139e2530651083380a682ad186daf7d698c08062",
-          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T16:26:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
-          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "139e2530651083380a682ad186daf7d698c08062",
-          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
-          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T16:26:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9236,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T16:26:33Z",
-      "latest_at": "2026-08-16T17:13:56.967788Z",
-      "primary_item": {
-        "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
-        "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
-        "url": "https://www.huxiu.com/article/4883517.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b9f31d789bca",
-      "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
-      "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-      "primary_url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "906e7f35326e9b94b119e3b6852d8db5465ead7e",
-          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
-          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T12:21:59.554000Z"
-        },
-        {
-          "id": "75d7766a47c87ba4832c163c6006d5cf8b59a66f",
-          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要 / The skill BCG's North America boss thinks matters more in the AI era",
-          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T09:33:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "906e7f35326e9b94b119e3b6852d8db5465ead7e",
-          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
-          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T12:21:59.554000Z"
-        },
-        {
-          "id": "75d7766a47c87ba4832c163c6006d5cf8b59a66f",
-          "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要 / The skill BCG's North America boss thinks matters more in the AI era",
-          "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T09:33:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5208,
-      "importance": 0.5208,
-      "importance_score": 0.5208,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8609,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T09:33:01Z",
-      "latest_at": "2026-08-16T12:21:59.554000Z",
-      "primary_item": {
-        "id": "906e7f35326e9b94b119e3b6852d8db5465ead7e",
-        "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
-        "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_332bc90701f1",
-      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-      "url": "https://news.ycombinator.com/item?id=49320144",
-      "primary_url": "https://news.ycombinator.com/item?id=49320144",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://news.ycombinator.com/item?id=49320144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:46:55.874000Z"
-        },
-        {
-          "id": "297c4b7ca2b8d4318f2de991d4a70e5baf413f6c",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:58:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://news.ycombinator.com/item?id=49320144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:46:55.874000Z"
-        },
-        {
-          "id": "297c4b7ca2b8d4318f2de991d4a70e5baf413f6c",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T13:58:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8915,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T13:58:17Z",
-      "latest_at": "2026-08-16T14:46:55.874000Z",
-      "primary_item": {
-        "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-        "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-        "url": "https://news.ycombinator.com/item?id=49320144",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1440,15 +1401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.5162,
+      "importance": 0.5162,
+      "importance_score": 0.5162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8413,
+        "recency": 0.8354,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1466,159 +1427,238 @@
       }
     },
     {
-      "story_id": "story_e9e25d79a002",
-      "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-      "url": "https://www.ithome.com/0/990/295.htm",
-      "primary_url": "https://www.ithome.com/0/990/295.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_186740912b76",
+      "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+      "url": "https://news.ycombinator.com/item?id=49323932",
+      "primary_url": "https://news.ycombinator.com/item?id=49323932",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
-          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://news.ycombinator.com/item?id=49323932",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:45:08.332000Z"
         },
         {
-          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
-          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "75647080ece83ccfe9f23c01643a5bcd4ef5144e",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T08:01:14Z"
+          "published_at": "2026-08-16T21:34:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
-          "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://news.ycombinator.com/item?id=49323932",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T22:45:08.332000Z"
         },
         {
-          "id": "81907c59654433c39918cfba2a6ea5ec0f5679a9",
-          "title": "ChatGPT 新功能：订阅用户无需离开对话，即可直接编辑谷歌云盘文件",
-          "url": "https://www.ithome.com/0/990/295.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "75647080ece83ccfe9f23c01643a5bcd4ef5144e",
+          "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+          "url": "https://futurism.com/artificial-intelligence/young-people-ai-ceos-executives-poll",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T08:01:14Z"
+          "published_at": "2026-08-16T21:34:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.819,
+        "recency": 0.9933,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T08:01:14Z",
-      "latest_at": "2026-08-16T08:54:22.968796Z",
+      "earliest_at": "2026-08-16T21:34:06Z",
+      "latest_at": "2026-08-16T22:45:08.332000Z",
       "primary_item": {
-        "id": "0d2b70ce9e68957a9651b53ecf668b6299ad8c1a",
-        "title": "ChatGPT 新功能：订阅用户可直接编辑谷歌云盘文件",
-        "url": "https://www.ithome.com/0/990/295.htm",
+        "id": "84486f08031cb804badebdefd5bc8ccf28ec0f0d",
+        "title": "年轻人如此强烈地讨厌人工智能首席执行官，这几乎令人难以置信 / Young People Hate AI CEOs So Passionately That It's Almost Hard to Believe",
+        "url": "https://news.ycombinator.com/item?id=49323932",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_dc17d35aad93",
+      "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+      "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4883517.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
+          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "139e2530651083380a682ad186daf7d698c08062",
+          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T16:26:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
+          "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "139e2530651083380a682ad186daf7d698c08062",
+          "title": "DeepSeek涨价背后：中国正在把“智能”变成一种工业品",
+          "url": "https://www.huxiu.com/article/4883517.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T16:26:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9172,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T16:26:33Z",
+      "latest_at": "2026-08-16T17:13:56.967788Z",
+      "primary_item": {
+        "id": "95d79892ef4cad03fe678d4d883bfa52b13c816f",
+        "title": "DeepSeek 涨价背后：中国正在把「智能」变成一种工业品",
+        "url": "https://www.huxiu.com/article/4883517.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_7562ac74e0c9",
-      "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-      "url": "https://news.ycombinator.com/item?id=49318735",
-      "primary_url": "https://news.ycombinator.com/item?id=49318735",
+      "story_id": "story_a24a68501133",
+      "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+      "url": "https://news.ycombinator.com/item?id=49323620",
+      "primary_url": "https://news.ycombinator.com/item?id=49323620",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://news.ycombinator.com/item?id=49318735",
+          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
+          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "url": "https://news.ycombinator.com/item?id=49323620",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T14:16:33.975000Z"
+          "published_at": "2026-08-16T21:45:01.102000Z"
         },
         {
-          "id": "7047a7d3f024068ad0e570dfecf36db9c4b95ae1",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://peterbloem.nl/blog/craft-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T10:31:36Z"
+          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
+          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T21:00:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://news.ycombinator.com/item?id=49318735",
+          "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
+          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "url": "https://news.ycombinator.com/item?id=49323620",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T14:16:33.975000Z"
+          "published_at": "2026-08-16T21:45:01.102000Z"
         },
         {
-          "id": "7047a7d3f024068ad0e570dfecf36db9c4b95ae1",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://peterbloem.nl/blog/craft-coding",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T10:31:36Z"
+          "id": "216c7ae686b6ed275ac6d38453019a626829ad7b",
+          "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+          "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T21:00:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.885,
+        "recency": 0.979,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T10:31:36Z",
-      "latest_at": "2026-08-16T14:16:33.975000Z",
+      "earliest_at": "2026-08-16T21:00:25Z",
+      "latest_at": "2026-08-16T21:45:01.102000Z",
       "primary_item": {
-        "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-        "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-        "url": "https://news.ycombinator.com/item?id=49318735",
+        "id": "4831da02cbb52ec2f0c55d62ce4d7a77787209d6",
+        "title": "Anthropic IPO 估值取决于 2028 年 190-200B 美元的收入预测 / Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
+        "url": "https://news.ycombinator.com/item?id=49323620",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
