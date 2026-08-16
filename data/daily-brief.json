@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:46:20.958810Z",
+  "generated_at": "2026-08-16T15:14:38.536219Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7868,
-      "importance": 0.7868,
-      "importance_score": 0.7868,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9511,
+        "recency": 0.9446,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8467,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -198,15 +198,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7636,
+        "recency": 0.7585,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -242,6 +242,15 @@
           "published_at": "2026-08-15T18:58:39Z"
         },
         {
+          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+          "title": "Anthropic 分享了有关克劳德新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T10:03:27Z"
+        },
+        {
           "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
           "title": "Anthropic 分享了有关克劳德的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
           "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
@@ -251,7 +260,7 @@
           "published_at": "2026-08-15T22:07:08Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "HN Algolia · AI 24h",
         "TechCrunch AI"
@@ -267,6 +276,15 @@
           "published_at": "2026-08-15T18:58:39Z"
         },
         {
+          "id": "dc143132ee980dde76e00ff14e8e79ec4db1408a",
+          "title": "Anthropic 分享了有关克劳德新水印如何工作的更多细节 / Anthropic shares more details about how Claude's new watermarks will work",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-16T10:03:27Z"
+        },
+        {
           "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
           "title": "Anthropic 分享了有关克劳德的新水印如何工作的详细信息 / Anthropic shares details about how Claude's new watermarks will work",
           "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
@@ -276,26 +294,26 @@
           "published_at": "2026-08-15T22:07:08Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.629,
-      "importance": 0.629,
-      "importance_score": 0.629,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.653,
+      "importance": 0.653,
+      "importance_score": 0.653,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7514,
-        "story_heat": 0.25
+        "recency": 0.7463,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-08-15T18:58:39Z",
-      "latest_at": "2026-08-15T22:07:08Z",
+      "latest_at": "2026-08-16T10:03:27Z",
       "primary_item": {
         "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
         "title": "Anthropic 分享了有关克劳德新水印如何运作的更多细节 / Anthropic shares more details about how Claude’s new watermarks will work",
@@ -414,15 +432,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5826,
-      "importance": 0.5826,
-      "importance_score": 0.5826,
+      "score": 0.5816,
+      "importance": 0.5816,
+      "importance_score": 0.5816,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7876,
+        "recency": 0.7822,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -530,15 +548,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.841,
+        "recency": 0.8353,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -628,15 +646,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
+      "score": 0.557,
+      "importance": 0.557,
+      "importance_score": 0.557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9294,
+        "recency": 0.9231,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -707,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9961,
+        "recency": 0.9894,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -730,6 +748,104 @@
         "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
         "source": "platform.claude.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_eb6ce119e52b",
+      "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+      "url": "https://news.ycombinator.com/item?id=49319814",
+      "primary_url": "https://news.ycombinator.com/item?id=49319814",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:15:17.374000Z"
+        },
+        {
+          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
+          "url": "https://wildstatic.com",
+          "source": "wildstatic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T13:26:06.243000Z"
+        },
+        {
+          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://wildstatic.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "wildstatic.com"
+      ],
+      "items": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:15:17.374000Z"
+        },
+        {
+          "id": "62946e9bde0730530a87360708e79ba18ebea3d9",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能",
+          "url": "https://wildstatic.com",
+          "source": "wildstatic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T13:26:06.243000Z"
+        },
+        {
+          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
+          "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+          "url": "https://wildstatic.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T13:21:45Z",
+      "latest_at": "2026-08-16T15:15:17.374000Z",
+      "primary_item": {
+        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+        "title": "Show HN：所有用户共享内存的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
+        "url": "https://news.ycombinator.com/item?id=49319814",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -786,15 +902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
+      "score": 0.5385,
+      "importance": 0.5385,
+      "importance_score": 0.5385,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9659,
+        "recency": 0.9593,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -865,15 +981,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9538,
+        "recency": 0.9473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -944,15 +1060,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9188,
+        "recency": 0.9125,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -967,85 +1083,6 @@
         "url": "https://www.ithome.com/0/990/295.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_332bc90701f1",
-      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-      "url": "https://news.ycombinator.com/item?id=49320144",
-      "primary_url": "https://news.ycombinator.com/item?id=49320144",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://news.ycombinator.com/item?id=49320144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:46:55.874000Z"
-        },
-        {
-          "id": "9e06c7fd63ff348cef640034ab1593ab62b167bf",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T13:58:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://news.ycombinator.com/item?id=49320144",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T14:46:55.874000Z"
-        },
-        {
-          "id": "9e06c7fd63ff348cef640034ab1593ab62b167bf",
-          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T13:58:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T13:58:17Z",
-      "latest_at": "2026-08-16T14:46:55.874000Z",
-      "primary_item": {
-        "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
-        "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
-        "url": "https://news.ycombinator.com/item?id=49320144",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1102,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9438,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1180,15 +1217,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7696,
+        "recency": 0.7643,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1259,15 +1296,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8747,
+        "recency": 0.8688,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1285,30 +1322,30 @@
       }
     },
     {
-      "story_id": "story_7562ac74e0c9",
-      "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-      "url": "https://news.ycombinator.com/item?id=49318735",
-      "primary_url": "https://news.ycombinator.com/item?id=49318735",
+      "story_id": "story_394dfc3977b6",
+      "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+      "url": "https://news.ycombinator.com/item?id=49320611",
+      "primary_url": "https://news.ycombinator.com/item?id=49320611",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://news.ycombinator.com/item?id=49318735",
+          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "url": "https://news.ycombinator.com/item?id=49320611",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T14:16:33.975000Z"
+          "published_at": "2026-08-16T15:15:17.374000Z"
         },
         {
-          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://peterbloem.nl/blog/craft-coding",
+          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T10:31:36Z"
+          "published_at": "2026-08-16T14:44:55Z"
         }
       ],
       "source_count": 2,
@@ -1318,47 +1355,126 @@
       ],
       "items": [
         {
-          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://news.ycombinator.com/item?id=49318735",
+          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "url": "https://news.ycombinator.com/item?id=49320611",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T14:16:33.975000Z"
+          "published_at": "2026-08-16T15:15:17.374000Z"
         },
         {
-          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
-          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-          "url": "https://peterbloem.nl/blog/craft-coding",
+          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T10:31:36Z"
+          "published_at": "2026-08-16T14:44:55Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5445,
-      "importance": 0.5445,
-      "importance_score": 0.5445,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9929,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T10:31:36Z",
-      "latest_at": "2026-08-16T14:16:33.975000Z",
+      "earliest_at": "2026-08-16T14:44:55Z",
+      "latest_at": "2026-08-16T15:15:17.374000Z",
       "primary_item": {
-        "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
-        "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
-        "url": "https://news.ycombinator.com/item?id=49318735",
+        "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+        "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+        "url": "https://news.ycombinator.com/item?id=49320611",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_332bc90701f1",
+      "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+      "url": "https://news.ycombinator.com/item?id=49320144",
+      "primary_url": "https://news.ycombinator.com/item?id=49320144",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://news.ycombinator.com/item?id=49320144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:46:55.874000Z"
+        },
+        {
+          "id": "9e06c7fd63ff348cef640034ab1593ab62b167bf",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T13:58:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://news.ycombinator.com/item?id=49320144",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T14:46:55.874000Z"
+        },
+        {
+          "id": "9e06c7fd63ff348cef640034ab1593ab62b167bf",
+          "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+          "url": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T13:58:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9934,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T13:58:17Z",
+      "latest_at": "2026-08-16T14:46:55.874000Z",
+      "primary_item": {
+        "id": "2e72db5025ccb18caa41a79e5cdcda7dc8b2299d",
+        "title": "据报道，第二季度 Anthropic 收入跃升至超过 $11.5B / Anthropic revenue reportedly jumps to more than $11.5B in second quarter",
+        "url": "https://news.ycombinator.com/item?id=49320144",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1417,15 +1533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5131,
-      "importance": 0.5131,
-      "importance_score": 0.5131,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8184,
+        "recency": 0.8128,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1496,15 +1612,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5038,
-      "importance": 0.5038,
-      "importance_score": 0.5038,
+      "score": 0.5028,
+      "importance": 0.5028,
+      "importance_score": 0.5028,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7666,
+        "recency": 0.7614,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1522,178 +1638,80 @@
       }
     },
     {
-      "story_id": "story_9497efda088c",
-      "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-      "url": "https://news.ycombinator.com/item?id=49314594",
-      "primary_url": "https://news.ycombinator.com/item?id=49314594",
+      "story_id": "story_7562ac74e0c9",
+      "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+      "url": "https://news.ycombinator.com/item?id=49318735",
+      "primary_url": "https://news.ycombinator.com/item?id=49318735",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://news.ycombinator.com/item?id=49314594",
+          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "url": "https://news.ycombinator.com/item?id=49318735",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T22:45:47.311000Z"
+          "published_at": "2026-08-16T14:16:33.975000Z"
         },
         {
-          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T21:57:53.048000Z"
-        },
-        {
-          "id": "3b899642b0cd06a0af74829b57ebf1fef11c2320",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T21:42:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://news.ycombinator.com/item?id=49314594",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:45:47.311000Z"
-        },
-        {
-          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T21:57:53.048000Z"
-        },
-        {
-          "id": "3b899642b0cd06a0af74829b57ebf1fef11c2320",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T21:42:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7936,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T21:42:39Z",
-      "latest_at": "2026-08-15T22:45:47.311000Z",
-      "primary_item": {
-        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-        "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-        "url": "https://news.ycombinator.com/item?id=49314594",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_78464e78aa4b",
-      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49316605",
-      "primary_url": "https://news.ycombinator.com/item?id=49316605",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
-        },
-        {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
+          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "url": "https://peterbloem.nl/blog/craft-coding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T10:31:36Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
+          "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "url": "https://news.ycombinator.com/item?id=49318735",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
+          "published_at": "2026-08-16T14:16:33.975000Z"
         },
         {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
+          "id": "a12132c3d10fc1689761da3a232a22e27623ba25",
+          "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+          "url": "https://peterbloem.nl/blog/craft-coding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T10:31:36Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5225,
-      "importance": 0.5225,
-      "importance_score": 0.5225,
+      "score": 0.5433,
+      "importance": 0.5433,
+      "importance_score": 0.5433,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8706,
+        "recency": 0.9861,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T03:22:15Z",
-      "latest_at": "2026-08-16T05:10:44.244000Z",
+      "earliest_at": "2026-08-16T10:31:36Z",
+      "latest_at": "2026-08-16T14:16:33.975000Z",
       "primary_item": {
-        "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-        "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-        "url": "https://news.ycombinator.com/item?id=49316605",
+        "id": "1d2492a515caa36c70355895c4703f446a0a5ae2",
+        "title": "没有共鸣的人工智能编码 / AI Coding Without the Vibes",
+        "url": "https://news.ycombinator.com/item?id=49318735",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
