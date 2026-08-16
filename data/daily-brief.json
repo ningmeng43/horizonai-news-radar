@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:45:28.449610Z",
+  "generated_at": "2026-08-16T21:13:09.230055Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8723,
+        "recency": 0.8665,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7766,
+        "recency": 0.7715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -217,15 +217,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5624,
-      "importance": 0.5624,
-      "importance_score": 0.5624,
+      "score": 0.5613,
+      "importance": 0.5613,
+      "importance_score": 0.5613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9533,
+        "recency": 0.9469,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -269,18 +269,18 @@
           "published_at": "2026-08-16T13:26:06.243000Z"
         },
         {
-          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
+          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
           "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
           "url": "https://wildstatic.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T13:21:45Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "wildstatic.com"
       ],
@@ -304,26 +304,26 @@
           "published_at": "2026-08-16T13:26:06.243000Z"
         },
         {
-          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
+          "id": "4f2d6bb5582107dcd0855ca467ac6c2ca9a911d3",
           "title": "Show HN: 一款所有用户共享记忆的公共人工智能 / Show HN: A public AI whose memory is shared across all users",
           "url": "https://wildstatic.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-16T13:21:45Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.557,
-      "importance": 0.557,
-      "importance_score": 0.557,
+      "score": 0.5559,
+      "importance": 0.5559,
+      "importance_score": 0.5559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9236,
+        "recency": 0.9175,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -338,6 +338,85 @@
         "url": "https://news.ycombinator.com/item?id=49319814",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_46d4c1f7a618",
+      "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        },
+        {
+          "id": "f8be342fa4ca9b9817e9554cdc1cbf75aabfaaf3",
+          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T20:24:24.384000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        },
+        {
+          "id": "f8be342fa4ca9b9817e9554cdc1cbf75aabfaaf3",
+          "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter",
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T20:24:24.384000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.544,
+      "importance": 0.544,
+      "importance_score": 0.544,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.99,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T20:24:24.384000Z",
+      "latest_at": "2026-08-16T20:31:16Z",
+      "primary_item": {
+        "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+        "title": "Stripe 敲定一笔超过 70 亿美元的交易，收购人工智能公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -413,15 +492,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5442,
-      "importance": 0.5442,
-      "importance_score": 0.5442,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8524,
+        "recency": 0.8468,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -492,15 +571,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.54,
-      "importance": 0.54,
-      "importance_score": 0.54,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.968,
+        "recency": 0.9616,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -571,15 +650,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9533,
+        "recency": 0.9469,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -650,15 +729,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9504,
+        "recency": 0.9441,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -693,18 +772,18 @@
           "published_at": "2026-08-16T14:30:18.432000Z"
         },
         {
-          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
           "title": "克劳德：系统提示 / Claude: System Prompts",
           "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-16T12:48:21Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "platform.claude.com"
       ],
       "items": [
@@ -718,26 +797,26 @@
           "published_at": "2026-08-16T14:30:18.432000Z"
         },
         {
-          "id": "1ad0eb1cf08472e153add8531ec7eb5aac577200",
+          "id": "cea8f9e643bc8d866babefa81ba8586221c8913e",
           "title": "克劳德：系统提示 / Claude: System Prompts",
           "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-16T12:48:21Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9137,
+        "recency": 0.9076,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -808,15 +887,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8748,
+        "recency": 0.869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -886,15 +965,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8568,
+        "recency": 0.8511,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -965,15 +1044,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5298,
+      "importance": 0.5298,
+      "importance_score": 0.5298,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9173,
+        "recency": 0.9112,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1044,15 +1123,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8859,
+        "recency": 0.88,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1123,15 +1202,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5175,
-      "importance": 0.5175,
-      "importance_score": 0.5175,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8427,
+        "recency": 0.8371,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1202,15 +1281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9106,
+        "recency": 0.9046,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1281,15 +1360,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8656,
+        "recency": 0.8599,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1360,15 +1439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8023,
+        "recency": 0.7969,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,15 +1537,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5218,
-      "importance": 0.5218,
-      "importance_score": 0.5218,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7279,
+        "recency": 0.723,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1537,15 +1616,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5009,
-      "importance": 0.5009,
-      "importance_score": 0.5009,
+      "score": 0.5,
+      "importance": 0.5,
+      "importance_score": 0.5,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7506,
+        "recency": 0.7456,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1560,85 +1639,6 @@
         "url": "https://www.ithome.com/0/990/207.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_78464e78aa4b",
-      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49316605",
-      "primary_url": "https://news.ycombinator.com/item?id=49316605",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
-        },
-        {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
-        },
-        {
-          "id": "21b0027bbef147692576a393bcc41524018907e7",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-16T03:22:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5095,
-      "importance": 0.5095,
-      "importance_score": 0.5095,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7985,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T03:22:15Z",
-      "latest_at": "2026-08-16T05:10:44.244000Z",
-      "primary_item": {
-        "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-        "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-        "url": "https://news.ycombinator.com/item?id=49316605",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
