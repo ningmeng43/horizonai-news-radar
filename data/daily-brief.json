@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:33:46.895428Z",
+  "generated_at": "2026-08-17T10:24:43.635059Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8458,
+      "importance": 0.8458,
+      "importance_score": 0.8458,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9777,
+        "recency": 0.9658,
         "story_heat": 0.0
       },
       "category": "official",
@@ -63,6 +63,87 @@
         "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5f28e22361cf",
+      "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+      "url": "https://www.aibase.com/news/30405",
+      "primary_url": "https://www.aibase.com/news/30405",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
+          "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "url": "https://www.aibase.com/news/30405",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T10:24:43.635059Z"
+        },
+        {
+          "id": "a1b07cb3fb8ce9389948bd2ef5232508f8bfcee9",
+          "title": "阿里发布 AI 音乐模型 HappyShrimp 1.0，自然语言创作降低音乐生产门槛",
+          "url": "https://www.aibase.com/zh/news/30405",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
+          "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+          "url": "https://www.aibase.com/news/30405",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T10:24:43.635059Z"
+        },
+        {
+          "id": "a1b07cb3fb8ce9389948bd2ef5232508f8bfcee9",
+          "title": "阿里发布 AI 音乐模型 HappyShrimp 1.0，自然语言创作降低音乐生产门槛",
+          "url": "https://www.aibase.com/zh/news/30405",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T10:24:43.635059Z",
+      "latest_at": "2026-08-17T10:24:43.635059Z",
+      "primary_item": {
+        "id": "c053dfd325955c079b53086db8ad1bc1926d4c6a",
+        "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
+        "url": "https://www.aibase.com/news/30405",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -138,15 +219,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7929,
-      "importance": 0.7929,
-      "importance_score": 0.7929,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8464,
+        "recency": 0.836,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -163,6 +244,87 @@
         "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a35e45214e39",
+      "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+      "url": "https://www.aibase.com/news/30404",
+      "primary_url": "https://www.aibase.com/news/30404",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
+          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "url": "https://www.aibase.com/news/30404",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T09:33:46.895428Z"
+        },
+        {
+          "id": "368ceb74a9b6bbe14997567b2478b5ce441826d6",
+          "title": "周鸿祎发全员信宣布 360 启动 AI 原生组织转型，管理者年度考核挂钩 AI 成果",
+          "url": "https://www.aibase.com/zh/news/30404",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0c1c9688db4107d152c66877ded859c720f5a604",
+          "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+          "url": "https://www.aibase.com/news/30404",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T09:33:46.895428Z"
+        },
+        {
+          "id": "368ceb74a9b6bbe14997567b2478b5ce441826d6",
+          "title": "周鸿祎发全员信宣布 360 启动 AI 原生组织转型，管理者年度考核挂钩 AI 成果",
+          "url": "https://www.aibase.com/zh/news/30404",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9878,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T09:33:46.895428Z",
+      "latest_at": "2026-08-17T10:24:43.635059Z",
+      "primary_item": {
+        "id": "0c1c9688db4107d152c66877ded859c720f5a604",
+        "title": "周鸿祎发全员信宣布360启动AI原生组织转型，管理者年度考核挂钩AI成果",
+        "url": "https://www.aibase.com/news/30404",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -219,15 +381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9878,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -300,15 +462,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9878,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -381,15 +543,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7901,
-      "importance": 0.7901,
-      "importance_score": 0.7901,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
+        "recency": 0.9739,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -406,66 +568,6 @@
         "url": "https://www.aibase.com/news/30399",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_af863cb3b215",
-      "title": "新兴多智能体系统的模式与问题",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
-      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-          "title": "新兴多智能体系统的模式与问题",
-          "url": "https://www.anthropic.com/research/multiagent-systems",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-16T11:17:57.393000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7251,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-16T11:17:57.393000Z",
-      "latest_at": "2026-08-16T11:17:57.393000Z",
-      "primary_item": {
-        "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
-        "title": "新兴多智能体系统的模式与问题",
-        "url": "https://www.anthropic.com/research/multiagent-systems",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -522,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7861,
+      "importance": 0.7861,
+      "importance_score": 0.7861,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9755,
+        "recency": 0.9636,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -550,165 +652,99 @@
       }
     },
     {
-      "story_id": "story_f5e355031976",
-      "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
-      "url": "https://www.aibase.com/news/30395",
-      "primary_url": "https://www.aibase.com/news/30395",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2df82173bb28",
+      "title": "AI最危险的地方，可能是让你太快拿到答案，然后误把“看懂了解释”当成自己真的会了。Tom Yeh是科罗拉多大学博尔德分校计算机科学副教授，也是AI by Hand的发起人。他这期播客带我们拆解了下怎样才能保住自己的学习能力！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-16",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
-          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
-          "url": "https://www.aibase.com/news/30395",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T06:56:56.659957Z"
+          "id": "a9a11875b0b9036dc1063fb49ee8ef2bc158cf31",
+          "title": "AI最危险的地方，可能是让你太快拿到答案，然后误把“看懂了解释”当成自己真的会了。Tom Yeh是科罗拉多大学博尔德分校计算机科学副教授，也是AI by Hand的发起人。他这期播客带我们拆解了下怎样才能保住自己的学习能力！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T10:24:43.635059Z"
         },
         {
-          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
-          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
-          "url": "https://www.aibase.com/zh/news/30395",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
+          "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T08:34:53.250475Z"
+        },
+        {
+          "id": "443412f48149f7c99538074ffe688dc0bed0a065",
+          "title": "本周AI论文合集直击大模型与Agent落地的各类隐蔽痛点，或许可以帮你规避不少隐藏陷阱。包含修正缩放定律、大幅降低预训练测算成本的新公式，也曝光了推理轨迹窃取、心智病毒传播等新兴的安全风险。此外还解析了提示词恶性膨胀、上下文压缩丢失约束、底层架构暗藏缺陷等工程难题。做Agent、大模型研发的开发者们可以借鉴下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T07:50:49.267283Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "社区更新 · 2026-08-16"
       ],
       "items": [
         {
-          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
-          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
-          "url": "https://www.aibase.com/news/30395",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T06:56:56.659957Z"
+          "id": "a9a11875b0b9036dc1063fb49ee8ef2bc158cf31",
+          "title": "AI最危险的地方，可能是让你太快拿到答案，然后误把“看懂了解释”当成自己真的会了。Tom Yeh是科罗拉多大学博尔德分校计算机科学副教授，也是AI by Hand的发起人。他这期播客带我们拆解了下怎样才能保住自己的学习能力！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T10:24:43.635059Z"
         },
         {
-          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
-          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
-          "url": "https://www.aibase.com/zh/news/30395",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
+          "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T08:34:53.250475Z"
+        },
+        {
+          "id": "443412f48149f7c99538074ffe688dc0bed0a065",
+          "title": "本周AI论文合集直击大模型与Agent落地的各类隐蔽痛点，或许可以帮你规避不少隐藏陷阱。包含修正缩放定律、大幅降低预训练测算成本的新公式，也曝光了推理轨迹窃取、心智病毒传播等新兴的安全风险。此外还解析了提示词恶性膨胀、上下文压缩丢失约束、底层架构暗藏缺陷等工程难题。做Agent、大模型研发的开发者们可以借鉴下！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-17T07:50:49.267283Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6192,
+      "importance": 0.6192,
+      "importance_score": 0.6192,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.963,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-17T06:56:56.659957Z",
-      "latest_at": "2026-08-17T06:56:56.659957Z",
+      "earliest_at": "2026-08-17T07:50:49.267283Z",
+      "latest_at": "2026-08-17T10:24:43.635059Z",
       "primary_item": {
-        "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
-        "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
-        "url": "https://www.aibase.com/news/30395",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c73a2b963399",
-      "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
-      "url": "https://www.aibase.com/news/30392",
-      "primary_url": "https://www.aibase.com/news/30392",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
-          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
-          "url": "https://www.aibase.com/news/30392",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T05:58:11.149113Z"
-        },
-        {
-          "id": "c4802dda75464e3fb5d4a302cc973af462abb990",
-          "title": "AI 视频平台 Higgsfield 融资 4 亿美元，估值 54 亿，高盛英特尔入局",
-          "url": "https://www.aibase.com/zh/news/30392",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
-          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
-          "url": "https://www.aibase.com/news/30392",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T05:58:11.149113Z"
-        },
-        {
-          "id": "c4802dda75464e3fb5d4a302cc973af462abb990",
-          "title": "AI 视频平台 Higgsfield 融资 4 亿美元，估值 54 亿，高盛英特尔入局",
-          "url": "https://www.aibase.com/zh/news/30392",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9494,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T05:58:11.149113Z",
-      "latest_at": "2026-08-17T06:56:56.659957Z",
-      "primary_item": {
-        "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
-        "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
-        "url": "https://www.aibase.com/news/30392",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "a9a11875b0b9036dc1063fb49ee8ef2bc158cf31",
+        "title": "AI最危险的地方，可能是让你太快拿到答案，然后误把“看懂了解释”当成自己真的会了。Tom Yeh是科罗拉多大学博尔德分校计算机科学副教授，也是AI by Hand的发起人。他这期播客带我们拆解了下怎样才能保住自己的学习能力！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-16",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -765,15 +801,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6188,
-      "importance": 0.6188,
-      "importance_score": 0.6188,
+      "score": 0.617,
+      "importance": 0.617,
+      "importance_score": 0.617,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8335,
+        "recency": 0.8233,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -791,26 +827,26 @@
       }
     },
     {
-      "story_id": "story_52ac790130a7",
-      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-      "url": "https://www.aibase.com/news/30389",
-      "primary_url": "https://www.aibase.com/news/30389",
+      "story_id": "story_f5e355031976",
+      "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+      "url": "https://www.aibase.com/news/30395",
+      "primary_url": "https://www.aibase.com/news/30395",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "url": "https://www.aibase.com/news/30389",
+          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
+          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+          "url": "https://www.aibase.com/news/30395",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T03:26:18.479915Z"
+          "published_at": "2026-08-17T06:56:56.659957Z"
         },
         {
-          "id": "f5e62b9b881e85627b0ec6e8eb333bc2df7434b0",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "url": "https://www.aibase.com/zh/news/30389",
+          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
+          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
+          "url": "https://www.aibase.com/zh/news/30395",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -824,18 +860,18 @@
       ],
       "items": [
         {
-          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "url": "https://www.aibase.com/news/30389",
+          "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
+          "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+          "url": "https://www.aibase.com/news/30395",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T03:26:18.479915Z"
+          "published_at": "2026-08-17T06:56:56.659957Z"
         },
         {
-          "id": "f5e62b9b881e85627b0ec6e8eb333bc2df7434b0",
-          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-          "url": "https://www.aibase.com/zh/news/30389",
+          "id": "23040cd2ac4f2f085c19e121a554d6d3feb40573",
+          "title": "宇树科技发布「超人」人形机器人：原地跳高 2 米、极速 12.66m/s",
+          "url": "https://www.aibase.com/zh/news/30395",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -844,15 +880,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7774,
-      "importance": 0.7774,
-      "importance_score": 0.7774,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9154,
+        "recency": 0.9512,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -861,92 +897,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T03:26:18.479915Z",
-      "latest_at": "2026-08-17T04:10:28.232553Z",
+      "earliest_at": "2026-08-17T06:56:56.659957Z",
+      "latest_at": "2026-08-17T06:56:56.659957Z",
       "primary_item": {
-        "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
-        "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
-        "url": "https://www.aibase.com/news/30389",
+        "id": "f2c56560de5bcb6323c85df42126f29b5c13ed23",
+        "title": "宇树科技发布“超人”人形机器人:原地跳高2米、极速12.66m/s",
+        "url": "https://www.aibase.com/news/30395",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-08-16",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
-          "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-17T08:34:53.250475Z"
-        },
-        {
-          "id": "443412f48149f7c99538074ffe688dc0bed0a065",
-          "title": "本周AI论文合集直击大模型与Agent落地的各类隐蔽痛点，或许可以帮你规避不少隐藏陷阱。包含修正缩放定律、大幅降低预训练测算成本的新公式，也曝光了推理轨迹窃取、心智病毒传播等新兴的安全风险。此外还解析了提示词恶性膨胀、上下文压缩丢失约束、底层架构暗藏缺陷等工程难题。做Agent、大模型研发的开发者们可以借鉴下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-17T07:50:49.267283Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "社区更新 · 2026-08-16"
-      ],
-      "items": [
-        {
-          "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
-          "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-17T08:34:53.250475Z"
-        },
-        {
-          "id": "443412f48149f7c99538074ffe688dc0bed0a065",
-          "title": "本周AI论文合集直击大模型与Agent落地的各类隐蔽痛点，或许可以帮你规避不少隐藏陷阱。包含修正缩放定律、大幅降低预训练测算成本的新公式，也曝光了推理轨迹窃取、心智病毒传播等新兴的安全风险。此外还解析了提示词恶性膨胀、上下文压缩丢失约束、底层架构暗藏缺陷等工程难题。做Agent、大模型研发的开发者们可以借鉴下！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-08-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-08-17T07:50:49.267283Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5917,
-      "importance": 0.5917,
-      "importance_score": 0.5917,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9859,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T07:50:49.267283Z",
-      "latest_at": "2026-08-17T08:34:53.250475Z",
-      "primary_item": {
-        "id": "97d3ec9e967f81286c3aaab38967ea39494d3974",
-        "title": "Agent频繁出现虚假完成、遗忘规则的问题，往往不是模型不行，而是运行框架Harness设计的不足。这篇文章结合DoorDash、OpenAI、Anthropic的实战案例，拆解了循环控制、工具权限、记忆管理、崩溃恢复、安全边界、任务验收六大关键设计维度。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-08-16",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1040,15 +998,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.574,
-      "importance": 0.574,
-      "importance_score": 0.574,
+      "score": 0.5721,
+      "importance": 0.5721,
+      "importance_score": 0.5721,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.879,
+        "recency": 0.8683,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1063,6 +1021,87 @@
         "url": "https://www.youtube.com/watch?v=ePsQksj99LM",
         "source": "www.youtube.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c73a2b963399",
+      "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+      "url": "https://www.aibase.com/news/30392",
+      "primary_url": "https://www.aibase.com/news/30392",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+          "url": "https://www.aibase.com/news/30392",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T05:58:11.149113Z"
+        },
+        {
+          "id": "c4802dda75464e3fb5d4a302cc973af462abb990",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元，估值 54 亿，高盛英特尔入局",
+          "url": "https://www.aibase.com/zh/news/30392",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+          "url": "https://www.aibase.com/news/30392",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-17T05:58:11.149113Z"
+        },
+        {
+          "id": "c4802dda75464e3fb5d4a302cc973af462abb990",
+          "title": "AI 视频平台 Higgsfield 融资 4 亿美元，估值 54 亿，高盛英特尔入局",
+          "url": "https://www.aibase.com/zh/news/30392",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7814,
+      "importance": 0.7814,
+      "importance_score": 0.7814,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9379,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T05:58:11.149113Z",
+      "latest_at": "2026-08-17T06:56:56.659957Z",
+      "primary_item": {
+        "id": "cabfebd9284c5cc8c51746bcd515355639fbee8d",
+        "title": "AI 视频平台 Higgsfield 融资 4 亿美元、估值 54 亿：高盛英特尔入局",
+        "url": "https://www.aibase.com/news/30392",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1157,15 +1196,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5681,
+      "importance": 0.5681,
+      "importance_score": 0.5681,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8566,
+        "recency": 0.8462,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1255,15 +1294,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.565,
-      "importance": 0.565,
-      "importance_score": 0.565,
+      "score": 0.5629,
+      "importance": 0.5629,
+      "importance_score": 0.5629,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9679,
+        "recency": 0.9561,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1278,87 +1317,6 @@
         "url": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ef461b3789bf",
-      "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-      "url": "https://www.aibase.com/news/30372",
-      "primary_url": "https://www.aibase.com/news/30372",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
-          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-          "url": "https://www.aibase.com/news/30372",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:15:57.645442Z"
-        },
-        {
-          "id": "7c8afc6e6c61a203c6bd707be1fa953e89c7f369",
-          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-          "url": "https://www.aibase.com/zh/news/30372",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
-          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-          "url": "https://www.aibase.com/news/30372",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T02:15:57.645442Z"
-        },
-        {
-          "id": "7c8afc6e6c61a203c6bd707be1fa953e89c7f369",
-          "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-          "url": "https://www.aibase.com/zh/news/30372",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T02:15:57.645442Z",
-      "latest_at": "2026-08-17T02:15:57.645442Z",
-      "primary_item": {
-        "id": "5d106922063c8c89baf6048988737b7ac90bb0aa",
-        "title": "AI 凭视觉线索锁定拍照地点：87%-91% 识别率，删掉 GPS 也没用",
-        "url": "https://www.aibase.com/news/30372",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1434,15 +1392,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
+      "score": 0.5539,
+      "importance": 0.5539,
+      "importance_score": 0.5539,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9171,
+        "recency": 0.9059,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1532,15 +1490,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5478,
-      "importance": 0.5478,
-      "importance_score": 0.5478,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8723,
+        "recency": 0.8617,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1611,15 +1569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9943,
+        "recency": 0.9821,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1637,26 +1595,26 @@
       }
     },
     {
-      "story_id": "story_dd3ce53774db",
-      "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
-      "url": "https://www.aibase.com/news/30379",
-      "primary_url": "https://www.aibase.com/news/30379",
+      "story_id": "story_52ac790130a7",
+      "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+      "url": "https://www.aibase.com/news/30389",
+      "primary_url": "https://www.aibase.com/news/30389",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e64ab1274b5e231036981d2e34981c203ca64b23",
-          "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
-          "url": "https://www.aibase.com/news/30379",
+          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "url": "https://www.aibase.com/news/30389",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T02:15:57.645442Z"
+          "published_at": "2026-08-17T03:26:18.479915Z"
         },
         {
-          "id": "d9f3af5ac216b9cccd863cf7f5d134a918ce5406",
-          "title": "千问办公首发上线 GLM-5.3 与 DeepSeek V4Pro，三款国产旗舰模型完成聚合",
-          "url": "https://www.aibase.com/zh/news/30379",
+          "id": "f5e62b9b881e85627b0ec6e8eb333bc2df7434b0",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "url": "https://www.aibase.com/zh/news/30389",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1670,18 +1628,18 @@
       ],
       "items": [
         {
-          "id": "e64ab1274b5e231036981d2e34981c203ca64b23",
-          "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
-          "url": "https://www.aibase.com/news/30379",
+          "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "url": "https://www.aibase.com/news/30389",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-17T02:15:57.645442Z"
+          "published_at": "2026-08-17T03:26:18.479915Z"
         },
         {
-          "id": "d9f3af5ac216b9cccd863cf7f5d134a918ce5406",
-          "title": "千问办公首发上线 GLM-5.3 与 DeepSeek V4Pro，三款国产旗舰模型完成聚合",
-          "url": "https://www.aibase.com/zh/news/30379",
+          "id": "f5e62b9b881e85627b0ec6e8eb333bc2df7434b0",
+          "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+          "url": "https://www.aibase.com/zh/news/30389",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1690,15 +1648,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9,
+        "recency": 0.9042,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1707,14 +1665,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-17T02:15:57.645442Z",
-      "latest_at": "2026-08-17T02:15:57.645442Z",
+      "earliest_at": "2026-08-17T03:26:18.479915Z",
+      "latest_at": "2026-08-17T04:10:28.232553Z",
       "primary_item": {
-        "id": "e64ab1274b5e231036981d2e34981c203ca64b23",
-        "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
-        "url": "https://www.aibase.com/news/30379",
+        "id": "a022d3348fa94af5af15c940e1f2ba5b3a58bdef",
+        "title": "Codex 中 GPT-5.6 Sol 百万上下文放开：ChatGPT 账号也能用",
+        "url": "https://www.aibase.com/news/30389",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_394dfc3977b6",
+      "title": "人工智能信用转售经济",
+      "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "primary_url": "https://vectoral.com/blog/who-are-the-token-brokers",
+      "source": "vectoral.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+          "title": "人工智能信用转售经济",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "vectoral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:39.701000Z"
+        },
+        {
+          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "url": "https://news.ycombinator.com/item?id=49320611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:15:17.374000Z"
+        },
+        {
+          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T14:44:55Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "vectoral.com"
+      ],
+      "items": [
+        {
+          "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+          "title": "人工智能信用转售经济",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "vectoral.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:39.701000Z"
+        },
+        {
+          "id": "918f58ae6b595ed997f8d4b90c7ddbb3be94ea50",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "url": "https://news.ycombinator.com/item?id=49320611",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:15:17.374000Z"
+        },
+        {
+          "id": "482fca18ad64d36ca9fca761ac18dc3bb898b84d",
+          "title": "人工智能信用转售经济 / The AI Credit Resale Economy",
+          "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T14:44:55Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7827,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T14:44:55Z",
+      "latest_at": "2026-08-16T17:26:39.701000Z",
+      "primary_item": {
+        "id": "c2cb0f6e9e96adb577db5a1f79da29829e790ca3",
+        "title": "人工智能信用转售经济",
+        "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+        "source": "vectoral.com",
+        "source_name": "Buzzing"
       }
     }
   ]
