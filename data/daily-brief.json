@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-18T19:06:55.651309Z",
+  "generated_at": "2026-08-18T19:47:27.706038Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_5ce8103476b1",
+      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8808,
+      "importance": 0.8808,
+      "importance_score": 0.8808,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9767,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T18:09:38Z",
+      "latest_at": "2026-08-18T18:09:38Z",
+      "primary_item": {
+        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+        "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_01003c6680bc",
       "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
@@ -57,15 +139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8651,
-      "importance": 0.8651,
-      "importance_score": 0.8651,
+      "score": 0.8635,
+      "importance": 0.8635,
+      "importance_score": 0.8635,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8894,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "official",
@@ -86,63 +168,101 @@
       }
     },
     {
-      "story_id": "story_5ce8103476b1",
-      "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "story_id": "story_e520424e436f",
+      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
+          "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "6ca5c30dbd2e6a9230a0309dbe3c3aba90134770",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
+          "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "6ca5c30dbd2e6a9230a0309dbe3c3aba90134770",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8575,
-      "importance": 0.8575,
-      "importance_score": 0.8575,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8733,
+      "importance": 0.8733,
+      "importance_score": 0.8733,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9863,
-        "story_heat": 0.0
+        "ai_relevance": 0.99,
+        "recency": 0.7514,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T18:09:38Z",
-      "latest_at": "2026-08-18T18:09:38Z",
+      "earliest_at": "2026-08-18T00:00:00Z",
+      "latest_at": "2026-08-18T00:00:00Z",
       "primary_item": {
-        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-        "title": "您的代理实际需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
+        "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "url": "https://huggingface.co/blog/multi-vector-encoder",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
@@ -201,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8571,
-      "importance": 0.8571,
-      "importance_score": 0.8571,
+      "score": 0.8555,
+      "importance": 0.8555,
+      "importance_score": 0.8555,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8894,
+        "recency": 0.8808,
         "story_heat": 0.25
       },
       "category": "official",
@@ -226,88 +346,6 @@
         "title": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏 / Pacing model development in an era of cyber-critical capabilities",
         "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e520424e436f",
-      "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T00:00:00Z"
-        },
-        {
-          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T00:00:00Z"
-        },
-        {
-          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "url": "https://huggingface.co/blog/multi-vector-encoder",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-18T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8496,
-      "importance": 0.8496,
-      "importance_score": 0.8496,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7588,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T00:00:00Z",
-      "latest_at": "2026-08-18T00:00:00Z",
-      "primary_item": {
-        "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-        "title": "带有句子变压器的多向量（后期交互）嵌入模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "url": "https://huggingface.co/blog/multi-vector-encoder",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -365,15 +403,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8561,
-      "importance": 0.8561,
-      "importance_score": 0.8561,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8395,
+        "recency": 0.8313,
         "story_heat": 0.25
       },
       "category": "official",
@@ -465,15 +503,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8573,
+        "recency": 0.849,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -546,15 +584,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7397,
+        "recency": 0.7325,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -571,68 +609,6 @@
         "url": "https://cursor.com/changelog/origin-code-hosting",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b597a3d03ee7",
-      "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-          "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T19:46:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7138,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T19:46:21Z",
-      "latest_at": "2026-08-17T19:46:21Z",
-      "primary_item": {
-        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
-        "title": "相同的集群，利用率增加了 33 个点：改变的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -670,15 +646,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9873,
+        "recency": 0.9778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -730,15 +706,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8305,
+      "importance": 0.8305,
+      "importance_score": 0.8305,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8894,
+        "recency": 0.8808,
         "story_heat": 0.0
       },
       "category": "official",
@@ -811,15 +787,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8816,
+        "recency": 0.8731,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -836,6 +812,66 @@
         "url": "https://www.aibase.com/news/30444",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_73978d10d0d5",
+      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+      "url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "primary_url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "url": "https://claude.com/blog/ai-ci-cd-on-call",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T19:26:08.389000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "url": "https://claude.com/blog/ai-ci-cd-on-call",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T19:26:08.389000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9949,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T19:26:08.389000Z",
+      "latest_at": "2026-08-18T19:26:08.389000Z",
+      "primary_item": {
+        "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+        "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+        "url": "https://claude.com/blog/ai-ci-cd-on-call",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -873,15 +909,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
+      "score": 0.7222,
+      "importance": 0.7222,
+      "importance_score": 0.7222,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8395,
+        "recency": 0.8313,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -895,66 +931,6 @@
         "title": "设计 AI 评测：先求清晰，再谈可视化",
         "url": "https://dev.to/googleai/designing-ai-evals-clarity-now-and-visualization-next-4eii",
         "source": "Google AI：DEV 作者专属（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4e8bc7ca3e901e63222da3f6d87a6be1bb0f20b3",
-          "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:58:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "4e8bc7ca3e901e63222da3f6d87a6be1bb0f20b3",
-          "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:58:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7584,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T23:58:00Z",
-      "latest_at": "2026-08-17T23:58:00Z",
-      "primary_item": {
-        "id": "4e8bc7ca3e901e63222da3f6d87a6be1bb0f20b3",
-        "title": "一个实用的深度思考Prompt：用\"双向钢人论证\"让AI帮你挖出最本质的答案",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685329&idx=1&sn=9471278dc489641c097b228912965ed4",
-        "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
       }
     },
@@ -1012,15 +988,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7687,
+      "importance": 0.7687,
+      "importance_score": 0.7687,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8759,
+        "recency": 0.8674,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1093,15 +1069,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8647,
+        "recency": 0.8563,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1245,15 +1221,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6675,
+      "importance": 0.6675,
+      "importance_score": 0.6675,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9903,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1324,15 +1300,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8573,
+        "recency": 0.849,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1405,15 +1381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8573,
+        "recency": 0.849,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1542,15 +1518,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6035,
-      "importance": 0.6035,
-      "importance_score": 0.6035,
+      "score": 0.6019,
+      "importance": 0.6019,
+      "importance_score": 0.6019,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9037,
+        "recency": 0.8949,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1659,15 +1635,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5908,
-      "importance": 0.5908,
-      "importance_score": 0.5908,
+      "score": 0.5891,
+      "importance": 0.5891,
+      "importance_score": 0.5891,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9722,
+        "recency": 0.9628,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1682,6 +1658,87 @@
         "url": "https://status.claude.com/incidents/q7txxvbsftgq",
         "source": "status.claude.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_038b70333907",
+      "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+      "url": "https://www.aibase.com/news/30434",
+      "primary_url": "https://www.aibase.com/news/30434",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "url": "https://www.aibase.com/news/30434",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:27:24.890344Z"
+        },
+        {
+          "id": "79782962e8864b192f2ce5a886b849da8049fcd0",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成「分水岭」，企业速做 10 件事",
+          "url": "https://www.aibase.com/zh/news/30434",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f83591abed7de311be34b00e2db89cff34da7523",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+          "url": "https://www.aibase.com/news/30434",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:27:24.890344Z"
+        },
+        {
+          "id": "79782962e8864b192f2ce5a886b849da8049fcd0",
+          "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成「分水岭」，企业速做 10 件事",
+          "url": "https://www.aibase.com/zh/news/30434",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.849,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T08:27:24.890344Z",
+      "latest_at": "2026-08-18T08:27:24.890344Z",
+      "primary_item": {
+        "id": "f83591abed7de311be34b00e2db89cff34da7523",
+        "title": "布罗克曼敲警钟：AI 攻破 Hugging Face 成\"分水岭\"，企业速做 10 件事",
+        "url": "https://www.aibase.com/news/30434",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
