@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-08-20T16:33:46.990443Z",
+  "generated_at": "2026-08-20T17:22:04.397167Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c7cdb6722fd8",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T16:52:57Z"
+        },
+        {
+          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:52:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T16:52:57Z"
+        },
+        {
+          "id": "0c6f1fc6bfff8ea3774ad3b6ffcb23a7430ec3ab",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:52:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8837,
+      "importance": 0.8837,
+      "importance_score": 0.8837,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.993,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T16:52:57Z",
+      "latest_at": "2026-08-20T16:52:57Z",
+      "primary_item": {
+        "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
+        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_f67290731017",
       "title": "代码扫描添加了缓解警报解除原因 / Code scanning adds a mitigated alert dismissal reason",
@@ -38,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9811,
+        "recency": 0.9698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -119,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8273,
+      "importance": 0.8273,
+      "importance_score": 0.8273,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7324,
+        "recency": 0.724,
         "story_heat": 0.25
       },
       "category": "official",
@@ -148,21 +230,21 @@
       }
     },
     {
-      "story_id": "story_c23e436699dc",
-      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "story_id": "story_db8a6edc5902",
+      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "source_count": 1,
@@ -171,26 +253,26 @@
       ],
       "items": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9703,
+        "recency": 0.9593,
         "story_heat": 0.0
       },
       "category": "official",
@@ -199,12 +281,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
       "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -244,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7203,
+        "recency": 0.7119,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7324,
+        "recency": 0.724,
         "story_heat": 0.0
       },
       "category": "official",
@@ -368,15 +450,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7873,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -396,21 +478,21 @@
       }
     },
     {
-      "story_id": "story_db8a6edc5902",
-      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "story_id": "story_c23e436699dc",
+      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "source_count": 1,
@@ -419,26 +501,26 @@
       ],
       "items": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T14:28:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9705,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "official",
@@ -447,12 +529,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
       "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -511,15 +593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8783,
+        "recency": 0.8682,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -573,21 +655,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7512,
-      "importance": 0.7512,
-      "importance_score": 0.7512,
+      "score": 0.7492,
+      "importance": 0.7492,
+      "importance_score": 0.7492,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9924,
+        "recency": 0.9809,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T16:02:07.300000Z",
       "latest_at": "2026-08-20T16:02:07.300000Z",
@@ -634,21 +715,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9065,
+        "recency": 0.896,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T09:45:51Z",
       "latest_at": "2026-08-20T09:45:51Z",
@@ -714,15 +794,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7616,
+        "recency": 0.7528,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -737,6 +817,66 @@
         "title": "Anthropic 在网络关键能力时代放缓模型开发：暂停 RL 训练并强化安全防护",
         "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9ab95df01f33",
+      "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+      "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+      "primary_url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+      "source": "Google Cloud：Databases（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
+          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Cloud：Databases（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
+          "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+          "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+          "source": "Google Cloud：Databases（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9804,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T16:00:00Z",
+      "latest_at": "2026-08-20T16:00:00Z",
+      "primary_item": {
+        "id": "e1dd7332969dac2ee00003cfa01feb6cf9840e10",
+        "title": "AlloyDB ScaNN 如何将向量搜索扩展到 100 亿向量",
+        "url": "https://cloud.google.com/blog/products/databases/alloydb-scann-index-four-level-tree-improves-vector-search",
+        "source": "Google Cloud：Databases（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -775,15 +915,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.956,
+        "recency": 0.945,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -854,15 +994,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8555,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -879,66 +1019,6 @@
         "url": "https://www.aibase.com/news/30501",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8a294acf7ec9",
-      "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-      "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-      "primary_url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
-          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T17:56:13.817000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
-          "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-          "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T17:56:13.817000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7213,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T17:56:13.817000Z",
-      "latest_at": "2026-08-19T17:56:13.817000Z",
-      "primary_item": {
-        "id": "106a6a47dd09951e75c4fd850f355248b2d26a1e",
-        "title": "突破 DeepSeek-V4-Pro 服务极限：H20 上的多场景优化方法",
-        "url": "https://www.lmsys.org/blog/2026-08-19-deepseek-v4-pro-engine-optimization-h20",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -976,15 +1056,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7556,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1057,15 +1137,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8655,
+        "recency": 0.8555,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1119,15 +1199,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7269,
-      "importance": 0.7269,
-      "importance_score": 0.7269,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7906,
+        "recency": 0.7814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1198,15 +1278,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8574,
+        "recency": 0.8475,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1226,162 +1306,118 @@
       }
     },
     {
-      "story_id": "story_c828ab67188c",
-      "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-      "url": "https://www.aibase.com/news/30495",
-      "primary_url": "https://www.aibase.com/news/30495",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2df82173bb28",
+      "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-20",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "url": "https://www.aibase.com/news/30495",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:23:23.307416Z"
+          "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
+          "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T17:22:04.397167Z"
         },
         {
-          "id": "fedd87b14ce7af681d5eb4f5cb8280b227e88f4b",
-          "title": "OpenAI 升级 Codex 安全防护，新增危险操作拦截与权限控制",
-          "url": "https://www.aibase.com/zh/news/30495",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fc09ff3b7a8aa15a21bb5378394c739a730eede5",
+          "title": "这份《DeepSeek Harness的100 个问题》适合刚刷到Harness但看不懂的人，也适合已经在用Agent干活、想搞清楚“为什么别人用同一个模型更稳”的开发者。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T17:22:04.397167Z"
+        },
+        {
+          "id": "d822428923fe16f46e73674f1687a467d817306c",
+          "title": "这是完整的 12 步路线图，涵盖真正决定智能体能否工作的七大支柱：上下文、工具、记忆、循环、图、开发框架、评估——每一步都有验证其有效性的 Claude 工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T17:22:04.397167Z"
+        },
+        {
+          "id": "563fcbb9ea54e42e43347084d1b49c97c1c5a157",
+          "title": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-19T17:48:16.376214Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "社区更新 · 2026-08-19",
+        "社区更新 · 2026-08-20"
       ],
       "items": [
         {
-          "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-          "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-          "url": "https://www.aibase.com/news/30495",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T03:23:23.307416Z"
+          "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
+          "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T17:22:04.397167Z"
         },
         {
-          "id": "fedd87b14ce7af681d5eb4f5cb8280b227e88f4b",
-          "title": "OpenAI 升级 Codex 安全防护，新增危险操作拦截与权限控制",
-          "url": "https://www.aibase.com/zh/news/30495",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fc09ff3b7a8aa15a21bb5378394c739a730eede5",
+          "title": "这份《DeepSeek Harness的100 个问题》适合刚刷到Harness但看不懂的人，也适合已经在用Agent干活、想搞清楚“为什么别人用同一个模型更稳”的开发者。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T17:22:04.397167Z"
+        },
+        {
+          "id": "d822428923fe16f46e73674f1687a467d817306c",
+          "title": "这是完整的 12 步路线图，涵盖真正决定智能体能否工作的七大支柱：上下文、工具、记忆、循环、图、开发框架、评估——每一步都有验证其有效性的 Claude 工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-20",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-20T17:22:04.397167Z"
+        },
+        {
+          "id": "563fcbb9ea54e42e43347084d1b49c97c1c5a157",
+          "title": "如果只看本地推理 ， Ollama 、 LM Studio 和 llama.cpp都是比较成熟的方案。它们可以帮助你下载、管理和运行开源模型。但如果后面要基于自己的数据做 LoRA 或 QLoRA 微调，单纯的推理工具就不够了，还需要训练、数据处理和模型导出能力。Unsloth这套开源工具就给出了一体化的解决方案！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-19",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-19T17:48:16.376214Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8268,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
       },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T03:23:23.307416Z",
-      "latest_at": "2026-08-20T04:05:49.769100Z",
-      "primary_item": {
-        "id": "651ff7fbcf2e21de28c647cf4af49aa3ade5a8c4",
-        "title": "OpenAI升级Codex安全防护，新增危险操作拦截与权限控制",
-        "url": "https://www.aibase.com/news/30495",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_961b732ad6fb",
-      "title": "谷歌通过搜索和 Gemini 为学生推出新的学习工具 / Google launches new study tools for Students across Search and Gemini",
-      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
-      "primary_url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "d67e4f19843fba182b95a013ee567479b768bc44",
-          "title": "谷歌通过搜索和 Gemini 为学生推出新的学习工具 / Google launches new study tools for Students across Search and Gemini",
-          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-19T19:00:00Z"
-        },
-        {
-          "id": "adbe4e77e4207157c0733ca6a4951ad59ff361b6",
-          "title": "谷歌为搜索和 Gemini 提供新的人工智能研究工具 / Google packs Search and Gemini with new AI study tools",
-          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "d67e4f19843fba182b95a013ee567479b768bc44",
-          "title": "谷歌通过搜索和 Gemini 为学生推出新的学习工具 / Google launches new study tools for Students across Search and Gemini",
-          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-19T19:00:00Z"
-        },
-        {
-          "id": "adbe4e77e4207157c0733ca6a4951ad59ff361b6",
-          "title": "谷歌为搜索和 Gemini 提供新的人工智能研究工具 / Google packs Search and Gemini with new AI study tools",
-          "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6131,
-      "importance": 0.6131,
-      "importance_score": 0.6131,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7324,
-        "story_heat": 0.25
-      },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-19T19:00:00Z",
-      "latest_at": "2026-08-19T19:00:00Z",
+      "earliest_at": "2026-08-19T17:48:16.376214Z",
+      "latest_at": "2026-08-20T17:22:04.397167Z",
       "primary_item": {
-        "id": "d67e4f19843fba182b95a013ee567479b768bc44",
-        "title": "谷歌通过搜索和 Gemini 为学生推出新的学习工具 / Google launches new study tools for Students across Search and Gemini",
-        "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "id": "3cc6b4a6a66e224fcf0fd032804f9bcf1288e26d",
+        "title": "全球AI创造力发展报告【AI+教育专项】梳理了全球AI+教育从政策驱动、技术突破到应用涌现的十年变化，还有中小学、高校、终身学习、教育产品和人机共生等具体场景。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-20",
+        "source_name": "WaytoAGI"
       }
     }
   ]
