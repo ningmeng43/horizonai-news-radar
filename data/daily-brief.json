@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:27:11.828389Z",
+  "generated_at": "2026-08-21T15:03:35.531666Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8618,
-      "importance": 0.8618,
-      "importance_score": 0.8618,
+      "score": 0.8607,
+      "importance": 0.8607,
+      "importance_score": 0.8607,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7324,
+        "recency": 0.726,
         "story_heat": 0.5
       },
       "category": "official",
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9651,
+        "recency": 0.9567,
         "story_heat": 0.0
       },
       "category": "official",
@@ -220,15 +220,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8571,
-      "importance": 0.8571,
-      "importance_score": 0.8571,
+      "score": 0.8558,
+      "importance": 0.8558,
+      "importance_score": 0.8558,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8116,
+        "recency": 0.8045,
         "story_heat": 0.25
       },
       "category": "official",
@@ -283,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.809,
-      "importance": 0.809,
-      "importance_score": 0.809,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8057,
+        "recency": 0.7987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -383,15 +383,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9301,
+        "recency": 0.922,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -464,15 +464,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9381,
+        "recency": 0.9299,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -489,6 +489,67 @@
         "url": "https://www.aibase.com/news/30537",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1908848b1e0a",
+      "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+      "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "primary_url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
+          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T14:28:27.351000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
+          "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+          "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T14:28:27.351000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9916,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T14:28:27.351000Z",
+      "latest_at": "2026-08-21T14:28:27.351000Z",
+      "primary_item": {
+        "id": "005c8d0ec7d674a738e61cb654fbac11082cdba3",
+        "title": "AI 原生 SDLC 实战手册：Anthropic 如何用 Claude 重塑软件开发生命周期",
+        "url": "https://claude.com/blog/the-ai-native-sdlc-playbook",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -526,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7429,
+        "recency": 0.7365,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,15 +649,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.93,
+        "recency": 0.9219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -649,15 +710,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9795,
+        "recency": 0.971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -729,15 +790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7815,
-      "importance": 0.7815,
-      "importance_score": 0.7815,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9381,
+        "recency": 0.9299,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -791,15 +852,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7916,
+      "importance": 0.7916,
+      "importance_score": 0.7916,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7152,
+        "recency": 0.709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -872,15 +933,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.918,
+        "recency": 0.91,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -897,68 +958,6 @@
         "url": "https://www.aibase.com/news/30533",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c23e436699dc",
-      "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7074,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
-      "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审核日志中跟踪 GitHub 代码质量启用更改 / Track GitHub Code Quality enablement changes in the audit log",
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1015,15 +1014,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9059,
+        "recency": 0.898,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1040,68 +1039,6 @@
         "url": "https://www.aibase.com/news/30529",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_db8a6edc5902",
-      "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7075,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
-      "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "针对 GitHub 代码质量的单独 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1158,15 +1095,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9059,
+        "recency": 0.898,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1239,15 +1176,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7757,
-      "importance": 0.7757,
-      "importance_score": 0.7757,
+      "score": 0.7742,
+      "importance": 0.7742,
+      "importance_score": 0.7742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9059,
+        "recency": 0.898,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1373,15 +1310,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6241,
-      "importance": 0.6241,
-      "importance_score": 0.6241,
+      "score": 0.6229,
+      "importance": 0.6229,
+      "importance_score": 0.6229,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7494,
+        "recency": 0.7429,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1451,15 +1388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6103,
-      "importance": 0.6103,
-      "importance_score": 0.6103,
+      "score": 0.6087,
+      "importance": 0.6087,
+      "importance_score": 0.6087,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.9995,
+        "recency": 0.9908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1530,15 +1467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7733,
-      "importance": 0.7733,
-      "importance_score": 0.7733,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8929,
+        "recency": 0.8851,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1555,6 +1492,140 @@
         "url": "https://www.aibase.com/news/30526",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0ac0123bfb33",
+      "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+      "url": "https://news.ycombinator.com/item?id=49375996",
+      "primary_url": "https://news.ycombinator.com/item?id=49375996",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+          "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T21:10:01.030000Z"
+        },
+        {
+          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T18:30:20Z"
+        },
+        {
+          "id": "ae7fdf7294d9ba7423cf32a998ec3fd685f8a640",
+          "title": "用单独的法学硕士清理克劳德 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T15:39:15.824000Z"
+        },
+        {
+          "id": "e3743d8cf6f6c66dfee49ff6cf94f03d4e92ecfd",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-20T15:26:02Z"
+        },
+        {
+          "id": "f387c95748280f4dd0cdf9422b63a5d7b96ad82f",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-20T15:26:02Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+          "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T21:10:01.030000Z"
+        },
+        {
+          "id": "c7897b8b9cbf7d2b9924bf8ce5b17399a9e7afba",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T18:30:20Z"
+        },
+        {
+          "id": "ae7fdf7294d9ba7423cf32a998ec3fd685f8a640",
+          "title": "用单独的法学硕士清理克劳德 5 的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://news.ycombinator.com/item?id=49375996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T15:39:15.824000Z"
+        },
+        {
+          "id": "e3743d8cf6f6c66dfee49ff6cf94f03d4e92ecfd",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Clean up Claude 5's token vomit with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-20T15:26:02Z"
+        },
+        {
+          "id": "f387c95748280f4dd0cdf9422b63a5d7b96ad82f",
+          "title": "使用另一个大型语言模型（LLM）清理克劳德5的代币呕吐物 / Vomit: Clean up Claude 5's token output with a separate LLM",
+          "url": "https://github.com/zachahn/vomit",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-20T15:26:02Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5798,
+      "importance": 0.5798,
+      "importance_score": 0.5798,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7723,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-20T15:26:02Z",
+      "latest_at": "2026-08-20T21:10:01.030000Z",
+      "primary_item": {
+        "id": "52e5af4a6ad035c97121c634cd363b7559ef0b0d",
+        "title": "呕吐：用单独的 LLM 清理 Claude 5 的代币输出 / Vomit: Clean up Claude 5's token output with a separate LLM",
+        "url": "https://news.ycombinator.com/item?id=49375996",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
