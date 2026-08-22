@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:13:32.309713Z",
+  "generated_at": "2026-08-22T15:43:36.841380Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
+      "score": 0.8,
+      "importance": 0.8,
+      "importance_score": 0.8,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7163,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8008,
-      "importance": 0.8008,
-      "importance_score": 0.8008,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7157,
+        "recency": 0.7105,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -242,15 +242,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.712,
-      "importance": 0.712,
-      "importance_score": 0.712,
+      "score": 0.7111,
+      "importance": 0.7111,
+      "importance_score": 0.7111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7357,
+        "recency": 0.7304,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -393,15 +393,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6321,
-      "importance": 0.6321,
-      "importance_score": 0.6321,
+      "score": 0.6311,
+      "importance": 0.6311,
+      "importance_score": 0.6311,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7478,
+        "recency": 0.7424,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -472,15 +472,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5784,
-      "importance": 0.5784,
-      "importance_score": 0.5784,
+      "score": 0.5773,
+      "importance": 0.5773,
+      "importance_score": 0.5773,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9151,
+        "recency": 0.9085,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -525,7 +525,7 @@
         },
         {
           "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
-          "title": "自托管人工智能软件工厂 / A self hosted AI software factory",
+          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / A self hosted AI software factory",
           "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -534,7 +534,7 @@
         },
         {
           "id": "6f0736b2d5d48e16d13b5bebe74c2284c0ab9137",
-          "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
           "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -569,7 +569,7 @@
         },
         {
           "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
-          "title": "自托管人工智能软件工厂 / A self hosted AI software factory",
+          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / A self hosted AI software factory",
           "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -578,7 +578,7 @@
         },
         {
           "id": "6f0736b2d5d48e16d13b5bebe74c2284c0ab9137",
-          "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
+          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
           "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -588,15 +588,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
+      "score": 0.5474,
+      "importance": 0.5474,
+      "importance_score": 0.5474,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7363,
+        "recency": 0.731,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -614,119 +614,81 @@
       }
     },
     {
-      "story_id": "story_edbcb2faff40",
-      "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
-      "url": "https://canews24.online/?p=71",
-      "primary_url": "https://canews24.online/?p=71",
-      "source": "canews24.online",
+      "story_id": "story_f44d788d2a3b",
+      "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+      "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+      "primary_url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
-          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
-          "url": "https://canews24.online/?p=71",
-          "source": "canews24.online",
+          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-21T17:25:45.772000Z"
+          "published_at": "2026-08-22T15:25:48.057000Z"
         },
         {
-          "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
-          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "url": "https://news.ycombinator.com/item?id=49389565",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T16:01:48.890000Z"
-        },
-        {
-          "id": "b3cf7db966841b278a436f05c884dd38384c456c",
-          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "url": "https://canews24.online/?p=71",
-          "source": "Hacker News",
+          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-21T15:25:42Z"
-        },
-        {
-          "id": "551bbf42d27367ceb414677e5bb42f35ebc915b3",
-          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
-          "url": "https://canews24.online/?p=71",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T15:25:42Z"
+          "published_at": "2026-08-22T09:50:01Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "canews24.online",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
-          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
-          "url": "https://canews24.online/?p=71",
-          "source": "canews24.online",
+          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-21T17:25:45.772000Z"
+          "published_at": "2026-08-22T15:25:48.057000Z"
         },
         {
-          "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
-          "title": "研究显示，人工智能将家庭作业成绩提高了 18%，但考试成绩却下降了 20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "url": "https://news.ycombinator.com/item?id=49389565",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T16:01:48.890000Z"
-        },
-        {
-          "id": "b3cf7db966841b278a436f05c884dd38384c456c",
-          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
-          "url": "https://canews24.online/?p=71",
-          "source": "Hacker News",
+          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-21T15:25:42Z"
-        },
-        {
-          "id": "551bbf42d27367ceb414677e5bb42f35ebc915b3",
-          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
-          "url": "https://canews24.online/?p=71",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T15:25:42Z"
+          "published_at": "2026-08-22T09:50:01Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5472,
-      "importance": 0.5472,
-      "importance_score": 0.5472,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.73,
-        "story_heat": 0.75
+        "recency": 0.9957,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T15:25:42Z",
-      "latest_at": "2026-08-21T17:25:45.772000Z",
+      "earliest_at": "2026-08-22T09:50:01Z",
+      "latest_at": "2026-08-22T15:25:48.057000Z",
       "primary_item": {
-        "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
-        "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
-        "url": "https://canews24.online/?p=71",
-        "source": "canews24.online",
+        "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
+        "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+        "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -784,15 +746,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9856,
+        "recency": 0.9784,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -863,15 +825,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9802,
+        "recency": 0.9731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -907,7 +869,7 @@
         },
         {
           "id": "fd0a779d2fa6ad5dd87ae2b649275b1c619271ba",
-          "title": "机器马和骑手在中国会议上抢尽风头 / Robot horse and rider steal the spotlight at Chinese conference",
+          "title": "中国会议上，机器人马和骑手成为全场焦点 / Robot horse and rider steal the spotlight at Chinese conference",
           "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News (世界新闻)",
           "source_name": "Info Flow",
@@ -932,7 +894,7 @@
         },
         {
           "id": "fd0a779d2fa6ad5dd87ae2b649275b1c619271ba",
-          "title": "机器马和骑手在中国会议上抢尽风头 / Robot horse and rider steal the spotlight at Chinese conference",
+          "title": "中国会议上，机器人马和骑手成为全场焦点 / Robot horse and rider steal the spotlight at Chinese conference",
           "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
           "source": "BBC News (世界新闻)",
           "source_name": "Info Flow",
@@ -942,15 +904,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9655,
+        "recency": 0.9585,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,15 +982,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9251,
+        "recency": 0.9184,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1099,15 +1061,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5265,
+      "importance": 0.5265,
+      "importance_score": 0.5265,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8994,
+        "recency": 0.8929,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1122,104 +1084,6 @@
         "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_4602d0d95525",
-      "title": "《重罪法庭》：化身AI，犯下罪行",
-      "url": "https://www.felonybench.com",
-      "primary_url": "https://www.felonybench.com",
-      "source": "www.felonybench.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-          "title": "《重罪法庭》：化身AI，犯下罪行",
-          "url": "https://www.felonybench.com",
-          "source": "www.felonybench.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T17:41:21.638000Z"
-        },
-        {
-          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
-          "url": "https://www.felonybench.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T17:23:02Z"
-        },
-        {
-          "id": "34912ed560261d4c64f01895b5a3a0e3a461089d",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench",
-          "url": "https://www.felonybench.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T15:17:04Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "www.felonybench.com"
-      ],
-      "items": [
-        {
-          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-          "title": "《重罪法庭》：化身AI，犯下罪行",
-          "url": "https://www.felonybench.com",
-          "source": "www.felonybench.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T17:41:21.638000Z"
-        },
-        {
-          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
-          "url": "https://www.felonybench.com",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T17:23:02Z"
-        },
-        {
-          "id": "34912ed560261d4c64f01895b5a3a0e3a461089d",
-          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench",
-          "url": "https://www.felonybench.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T15:17:04Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7327,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T15:17:04Z",
-      "latest_at": "2026-08-21T17:41:21.638000Z",
-      "primary_item": {
-        "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
-        "title": "《重罪法庭》：化身AI，犯下罪行",
-        "url": "https://www.felonybench.com",
-        "source": "www.felonybench.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1276,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5138,
-      "importance": 0.5138,
-      "importance_score": 0.5138,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8224,
+        "recency": 0.8165,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1355,15 +1219,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5127,
-      "importance": 0.5127,
-      "importance_score": 0.5127,
+      "score": 0.5116,
+      "importance": 0.5116,
+      "importance_score": 0.5116,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8161,
+        "recency": 0.8102,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1434,15 +1298,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9802,
+        "recency": 0.9731,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1457,85 +1321,6 @@
         "url": "https://github.com/openai/codex",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7bdcf8563e0c",
-      "title": "优步如何利用人工智能向你收取更高费用",
-      "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-      "primary_url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-          "title": "优步如何利用人工智能向你收取更高费用",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T20:53:21.744000Z"
-        },
-        {
-          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
-          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:37:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-          "title": "优步如何利用人工智能向你收取更高费用",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-21T20:53:21.744000Z"
-        },
-        {
-          "id": "155a17bb46e6ca75c7f5810d7c71e16569f3e770",
-          "title": "优步如何利用人工智能向你收取更高费用 / How Uber uses AI to charge you more",
-          "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-21T20:37:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5039,
-      "importance": 0.5039,
-      "importance_score": 0.5039,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7674,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T20:37:42Z",
-      "latest_at": "2026-08-21T20:53:21.744000Z",
-      "primary_item": {
-        "id": "b6f13e51fbc49f61a1eeb032c7c46de4215b1f97",
-        "title": "优步如何利用人工智能向你收取更高费用",
-        "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1592,15 +1377,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5022,
-      "importance": 0.5022,
-      "importance_score": 0.5022,
+      "score": 0.5012,
+      "importance": 0.5012,
+      "importance_score": 0.5012,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7576,
+        "recency": 0.7521,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1615,6 +1400,85 @@
         "url": "https://news.slashdot.org/story/26/08/21/1951227/ai-boosted-homework-scores-then-exam-scores-dropped",
         "source": "Slashdot (科技资讯)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_4602d0d95525",
+      "title": "《重罪法庭》：化身AI，犯下罪行",
+      "url": "https://www.felonybench.com",
+      "primary_url": "https://www.felonybench.com",
+      "source": "www.felonybench.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+          "title": "《重罪法庭》：化身AI，犯下罪行",
+          "url": "https://www.felonybench.com",
+          "source": "www.felonybench.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:41:21.638000Z"
+        },
+        {
+          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
+          "url": "https://www.felonybench.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:23:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "www.felonybench.com"
+      ],
+      "items": [
+        {
+          "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+          "title": "《重罪法庭》：化身AI，犯下罪行",
+          "url": "https://www.felonybench.com",
+          "source": "www.felonybench.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:41:21.638000Z"
+        },
+        {
+          "id": "f31d7a39b22c90d6a854312f0ff5d3eff5bfa676",
+          "title": "《重罪法庭》：化身AI，犯下罪行 / Felony Bench: Be AI, Do Crime",
+          "url": "https://www.felonybench.com",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-21T17:23:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4967,
+      "importance": 0.4967,
+      "importance_score": 0.4967,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7274,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T17:23:02Z",
+      "latest_at": "2026-08-21T17:41:21.638000Z",
+      "primary_item": {
+        "id": "ddd6e334a8b3f38442661fb4ce11133e87d99813",
+        "title": "《重罪法庭》：化身AI，犯下罪行",
+        "url": "https://www.felonybench.com",
+        "source": "www.felonybench.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1671,15 +1535,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5227,
+      "importance": 0.5227,
+      "importance_score": 0.5227,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8782,
+        "recency": 0.8719,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1694,6 +1558,84 @@
         "url": "https://news.ycombinator.com/item?id=49396590",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_58096ad1a5e9",
+      "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
+      "url": "https://hub.baai.ac.cn/view/57317",
+      "primary_url": "https://hub.baai.ac.cn/view/57317",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
+          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
+          "url": "https://hub.baai.ac.cn/view/57317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
+          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
+          "url": "https://hub.baai.ac.cn/view/57317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
+          "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
+          "url": "https://hub.baai.ac.cn/view/57317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c3ae5cde6b8ae9e1e1040504024e40d8a8fcf1c8",
+          "title": "Jeff Dean 离职后首次公开访谈火力有点猛。。。",
+          "url": "https://hub.baai.ac.cn/view/57317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8623,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T04:58:11.823581Z",
+      "latest_at": "2026-08-22T05:27:57.819781Z",
+      "primary_item": {
+        "id": "ff5b07828336b3b5799dd16de08bb37476ccae4f",
+        "title": "Jeff Dean 离职后首次公开访谈：锐评谷歌与 TensorFlow 失误",
+        "url": "https://hub.baai.ac.cn/view/57317",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
