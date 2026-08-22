@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:14:45.156095Z",
+  "generated_at": "2026-08-22T21:43:46.146354Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9036,
+        "recency": 0.8974,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -170,15 +170,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.665,
-      "importance": 0.665,
-      "importance_score": 0.665,
+      "score": 0.6638,
+      "importance": 0.6638,
+      "importance_score": 0.6638,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9305,
+        "recency": 0.924,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -249,15 +249,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5647,
-      "importance": 0.5647,
-      "importance_score": 0.5647,
+      "score": 0.5637,
+      "importance": 0.5637,
+      "importance_score": 0.5637,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8389,
+        "recency": 0.8331,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -347,15 +347,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.5593,
+      "importance": 0.5593,
+      "importance_score": 0.5593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9426,
+        "recency": 0.9361,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -445,15 +445,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5534,
-      "importance": 0.5534,
-      "importance_score": 0.5534,
+      "score": 0.5523,
+      "importance": 0.5523,
+      "importance_score": 0.5523,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9035,
+        "recency": 0.8972,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -524,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.5443,
+      "importance": 0.5443,
+      "importance_score": 0.5443,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9987,
+        "recency": 0.9918,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -546,6 +546,85 @@
         "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
         "url": "https://twitter.com/argofowl/status/2091150597374537729",
         "source": "twitter.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_18837430aeb7",
+      "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "primary_url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T20:53:16.928000Z"
+        },
+        {
+          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T20:46:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T20:53:16.928000Z"
+        },
+        {
+          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T20:46:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9879,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T20:46:35Z",
+      "latest_at": "2026-08-22T20:53:16.928000Z",
+      "primary_item": {
+        "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
+        "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+        "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -603,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5441,
-      "importance": 0.5441,
-      "importance_score": 0.5441,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9907,
+        "recency": 0.9838,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -681,15 +760,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9438,
+        "recency": 0.9372,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -759,15 +838,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.534,
+      "importance": 0.534,
+      "importance_score": 0.534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.941,
+        "recency": 0.9345,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -838,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9319,
+        "recency": 0.9254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -860,85 +939,6 @@
         "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
         "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
         "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f44d788d2a3b",
-      "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
-      "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-      "primary_url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
-          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
-          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T15:25:48.057000Z"
-        },
-        {
-          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
-          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
-          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T09:50:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
-          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
-          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T15:25:48.057000Z"
-        },
-        {
-          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
-          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
-          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T09:50:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5313,
-      "importance": 0.5313,
-      "importance_score": 0.5313,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9194,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T09:50:01Z",
-      "latest_at": "2026-08-22T15:25:48.057000Z",
-      "primary_item": {
-        "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
-        "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
-        "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -996,15 +996,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8986,
+        "recency": 0.8923,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1075,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8851,
+        "recency": 0.8789,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1153,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8555,
+        "recency": 0.8495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1232,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5403,
-      "importance": 0.5403,
-      "importance_score": 0.5403,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9694,
+        "recency": 0.9627,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1258,82 +1258,82 @@
       }
     },
     {
-      "story_id": "story_10fabbb42c94",
-      "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-      "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-      "primary_url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-      "source": "HN Algolia · AI 24h",
-      "source_name": "Hacker News",
+      "story_id": "story_f44d788d2a3b",
+      "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+      "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+      "primary_url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
-          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-22T01:09:21Z"
-        },
-        {
-          "id": "952553741bf73d4c3fb2684d2e837dc21fd72236",
-          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上",
-          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-          "source": "www.reuters.com",
+          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-21T21:41:42.040000Z"
+          "published_at": "2026-08-22T15:25:48.057000Z"
+        },
+        {
+          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T09:50:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "www.reuters.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
-          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-22T01:09:21Z"
-        },
-        {
-          "id": "952553741bf73d4c3fb2684d2e837dc21fd72236",
-          "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上",
-          "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-          "source": "www.reuters.com",
+          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-21T21:41:42.040000Z"
+          "published_at": "2026-08-22T15:25:48.057000Z"
+        },
+        {
+          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T09:50:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5005,
-      "importance": 0.5005,
-      "importance_score": 0.5005,
+      "score": 0.5301,
+      "importance": 0.5301,
+      "importance_score": 0.5301,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7482,
+        "recency": 0.913,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T21:41:42.040000Z",
-      "latest_at": "2026-08-22T01:09:21Z",
+      "earliest_at": "2026-08-22T09:50:01Z",
+      "latest_at": "2026-08-22T15:25:48.057000Z",
       "primary_item": {
-        "id": "a08d7509063a3782dc8b48e5eca9cfe6f0948f0c",
-        "title": "OpenAI 将前沿 GPT-5.6 Sol 模型的开发者价格下调了 20% 以上 / OpenAI cuts developer pricing for frontier GPT-5.6 Sol model by more than 20%",
-        "url": "https://www.reuters.com/technology/openai-cuts-developer-pricing-frontier-gpt-56-sol-model-by-more-than-20-2026-08-21",
-        "source": "HN Algolia · AI 24h",
-        "source_name": "Hacker News"
+        "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
+        "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+        "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1390,15 +1390,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8986,
+        "recency": 0.8923,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1468,15 +1468,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5174,
+      "importance": 0.5174,
+      "importance_score": 0.5174,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8481,
+        "recency": 0.8421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1547,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
+      "score": 0.5132,
+      "importance": 0.5132,
+      "importance_score": 0.5132,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8245,
+        "recency": 0.8187,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1625,15 +1625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9587,
+        "recency": 0.952,
         "story_heat": 0.25
       },
       "category": "watch",
