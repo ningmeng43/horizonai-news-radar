@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:14:19.437780Z",
+  "generated_at": "2026-08-22T22:45:22.912702Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8908,
+        "recency": 0.8842,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -170,15 +170,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6626,
-      "importance": 0.6626,
-      "importance_score": 0.6626,
+      "score": 0.6614,
+      "importance": 0.6614,
+      "importance_score": 0.6614,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9172,
+        "recency": 0.9104,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -193,6 +193,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-22",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_c0f9d10986f5",
+      "title": "为什么你身边的LLM看起来比实际更“笨”",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "primary_url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "source": "forum.level1techs.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨”",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "forum.level1techs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T22:29:26.810000Z"
+        },
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:35:58.501000Z"
+        },
+        {
+          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
+          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "forum.level1techs.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
+          "title": "为什么你身边的LLM看起来比实际更“笨”",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "forum.level1techs.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T22:29:26.810000Z"
+        },
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:35:58.501000Z"
+        },
+        {
+          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
+          "title": "为什么你身边的LLM看起来比实际更“笨” / Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5701,
+      "importance": 0.5701,
+      "importance_score": 0.5701,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9962,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T18:14:16Z",
+      "latest_at": "2026-08-22T22:29:26.810000Z",
+      "primary_item": {
+        "id": "3bdc741a631b5a9943ec9c441290a79bdf5e22e7",
+        "title": "为什么你身边的LLM看起来比实际更“笨”",
+        "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+        "source": "forum.level1techs.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -249,15 +347,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
+      "score": 0.5615,
+      "importance": 0.5615,
+      "importance_score": 0.5615,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.827,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -347,15 +445,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5581,
-      "importance": 0.5581,
-      "importance_score": 0.5581,
+      "score": 0.5568,
+      "importance": 0.5568,
+      "importance_score": 0.5568,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9292,
+        "recency": 0.9223,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -445,15 +543,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5511,
-      "importance": 0.5511,
-      "importance_score": 0.5511,
+      "score": 0.5499,
+      "importance": 0.5499,
+      "importance_score": 0.5499,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8906,
+        "recency": 0.884,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -524,15 +622,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9845,
+        "recency": 0.9772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -603,15 +701,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9807,
+        "recency": 0.9734,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -629,80 +727,80 @@
       }
     },
     {
-      "story_id": "story_c0f9d10986f5",
-      "title": "Why your local LLM feels dumber than it is",
-      "url": "https://news.ycombinator.com/item?id=49402232",
-      "primary_url": "https://news.ycombinator.com/item?id=49402232",
+      "story_id": "story_b8c0ed27bcb3",
+      "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+      "url": "https://news.ycombinator.com/item?id=49399642",
+      "primary_url": "https://news.ycombinator.com/item?id=49399642",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://news.ycombinator.com/item?id=49402232",
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://news.ycombinator.com/item?id=49399642",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T20:35:58.501000Z"
+          "published_at": "2026-08-22T19:05:40.131000Z"
         },
         {
-          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T18:14:16Z"
+          "id": "0714345076c1f80d34b7420ba0235d04aa4e6e38",
+          "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T13:39:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://news.ycombinator.com/item?id=49402232",
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://news.ycombinator.com/item?id=49399642",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T20:35:58.501000Z"
+          "published_at": "2026-08-22T19:05:40.131000Z"
         },
         {
-          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
-          "title": "Why your local LLM feels dumber than it is",
-          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T18:14:16Z"
+          "id": "0714345076c1f80d34b7420ba0235d04aa4e6e38",
+          "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T13:39:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9766,
+        "recency": 0.9485,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T18:14:16Z",
-      "latest_at": "2026-08-22T20:35:58.501000Z",
+      "earliest_at": "2026-08-22T13:39:07Z",
+      "latest_at": "2026-08-22T19:05:40.131000Z",
       "primary_item": {
-        "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
-        "title": "Why your local LLM feels dumber than it is",
-        "url": "https://news.ycombinator.com/item?id=49402232",
+        "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+        "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "url": "https://news.ycombinator.com/item?id=49399642",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -760,15 +858,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5333,
-      "importance": 0.5333,
-      "importance_score": 0.5333,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9303,
+        "recency": 0.9234,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -838,15 +936,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9276,
+        "recency": 0.9207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -917,15 +1015,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9186,
+        "recency": 0.9117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -996,15 +1094,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8858,
+        "recency": 0.8792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1075,15 +1173,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8725,
+        "recency": 0.866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1153,15 +1251,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8433,
+        "recency": 0.837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1179,80 +1277,79 @@
       }
     },
     {
-      "story_id": "story_b8c0ed27bcb3",
-      "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-      "url": "https://news.ycombinator.com/item?id=49399642",
-      "primary_url": "https://news.ycombinator.com/item?id=49399642",
+      "story_id": "story_99c051212fc4",
+      "title": "新 MCP 路线图 / New MCP Roadmap",
+      "url": "https://news.ycombinator.com/item?id=49399591",
+      "primary_url": "https://news.ycombinator.com/item?id=49399591",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
-          "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://news.ycombinator.com/item?id=49399642",
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "新 MCP 路线图 / New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T19:05:40.131000Z"
+          "published_at": "2026-08-22T18:19:30.962000Z"
         },
         {
-          "id": "0714345076c1f80d34b7420ba0235d04aa4e6e38",
-          "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T13:39:07Z"
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "新 MCP 路线图 / The New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:14:31.513000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
-          "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://news.ycombinator.com/item?id=49399642",
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "新 MCP 路线图 / New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-22T19:05:40.131000Z"
+          "published_at": "2026-08-22T18:19:30.962000Z"
         },
         {
-          "id": "0714345076c1f80d34b7420ba0235d04aa4e6e38",
-          "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T13:39:07Z"
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "新 MCP 路线图 / The New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:14:31.513000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9556,
+        "recency": 0.938,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-22T13:39:07Z",
-      "latest_at": "2026-08-22T19:05:40.131000Z",
+      "earliest_at": "2026-08-22T14:14:31.513000Z",
+      "latest_at": "2026-08-22T18:19:30.962000Z",
       "primary_item": {
-        "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
-        "title": "中国机器人1亿次冲刺跑得比尤塞恩·博尔特的世界纪录还要快 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-        "url": "https://news.ycombinator.com/item?id=49399642",
+        "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+        "title": "新 MCP 路线图 / New MCP Roadmap",
+        "url": "https://news.ycombinator.com/item?id=49399591",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1311,15 +1408,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9064,
+        "recency": 0.8996,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1390,15 +1487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5252,
-      "importance": 0.5252,
-      "importance_score": 0.5252,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8858,
+        "recency": 0.8792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1468,15 +1565,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5163,
-      "importance": 0.5163,
-      "importance_score": 0.5163,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.836,
+        "recency": 0.8298,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1547,15 +1644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8127,
+        "recency": 0.8067,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1570,84 +1667,6 @@
         "url": "https://news.pedaily.cn/202608/567987.shtml",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_99c051212fc4",
-      "title": "新 MCP 路线图 / New MCP Roadmap",
-      "url": "https://news.ycombinator.com/item?id=49399591",
-      "primary_url": "https://news.ycombinator.com/item?id=49399591",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-          "title": "新 MCP 路线图 / New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T18:19:30.962000Z"
-        },
-        {
-          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
-          "title": "新 MCP 路线图 / The New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:14:31.513000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-          "title": "新 MCP 路线图 / New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T18:19:30.962000Z"
-        },
-        {
-          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
-          "title": "新 MCP 路线图 / The New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:14:31.513000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9451,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T14:14:31.513000Z",
-      "latest_at": "2026-08-22T18:19:30.962000Z",
-      "primary_item": {
-        "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-        "title": "新 MCP 路线图 / New MCP Roadmap",
-        "url": "https://news.ycombinator.com/item?id=49399591",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
