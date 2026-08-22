@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:15:15.204530Z",
+  "generated_at": "2026-08-22T16:47:21.264373Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9712,
+        "recency": 0.9637,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -118,15 +118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7101,
-      "importance": 0.7101,
-      "importance_score": 0.7101,
+      "score": 0.7091,
+      "importance": 0.7091,
+      "importance_score": 0.7091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7249,
+        "recency": 0.7193,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -153,6 +153,15 @@
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
+          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T16:47:21.264373Z"
+        },
+        {
           "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
           "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -234,13 +243,22 @@
           "published_at": "2026-08-21T18:26:23.251788Z"
         }
       ],
-      "source_count": 9,
+      "source_count": 10,
       "source_names": [
         "社区更新 · 2026-08-21",
         "社区更新 · 2026-08-22"
       ],
       "items": [
         {
+          "id": "eae88615205c673acc4aa1c4800307d0ab8b3138",
+          "title": "这篇对话把Anthropic的产品方法论讲得很透：前沿模型需要Claude Code这样的产品载体，模型能力也要靠持续评测才能被发现、验证和转成用户价值。里面最值得产品经理和AI创业者看的，是“评测就是新的PRD”这条线：把用户的一句“不好用”，拆成可复现、可衡量的任务。想做AI产品，这篇文章不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-22",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-22T16:47:21.264373Z"
+        },
+        {
           "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
           "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -322,17 +340,17 @@
           "published_at": "2026-08-21T18:26:23.251788Z"
         }
       ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.6775,
-      "importance": 0.6775,
-      "importance_score": 0.6775,
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.6761,
+      "importance": 0.6761,
+      "importance_score": 0.6761,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 1.0,
+        "recency": 0.9923,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -340,7 +358,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-08-21T18:26:23.251788Z",
-      "latest_at": "2026-08-22T16:15:15.204530Z",
+      "latest_at": "2026-08-22T16:47:21.264373Z",
       "primary_item": {
         "id": "b4766bbc4a2b546b075b2734f0993fcecc18f84d",
         "title": "DeepSeek开源了 DeepSeek Harness（DSH），很多人会以为 DeepSeek 又做了一个AI模型，或者Claude Code、Codex 之外又多了一个同类工具。作者实操了一遍，尽可能的在这篇文章里用通俗的语言来讲明白DSH到底是什么。",
@@ -403,15 +421,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.576,
-      "importance": 0.576,
-      "importance_score": 0.576,
+      "score": 0.5748,
+      "importance": 0.5748,
+      "importance_score": 0.5748,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9016,
+        "recency": 0.8947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -429,119 +447,180 @@
       }
     },
     {
-      "story_id": "story_fd3f5bbbc04e",
-      "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-      "url": "https://news.ycombinator.com/item?id=49390463",
-      "primary_url": "https://news.ycombinator.com/item?id=49390463",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_f5886f0c0a05",
+      "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "primary_url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "972600d94f86b6a673f78e662b72cb49d6b97f80",
-          "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-          "url": "https://news.ycombinator.com/item?id=49390463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:01:54.565000Z"
+          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T14:13:05Z"
         },
         {
-          "id": "3a8930b05c94b8125cf370f22e93906d7609e740",
-          "title": "自托管人工智能软件工厂 / A self hosted AI software factory",
-          "url": "https://news.ycombinator.com/item?id=49390463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T17:02:24.759000Z"
-        },
-        {
-          "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
-          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / A self hosted AI software factory",
-          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "id": "9076a298cc336bb0bd0ad40be34063ff26d6b939",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-21T16:27:52Z"
+          "published_at": "2026-08-22T14:13:05Z"
         },
         {
-          "id": "6f0736b2d5d48e16d13b5bebe74c2284c0ab9137",
-          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T16:27:52Z"
+          "id": "6b5323f77928ec0afca9261f89039277b620693a",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T06:29:39.085000Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Hacker News (黑客新闻)",
+        "www.theguardian.com"
       ],
       "items": [
         {
-          "id": "972600d94f86b6a673f78e662b72cb49d6b97f80",
-          "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-          "url": "https://news.ycombinator.com/item?id=49390463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T18:01:54.565000Z"
+          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T14:13:05Z"
         },
         {
-          "id": "3a8930b05c94b8125cf370f22e93906d7609e740",
-          "title": "自托管人工智能软件工厂 / A self hosted AI software factory",
-          "url": "https://news.ycombinator.com/item?id=49390463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T17:02:24.759000Z"
-        },
-        {
-          "id": "c6b9e7419474d9b57041c9f770b2d29589425eaa",
-          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / A self hosted AI software factory",
-          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
+          "id": "9076a298cc336bb0bd0ad40be34063ff26d6b939",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my skills: Hollywood creatives training AI to do their jobs",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-21T16:27:52Z"
+          "published_at": "2026-08-22T14:13:05Z"
         },
         {
-          "id": "6f0736b2d5d48e16d13b5bebe74c2284c0ab9137",
-          "title": "构建一个（几乎）完全自主托管、沙箱化、具有代理能力的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-          "url": "https://blog.jakesaunders.dev/building-an-almost-fully-self-hosted-sandboxed-agentic-software-factory",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T16:27:52Z"
+          "id": "6b5323f77928ec0afca9261f89039277b620693a",
+          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
+          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+          "source": "www.theguardian.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T06:29:39.085000Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5642,
+      "importance": 0.5642,
+      "importance_score": 0.5642,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7255,
-        "story_heat": 0.75
+        "recency": 0.9636,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T16:27:52Z",
-      "latest_at": "2026-08-21T18:01:54.565000Z",
+      "earliest_at": "2026-08-22T06:29:39.085000Z",
+      "latest_at": "2026-08-22T14:13:05Z",
       "primary_item": {
-        "id": "972600d94f86b6a673f78e662b72cb49d6b97f80",
-        "title": "构建一个（几乎）完全自托管、沙盒、代理的软件工厂 / Building an (almost) fully self-hosted, sandboxed, agentic software factory",
-        "url": "https://news.ycombinator.com/item?id=49390463",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
+        "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
+        "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_3e284d11e91a",
+      "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "primary_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T16:21:29.526000Z"
+        },
+        {
+          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T16:04:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T16:21:29.526000Z"
+        },
+        {
+          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T16:04:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9938,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:04:51Z",
+      "latest_at": "2026-08-22T16:21:29.526000Z",
+      "primary_item": {
+        "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
+        "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+        "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -598,15 +677,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9882,
+        "recency": 0.9806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -621,85 +700,6 @@
         "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_f5886f0c0a05",
-      "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-      "primary_url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
-          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:13:05Z"
-        },
-        {
-          "id": "6b5323f77928ec0afca9261f89039277b620693a",
-          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T06:29:39.085000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
-          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T14:13:05Z"
-        },
-        {
-          "id": "6b5323f77928ec0afca9261f89039277b620693a",
-          "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T06:29:39.085000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.971,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T06:29:39.085000Z",
-      "latest_at": "2026-08-22T14:13:05Z",
-      "primary_item": {
-        "id": "1fcaa887e5d59edfbbabed5b57999b2ee355d456",
-        "title": "“亲手为自己的职业掘墓”：好莱坞创意工作者正训练人工智能来取代他们的工作 / Digging the grave of my job: Hollywood creatives training AI to do their jobs",
-        "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -756,15 +756,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9657,
+        "recency": 0.9583,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -835,15 +835,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9512,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -913,15 +913,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9114,
+        "recency": 0.9044,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -992,15 +992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8861,
+        "recency": 0.8793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1018,82 +1018,82 @@
       }
     },
     {
-      "story_id": "story_7b8d3d36b349",
-      "title": "当 GPU 读取内存时会发生什么",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "primary_url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "source": "blog.doubleword.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_c302d2d33537",
+      "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+      "url": "https://news.ycombinator.com/item?id=49396590",
+      "primary_url": "https://news.ycombinator.com/item?id=49396590",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
-          "title": "当 GPU 读取内存时会发生什么",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T01:41:21.550000Z"
+          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://news.ycombinator.com/item?id=49396590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T06:13:58.237000Z"
         },
         {
-          "id": "308cb247591c6e4fd39c9537327587fd876b63ad",
-          "title": "当 GPU 读取内存时会发生什么 / What happens when a GPU reads memory",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-21T16:16:42Z"
+          "published_at": "2026-08-22T04:33:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "blog.doubleword.ai"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
-          "title": "当 GPU 读取内存时会发生什么",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T01:41:21.550000Z"
+          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://news.ycombinator.com/item?id=49396590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T06:13:58.237000Z"
         },
         {
-          "id": "308cb247591c6e4fd39c9537327587fd876b63ad",
-          "title": "当 GPU 读取内存时会发生什么 / What happens when a GPU reads memory",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
+          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
+          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-21T16:16:42Z"
+          "published_at": "2026-08-22T04:33:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5117,
-      "importance": 0.5117,
-      "importance_score": 0.5117,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8103,
+        "recency": 0.8586,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-21T16:16:42Z",
-      "latest_at": "2026-08-22T01:41:21.550000Z",
+      "earliest_at": "2026-08-22T04:33:06Z",
+      "latest_at": "2026-08-22T06:13:58.237000Z",
       "primary_item": {
-        "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
-        "title": "当 GPU 读取内存时会发生什么",
-        "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-        "source": "blog.doubleword.ai",
-        "source_name": "Buzzing"
+        "id": "4652cf50d0631148283dcab33b554933ca36e4da",
+        "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
+        "url": "https://news.ycombinator.com/item?id=49396590",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1150,15 +1150,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8041,
+        "recency": 0.7979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1229,15 +1229,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9657,
+        "recency": 0.9583,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1308,15 +1308,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7464,
+        "recency": 0.7407,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,15 +1387,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4957,
-      "importance": 0.4957,
-      "importance_score": 0.4957,
+      "score": 0.4947,
+      "importance": 0.4947,
+      "importance_score": 0.4947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7219,
+        "recency": 0.7164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1410,85 +1410,6 @@
         "url": "https://www.felonybench.com",
         "source": "www.felonybench.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c302d2d33537",
-      "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-      "url": "https://news.ycombinator.com/item?id=49396590",
-      "primary_url": "https://news.ycombinator.com/item?id=49396590",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://news.ycombinator.com/item?id=49396590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T06:13:58.237000Z"
-        },
-        {
-          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T04:33:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://news.ycombinator.com/item?id=49396590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T06:13:58.237000Z"
-        },
-        {
-          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T04:33:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8653,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T04:33:06Z",
-      "latest_at": "2026-08-22T06:13:58.237000Z",
-      "primary_item": {
-        "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-        "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-        "url": "https://news.ycombinator.com/item?id=49396590",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1544,15 +1465,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5198,
-      "importance": 0.5198,
-      "importance_score": 0.5198,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8557,
+        "recency": 0.8492,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1623,15 +1544,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9657,
+        "recency": 0.9583,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1702,15 +1623,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5019,
-      "importance": 0.5019,
-      "importance_score": 0.5019,
+      "score": 0.5008,
+      "importance": 0.5008,
+      "importance_score": 0.5008,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7561,
+        "recency": 0.7502,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1725,6 +1646,85 @@
         "url": "https://www.businessinsider.com/how-uber-uses-ai-to-charge-you-more-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_04f8d146dcf4",
+      "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
+      "url": "https://news.ycombinator.com/item?id=49393051",
+      "primary_url": "https://news.ycombinator.com/item?id=49393051",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
+          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
+          "url": "https://news.ycombinator.com/item?id=49393051",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T20:32:02.097000Z"
+        },
+        {
+          "id": "48aa24f65578ce52e3984df7eead950686309a55",
+          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
+          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T19:51:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
+          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
+          "url": "https://news.ycombinator.com/item?id=49393051",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T20:32:02.097000Z"
+        },
+        {
+          "id": "48aa24f65578ce52e3984df7eead950686309a55",
+          "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
+          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T19:51:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5002,
+      "importance": 0.5002,
+      "importance_score": 0.5002,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7464,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T19:51:48Z",
+      "latest_at": "2026-08-21T20:32:02.097000Z",
+      "primary_item": {
+        "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
+        "title": "快速印象：比 Claude 使用 Codex 多的一周 / Quick impressions: A week of using Codex more than Claude",
+        "url": "https://news.ycombinator.com/item?id=49393051",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
