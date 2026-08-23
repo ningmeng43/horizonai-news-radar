@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:56:02.913645Z",
+  "generated_at": "2026-08-23T09:23:01.060141Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9321,
+        "recency": 0.9261,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -99,21 +99,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8904,
+        "recency": 0.8846,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-23T00:53:34.184000Z",
       "latest_at": "2026-08-23T00:53:34.184000Z",
@@ -160,15 +159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7633,
+        "recency": 0.7584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -292,15 +291,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.639,
-      "importance": 0.639,
-      "importance_score": 0.639,
+      "score": 0.6381,
+      "importance": 0.6381,
+      "importance_score": 0.6381,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.7859,
+        "recency": 0.7809,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -315,6 +314,85 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-22",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_a36f4da2dd57",
+      "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+      "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+      "primary_url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "bb8f726f465db6ef061f70c4d20834472a5a923b",
+          "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T17:00:00Z"
+        },
+        {
+          "id": "3c06f90ea51ebcbfc7dc8d04ee3a9d427f2bb6a5",
+          "title": "亚马逊云科技开源 Dogwood：为 AI 智能体工具调用制定策略语言",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "InfoQ CN",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bb8f726f465db6ef061f70c4d20834472a5a923b",
+          "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-08-23T17:00:00Z"
+        },
+        {
+          "id": "3c06f90ea51ebcbfc7dc8d04ee3a9d427f2bb6a5",
+          "title": "亚马逊云科技开源 Dogwood：为 AI 智能体工具调用制定策略语言",
+          "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6228,
+      "importance": 0.6228,
+      "importance_score": 0.6228,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5328,
+        "source_tier": 0.5,
+        "ai_relevance": 0.74,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T09:23:01.060141Z",
+      "latest_at": "2026-08-23T17:00:00Z",
+      "primary_item": {
+        "id": "bb8f726f465db6ef061f70c4d20834472a5a923b",
+        "title": "亚马逊云科技开源 Dogwood：给 AI 智能体的工具调用立规矩",
+        "url": "https://www.infoq.cn/article/cwj5Ikvhqu5mKH22zKsO",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
       }
     },
     {
@@ -390,15 +468,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5456,
-      "importance": 0.5456,
-      "importance_score": 0.5456,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.86,
+        "recency": 0.8544,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -469,15 +547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5432,
-      "importance": 0.5432,
-      "importance_score": 0.5432,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9854,
+        "recency": 0.979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -547,15 +625,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9841,
+        "recency": 0.9778,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -645,15 +723,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7962,
+        "recency": 0.7911,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -723,15 +801,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9251,
+        "recency": 0.9191,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -821,15 +899,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.5284,
+      "importance": 0.5284,
+      "importance_score": 0.5284,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7693,
+        "recency": 0.7643,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -900,15 +978,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8939,
+        "recency": 0.8881,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -979,15 +1057,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8436,
+        "recency": 0.8381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1058,15 +1136,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8403,
+        "recency": 0.8349,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1137,15 +1215,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5413,
-      "importance": 0.5413,
-      "importance_score": 0.5413,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9751,
+        "recency": 0.9687,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1215,15 +1293,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5089,
-      "importance": 0.5089,
-      "importance_score": 0.5089,
+      "score": 0.5079,
+      "importance": 0.5079,
+      "importance_score": 0.5079,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7949,
+        "recency": 0.7897,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1294,15 +1372,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5075,
-      "importance": 0.5075,
-      "importance_score": 0.5075,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7871,
+        "recency": 0.782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1373,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5024,
-      "importance": 0.5024,
-      "importance_score": 0.5024,
+      "score": 0.5015,
+      "importance": 0.5015,
+      "importance_score": 0.5015,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.759,
+        "recency": 0.7541,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1452,15 +1530,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5004,
-      "importance": 0.5004,
-      "importance_score": 0.5004,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7476,
+        "recency": 0.7428,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1531,15 +1609,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.5122,
+      "importance": 0.5122,
+      "importance_score": 0.5122,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8189,
+        "recency": 0.8136,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1554,84 +1632,6 @@
         "url": "https://news.ycombinator.com/item?id=49399642",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d901a93bbcfa",
-      "title": "《用Python思考》 / Thinking in Python",
-      "url": "https://thinkinginpython.com",
-      "primary_url": "https://thinkinginpython.com",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        },
-        {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-          "title": "《用Python思考》 / Thinking in Python",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        },
-        {
-          "id": "3289df469c5b7ba3c168fe930418c735ddf2afd9",
-          "title": "《用Python思考》 / Thinking in Python by Bruce Eckel",
-          "url": "https://thinkinginpython.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T18:10:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5113,
-      "importance": 0.5113,
-      "importance_score": 0.5113,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8081,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T18:10:49Z",
-      "latest_at": "2026-08-22T18:10:49Z",
-      "primary_item": {
-        "id": "9b3057092d25d66e6b9588eb8ddcabaf5cd3e85f",
-        "title": "《用Python思考》 / Thinking in Python",
-        "url": "https://thinkinginpython.com",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
