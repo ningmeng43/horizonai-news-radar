@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T19:27:04.783568Z",
+  "generated_at": "2026-08-29T21:52:06.188115Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7551,
+        "recency": 0.7292,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,130 +62,6 @@
         "title": "Codex CLI 0.151.0",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_362e2edecbfb",
-      "title": "GitHub Copilot in Visual Studio — August update",
-      "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "GitHub Copilot in Visual Studio — August update",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-          "title": "GitHub Copilot in Visual Studio — August update",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:24:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7169,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T20:24:20Z",
-      "latest_at": "2026-08-28T20:24:20Z",
-      "primary_item": {
-        "id": "08c629be590a72ce351fda9be6ffef7e3de27b6f",
-        "title": "GitHub Copilot in Visual Studio — August update",
-        "url": "https://github.blog/changelog/2026-08-28-github-copilot-in-visual-studio-august-update-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fe43888c26b1",
-      "title": "GitHub Copilot weekly releases — August 24",
-      "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-      "primary_url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
-          "title": "GitHub Copilot weekly releases — August 24",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:13:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a617be9741ab625aa07602674087bfc532b03eb6",
-          "title": "GitHub Copilot weekly releases — August 24",
-          "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-28T20:13:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.715,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-28T20:13:22Z",
-      "latest_at": "2026-08-28T20:13:22Z",
-      "primary_item": {
-        "id": "a617be9741ab625aa07602674087bfc532b03eb6",
-        "title": "GitHub Copilot weekly releases — August 24",
-        "url": "https://github.blog/changelog/2026-08-28-github-copilot-weekly-releases-august-24",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -224,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7418,
+      "importance": 0.7418,
+      "importance_score": 0.7418,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8355,
+        "recency": 0.8068,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -303,15 +179,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7749,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -364,15 +240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8061,
+        "recency": 0.7784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -424,15 +300,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.842,
+        "recency": 0.8131,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -575,15 +451,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.663,
+      "importance": 0.663,
+      "importance_score": 0.663,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9657,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -692,15 +568,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5853,
-      "importance": 0.5853,
-      "importance_score": 0.5853,
+      "score": 0.5794,
+      "importance": 0.5794,
+      "importance_score": 0.5794,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9414,
+        "recency": 0.9091,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -715,6 +591,262 @@
         "url": "https://lwn.net/Articles/1091231",
         "source": "lwn.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6472bbcb1287",
+      "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "primary_url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "source": "newsletter.eng-leadership.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
+        },
+        {
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
+        },
+        {
+          "id": "71248308b9890f003edd940349595f79c695985d",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T17:19:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "newsletter.eng-leadership.com"
+      ],
+      "items": [
+        {
+          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "newsletter.eng-leadership.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.528000Z"
+        },
+        {
+          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
+          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://news.ycombinator.com/item?id=49491568",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T19:06:35.204000Z"
+        },
+        {
+          "id": "71248308b9890f003edd940349595f79c695985d",
+          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
+          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T17:19:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5669,
+      "importance": 0.5669,
+      "importance_score": 0.5669,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9781,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T17:19:47Z",
+      "latest_at": "2026-08-29T20:20:15.528000Z",
+      "primary_item": {
+        "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
+        "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
+        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+        "source": "newsletter.eng-leadership.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6b401487edf8",
+      "title": "ComposioHQ / awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "primary_url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
+          "title": "ComposioHQ / awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5c613512de4f6a0e3b09f72b7321837ee8e9a1f2",
+          "title": "ComposioHQ /      awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:33:02.110000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
+          "title": "ComposioHQ / awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "5c613512de4f6a0e3b09f72b7321837ee8e9a1f2",
+          "title": "ComposioHQ /      awesome-claude-skills",
+          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:33:02.110000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T21:33:02.110000Z",
+      "latest_at": "2026-08-29T21:52:06.188115Z",
+      "primary_item": {
+        "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
+        "title": "ComposioHQ / awesome-claude-skills",
+        "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_697adcd01e97",
+      "title": "LLMs are making me lose my savviness",
+      "url": "https://news.ycombinator.com/item?id=49492184",
+      "primary_url": "https://news.ycombinator.com/item?id=49492184",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:36:53.423000Z"
+        },
+        {
+          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T18:38:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://news.ycombinator.com/item?id=49492184",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-29T21:36:53.423000Z"
+        },
+        {
+          "id": "5aa2b1665dab097881ab8efcfcbd6db1588f5f7d",
+          "title": "LLMs are making me lose my savviness",
+          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T18:38:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9963,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-29T18:38:52Z",
+      "latest_at": "2026-08-29T21:36:53.423000Z",
+      "primary_item": {
+        "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
+        "title": "LLMs are making me lose my savviness",
+        "url": "https://news.ycombinator.com/item?id=49492184",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -744,18 +876,18 @@
           "published_at": "2026-08-29T05:06:27.388000Z"
         },
         {
-          "id": "6ab9dca88b865873defdfbacbbc470d4a8f438c5",
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
           "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
           "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-29T01:24:13Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "github.com",
         "hackernews"
       ],
@@ -779,26 +911,26 @@
           "published_at": "2026-08-29T05:06:27.388000Z"
         },
         {
-          "id": "6ab9dca88b865873defdfbacbbc470d4a8f438c5",
+          "id": "1d31eeccd9609eb222d2609e16547bc812b08613",
           "title": "StemDeck，一款免费、开源且本地化的AI茎叶分离器 / StemDeck, a free, open-source and local AI stem separator",
           "url": "https://github.com/stemdeckapp/stemdeck",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-29T01:24:13Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.875,
+        "recency": 0.845,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -816,82 +948,82 @@
       }
     },
     {
-      "story_id": "story_6472bbcb1287",
-      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-      "url": "https://news.ycombinator.com/item?id=49491568",
-      "primary_url": "https://news.ycombinator.com/item?id=49491568",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_dde286af26fd",
+      "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+      "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+      "primary_url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://news.ycombinator.com/item?id=49491568",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
+          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T19:48:15.596000Z"
         },
         {
-          "id": "71248308b9890f003edd940349595f79c695985d",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News",
+          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T17:19:47Z"
+          "published_at": "2026-08-29T19:05:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://news.ycombinator.com/item?id=49491568",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
+          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T19:48:15.596000Z"
         },
         {
-          "id": "71248308b9890f003edd940349595f79c695985d",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News",
+          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-29T17:19:47Z"
+          "published_at": "2026-08-29T19:05:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9951,
+        "recency": 0.9706,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T17:19:47Z",
-      "latest_at": "2026-08-29T19:06:35.204000Z",
+      "earliest_at": "2026-08-29T19:05:05Z",
+      "latest_at": "2026-08-29T19:48:15.596000Z",
       "primary_item": {
-        "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-        "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-        "url": "https://news.ycombinator.com/item?id=49491568",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+        "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+        "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -967,15 +1099,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8323,
+        "recency": 0.8037,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1046,15 +1178,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9516,
+        "recency": 0.919,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1125,15 +1257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9487,
+        "recency": 0.9162,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1147,85 +1279,6 @@
         "title": "人工智能让一家濒临倒闭的睡眠公司起死回生",
         "url": "https://www.josephspurrier.com/ai-revives-a-dead-sleep-company",
         "source": "www.josephspurrier.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_29a8261d3470",
-      "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-      "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "primary_url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
-        },
-        {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T13:24:41.103000Z"
-        },
-        {
-          "id": "a6f59e8ba9a6f4aa9497a4c778b60c876a79ef3e",
-          "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。 / I used Claude to solve a problem that data centers helped cause for my photography business. It's saved me thousands.",
-          "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T13:05:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5308,
-      "importance": 0.5308,
-      "importance_score": 0.5308,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9165,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T13:05:01Z",
-      "latest_at": "2026-08-29T13:24:41.103000Z",
-      "primary_item": {
-        "id": "88022008c957c4e3d6bc66a5480287a0955dd6e7",
-        "title": "我利用Claude解决了一个由数据中心引发的、影响我摄影业务的问题。这为我节省了数千。",
-        "url": "https://www.businessinsider.com/photographer-spent-20k-drives-storage-used-ai-claude-save-thousands-2026-8",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1283,15 +1336,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5133,
+      "importance": 0.5133,
+      "importance_score": 0.5133,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8484,
+        "recency": 0.8193,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1361,15 +1414,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8432,
+        "recency": 0.8143,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,82 +1440,82 @@
       }
     },
     {
-      "story_id": "story_6a55c76d0a2a",
-      "title": "The growing divide between AI hype and software engineering reality",
-      "url": "https://news.ycombinator.com/item?id=49491113",
-      "primary_url": "https://news.ycombinator.com/item?id=49491113",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_73be14de88e6",
+      "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+      "url": "https://github.com/todotge/canonical-basis",
+      "primary_url": "https://github.com/todotge/canonical-basis",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
+          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.547000Z"
         },
         {
-          "id": "a78c01947087fa515869e20cd0336b0395497709",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T16:16:32Z"
+          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T20:16:54Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Lobsters (技术社区)",
+        "github.com"
       ],
       "items": [
         {
-          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://news.ycombinator.com/item?id=49491113",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T19:06:35.204000Z"
+          "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-29T20:20:15.547000Z"
         },
         {
-          "id": "a78c01947087fa515869e20cd0336b0395497709",
-          "title": "The growing divide between AI hype and software engineering reality",
-          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T16:16:32Z"
+          "id": "bc8897185dc88e1ac83639dee8d810dfd5d8e775",
+          "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制 / Canonical-basis realignment for Transformer LLMs: every hidden axis becomes independently measurable and controllable",
+          "url": "https://github.com/todotge/canonical-basis",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-29T20:16:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9951,
+        "recency": 0.9781,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T16:16:32Z",
-      "latest_at": "2026-08-29T19:06:35.204000Z",
+      "earliest_at": "2026-08-29T20:16:54Z",
+      "latest_at": "2026-08-29T20:20:15.547000Z",
       "primary_item": {
-        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
-        "title": "The growing divide between AI hype and software engineering reality",
-        "url": "https://news.ycombinator.com/item?id=49491113",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "b95d6628369ed6cabde344594c534bf36f77a990",
+        "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
+        "url": "https://github.com/todotge/canonical-basis",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1519,15 +1572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5094,
+      "importance": 0.5094,
+      "importance_score": 0.5094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8259,
+        "recency": 0.7976,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1545,81 +1598,81 @@
       }
     },
     {
-      "story_id": "story_a67bb8d2a6b4",
-      "title": "ChromeDevTools /      chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "github",
+      "story_id": "story_6a55c76d0a2a",
+      "title": "The growing divide between AI hype and software engineering reality",
+      "url": "https://news.ycombinator.com/item?id=49491113",
+      "primary_url": "https://news.ycombinator.com/item?id=49491113",
+      "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T05:06:27.388000Z"
+          "published_at": "2026-08-29T19:06:35.204000Z"
         },
         {
-          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
-          "title": "ChromeDevTools / chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "a78c01947087fa515869e20cd0336b0395497709",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T16:16:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
+          "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://news.ycombinator.com/item?id=49491113",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T05:06:27.388000Z"
+          "published_at": "2026-08-29T19:06:35.204000Z"
         },
         {
-          "id": "8e9849557e00abf618fc2c1820d2857fcbf20b9f",
-          "title": "ChromeDevTools / chrome-devtools-mcp",
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "a78c01947087fa515869e20cd0336b0395497709",
+          "title": "The growing divide between AI hype and software engineering reality",
+          "url": "https://optimizedbyotto.com/post/why-open-source-projects-ban-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T16:16:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8129,
+        "recency": 0.9609,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T05:05:53.520431Z",
-      "latest_at": "2026-08-29T05:06:27.388000Z",
+      "earliest_at": "2026-08-29T16:16:32Z",
+      "latest_at": "2026-08-29T19:06:35.204000Z",
       "primary_item": {
-        "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-        "title": "ChromeDevTools /      chrome-devtools-mcp",
-        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "source": "github",
+        "id": "c10fea4ee2ac324fbb1d5f9c8b6a71f7701cfeef",
+        "title": "The growing divide between AI hype and software engineering reality",
+        "url": "https://news.ycombinator.com/item?id=49491113",
+        "source": "hackernews",
         "source_name": "NewsNow"
       }
     }
