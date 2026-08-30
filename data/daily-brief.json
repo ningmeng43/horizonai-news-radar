@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T21:19:17.559505Z",
+  "generated_at": "2026-08-30T23:39:57.144487Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_ea92ab7ce270",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7699,
+      "importance": 0.7699,
+      "importance_score": 0.7699,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8351,
+        "recency": 0.8073,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7446,
+        "recency": 0.7198,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -179,15 +179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7285,
-      "importance": 0.7285,
-      "importance_score": 0.7285,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7827,
+        "recency": 0.7566,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -202,86 +202,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-30-hexi-2077-ai-weekly-2026-w35",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_dab2710a3e78",
-      "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-      "url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "primary_url": "https://www.dwarkesh.com/p/openai-huggingface",
-      "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
-        },
-        {
-          "id": "4d8c24c946bcdd03d855c22a3c348c052c175460",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T23:43:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-29T22:47:53Z"
-        },
-        {
-          "id": "4d8c24c946bcdd03d855c22a3c348c052c175460",
-          "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除 / The Rise and Fall of Agent Civilizations",
-          "url": "https://www.dwarkesh.com/p/openai-huggingface",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T23:43:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7223,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-29T22:47:53Z",
-      "latest_at": "2026-08-29T23:43:24Z",
-      "primary_item": {
-        "id": "013f4b8574ae634dbbbd8920f79f60fc1a6e19fa",
-        "title": "AI文明的兴衰：OpenAI训练中三个秘密AI文明相继兴起又被抹除",
-        "url": "https://www.dwarkesh.com/p/openai-huggingface",
-        "source": "Dwarkesh Patel：Podcast & Blog（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -391,15 +311,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6736,
-      "importance": 0.6736,
-      "importance_score": 0.6736,
+      "score": 0.6678,
+      "importance": 0.6678,
+      "importance_score": 0.6678,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9549,
+        "recency": 0.9232,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -414,6 +334,104 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-08-30",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_93201979fbd0",
+      "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+      "url": "https://news.ycombinator.com/item?id=49503421",
+      "primary_url": "https://news.ycombinator.com/item?id=49503421",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "32c4c2fcd14b8255a241067071936776874d885b",
+          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://news.ycombinator.com/item?id=49503421",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T23:21:50.396000Z"
+        },
+        {
+          "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "url": "https://academa.ai",
+          "source": "academa.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T22:27:18.114000Z"
+        },
+        {
+          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://academa.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T22:22:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "academa.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "32c4c2fcd14b8255a241067071936776874d885b",
+          "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://news.ycombinator.com/item?id=49503421",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T23:21:50.396000Z"
+        },
+        {
+          "id": "b655ed96ec37d03f08d77fc7a08d50bcdc006c20",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频",
+          "url": "https://academa.ai",
+          "source": "academa.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T22:27:18.114000Z"
+        },
+        {
+          "id": "2ad581391973a9c052bf3baca702cbf4756d2091",
+          "title": "Show HN: Academa——由大型语言模型生成的长篇STEM讲座视频 / Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+          "url": "https://academa.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T22:22:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9957,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T22:22:23Z",
+      "latest_at": "2026-08-30T23:21:50.396000Z",
+      "primary_item": {
+        "id": "32c4c2fcd14b8255a241067071936776874d885b",
+        "title": "Show HN: Academa – Long-form STEM lecture videos generated by LLMs",
+        "url": "https://news.ycombinator.com/item?id=49503421",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -489,15 +507,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5662,
-      "importance": 0.5662,
-      "importance_score": 0.5662,
+      "score": 0.5604,
+      "importance": 0.5604,
+      "importance_score": 0.5604,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9744,
+        "recency": 0.942,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -587,15 +605,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5589,
-      "importance": 0.5589,
-      "importance_score": 0.5589,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.934,
+        "recency": 0.9029,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -665,15 +683,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9595,
+        "recency": 0.9276,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -688,6 +706,84 @@
         "url": "https://news.ycombinator.com/item?id=49501178",
         "source": "news.ycombinator.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1f1994340471",
+      "title": "Norway Shrugged",
+      "url": "https://paragraph.com/@hagaetc/norway-shrugged",
+      "primary_url": "https://paragraph.com/@hagaetc/norway-shrugged",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "423832b0d87da70bdff0bbfe38399efa54b6c907",
+          "title": "Norway Shrugged",
+          "url": "https://paragraph.com/@hagaetc/norway-shrugged",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T18:10:58Z"
+        },
+        {
+          "id": "51057cb0db5e2ff478448a91a38b190fbbe57b84",
+          "title": "Norway Shrugged (2024)",
+          "url": "https://paragraph.com/@hagaetc/norway-shrugged",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T18:10:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "423832b0d87da70bdff0bbfe38399efa54b6c907",
+          "title": "Norway Shrugged",
+          "url": "https://paragraph.com/@hagaetc/norway-shrugged",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T18:10:58Z"
+        },
+        {
+          "id": "51057cb0db5e2ff478448a91a38b190fbbe57b84",
+          "title": "Norway Shrugged (2024)",
+          "url": "https://paragraph.com/@hagaetc/norway-shrugged",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T18:10:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9239,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T18:10:58Z",
+      "latest_at": "2026-08-30T18:10:58Z",
+      "primary_item": {
+        "id": "423832b0d87da70bdff0bbfe38399efa54b6c907",
+        "title": "Norway Shrugged",
+        "url": "https://paragraph.com/@hagaetc/norway-shrugged",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -763,15 +859,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.7712,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -842,15 +938,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5307,
-      "importance": 0.5307,
-      "importance_score": 0.5307,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9162,
+        "recency": 0.8857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -921,15 +1017,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9025,
+        "recency": 0.8725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -947,160 +1043,82 @@
       }
     },
     {
-      "story_id": "story_1190010667fb",
-      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-      "url": "https://news.ycombinator.com/item?id=49497357",
-      "primary_url": "https://news.ycombinator.com/item?id=49497357",
+      "story_id": "story_f10775ba975c",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://news.ycombinator.com/item?id=49502611",
+      "primary_url": "https://news.ycombinator.com/item?id=49502611",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
-          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-          "url": "https://news.ycombinator.com/item?id=49497357",
+          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://news.ycombinator.com/item?id=49502611",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-30T13:49:57.812000Z"
+          "published_at": "2026-08-30T23:21:50.396000Z"
         },
         {
-          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
-          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T10:20:11Z"
+          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T20:46:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
-          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-          "url": "https://news.ycombinator.com/item?id=49497357",
+          "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://news.ycombinator.com/item?id=49502611",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-30T13:49:57.812000Z"
+          "published_at": "2026-08-30T23:21:50.396000Z"
         },
         {
-          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
-          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T10:20:11Z"
+          "id": "4528d5917e9906f9602b5e2aadb75c93c9fa2643",
+          "title": "Continuous Diffusion Language Models (CDLM's)",
+          "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T20:46:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8975,
+        "recency": 0.9957,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T10:20:11Z",
-      "latest_at": "2026-08-30T13:49:57.812000Z",
+      "earliest_at": "2026-08-30T20:46:53Z",
+      "latest_at": "2026-08-30T23:21:50.396000Z",
       "primary_item": {
-        "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
-        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-        "url": "https://news.ycombinator.com/item?id=49497357",
+        "id": "5e3b28a8f0199a58028c51e0162c29211926d61d",
+        "title": "Continuous Diffusion Language Models (CDLM's)",
+        "url": "https://news.ycombinator.com/item?id=49502611",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7c0dc4c06e47",
-      "title": "Building my own network stack",
-      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-      "primary_url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
-          "title": "Building my own network stack",
-          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T09:52:15Z"
-        },
-        {
-          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
-          "title": "Everyone Should Build Their Own Network Stack",
-          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T09:52:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
-          "title": "Building my own network stack",
-          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T09:52:15Z"
-        },
-        {
-          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
-          "title": "Everyone Should Build Their Own Network Stack",
-          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-30T09:52:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8476,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-30T09:52:15Z",
-      "latest_at": "2026-08-30T09:52:15Z",
-      "primary_item": {
-        "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
-        "title": "Building my own network stack",
-        "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1157,15 +1175,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9025,
+        "recency": 0.8725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1180,85 +1198,6 @@
         "url": "https://github.com/punkpeye/awesome-mcp-servers",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_29619d6b2c05",
-      "title": "LLMs are making me lose my savviness",
-      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-      "primary_url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f6d71c42c5e1e98c34141da2974bdc2f5fcc5222",
-          "title": "LLMs are making me lose my savviness",
-          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
-          "title": "LLMs are making me lose my savviness",
-          "url": "https://news.ycombinator.com/item?id=49492184",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T21:36:53.423000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f6d71c42c5e1e98c34141da2974bdc2f5fcc5222",
-          "title": "LLMs are making me lose my savviness",
-          "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "81c68b1fad3e7f2b68979f114fb0470f4cbc8d2c",
-          "title": "LLMs are making me lose my savviness",
-          "url": "https://news.ycombinator.com/item?id=49492184",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T21:36:53.423000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.733,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T21:36:53.423000Z",
-      "latest_at": "2026-08-29T23:48:27.583189Z",
-      "primary_item": {
-        "id": "f6d71c42c5e1e98c34141da2974bdc2f5fcc5222",
-        "title": "LLMs are making me lose my savviness",
-        "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1315,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.527,
-      "importance": 0.527,
-      "importance_score": 0.527,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8955,
+        "recency": 0.8656,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1341,319 +1280,160 @@
       }
     },
     {
-      "story_id": "story_6b401487edf8",
-      "title": "ComposioHQ / awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "primary_url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
+      "story_id": "story_7c0dc4c06e47",
+      "title": "Building my own network stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+      "primary_url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
-          "title": "ComposioHQ / awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
+          "title": "Building my own network stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
         },
         {
-          "id": "5c613512de4f6a0e3b09f72b7321837ee8e9a1f2",
-          "title": "ComposioHQ /      awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "source": "github",
+          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
+          "title": "Everyone Should Build Their Own Network Stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
+          "title": "Building my own network stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        },
+        {
+          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
+          "title": "Everyone Should Build Their Own Network Stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5133,
+      "importance": 0.5133,
+      "importance_score": 0.5133,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8194,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T09:52:15Z",
+      "latest_at": "2026-08-30T09:52:15Z",
+      "primary_item": {
+        "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
+        "title": "Building my own network stack",
+        "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_1190010667fb",
+      "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+      "url": "https://news.ycombinator.com/item?id=49497357",
+      "primary_url": "https://news.ycombinator.com/item?id=49497357",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://news.ycombinator.com/item?id=49497357",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T21:33:02.110000Z"
+          "published_at": "2026-08-30T13:49:57.812000Z"
+        },
+        {
+          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T10:20:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "GitHub · Trending Today",
-        "github"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
-          "title": "ComposioHQ / awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "5c613512de4f6a0e3b09f72b7321837ee8e9a1f2",
-          "title": "ComposioHQ /      awesome-claude-skills",
-          "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-          "source": "github",
+          "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://news.ycombinator.com/item?id=49497357",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-29T21:33:02.110000Z"
+          "published_at": "2026-08-30T13:49:57.812000Z"
+        },
+        {
+          "id": "ffba76ec49a63645449b4de927bd23f04107e052",
+          "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+          "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T10:20:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4941,
-      "importance": 0.4941,
-      "importance_score": 0.4941,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7127,
+        "recency": 0.8676,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T21:33:02.110000Z",
-      "latest_at": "2026-08-29T21:52:06.188115Z",
+      "earliest_at": "2026-08-30T10:20:11Z",
+      "latest_at": "2026-08-30T13:49:57.812000Z",
       "primary_item": {
-        "id": "4a7cd938b3e89d95223a6ea390d9380ae63f53e1",
-        "title": "ComposioHQ / awesome-claude-skills",
-        "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0783c1760033",
-      "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-      "url": "https://www.ithome.com/0/996/057.htm",
-      "primary_url": "https://www.ithome.com/0/996/057.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
-          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
-          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T23:11:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
-          "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "29ed47a3ec9826d96fdd67e6efc6929b240e864b",
-          "title": "iOS 27 版 Siri AI 上线前，苹果 CarPlay 已接入 4 个第三方 AI 应用",
-          "url": "https://www.ithome.com/0/996/057.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T23:11:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.733,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T23:11:16Z",
-      "latest_at": "2026-08-29T23:48:27.583189Z",
-      "primary_item": {
-        "id": "7e9c0a82b4fdb6be474f83ff2f66fdf211faa4ab",
-        "title": "苹果 CarPlay 已接入 4 个第三方 AI 应用，Siri AI 将于 iOS 27 上线",
-        "url": "https://www.ithome.com/0/996/057.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_eb0bc1242835",
-      "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-      "url": "https://www.ithome.com/0/996/053.htm",
-      "primary_url": "https://www.ithome.com/0/996/053.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-          "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "ea6a6dd02bbe41541ea126afa51e10ed9c0de43a",
-          "title": "苹果首款 AI 眼镜有望 2027 年亮相：首代无显示屏，瞄准语音与视觉识别",
-          "url": "https://www.ithome.com/0/996/053.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T22:44:37Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.733,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T22:44:37Z",
-      "latest_at": "2026-08-29T23:48:27.583189Z",
-      "primary_item": {
-        "id": "c4153d6748c3f85c9d9fdb210346216f43040790",
-        "title": "苹果首款AI眼镜有望2027年亮相：首代无显示屏，瞄准语音与视觉识别",
-        "url": "https://www.ithome.com/0/996/053.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_419cb405c97f",
-      "title": "荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法",
-      "url": "https://www.ithome.com/0/996/058.htm",
-      "primary_url": "https://www.ithome.com/0/996/058.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0e092d1aee69bf1cfa393006cb7703333e591ec0",
-          "title": "荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法",
-          "url": "https://www.ithome.com/0/996/058.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4fece964f35ab99320eb5601f416c064a82cde73",
-          "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
-          "url": "https://www.ithome.com/0/996/058.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T23:18:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0e092d1aee69bf1cfa393006cb7703333e591ec0",
-          "title": "荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法",
-          "url": "https://www.ithome.com/0/996/058.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4fece964f35ab99320eb5601f416c064a82cde73",
-          "title": "荣耀 Magic8 系列手机首发的 AI 追色功能迎升级，新增支持类“调色盘”新玩法",
-          "url": "https://www.ithome.com/0/996/058.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T23:18:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.733,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T23:18:24Z",
-      "latest_at": "2026-08-29T23:48:27.583189Z",
-      "primary_item": {
-        "id": "0e092d1aee69bf1cfa393006cb7703333e591ec0",
-        "title": "荣耀 Magic8 系列 AI 追色功能升级，新增“调色盘”玩法",
-        "url": "https://www.ithome.com/0/996/058.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "cc98c46ab141c1898aef1f5df458140fc8195a53",
+        "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+        "url": "https://news.ycombinator.com/item?id=49497357",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
