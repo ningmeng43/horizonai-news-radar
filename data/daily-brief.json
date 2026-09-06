@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T20:40:58.529694Z",
+  "generated_at": "2026-09-06T22:37:12.144756Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8741,
-      "importance": 0.8741,
-      "importance_score": 0.8741,
+      "score": 0.8699,
+      "importance": 0.8699,
+      "importance_score": 0.8699,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8448,
+        "recency": 0.8215,
         "story_heat": 0.5
       },
       "category": "official",
@@ -158,15 +158,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8326,
+        "recency": 0.8097,
         "story_heat": 0.25
       },
       "category": "official",
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7887,
-      "importance": 0.7887,
-      "importance_score": 0.7887,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9674,
+        "recency": 0.9407,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -301,15 +301,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.818,
+        "recency": 0.7954,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -325,66 +325,6 @@
         "title": "Fortune 报道 OpenAI 多次修改 GPT-6 Astra 基准测试数据，部分成绩大幅变化",
         "url": "https://www.ithome.com/0/998/927.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e46c6749700e",
-      "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-      "url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "primary_url": "https://x.com/testingcatalog/status/2096350628054176240",
-      "source": "X：Testing Catalog (@testingcatalog)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://x.com/testingcatalog/status/2096350628054176240",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Testing Catalog (@testingcatalog)"
-      ],
-      "items": [
-        {
-          "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-          "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-          "url": "https://x.com/testingcatalog/status/2096350628054176240",
-          "source": "X：Testing Catalog (@testingcatalog)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T21:31:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7158,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-05T21:31:52Z",
-      "latest_at": "2026-09-05T21:31:52Z",
-      "primary_item": {
-        "id": "39063cb094fc0954bba38154036ab86e9dc2220a",
-        "title": "OpenAI GPT-6 Astra 登顶 Code Arena WebDev 榜首，领先 Claude Fable 5.1 达 35 分",
-        "url": "https://x.com/testingcatalog/status/2096350628054176240",
-        "source": "X：Testing Catalog (@testingcatalog)",
         "source_name": "AI HOT"
       }
     },
@@ -513,15 +453,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6636,
-      "importance": 0.6636,
-      "importance_score": 0.6636,
+      "score": 0.6587,
+      "importance": 0.6587,
+      "importance_score": 0.6587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9686,
+        "recency": 0.9419,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -611,15 +551,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5658,
+      "importance": 0.5658,
+      "importance_score": 0.5658,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9724,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -709,15 +649,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5549,
+      "importance": 0.5549,
+      "importance_score": 0.5549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9374,
+        "recency": 0.9115,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -731,6 +671,85 @@
         "title": "我对人工智能的看法",
         "url": "https://beza1e1.tuxen.de/ai_feelings.html",
         "source": "beza1e1.tuxen.de",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7cd9cbd432cc",
+      "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
+      "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+      "primary_url": "https://martinalderson.com/posts/ai-safety-vs-security",
+      "source": "martinalderson.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
+          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
+          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "source": "martinalderson.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T20:56:00.786000Z"
+        },
+        {
+          "id": "0127c548143e9efada078a90ab47f8b24fd155b8",
+          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？ / Have the frontier labs mixed up AI safety and security?",
+          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T20:47:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "martinalderson.com"
+      ],
+      "items": [
+        {
+          "id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
+          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
+          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "source": "martinalderson.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-06T20:56:00.786000Z"
+        },
+        {
+          "id": "0127c548143e9efada078a90ab47f8b24fd155b8",
+          "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？ / Have the frontier labs mixed up AI safety and security?",
+          "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-06T20:47:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5415,
+      "importance": 0.5415,
+      "importance_score": 0.5415,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9759,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T20:47:52Z",
+      "latest_at": "2026-09-06T20:56:00.786000Z",
+      "primary_item": {
+        "id": "11d94f220c2a5d97c09e418a4658707a038a4aef",
+        "title": "前沿实验室是否将人工智能的安全与保障混为一谈了？",
+        "url": "https://martinalderson.com/posts/ai-safety-vs-security",
+        "source": "martinalderson.com",
         "source_name": "Buzzing"
       }
     },
@@ -788,15 +807,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9883,
+        "recency": 0.961,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -811,6 +830,84 @@
         "url": "https://www.businessinsider.com/openai-chief-scientist-ai-risks-slowdown-rogue-agents-consequences-safety-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e752bff20023",
+      "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "primary_url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "585e1b4eec3a0254c8ad3fe76a617681f16d6a58",
+          "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T17:49:47Z"
+        },
+        {
+          "id": "2860d6c89dc9bc01929f1bfe824c9887a98d3b52",
+          "title": "根据法律建议，尼特项目将继续推进 / Nitter is unarchived and will continue",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T17:49:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "585e1b4eec3a0254c8ad3fe76a617681f16d6a58",
+          "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T17:49:47Z"
+        },
+        {
+          "id": "2860d6c89dc9bc01929f1bfe824c9887a98d3b52",
+          "title": "根据法律建议，尼特项目将继续推进 / Nitter is unarchived and will continue",
+          "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T17:49:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9332,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T17:49:47Z",
+      "latest_at": "2026-09-06T17:49:47Z",
+      "primary_item": {
+        "id": "585e1b4eec3a0254c8ad3fe76a617681f16d6a58",
+        "title": "根据法律建议，尼特项目将继续推进 / Nitter and XCancel resume service after legal advice",
+        "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -867,15 +964,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9444,
+        "recency": 0.9183,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -890,164 +987,6 @@
         "url": "https://cacm.acm.org/news/leverage-code-review-for-sustainable-ai-coding-development",
         "source": "cacm.acm.org",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4aff7db928cd",
-      "title": "开放/技能 / openai / skills",
-      "url": "https://github.com/openai/skills",
-      "primary_url": "https://github.com/openai/skills",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
-          "title": "开放/技能 / openai / skills",
-          "url": "https://github.com/openai/skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
-          "title": "开放/技能 / openai /      skills",
-          "url": "https://github.com/openai/skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T16:00:49.405000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
-          "title": "开放/技能 / openai / skills",
-          "url": "https://github.com/openai/skills",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
-          "title": "开放/技能 / openai /      skills",
-          "url": "https://github.com/openai/skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-06T16:00:49.405000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9396,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T16:00:49.405000Z",
-      "latest_at": "2026-09-06T16:22:00.195458Z",
-      "primary_item": {
-        "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
-        "title": "开放/技能 / openai / skills",
-        "url": "https://github.com/openai/skills",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_38b7289f705e",
-      "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-      "url": "https://www.36kr.com/p/3971642393686535",
-      "primary_url": "https://www.36kr.com/p/3971642393686535",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
-          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
-          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
-          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
-          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
-          "url": "https://www.36kr.com/p/3971642393686535",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9396,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T09:10:21.279651Z",
-      "latest_at": "2026-09-06T16:22:00.195458Z",
-      "primary_item": {
-        "id": "715fcca80c272c064e8713c84bd8e356f4384384",
-        "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
-        "url": "https://www.36kr.com/p/3971642393686535",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1123,15 +1062,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.797,
+        "recency": 0.7751,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1146,6 +1085,164 @@
         "url": "https://news.ycombinator.com/item?id=49582582",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_4aff7db928cd",
+      "title": "开放/技能 / openai / skills",
+      "url": "https://github.com/openai/skills",
+      "primary_url": "https://github.com/openai/skills",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T16:00:49.405000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+          "title": "开放/技能 / openai / skills",
+          "url": "https://github.com/openai/skills",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9d44d96a47ea6070cdaf29b7b6da257b5f256161",
+          "title": "开放/技能 / openai /      skills",
+          "url": "https://github.com/openai/skills",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-06T16:00:49.405000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9137,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T16:00:49.405000Z",
+      "latest_at": "2026-09-06T16:22:00.195458Z",
+      "primary_item": {
+        "id": "4e04c5e6eab294891ee4a6e2e96b1820e643b2b6",
+        "title": "开放/技能 / openai / skills",
+        "url": "https://github.com/openai/skills",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_38b7289f705e",
+      "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+      "url": "https://www.36kr.com/p/3971642393686535",
+      "primary_url": "https://www.36kr.com/p/3971642393686535",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
+          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
+          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "715fcca80c272c064e8713c84bd8e356f4384384",
+          "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1f93016347757797b3ef2e08bd1cf296d13e020e",
+          "title": "谷歌十年画出果蝇大脑，硕士生用 GPT-6 两天让果蝇在沙盒中起飞",
+          "url": "https://www.36kr.com/p/3971642393686535",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9137,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-06T09:10:21.279651Z",
+      "latest_at": "2026-09-06T16:22:00.195458Z",
+      "primary_item": {
+        "id": "715fcca80c272c064e8713c84bd8e356f4384384",
+        "title": "果蝇版黑客帝国来了：谷歌十年画出果蝇大脑，硕士生用GPT-6两天让它沙盒起飞",
+        "url": "https://www.36kr.com/p/3971642393686535",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1166,18 +1263,18 @@
           "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
           "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
           "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-06T14:34:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "keepitfree.ai"
       ],
       "items": [
@@ -1191,26 +1288,26 @@
           "published_at": "2026-09-06T15:26:17.429000Z"
         },
         {
-          "id": "278cc6afca0b99a712745da288303508181ee01f",
+          "id": "be8a04075f10c8afce894d3548d9bafd8fb4cf66",
           "title": "人工智能关机——保持人性 / A/I shuts down – Stay human",
           "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-09-06T14:34:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9271,
+        "recency": 0.9015,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1281,15 +1378,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9129,
+        "recency": 0.8877,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1304,84 +1401,6 @@
         "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
         "source": "www.ben-evans.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0c4cbb7ffcc5",
-      "title": "“智飞”已开放 / Intellectual Fly Is Open",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
-      "primary_url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "cd70f576fdbe0e24a6dd78154010844e02393742",
-          "title": "“智飞”已开放 / Intellectual Fly Is Open",
-          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T11:56:43Z"
-        },
-        {
-          "id": "90c5506c1c7c8cd75d4bbda43b67ec1ef23b9be0",
-          "title": "“智飞”已开放 / Intellectual Fly Is Open (2025)",
-          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T11:56:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "cd70f576fdbe0e24a6dd78154010844e02393742",
-          "title": "“智飞”已开放 / Intellectual Fly Is Open",
-          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T11:56:43Z"
-        },
-        {
-          "id": "90c5506c1c7c8cd75d4bbda43b67ec1ef23b9be0",
-          "title": "“智飞”已开放 / Intellectual Fly Is Open (2025)",
-          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-06T11:56:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8815,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-06T11:56:43Z",
-      "latest_at": "2026-09-06T11:56:43Z",
-      "primary_item": {
-        "id": "cd70f576fdbe0e24a6dd78154010844e02393742",
-        "title": "“智飞”已开放 / Intellectual Fly Is Open",
-        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1438,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8304,
+        "recency": 0.8075,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1517,15 +1536,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.533,
+      "importance": 0.533,
+      "importance_score": 0.533,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9553,
+        "recency": 0.9289,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1596,15 +1615,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5225,
+      "importance": 0.5225,
+      "importance_score": 0.5225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8951,
+        "recency": 0.8704,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1622,81 +1641,81 @@
       }
     },
     {
-      "story_id": "story_b6a75cdb30da",
-      "title": "大型语言模型作为认知病毒",
-      "url": "https://arxiv.org/abs/2609.03344",
-      "primary_url": "https://arxiv.org/abs/2609.03344",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
+      "story_id": "story_0c4cbb7ffcc5",
+      "title": "“智飞”已开放 / Intellectual Fly Is Open",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+      "primary_url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
-          "title": "大型语言模型作为认知病毒",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.980000Z"
+          "id": "cd70f576fdbe0e24a6dd78154010844e02393742",
+          "title": "“智飞”已开放 / Intellectual Fly Is Open",
+          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T11:56:43Z"
         },
         {
-          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-          "title": "大语言模型作为认知病毒",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.965000Z"
+          "id": "90c5506c1c7c8cd75d4bbda43b67ec1ef23b9be0",
+          "title": "“智飞”已开放 / Intellectual Fly Is Open (2025)",
+          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T11:56:43Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "arxiv.org"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
-          "title": "大型语言模型作为认知病毒",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.980000Z"
+          "id": "cd70f576fdbe0e24a6dd78154010844e02393742",
+          "title": "“智飞”已开放 / Intellectual Fly Is Open",
+          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T11:56:43Z"
         },
         {
-          "id": "14d5f3d25a90a052a62873de13da4b3d36db8db5",
-          "title": "大语言模型作为认知病毒",
-          "url": "https://arxiv.org/abs/2609.03344",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-05T22:19:59.965000Z"
+          "id": "90c5506c1c7c8cd75d4bbda43b67ec1ef23b9be0",
+          "title": "“智飞”已开放 / Intellectual Fly Is Open (2025)",
+          "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-06T11:56:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7242,
+        "recency": 0.8571,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-05T22:19:59.965000Z",
-      "latest_at": "2026-09-05T22:19:59.980000Z",
+      "earliest_at": "2026-09-06T11:56:43Z",
+      "latest_at": "2026-09-06T11:56:43Z",
       "primary_item": {
-        "id": "ee960bc39612b0f42d0123d94fccbb52085cb023",
-        "title": "大型语言模型作为认知病毒",
-        "url": "https://arxiv.org/abs/2609.03344",
-        "source": "arxiv.org",
-        "source_name": "Buzzing"
+        "id": "cd70f576fdbe0e24a6dd78154010844e02393742",
+        "title": "“智飞”已开放 / Intellectual Fly Is Open",
+        "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
