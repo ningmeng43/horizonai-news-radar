@@ -1,720 +1,24 @@
 {
-  "generated_at": "2026-09-10T12:35:22.145113Z",
+  "generated_at": "2026-09-12T19:59:02.958079Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_cb50b0c3c856",
-      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
-      "url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "primary_url": "https://huggingface.co/blog/gradio-workflow-1111",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "727d5873220f3fc9958259ce1b00a1f39a9d855e",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "727d5873220f3fc9958259ce1b00a1f39a9d855e",
-          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
-          "url": "https://huggingface.co/blog/gradio-workflow-1111",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8551,
-      "importance": 0.8551,
-      "importance_score": 0.8551,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8338,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T00:00:00Z",
-      "latest_at": "2026-09-10T00:00:00Z",
-      "primary_item": {
-        "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
-        "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
-        "url": "https://huggingface.co/blog/gradio-workflow-1111",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9786c92a289d",
-      "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案 / The AI policy window is open. We need to act.",
-      "url": "https://openai.com/index/ai-policy-window",
-      "primary_url": "https://openai.com/index/ai-policy-window",
+      "story_id": "story_12e9dd685180",
+      "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e8b88fd9e0d736b7c8405e86b6c0b0efa05d2a39",
-          "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案 / The AI policy window is open. We need to act.",
-          "url": "https://openai.com/index/ai-policy-window",
+          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T13:00:00Z"
-        },
-        {
-          "id": "cced247dea2402b94f031612e621429297188b1e",
-          "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案",
-          "url": "https://openai.com/index/ai-policy-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T13:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "e8b88fd9e0d736b7c8405e86b6c0b0efa05d2a39",
-          "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案 / The AI policy window is open. We need to act.",
-          "url": "https://openai.com/index/ai-policy-window",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T13:00:00Z"
-        },
-        {
-          "id": "cced247dea2402b94f031612e621429297188b1e",
-          "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案",
-          "url": "https://openai.com/index/ai-policy-window",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T13:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7113,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T13:00:00Z",
-      "latest_at": "2026-09-09T13:00:00Z",
-      "primary_item": {
-        "id": "e8b88fd9e0d736b7c8405e86b6c0b0efa05d2a39",
-        "title": "OpenAI 呼吁抓住 AI 政策窗口期，支持强制性国家安全监管与四项加州法案 / The AI policy window is open. We need to act.",
-        "url": "https://openai.com/index/ai-policy-window",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_da4cc8a18ef9",
-      "title": "GitHub Copilot 代理操作的企业托管权限 / Enterprise managed permissions for GitHub Copilot agent operations",
-      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-      "primary_url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4a89c21c8375b192a955b575fb405ff6c227e98c",
-          "title": "GitHub Copilot 代理操作的企业托管权限 / Enterprise managed permissions for GitHub Copilot agent operations",
-          "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T20:08:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4a89c21c8375b192a955b575fb405ff6c227e98c",
-          "title": "GitHub Copilot 代理操作的企业托管权限 / Enterprise managed permissions for GitHub Copilot agent operations",
-          "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T20:08:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7885,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T20:08:14Z",
-      "latest_at": "2026-09-09T20:08:14Z",
-      "primary_item": {
-        "id": "4a89c21c8375b192a955b575fb405ff6c227e98c",
-        "title": "GitHub Copilot 代理操作的企业托管权限 / Enterprise managed permissions for GitHub Copilot agent operations",
-        "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a68f6360835b",
-      "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-      "url": "https://cognition.com/blog/factoring-rsa-260",
-      "primary_url": "https://cognition.com/blog/factoring-rsa-260",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
-          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "url": "https://cognition.com/blog/factoring-rsa-260",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T10:50:45.032000Z"
-        },
-        {
-          "id": "2ed9e295221eff6b236a656fa3ab83354e2ec975",
-          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录 / Factoring RSA 260",
-          "url": "https://cognition.com/blog/factoring-rsa-260",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T20:16:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
-          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-          "url": "https://cognition.com/blog/factoring-rsa-260",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T10:50:45.032000Z"
-        },
-        {
-          "id": "2ed9e295221eff6b236a656fa3ab83354e2ec975",
-          "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录 / Factoring RSA 260",
-          "url": "https://cognition.com/blog/factoring-rsa-260",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T20:16:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9751,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T20:16:08Z",
-      "latest_at": "2026-09-10T10:50:45.032000Z",
-      "primary_item": {
-        "id": "a09a1d70d0df00aa7877debe7eca7b306cce604a",
-        "title": "Cognition 工程师用 Devin 智能体完成 RSA-260 因式分解，刷新公开纪录",
-        "url": "https://cognition.com/blog/factoring-rsa-260",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_596fcd5035ef",
-      "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-      "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-      "primary_url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
-          "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-          "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T07:31:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
-          "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-          "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T07:31:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.87,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9294,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T07:31:01Z",
-      "latest_at": "2026-09-10T07:31:01Z",
-      "primary_item": {
-        "id": "cad5f5e91f4e5574a2ede74b951752b010e889e1",
-        "title": "DeepSeek AI 发布 DeepSeek-V4.1-Flash：1M 上下文、FP4 KV 缓存与跨层注意力复用",
-        "url": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91d5074fb05a",
-      "title": "利用搜索中的新足球功能为比赛做好准备 / Get ready for the game with new football features in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dad5e6c6622a0090580d4406896a7166970daff0",
-          "title": "利用搜索中的新足球功能为比赛做好准备 / Get ready for the game with new football features in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "dad5e6c6622a0090580d4406896a7166970daff0",
-          "title": "利用搜索中的新足球功能为比赛做好准备 / Get ready for the game with new football features in Search",
-          "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7428,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T16:00:00Z",
-      "latest_at": "2026-09-09T16:00:00Z",
-      "primary_item": {
-        "id": "dad5e6c6622a0090580d4406896a7166970daff0",
-        "title": "利用搜索中的新足球功能为比赛做好准备 / Get ready for the game with new football features in Search",
-        "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_72f6cfae2ab0",
-      "title": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
-      "url": "https://www.aibase.com/news/30955",
-      "primary_url": "https://www.aibase.com/news/30955",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5f28ca395cd2f2624bb7bac7385ce833a6f2c0e8",
-          "title": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
-          "url": "https://www.aibase.com/news/30955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T12:35:22.145113Z"
-        },
-        {
-          "id": "ba44d58c21e4d7bd2d085d3ac6087a8d0310aefb",
-          "title": "DeepSeek V4.1 Flash 发布：原生多模态视觉理解，性能超越 Pro 版且降价",
-          "url": "https://www.aibase.com/zh/news/30955",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5f28ca395cd2f2624bb7bac7385ce833a6f2c0e8",
-          "title": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
-          "url": "https://www.aibase.com/news/30955",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T12:35:22.145113Z"
-        },
-        {
-          "id": "ba44d58c21e4d7bd2d085d3ac6087a8d0310aefb",
-          "title": "DeepSeek V4.1 Flash 发布：原生多模态视觉理解，性能超越 Pro 版且降价",
-          "url": "https://www.aibase.com/zh/news/30955",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T12:35:22.145113Z",
-      "latest_at": "2026-09-10T12:35:22.145113Z",
-      "primary_item": {
-        "id": "5f28ca395cd2f2624bb7bac7385ce833a6f2c0e8",
-        "title": "DeepSeek V4.1 Flash发布：原生多模态视觉理解全面超越Pro版",
-        "url": "https://www.aibase.com/news/30955",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e8608e40b722",
-      "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "primary_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fd91534dca51075721031b57097e5f9315f7f497",
-          "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T15:36:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fd91534dca51075721031b57097e5f9315f7f497",
-          "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T15:36:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8129,
-      "importance": 0.8129,
-      "importance_score": 0.8129,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7386,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T15:36:24Z",
-      "latest_at": "2026-09-09T15:36:24Z",
-      "primary_item": {
-        "id": "fd91534dca51075721031b57097e5f9315f7f497",
-        "title": "IBM 发布具有商业友好许可证的 SOTA Granite Time Series PatchTST-FM-r2 模型 / IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_083ea3496f53",
-      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
-      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-      "primary_url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fbe7460c292c5737858f0220574b1fa62116af75",
-          "title": "CodeQL 2.27.0 adds support for Linux ARM64",
-          "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T21:45:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fbe7460c292c5737858f0220574b1fa62116af75",
-          "title": "CodeQL 2.27.0 adds support for Linux ARM64",
-          "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T21:45:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8071,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T21:45:06Z",
-      "latest_at": "2026-09-09T21:45:06Z",
-      "primary_item": {
-        "id": "fbe7460c292c5737858f0220574b1fa62116af75",
-        "title": "CodeQL 2.27.0 adds support for Linux ARM64",
-        "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d4b9cf1f0a03",
-      "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-      "url": "https://x.com/kimmonismus/status/2097962333767102665",
-      "primary_url": "https://x.com/kimmonismus/status/2097962333767102665",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
-          "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-          "url": "https://x.com/kimmonismus/status/2097962333767102665",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:16:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
-          "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-          "url": "https://x.com/kimmonismus/status/2097962333767102665",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:16:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9395,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T08:16:13Z",
-      "latest_at": "2026-09-10T08:16:13Z",
-      "primary_item": {
-        "id": "2b722bfbbf61b40e2ad6aa4f7b7fbad1e98f77cc",
-        "title": "DeepSeek 发布 V4.1-Flash：新 Causal Encoder-Decoder 架构，带原生视觉理解",
-        "url": "https://x.com/kimmonismus/status/2097962333767102665",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_534907e0d31e",
-      "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "primary_url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
+          "published_at": "2026-09-14T00:00:00Z"
         }
       ],
       "source_count": 1,
@@ -723,26 +27,26 @@
       ],
       "items": [
         {
-          "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-          "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
-          "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T17:00:00Z"
+          "published_at": "2026-09-14T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7536,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "official",
@@ -751,499 +55,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:00:00Z",
-      "latest_at": "2026-09-09T17:00:00Z",
+      "earliest_at": "2026-09-14T00:00:00Z",
+      "latest_at": "2026-09-14T00:00:00Z",
       "primary_item": {
-        "id": "4d311c7aa0c8739104ee8faec7f0e72991cd734b",
-        "title": "Paul Christiano 加入 OpenAI 基金会董事会 / Paul Christiano joins OpenAI Foundation Board",
-        "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+        "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+        "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_cf9e7f8b7e08",
-      "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "source": "DeepSeek：API 更新日志",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "09e02b519b59037c4409e618dca34e880d033e48",
-          "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T05:58:04.695000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "DeepSeek：API 更新日志"
-      ],
-      "items": [
-        {
-          "id": "09e02b519b59037c4409e618dca34e880d033e48",
-          "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T05:58:04.695000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7722,
-      "importance": 0.7722,
-      "importance_score": 0.7722,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9088,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T05:58:04.695000Z",
-      "latest_at": "2026-09-10T05:58:04.695000Z",
-      "primary_item": {
-        "id": "09e02b519b59037c4409e618dca34e880d033e48",
-        "title": "DeepSeek 发布 V4.1-Flash，API 价格同步下调",
-        "url": "https://api-docs.deepseek.com/zh-cn/updates",
-        "source": "DeepSeek：API 更新日志",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ada2f6461358",
-      "title": "逐帧重现70年爱情故事 / Recreating a 70-year love story frame by frame",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "26fbf978c4fd836611834662158952580d960e28",
-          "title": "逐帧重现70年爱情故事 / Recreating a 70-year love story frame by frame",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "26fbf978c4fd836611834662158952580d960e28",
-          "title": "逐帧重现70年爱情故事 / Recreating a 70-year love story frame by frame",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-09T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7428,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T16:00:00Z",
-      "latest_at": "2026-09-09T16:00:00Z",
-      "primary_item": {
-        "id": "26fbf978c4fd836611834662158952580d960e28",
-        "title": "逐帧重现70年爱情故事 / Recreating a 70-year love story frame by frame",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_44084287147f",
-      "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "primary_url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fc2f781a539d4533c21adbe07315e18aa4ef900b",
-          "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T14:37:47Z"
-        },
-        {
-          "id": "fc984bb67d95b41f15bab23b8b6e9c3cca4f3ef6",
-          "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻 / GPT-6 Astra, looped transformers, and hidden reasoning",
-          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T14:37:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "fc2f781a539d4533c21adbe07315e18aa4ef900b",
-          "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T14:37:47Z"
-        },
-        {
-          "id": "fc984bb67d95b41f15bab23b8b6e9c3cca4f3ef6",
-          "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻 / GPT-6 Astra, looped transformers, and hidden reasoning",
-          "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T14:37:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7282,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T14:37:47Z",
-      "latest_at": "2026-09-09T14:37:47Z",
-      "primary_item": {
-        "id": "fc2f781a539d4533c21adbe07315e18aa4ef900b",
-        "title": "GPT-6 Astra 发布后，Sebastian Raschka 解析 looped transformer 与隐藏推理链传闻",
-        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_bbd0a0513eaa",
-      "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-      "url": "https://x.com/natolambert/status/2097745018421236154",
-      "primary_url": "https://x.com/natolambert/status/2097745018421236154",
-      "source": "X：Nathan Lambert (@natolambert)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
-          "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-          "url": "https://x.com/natolambert/status/2097745018421236154",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T17:52:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Nathan Lambert (@natolambert)"
-      ],
-      "items": [
-        {
-          "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
-          "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-          "url": "https://x.com/natolambert/status/2097745018421236154",
-          "source": "X：Nathan Lambert (@natolambert)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T17:52:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7632,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T17:52:41Z",
-      "latest_at": "2026-09-09T17:52:41Z",
-      "primary_item": {
-        "id": "a7063ab71179ff9d4b62e3c1e61a1c60a6a17248",
-        "title": "Nathan Lambert 评 Nvidia 收购 HuggingFace：软实力每年值约 100 亿美元",
-        "url": "https://x.com/natolambert/status/2097745018421236154",
-        "source": "X：Nathan Lambert (@natolambert)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8e27a13a4eae",
-      "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
-      "url": "https://www.aibase.com/news/30960",
-      "primary_url": "https://www.aibase.com/news/30960",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b2f1159261616fe08ffe387a2349905e80c6c1a8",
-          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
-          "url": "https://www.aibase.com/news/30960",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T12:35:22.145113Z"
-        },
-        {
-          "id": "eb2e6ebde1797a750432ded133bf111c9fe0464a",
-          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
-          "url": "https://www.aibase.com/zh/news/30960",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b2f1159261616fe08ffe387a2349905e80c6c1a8",
-          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
-          "url": "https://www.aibase.com/news/30960",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-10T12:35:22.145113Z"
-        },
-        {
-          "id": "eb2e6ebde1797a750432ded133bf111c9fe0464a",
-          "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
-          "url": "https://www.aibase.com/zh/news/30960",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T12:35:22.145113Z",
-      "latest_at": "2026-09-10T12:35:22.145113Z",
-      "primary_item": {
-        "id": "b2f1159261616fe08ffe387a2349905e80c6c1a8",
-        "title": "加州签署多项 AI 安全法案，罕见获得 OpenAI 与 Anthropic 同时背书",
-        "url": "https://www.aibase.com/news/30960",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_649ffda19bd3",
-      "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-      "url": "https://x.com/kimmonismus/status/2097970735591366804",
-      "primary_url": "https://x.com/kimmonismus/status/2097970735591366804",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
-          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-          "url": "https://x.com/kimmonismus/status/2097970735591366804",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:49:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
-          "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-          "url": "https://x.com/kimmonismus/status/2097970735591366804",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T08:49:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9471,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T08:49:36Z",
-      "latest_at": "2026-09-10T08:49:36Z",
-      "primary_item": {
-        "id": "a631aefff0aa9776c41a5c8aff2d0aa6602b6614",
-        "title": "DeepSeek 发布 V4.1-Flash：新架构带来原生视觉理解与大幅降价",
-        "url": "https://x.com/kimmonismus/status/2097970735591366804",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8e96172c31dd",
-      "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-      "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "primary_url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T19:28:17.117000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-          "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-          "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-09T19:28:17.117000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.781,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-09T19:28:17.117000Z",
-      "latest_at": "2026-09-09T19:28:17.117000Z",
-      "primary_item": {
-        "id": "6ffde994dff0e348dc9101228c8d57ae1b7c388e",
-        "title": "Anthropic 发布四起 Claude 网络安全评测事故的对齐评估报告",
-        "url": "https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents",
-        "source": "Anthropic：Research（发表成果 · 网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_958d806c7306",
-      "title": "GitHub Advanced Security 扩大试用范围 / GitHub Advanced Security expands trial availability",
-      "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
-      "primary_url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+      "story_id": "story_ed5843bdd0a9",
+      "title": "Add VS Code Agents to Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+      "primary_url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
-          "title": "GitHub Advanced Security 扩大试用范围 / GitHub Advanced Security expands trial availability",
-          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+          "title": "Add VS Code Agents to Copilot usage metrics",
+          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T17:33:34Z"
+          "published_at": "2026-09-11T21:30:30Z"
         }
       ],
       "source_count": 1,
@@ -1252,26 +89,26 @@
       ],
       "items": [
         {
-          "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
-          "title": "GitHub Advanced Security 扩大试用范围 / GitHub Advanced Security expands trial availability",
-          "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+          "title": "Add VS Code Agents to Copilot usage metrics",
+          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T17:33:34Z"
+          "published_at": "2026-09-11T21:30:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.8021,
+      "importance": 0.8021,
+      "importance_score": 0.8021,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7597,
+        "ai_relevance": 0.91,
+        "recency": 0.7228,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1280,113 +117,1366 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T17:33:34Z",
-      "latest_at": "2026-09-09T17:33:34Z",
+      "earliest_at": "2026-09-11T21:30:30Z",
+      "latest_at": "2026-09-11T21:30:30Z",
       "primary_item": {
-        "id": "75a4115db81707c444c31edfaeecb42d5c1ad22d",
-        "title": "GitHub Advanced Security 扩大试用范围 / GitHub Advanced Security expands trial availability",
-        "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
+        "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+        "title": "Add VS Code Agents to Copilot usage metrics",
+        "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_00e8ccf571b9",
-      "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-      "url": "https://www.anthropic.com/institute/econ-scenarios",
-      "primary_url": "https://www.anthropic.com/institute/econ-scenarios",
-      "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+      "story_id": "story_59326c036955",
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+      "url": "https://www.rubyhack.ai",
+      "primary_url": "https://www.rubyhack.ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+          "url": "https://www.rubyhack.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T13:27:40.545000Z"
+          "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "b5b24fd81d763fad9271068511737c9f286a16f9",
-          "title": "我们经济未来的几种情景——Anthropic",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "www.anthropic.com",
+          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
+          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
+          "url": "https://www.rubyhack.ai",
+          "source": "www.rubyhack.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-09T18:10:42.944000Z"
+          "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "363d64a030a81f2923205e6c8ed51a5549984520",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T13:38:23Z"
+          "id": "fbf3ff376bfc93627bc7a0634eb6984c11e35017",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:41:50Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Anthropic：The Institute（旗舰研究长文 · 网页）",
-        "Hacker News · 24h最热",
-        "www.anthropic.com"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)",
+        "www.rubyhack.ai"
       ],
       "items": [
         {
-          "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+          "url": "https://www.rubyhack.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T13:27:40.545000Z"
+          "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "b5b24fd81d763fad9271068511737c9f286a16f9",
-          "title": "我们经济未来的几种情景——Anthropic",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "www.anthropic.com",
+          "id": "ea73d76d91a6ad8f4589edb7ff2d05cd43cd61b5",
+          "title": "OpenAI的智能体对RubyGems发动了一次未公开的攻击",
+          "url": "https://www.rubyhack.ai",
+          "source": "www.rubyhack.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-09T18:10:42.944000Z"
+          "published_at": "2026-09-12T00:24:20.561000Z"
         },
         {
-          "id": "363d64a030a81f2923205e6c8ed51a5549984520",
-          "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响 / What will our economic future look like?",
-          "url": "https://www.anthropic.com/institute/econ-scenarios",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T13:38:23Z"
+          "id": "fbf3ff376bfc93627bc7a0634eb6984c11e35017",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:41:50Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7395,
-      "importance": 0.7395,
-      "importance_score": 0.7395,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.63,
+        "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7161,
+        "recency": 0.7537,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T23:41:50Z",
+      "latest_at": "2026-09-12T00:24:20.561000Z",
+      "primary_item": {
+        "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+        "url": "https://www.rubyhack.ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_09e50792b59f",
+      "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+      "source": "Hacker News：AI 热帖",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News：AI 热帖",
+        "www.minitap.ai"
+      ],
+      "items": [
+        {
+          "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News：AI 热帖",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T02:39:39Z"
+        },
+        {
+          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
+          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "www.minitap.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T05:37:39.339000Z"
+        },
+        {
+          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
+          "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码 / Google stole open source code without crediting the authors (Artemis/Minitap)",
+          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T02:39:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7787,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T02:39:39Z",
+      "latest_at": "2026-09-12T05:37:39.339000Z",
+      "primary_item": {
+        "id": "91a1aa978a55d14effc686b12c95db2fee658b3d",
+        "title": "Minitap 指控 Google Artemis 未署名使用其开源项目 mobile-use 代码",
+        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+        "source": "Hacker News：AI 热帖",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4eb0f95713f7",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T17:33:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T17:33:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9655,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T17:33:23Z",
+      "latest_at": "2026-09-12T17:33:23Z",
+      "primary_item": {
+        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_850b6df2d33d",
+      "title": "Auto-resolution and analysis updates in Copilot code review",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T20:00:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T20:00:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7073,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T20:00:07Z",
+      "latest_at": "2026-09-11T20:00:07Z",
+      "primary_item": {
+        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+        "title": "Auto-resolution and analysis updates in Copilot code review",
+        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4e2dca866221",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "url": "https://x.com/sama/status/2098811563415150910",
+      "primary_url": "https://x.com/sama/status/2098811563415150910",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:30:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9511,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T16:30:45Z",
+      "latest_at": "2026-09-12T16:30:45Z",
+      "primary_item": {
+        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+        "url": "https://x.com/sama/status/2098811563415150910",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fc4b9c1c0950",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+      "url": "https://suno.com/blog/introducing-v6",
+      "primary_url": "https://suno.com/blog/introducing-v6",
+      "source": "Suno：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:39:24.855000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Suno：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T16:39:24.855000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9531,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-09T13:27:40.545000Z",
-      "latest_at": "2026-09-09T18:10:42.944000Z",
+      "earliest_at": "2026-09-12T16:39:24.855000Z",
+      "latest_at": "2026-09-12T16:39:24.855000Z",
       "primary_item": {
-        "id": "8f8ce4bbfdcd4610cd450c834dbbd9709b2ed2ba",
-        "title": "Anthropic 发布经济情景模型，推演 AI 对 2030 年美国就业与工资的影响",
-        "url": "https://www.anthropic.com/institute/econ-scenarios",
-        "source": "Anthropic：The Institute（旗舰研究长文 · 网页）",
+        "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+        "url": "https://suno.com/blog/introducing-v6",
+        "source": "Suno：Blog（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_98125bd58fad",
+      "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+      "url": "https://www.ithome.com/1/001/488.htm",
+      "primary_url": "https://www.ithome.com/1/001/488.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
+          "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+          "url": "https://www.ithome.com/1/001/488.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T23:22:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
+          "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+          "url": "https://www.ithome.com/1/001/488.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T23:22:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7426,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T23:22:39Z",
+      "latest_at": "2026-09-11T23:22:39Z",
+      "primary_item": {
+        "id": "bf0a75fa9aa3ca49462a0a9dd5d8c3c786336fc9",
+        "title": "英伟达洽谈以基石投资者身份参与 Anthropic IPO，投资至多 100 亿美元",
+        "url": "https://www.ithome.com/1/001/488.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_00e01bcf1dac",
+      "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+      "url": "https://www.aibase.com/news/31002",
+      "primary_url": "https://www.aibase.com/news/31002",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "url": "https://www.aibase.com/news/31002",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T22:59:02.958079Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+          "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+          "url": "https://www.aibase.com/news/31002",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T22:59:02.958079Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7384,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T22:59:02.958079Z",
+      "latest_at": "2026-09-11T22:59:02.958079Z",
+      "primary_item": {
+        "id": "7bc557809dfa858ef61e350ebbb763c5b7862507",
+        "title": "具身智能的“ChatGPT时刻”何时到来?百亿具身CEO与青年创业者外滩大会热议",
+        "url": "https://www.aibase.com/news/31002",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_30a50a2636d6",
+      "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+      "url": "https://www.aibase.com/news/31003",
+      "primary_url": "https://www.aibase.com/news/31003",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "url": "https://www.aibase.com/news/31003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T22:59:02.958079Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+          "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+          "url": "https://www.aibase.com/news/31003",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-11T22:59:02.958079Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7384,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-11T22:59:02.958079Z",
+      "latest_at": "2026-09-11T22:59:02.958079Z",
+      "primary_item": {
+        "id": "caddf093f0dd4f9fa4d7fb5c3ca4f2649d9b28e5",
+        "title": "外滩大会热议 AI 时代女性力量，从“为她所用”到“由她创造”",
+        "url": "https://www.aibase.com/news/31003",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_725588a31c85",
+      "title": "Anthropic首席执行官概述了减缓人工智能发展的计划 / Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+      "primary_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "f31b4892c1b180ca1b7e321eeafc3b99b8effad8",
+          "title": "Anthropic首席执行官概述了减缓人工智能发展的计划 / Anthropic CEO outlines plan to slow AI development",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-12T19:34:44Z"
+        },
+        {
+          "id": "32b86b483722ad7e36d5087db0657246fbc729eb",
+          "title": "Anthropic首席执行官概述了“开拓前沿”的计划 / Anthropic CEO outlines plan to ‘pace the frontier’",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T15:52:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "f31b4892c1b180ca1b7e321eeafc3b99b8effad8",
+          "title": "Anthropic首席执行官概述了减缓人工智能发展的计划 / Anthropic CEO outlines plan to slow AI development",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-12T19:34:44Z"
+        },
+        {
+          "id": "32b86b483722ad7e36d5087db0657246fbc729eb",
+          "title": "Anthropic首席执行官概述了“开拓前沿”的计划 / Anthropic CEO outlines plan to ‘pace the frontier’",
+          "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T15:52:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6602,
+      "importance": 0.6602,
+      "importance_score": 0.6602,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.9942,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T15:52:11Z",
+      "latest_at": "2026-09-12T19:34:44Z",
+      "primary_item": {
+        "id": "f31b4892c1b180ca1b7e321eeafc3b99b8effad8",
+        "title": "Anthropic首席执行官概述了减缓人工智能发展的计划 / Anthropic CEO outlines plan to slow AI development",
+        "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-09-12",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "a483ba9de53e01a1f4e8a3c5c3b75603e09c188c",
+          "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:59:02.958079Z"
+        },
+        {
+          "id": "a623cfc185856960fce0253bc5862c7d62f2a91b",
+          "title": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:59:02.958079Z"
+        },
+        {
+          "id": "eec8691dc962cdd80b024fc42f7fbb92c3070660",
+          "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:59:02.958079Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "社区更新 · 2026-09-12"
+      ],
+      "items": [
+        {
+          "id": "a483ba9de53e01a1f4e8a3c5c3b75603e09c188c",
+          "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:59:02.958079Z"
+        },
+        {
+          "id": "a623cfc185856960fce0253bc5862c7d62f2a91b",
+          "title": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:59:02.958079Z"
+        },
+        {
+          "id": "eec8691dc962cdd80b024fc42f7fbb92c3070660",
+          "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-12T19:59:02.958079Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.54,
+        "ai_relevance": 0.71,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T19:59:02.958079Z",
+      "latest_at": "2026-09-12T19:59:02.958079Z",
+      "primary_item": {
+        "id": "eec8691dc962cdd80b024fc42f7fbb92c3070660",
+        "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-09-12",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_543492d80546",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "primary_url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "f350545885690297233c2f6244ab2de359b1991c",
+          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T20:59:47Z"
+        },
+        {
+          "id": "157e40196f3ae3f12dbe37d79de590b017ae54a1",
+          "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T20:59:47Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "f350545885690297233c2f6244ab2de359b1991c",
+          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-11T20:59:47Z"
+        },
+        {
+          "id": "157e40196f3ae3f12dbe37d79de590b017ae54a1",
+          "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+          "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-11T20:59:47Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5979,
+      "importance": 0.5979,
+      "importance_score": 0.5979,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.7175,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T20:59:47Z",
+      "latest_at": "2026-09-11T20:59:47Z",
+      "primary_item": {
+        "id": "f350545885690297233c2f6244ab2de359b1991c",
+        "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+        "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_b409dc7b8493",
+      "title": "Shubhamsaboo / awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-12T19:40:03.579000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-12T19:40:03.579000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T19:40:03.579000Z",
+      "latest_at": "2026-09-12T19:59:02.958079Z",
+      "primary_item": {
+        "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+        "title": "Shubhamsaboo / awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_a9df7af2fde6",
+      "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "41ccd3a471ebd64efbb38b04167ca2b25b9dfc09",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T18:07:07Z"
+        },
+        {
+          "id": "2e9e7f5bec860ebc3c39f9fb5307872df092f6d8",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T17:57:25.457000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "41ccd3a471ebd64efbb38b04167ca2b25b9dfc09",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T18:07:07Z"
+        },
+        {
+          "id": "2e9e7f5bec860ebc3c39f9fb5307872df092f6d8",
+          "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T17:57:25.457000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9734,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T17:57:25.457000Z",
+      "latest_at": "2026-09-12T18:07:07Z",
+      "primary_item": {
+        "id": "41ccd3a471ebd64efbb38b04167ca2b25b9dfc09",
+        "title": "阿莫迪、阿尔特曼和马斯克呼吁放缓人工智能模型的开发 / Anthropic CEO Says It's Time to Slow AI Model Advances",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-12/anthropic-ceo-says-it-s-time-to-slow-pace-of-improving-ai-models",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_d4e724e82e7d",
+      "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
+      "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d0eedcca8e75ce08d8d59081339dc445c66f0f6e",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T17:42:38Z"
+        },
+        {
+          "id": "f4d9b42e23f5754fde72cfee4cc2a74e842d657d",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:50:30.516000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "d0eedcca8e75ce08d8d59081339dc445c66f0f6e",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-12T17:42:38Z"
+        },
+        {
+          "id": "f4d9b42e23f5754fde72cfee4cc2a74e842d657d",
+          "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐",
+          "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:50:30.516000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9677,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T15:50:30.516000Z",
+      "latest_at": "2026-09-12T17:42:38Z",
+      "primary_item": {
+        "id": "d0eedcca8e75ce08d8d59081339dc445c66f0f6e",
+        "title": "Anthropic首席执行官达里奥·阿莫德伊呼吁放缓人工智能的发展步伐 / Anthropic boss Dario Amodei calls for AI development to slow down",
+        "url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_c63b548b0537",
+      "title": "英伟达是人工智能领域的“中央银行”",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "primary_url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "source": "www.economist.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.economist.com"
+      ],
+      "items": [
+        {
+          "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+          "title": "英伟达是人工智能领域的“中央银行”",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "www.economist.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T16:37:21.932000Z"
+        },
+        {
+          "id": "b38f7ecb2413d96c0852ce698ff2298257602b73",
+          "title": "英伟达是人工智能领域的“中央银行” / Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T15:08:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9526,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T15:08:27Z",
+      "latest_at": "2026-09-12T16:37:21.932000Z",
+      "primary_item": {
+        "id": "737dfa5a1c21ab0007318eaa34c748227b4822c8",
+        "title": "英伟达是人工智能领域的“中央银行”",
+        "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+        "source": "www.economist.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1a2fd94dab00",
+      "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+      "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+      "primary_url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:02:47.803000Z"
+        },
+        {
+          "id": "d94a55ab93d0749a1e07b301e6fae5cafde53564",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步 / Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T14:43:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T15:02:47.803000Z"
+        },
+        {
+          "id": "d94a55ab93d0749a1e07b301e6fae5cafde53564",
+          "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步 / Dario Amodei says OpenAI's Hugging Face hack helped convince him AI needs to slow down",
+          "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T14:43:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5334,
+      "importance": 0.5334,
+      "importance_score": 0.5334,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9312,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T14:43:11Z",
+      "latest_at": "2026-09-12T15:02:47.803000Z",
+      "primary_item": {
+        "id": "51ead0f3a98a837f5e3ba5d407b049cae0579aa2",
+        "title": "达里奥·阿莫德伊表示，OpenAI入侵Hugging Face一事让他更加确信，人工智能的发展需要放缓脚步",
+        "url": "https://www.businessinsider.com/dario-amodei-slow-ai-safety-essay-openai-hugging-face-hack-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8f24b4306d6a",
+      "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "primary_url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "source": "www.dwarkesh.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
+        },
+        {
+          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T21:35:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.dwarkesh.com"
+      ],
+      "items": [
+        {
+          "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "www.dwarkesh.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-12T08:31:36.686000Z"
+        },
+        {
+          "id": "2ac0315c36a085ca73eff64770a1f3faa6b99045",
+          "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论 / AI researchers debate how close we are to recursive self-improvement",
+          "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-11T21:35:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8475,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-11T21:35:29Z",
+      "latest_at": "2026-09-12T08:31:36.686000Z",
+      "primary_item": {
+        "id": "6240b19a7bc85e883a73b6f030565b00ccfd380f",
+        "title": "人工智能研究人员就我们距离递归式自我改进还有多远这一问题展开了讨论",
+        "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+        "source": "www.dwarkesh.com",
+        "source_name": "Buzzing"
       }
     }
   ]
