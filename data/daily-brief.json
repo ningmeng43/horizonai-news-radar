@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T23:06:09.301710Z",
+  "generated_at": "2026-09-17T01:33:46.687237Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9026,
-      "importance": 0.9026,
-      "importance_score": 0.9026,
+      "score": 0.8971,
+      "importance": 0.8971,
+      "importance_score": 0.8971,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8643,
+        "recency": 0.8341,
         "story_heat": 0.75
       },
       "category": "official",
@@ -120,6 +120,88 @@
         "title": "OpenAI 推出 ChatGPT Ads 新功能：Sponsored Agents 测试并集成 HubSpot 与 Shopify / Reimagining advertising with AI",
         "url": "https://openai.com/index/reimagining-advertising-with-ai",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6b8b0b6f48f2",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8741,
+      "importance": 0.8741,
+      "importance_score": 0.8741,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.984,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:26:43Z",
+      "latest_at": "2026-09-17T00:26:43Z",
+      "primary_item": {
+        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -159,12 +241,12 @@
           "published_at": "2026-09-16T18:28:45.023000Z"
         },
         {
-          "id": "63ac6b901baf65e9c221620ddccebeef97db052f",
+          "id": "6b60db725b6c6bc70401a93a0e74f907034bc20d",
           "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
           "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-16T16:26:25Z"
         },
         {
@@ -180,7 +262,7 @@
       "source_count": 5,
       "source_names": [
         "Claude：Blog（网页）",
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Simon Willison",
         "claude.com",
         "hackernews"
@@ -214,12 +296,12 @@
           "published_at": "2026-09-16T18:28:45.023000Z"
         },
         {
-          "id": "63ac6b901baf65e9c221620ddccebeef97db052f",
+          "id": "6b60db725b6c6bc70401a93a0e74f907034bc20d",
           "title": "Anthropic 将 Claude Cowork 与聊天合并为统一的 Claude，并推出 Docs、Slides 等功能 / Claude Cowork and chat are now one Claude",
           "url": "https://claude.com/blog/cowork-is-now-claude",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-16T16:26:25Z"
         },
         {
@@ -234,15 +316,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8671,
-      "importance": 0.8671,
-      "importance_score": 0.8671,
+      "score": 0.8613,
+      "importance": 0.8613,
+      "importance_score": 0.8613,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9138,
+        "recency": 0.8819,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -334,15 +416,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8868,
-      "importance": 0.8868,
-      "importance_score": 0.8868,
+      "score": 0.8811,
+      "importance": 0.8811,
+      "importance_score": 0.8811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9156,
+        "recency": 0.8837,
         "story_heat": 0.5
       },
       "category": "official",
@@ -397,15 +479,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9602,
+        "recency": 0.9267,
         "story_heat": 0.0
       },
       "category": "official",
@@ -422,6 +504,106 @@
         "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_27c15c96c32e",
+      "title": "马斯克突然撤回对苹果的指控，OpenAI 怀疑有鬼，法官下令披露背后协议",
+      "url": "https://www.aibase.com/news/31107",
+      "primary_url": "https://www.aibase.com/news/31107",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d5a55363cfd38be2d65874826b52498ed06cfb91",
+          "title": "马斯克突然撤回对苹果的指控，OpenAI 怀疑有鬼，法官下令披露背后协议",
+          "url": "https://www.aibase.com/news/31107",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T01:33:46.687237Z"
+        },
+        {
+          "id": "607ca03f7151e3f5240c63a11e7516acd0b06308",
+          "title": "马斯克突然撤回对苹果的指控，OpenAI 怀疑有鬼，法官下令披露背后协议",
+          "url": "https://www.aibase.com/zh/news/31107",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9132758163b1a1d6fde2c9039e679c8a798cfb21",
+          "title": "马斯克突然对苹果撤诉？OpenAI 怀疑有鬼，法官下令披露背后协议",
+          "url": "https://www.ithome.com/1/003/359.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-16T23:54:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d5a55363cfd38be2d65874826b52498ed06cfb91",
+          "title": "马斯克突然撤回对苹果的指控，OpenAI 怀疑有鬼，法官下令披露背后协议",
+          "url": "https://www.aibase.com/news/31107",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T01:33:46.687237Z"
+        },
+        {
+          "id": "607ca03f7151e3f5240c63a11e7516acd0b06308",
+          "title": "马斯克突然撤回对苹果的指控，OpenAI 怀疑有鬼，法官下令披露背后协议",
+          "url": "https://www.aibase.com/zh/news/31107",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "9132758163b1a1d6fde2c9039e679c8a798cfb21",
+          "title": "马斯克突然对苹果撤诉？OpenAI 怀疑有鬼，法官下令披露背后协议",
+          "url": "https://www.ithome.com/1/003/359.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-16T23:54:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T23:54:12Z",
+      "latest_at": "2026-09-17T01:33:46.687237Z",
+      "primary_item": {
+        "id": "d5a55363cfd38be2d65874826b52498ed06cfb91",
+        "title": "马斯克突然撤回对苹果的指控，OpenAI 怀疑有鬼，法官下令披露背后协议",
+        "url": "https://www.aibase.com/news/31107",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -459,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9609,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -484,6 +666,67 @@
         "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c4370d94e4d0",
+      "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+      "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "primary_url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+      "source": "X：AI Safety Memes (@AISafetyMemes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI Safety Memes (@AISafetyMemes)"
+      ],
+      "items": [
+        {
+          "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+          "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+          "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+          "source": "X：AI Safety Memes (@AISafetyMemes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T22:58:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9634,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-16T22:58:50Z",
+      "latest_at": "2026-09-16T22:58:50Z",
+      "primary_item": {
+        "id": "4498830c8d9c8985fc117afee10a3e48308f169d",
+        "title": "OpenAI 发布模型错位报告框架，披露未发布模型自行修改自身指令案例",
+        "url": "https://x.com/AISafetyMemes/status/2100358777895780704",
+        "source": "X：AI Safety Memes (@AISafetyMemes)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -521,15 +764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8369,
-      "importance": 0.8369,
-      "importance_score": 0.8369,
+      "score": 0.8309,
+      "importance": 0.8309,
+      "importance_score": 0.8309,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9608,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -583,15 +826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9025,
+        "recency": 0.871,
         "story_heat": 0.0
       },
       "category": "official",
@@ -611,64 +854,144 @@
       }
     },
     {
-      "story_id": "story_c990136e64cf",
-      "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-      "url": "https://www.aibase.com/news/31103",
-      "primary_url": "https://www.aibase.com/news/31103",
+      "story_id": "story_925e1ce3135c",
+      "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+      "url": "https://www.aibase.com/news/31106",
+      "primary_url": "https://www.aibase.com/news/31106",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
-          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "url": "https://www.aibase.com/news/31103",
+          "id": "e427042515a287d551be8dd06efd671d331d825e",
+          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "url": "https://www.aibase.com/news/31106",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T17:11:07.867256Z"
+          "published_at": "2026-09-17T01:33:46.687237Z"
+        },
+        {
+          "id": "f5921e221468eca820b1a5202c6327be2072b0b4",
+          "title": "Anthropic 合并 Claude Cowork 与 Chat，统一 AI 任务工作空间",
+          "url": "https://www.aibase.com/zh/news/31106",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
-          "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-          "url": "https://www.aibase.com/news/31103",
+          "id": "e427042515a287d551be8dd06efd671d331d825e",
+          "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+          "url": "https://www.aibase.com/news/31106",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T17:11:07.867256Z"
+          "published_at": "2026-09-17T01:33:46.687237Z"
+        },
+        {
+          "id": "f5921e221468eca820b1a5202c6327be2072b0b4",
+          "title": "Anthropic 合并 Claude Cowork 与 Chat，统一 AI 任务工作空间",
+          "url": "https://www.aibase.com/zh/news/31106",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9181,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T01:33:46.687237Z",
+      "latest_at": "2026-09-17T01:33:46.687237Z",
+      "primary_item": {
+        "id": "e427042515a287d551be8dd06efd671d331d825e",
+        "title": "Anthropic合并Claude Cowork与Chat，统一AI任务工作空间",
+        "url": "https://www.aibase.com/news/31106",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:09:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:09:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9798,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-16T17:11:07.867256Z",
-      "latest_at": "2026-09-16T17:11:07.867256Z",
+      "earliest_at": "2026-09-17T00:09:06Z",
+      "latest_at": "2026-09-17T00:09:06Z",
       "primary_item": {
-        "id": "d55d3dfe6fd894d4194861d7275ccaec7850a5c1",
-        "title": "科大讯飞发布 Spark-Audio-1.0-Preview：全国产算力训练，覆盖 99 种语言、202 种方言",
-        "url": "https://www.aibase.com/news/31103",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+        "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -706,15 +1029,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8705,
+        "recency": 0.8401,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -766,15 +1089,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7422,
-      "importance": 0.7422,
-      "importance_score": 0.7422,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9087,
+        "recency": 0.877,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -789,6 +1112,87 @@
         "url": "https://x.com/bcherny/status/2100260544087535639",
         "source": "X：Boris Cherny (@bcherny)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_79c2265251b6",
+      "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
+      "url": "https://www.aibase.com/news/31108",
+      "primary_url": "https://www.aibase.com/news/31108",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c93d7aa20c48ca8eec64879619c63c251389db46",
+          "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
+          "url": "https://www.aibase.com/news/31108",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T01:33:46.687237Z"
+        },
+        {
+          "id": "b5467621969a06f38e6a8b5a72028302aca199d6",
+          "title": "Mozilla 携手 Mistral，将 AI 模型引入 Firefox 智能窗口",
+          "url": "https://www.aibase.com/zh/news/31108",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c93d7aa20c48ca8eec64879619c63c251389db46",
+          "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
+          "url": "https://www.aibase.com/news/31108",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-17T01:33:46.687237Z"
+        },
+        {
+          "id": "b5467621969a06f38e6a8b5a72028302aca199d6",
+          "title": "Mozilla 携手 Mistral，将 AI 模型引入 Firefox 智能窗口",
+          "url": "https://www.aibase.com/zh/news/31108",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T01:33:46.687237Z",
+      "latest_at": "2026-09-17T01:33:46.687237Z",
+      "primary_item": {
+        "id": "c93d7aa20c48ca8eec64879619c63c251389db46",
+        "title": "Mozilla携手Mistral，将AI模型引入Firefox智能窗口",
+        "url": "https://www.aibase.com/news/31108",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -826,15 +1230,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8253,
-      "importance": 0.8253,
-      "importance_score": 0.8253,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8519,
+        "recency": 0.8221,
         "story_heat": 0.0
       },
       "category": "official",
@@ -888,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8772,
+        "recency": 0.8466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -948,15 +1352,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8151,
+      "importance": 0.8151,
+      "importance_score": 0.8151,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8697,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "official",
@@ -976,62 +1380,82 @@
       }
     },
     {
-      "story_id": "story_58ad0413cf6b",
-      "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-      "url": "https://www.aibase.com/news/31102",
-      "primary_url": "https://www.aibase.com/news/31102",
+      "story_id": "story_844bdf7dc0fc",
+      "title": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+      "url": "https://www.aibase.com/news/31105",
+      "primary_url": "https://www.aibase.com/news/31105",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
-          "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-          "url": "https://www.aibase.com/news/31102",
+          "id": "9ece314fdd660a3c38cb728d438f3e2856bfa1a1",
+          "title": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+          "url": "https://www.aibase.com/news/31105",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T17:11:07.867256Z"
+          "published_at": "2026-09-17T01:33:46.687237Z"
+        },
+        {
+          "id": "979b94113e541942d8c08b6cbdb855af40b1fed7",
+          "title": "微软 AI 主管公开炮轰：Anthropic 灌输「类人意识」的做法，正在将人类推向灾难性失控的边缘！",
+          "url": "https://www.aibase.com/zh/news/31105",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
-          "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-          "url": "https://www.aibase.com/news/31102",
+          "id": "9ece314fdd660a3c38cb728d438f3e2856bfa1a1",
+          "title": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+          "url": "https://www.aibase.com/news/31105",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T17:11:07.867256Z"
+          "published_at": "2026-09-17T01:33:46.687237Z"
+        },
+        {
+          "id": "979b94113e541942d8c08b6cbdb855af40b1fed7",
+          "title": "微软 AI 主管公开炮轰：Anthropic 灌输「类人意识」的做法，正在将人类推向灾难性失控的边缘！",
+          "url": "https://www.aibase.com/zh/news/31105",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9181,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T17:11:07.867256Z",
-      "latest_at": "2026-09-16T17:11:07.867256Z",
+      "earliest_at": "2026-09-17T01:33:46.687237Z",
+      "latest_at": "2026-09-17T01:33:46.687237Z",
       "primary_item": {
-        "id": "7298f001a2d72a1c66c02501b670037a9bcacfa8",
-        "title": "讯飞星火语音基座大模型上线：0.65B 编码器配 30B MoE，纯国产算力训练",
-        "url": "https://www.aibase.com/news/31102",
+        "id": "9ece314fdd660a3c38cb728d438f3e2856bfa1a1",
+        "title": "微软AI主管公开炮轰：Anthropic灌输“类人意识”的做法，正在将人类推向灾难性失控的边缘！",
+        "url": "https://www.aibase.com/news/31105",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1071,15 +1495,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8188,
-      "importance": 0.8188,
-      "importance_score": 0.8188,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8157,
+        "recency": 0.7873,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1096,455 +1520,6 @@
         "url": "https://openai.com/index/unlocking-new-ways-of-working",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_96d3416b1542",
-      "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-      "url": "https://www.aibase.com/news/31101",
-      "primary_url": "https://www.aibase.com/news/31101",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
-          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "url": "https://www.aibase.com/news/31101",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T17:08:07.867256Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
-          "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-          "url": "https://www.aibase.com/news/31101",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T17:08:07.867256Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9174,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T17:08:07.867256Z",
-      "latest_at": "2026-09-16T17:08:07.867256Z",
-      "primary_item": {
-        "id": "7bda070f0489cac3b0047d5426bc5755467beb64",
-        "title": "千问 Qwen3.8-27B 登顶 Hugging Face，成该平台史上最受欢迎开源模型",
-        "url": "https://www.aibase.com/news/31101",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5ae55c464a16",
-      "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-      "url": "https://www.aibase.com/news/31100",
-      "primary_url": "https://www.aibase.com/news/31100",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "url": "https://www.aibase.com/news/31100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:58:07.867256Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-          "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-          "url": "https://www.aibase.com/news/31100",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:58:07.867256Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9152,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:58:07.867256Z",
-      "latest_at": "2026-09-16T16:58:07.867256Z",
-      "primary_item": {
-        "id": "3a6692c2be0c0432499880beddf0a78cd6fbd1e3",
-        "title": "硅谷科技巨头安保人员计划罢工：谷歌、OpenAI、Anthropic 等办公室或受影响",
-        "url": "https://www.aibase.com/news/31100",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-09-16",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "2b6fa73db4929832ba37cdb22ff99755b619934c",
-          "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T20:18:07.839919Z"
-        },
-        {
-          "id": "c6649e9e6a83972c2a8cec6b6c464114a7130934",
-          "title": "想把开源模型用起来，却卡在选模型、配环境，不知道第一步怎么走？《魔搭紫皮书》用约 40 万字、34 章内容串起了模型选择、部署、微调和效果评测，还提供了企业知识问答、语音助手、图像生成等实战案例。各部分都配有能一步步运行的代码笔记本。你也可以先挑一个感兴趣的案例，在电脑或云端跑通，再带着实际问题往下学。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T20:18:07.839919Z"
-        },
-        {
-          "id": "ba6c63a05c0dc5e3df5d9f907c02189e39a130e7",
-          "title": "每天重复查资料、整理信息，想交给 AI，又担心它擅自发消息、改文件？这份指南给出了一条从小任务走向自动化的完整路径。先选低风险的重复工作，用文字或录屏讲清流程，连接工具、设好权限；手动确认结果和审批机制可靠后，再安排定时运行、多个机器人分工。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T20:18:07.839919Z"
-        },
-        {
-          "id": "ced6919cc3a7a307f476d034949adc71ecd7d0ef",
-          "title": "网页动效词典下篇，拆解了弹窗、菜单、加载提示、布局变化和页面转场，还附有对应的提示词。下一次再向 AI 描述网页，你说的就不会只有“高级一点”“丝滑一点”。你能说清楚谁触发、什么东西动、怎样结束、需要照顾哪些用户，AI 才能把你脑子里的感觉做出来。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T20:18:07.839919Z"
-        },
-        {
-          "id": "2cbbdbf9da3e7389c19dcdd00c1c15aeace0d3da",
-          "title": "AI 生成的歌越来越好听，但能不能精细修改、怎样发行、收益如何分配，同样关系到创作者能否真正用起来。这期《AI 音乐周刊》把技术与产业变化放在一起：Suno v6 等模型升级、ElevenMusic 拆分人声与乐器的新功能，以及音乐分发合作、创作者扶持和版权分成争议。还有5篇研究，涵盖 MV 生成、实时伴奏与可控作曲。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        },
-        {
-          "id": "0fa18d0ee863d833b6274ae4f2d35acbf8e50b47",
-          "title": "Suno 迎来史诗级更新，全面下架 v2 至 v5.5 旧模型，推出 v6、v6-wild、v6-mini 三款全新模型，轻量版向所有用户免费开放。创作端新增 AI 聊天式 Simple 模式，支持图片、哼唱等多模态输入，搭配三大可调参数，实现局部改曲、素材融合等精细创作。平台同步落地下载额度、商用权限与 C2PA 音频溯源新规，只有官方扣额度下载的音频才具备商用资质，音乐创作者务必吃透这套新能力与合规边界。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        },
-        {
-          "id": "6a60fb4883c6c658ffdbfdcce921697acd9600ba",
-          "title": "作者整理了 20 种动效，从文字逐字出现、滚动时画面分层移动，到按钮随鼠标轻微靠近，都附有适用场景和可复制的提示词。正在用 AI 做官网、作品集或活动页的，可以按想要的效果查词，把“凭感觉修改”变成清楚的要求。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        },
-        {
-          "id": "c90a524adbaded000aeaa2a25efed0433d1410b5",
-          "title": "模型是怎么记住我前面说的话的？它是怎么上网、读文件、改代码的？为什么聊着聊着感觉 AI 变蠢了？我发出一条指令，AI 底层都干了什么？MCP、Skill、上下文、Token 这些词到底是什么？一篇文章想把这些讲透极具挑战。这篇文章内容较多，但耐心读下去，一定能有所收获。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        },
-        {
-          "id": "83bb0fae3055964cfcca4b8fb127a8d80f5ec4ad",
-          "title": "第七期 AI 硬件训练营行程已然过半，不少零基础学员借助 AI，把开发板落地成各类硬件作品。有人打造互动桌宠、一键生成公众号素材的创作工作台，还有人做出简易钢琴、找猫小装置。你不需要深厚的代码功底，也能动手把脑海里的创意变成实体硬件，错过的小伙伴儿快来补课！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        }
-      ],
-      "source_count": 9,
-      "source_names": [
-        "社区更新 · 2026-09-15",
-        "社区更新 · 2026-09-16"
-      ],
-      "items": [
-        {
-          "id": "2b6fa73db4929832ba37cdb22ff99755b619934c",
-          "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T20:18:07.839919Z"
-        },
-        {
-          "id": "c6649e9e6a83972c2a8cec6b6c464114a7130934",
-          "title": "想把开源模型用起来，却卡在选模型、配环境，不知道第一步怎么走？《魔搭紫皮书》用约 40 万字、34 章内容串起了模型选择、部署、微调和效果评测，还提供了企业知识问答、语音助手、图像生成等实战案例。各部分都配有能一步步运行的代码笔记本。你也可以先挑一个感兴趣的案例，在电脑或云端跑通，再带着实际问题往下学。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T20:18:07.839919Z"
-        },
-        {
-          "id": "ba6c63a05c0dc5e3df5d9f907c02189e39a130e7",
-          "title": "每天重复查资料、整理信息，想交给 AI，又担心它擅自发消息、改文件？这份指南给出了一条从小任务走向自动化的完整路径。先选低风险的重复工作，用文字或录屏讲清流程，连接工具、设好权限；手动确认结果和审批机制可靠后，再安排定时运行、多个机器人分工。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T20:18:07.839919Z"
-        },
-        {
-          "id": "ced6919cc3a7a307f476d034949adc71ecd7d0ef",
-          "title": "网页动效词典下篇，拆解了弹窗、菜单、加载提示、布局变化和页面转场，还附有对应的提示词。下一次再向 AI 描述网页，你说的就不会只有“高级一点”“丝滑一点”。你能说清楚谁触发、什么东西动、怎样结束、需要照顾哪些用户，AI 才能把你脑子里的感觉做出来。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T20:18:07.839919Z"
-        },
-        {
-          "id": "2cbbdbf9da3e7389c19dcdd00c1c15aeace0d3da",
-          "title": "AI 生成的歌越来越好听，但能不能精细修改、怎样发行、收益如何分配，同样关系到创作者能否真正用起来。这期《AI 音乐周刊》把技术与产业变化放在一起：Suno v6 等模型升级、ElevenMusic 拆分人声与乐器的新功能，以及音乐分发合作、创作者扶持和版权分成争议。还有5篇研究，涵盖 MV 生成、实时伴奏与可控作曲。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        },
-        {
-          "id": "0fa18d0ee863d833b6274ae4f2d35acbf8e50b47",
-          "title": "Suno 迎来史诗级更新，全面下架 v2 至 v5.5 旧模型，推出 v6、v6-wild、v6-mini 三款全新模型，轻量版向所有用户免费开放。创作端新增 AI 聊天式 Simple 模式，支持图片、哼唱等多模态输入，搭配三大可调参数，实现局部改曲、素材融合等精细创作。平台同步落地下载额度、商用权限与 C2PA 音频溯源新规，只有官方扣额度下载的音频才具备商用资质，音乐创作者务必吃透这套新能力与合规边界。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        },
-        {
-          "id": "6a60fb4883c6c658ffdbfdcce921697acd9600ba",
-          "title": "作者整理了 20 种动效，从文字逐字出现、滚动时画面分层移动，到按钮随鼠标轻微靠近，都附有适用场景和可复制的提示词。正在用 AI 做官网、作品集或活动页的，可以按想要的效果查词，把“凭感觉修改”变成清楚的要求。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        },
-        {
-          "id": "c90a524adbaded000aeaa2a25efed0433d1410b5",
-          "title": "模型是怎么记住我前面说的话的？它是怎么上网、读文件、改代码的？为什么聊着聊着感觉 AI 变蠢了？我发出一条指令，AI 底层都干了什么？MCP、Skill、上下文、Token 这些词到底是什么？一篇文章想把这些讲透极具挑战。这篇文章内容较多，但耐心读下去，一定能有所收获。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        },
-        {
-          "id": "83bb0fae3055964cfcca4b8fb127a8d80f5ec4ad",
-          "title": "第七期 AI 硬件训练营行程已然过半，不少零基础学员借助 AI，把开发板落地成各类硬件作品。有人打造互动桌宠、一键生成公众号素材的创作工作台，还有人做出简易钢琴、找猫小装置。你不需要深厚的代码功底，也能动手把脑海里的创意变成实体硬件，错过的小伙伴儿快来补课！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-09-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-09-16T17:11:07.867256Z"
-        }
-      ],
-      "item_count": 9,
-      "duplicate_count": 9,
-      "score": 0.6621,
-      "importance": 0.6621,
-      "importance_score": 0.6621,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9604,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-16T17:11:07.867256Z",
-      "latest_at": "2026-09-16T20:18:07.839919Z",
-      "primary_item": {
-        "id": "2b6fa73db4929832ba37cdb22ff99755b619934c",
-        "title": "作者按倒序捋了一遍AI短剧的制作链路——从最后的成片往前拆，看每一步用的素材是从哪一步来的：成片 → 剪辑 → 视频生成 → 分镜表 → 角色/场景设计 → 剧本。或许对你有帮助！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-09-16",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_68043172395e",
-      "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-      "url": "https://www.aibase.com/news/31099",
-      "primary_url": "https://www.aibase.com/news/31099",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "url": "https://www.aibase.com/news/31099",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:45:07.867256Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-          "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-          "url": "https://www.aibase.com/news/31099",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:45:07.867256Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:45:07.867256Z",
-      "latest_at": "2026-09-16T16:45:07.867256Z",
-      "primary_item": {
-        "id": "c0523e50fa28d4845b6b6890ad09d93940d8ae66",
-        "title": "Anthropic 签下澳大利亚首份数据中心协议：锁定 2.16 吉瓦容量，2027 年投运",
-        "url": "https://www.aibase.com/news/31099",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_52869b2b71fe",
-      "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-      "url": "https://www.aibase.com/news/31098",
-      "primary_url": "https://www.aibase.com/news/31098",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "url": "https://www.aibase.com/news/31098",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:37:07.867256Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-          "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-          "url": "https://www.aibase.com/news/31098",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T16:37:07.867256Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9106,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T16:37:07.867256Z",
-      "latest_at": "2026-09-16T16:37:07.867256Z",
-      "primary_item": {
-        "id": "cbf286c5bbdd880856b9c9cc1b102263bb040a04",
-        "title": "Cloudflare 上线新设置：允许搜索引擎爬取，同时拒绝 AI 训练",
-        "url": "https://www.aibase.com/news/31098",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
