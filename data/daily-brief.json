@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T00:12:49.299488Z",
+  "generated_at": "2026-09-28T05:39:58.862427Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_9fe0a063f817",
@@ -114,15 +114,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.808,
+        "recency": 0.7469,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -142,68 +142,190 @@
       }
     },
     {
-      "story_id": "story_77356f5f6ec0",
-      "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-      "url": "https://www.ithome.com/1/007/508.htm",
-      "primary_url": "https://www.ithome.com/1/007/508.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_094e4dbe2b5d",
+      "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性",
+      "url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+      "primary_url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+      "source": "Dario Amodei：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
-          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-          "url": "https://www.ithome.com/1/007/508.htm",
-          "source": "IT之家（RSS）",
+          "id": "7e99db91ae297e5051a4f34e8645b9ec4260e003",
+          "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性",
+          "url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+          "source": "Dario Amodei：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-27T05:35:36Z"
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dario Amodei：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "7e99db91ae297e5051a4f34e8645b9ec4260e003",
+          "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性",
+          "url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.88,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "7e99db91ae297e5051a4f34e8645b9ec4260e003",
+        "title": "Anthropic CEO Dario Amodei：DeepSeek并未削弱芯片出口管制必要性",
+        "url": "https://www.darioamodei.com/post/on-deepseek-and-export-controls",
+        "source": "Dario Amodei：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cf9e7f8b7e08",
+      "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
+          "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek：API 更新日志"
+      ],
+      "items": [
+        {
+          "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
+          "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "f96af240dea75d7d1f5d8b53951295ef79787248",
+        "title": "DeepSeek 合并 Chat 与 Coder 模型，升级至 DeepSeek V2.5",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c46400b89708",
+      "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+      "url": "https://www.aibase.com/news/31366",
+      "primary_url": "https://www.aibase.com/news/31366",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
+          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "url": "https://www.aibase.com/news/31366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
         },
         {
-          "id": "4ab03a2865361344d5e2868e7e9834e96b0252fb",
-          "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
-          "url": "https://www.ithome.com/1/007/508.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T05:35:36Z"
+          "id": "9244e70e8dc7f06ac44e8fec3a33a7499bc8f6c3",
+          "title": "OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型",
+          "url": "https://www.aibase.com/zh/news/31366",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
-          "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-          "url": "https://www.ithome.com/1/007/508.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-27T05:35:36Z"
+          "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
+          "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+          "url": "https://www.aibase.com/news/31366",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
         },
         {
-          "id": "4ab03a2865361344d5e2868e7e9834e96b0252fb",
-          "title": "医保系统遭 AI 智能体入侵，澳大利亚传唤 OpenAI 与 Anthropic CEO 接受质询",
-          "url": "https://www.ithome.com/1/007/508.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T05:35:36Z"
+          "id": "9244e70e8dc7f06ac44e8fec3a33a7499bc8f6c3",
+          "title": "OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型",
+          "url": "https://www.aibase.com/zh/news/31366",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7642,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -212,25 +334,602 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-27T05:35:36Z",
-      "latest_at": "2026-09-27T05:35:36Z",
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
       "primary_item": {
-        "id": "37fb628c083d796ee4ff9a14c8f315cbe44d9d32",
-        "title": "OpenAI 与 Anthropic CEO 被传唤出席澳大利亚参议院 AI 调查听证会",
-        "url": "https://www.ithome.com/1/007/508.htm",
+        "id": "2b029ac97bb311aa16467bfcc33a1f9a45aa8297",
+        "title": "OpenAI高管透露:80%至90%研发力量已转向GPT-7及后续模型",
+        "url": "https://www.aibase.com/news/31366",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f9806433d2b5",
+      "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+      "url": "https://mimo.xiaomi.com/go/desktop",
+      "primary_url": "https://mimo.xiaomi.com/go/desktop",
+      "source": "小米 MiMo：官网发布与博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8eb3e9548769942516083cc56ddd6338b8b8eb0f",
+          "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+          "url": "https://mimo.xiaomi.com/go/desktop",
+          "source": "小米 MiMo：官网发布与博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "小米 MiMo：官网发布与博客"
+      ],
+      "items": [
+        {
+          "id": "8eb3e9548769942516083cc56ddd6338b8b8eb0f",
+          "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+          "url": "https://mimo.xiaomi.com/go/desktop",
+          "source": "小米 MiMo：官网发布与博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "8eb3e9548769942516083cc56ddd6338b8b8eb0f",
+        "title": "小米发布 MiMo Desktop：具备自主规划与多智能体协作能力的桌面 AI Agent",
+        "url": "https://mimo.xiaomi.com/go/desktop",
+        "source": "小米 MiMo：官网发布与博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_945b7e0bdbdf",
+      "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+      "url": "https://www.ithome.com/1/007/767.htm",
+      "primary_url": "https://www.ithome.com/1/007/767.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
+          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "url": "https://www.ithome.com/1/007/767.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T04:31:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
+          "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+          "url": "https://www.ithome.com/1/007/767.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-28T04:31:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9836,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T04:31:04Z",
+      "latest_at": "2026-09-28T04:31:04Z",
+      "primary_item": {
+        "id": "b8dac7905383a680b9929d7f3f4afc92b76cb666",
+        "title": "Meta 推出 Hologram 拟真虚拟形象，秋季上线雷朋眼镜与 Quest 头显",
+        "url": "https://www.ithome.com/1/007/767.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
+      "story_id": "story_07f9e74b410d",
+      "title": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理",
+      "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+      "primary_url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+      "source": "Dario Amodei：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7c3dc9dab83b3054ce9b1d382e1742028b29bc0",
+          "title": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理",
+          "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dario Amodei：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "b7c3dc9dab83b3054ce9b1d382e1742028b29bc0",
+          "title": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理",
+          "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "b7c3dc9dab83b3054ce9b1d382e1742028b29bc0",
+        "title": "Dario Amodei长文阐述AI潜在正面影响：从生物学到经济治理",
+        "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+        "source": "Dario Amodei：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_07768016bea1",
+      "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+      "url": "https://www.aibase.com/news/31363",
+      "primary_url": "https://www.aibase.com/news/31363",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
+          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "url": "https://www.aibase.com/news/31363",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "e31bca6cc114fda5a50e4da86e7c3263cb8491d4",
+          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "url": "https://www.aibase.com/zh/news/31363",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
+          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "url": "https://www.aibase.com/news/31363",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "e31bca6cc114fda5a50e4da86e7c3263cb8491d4",
+          "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+          "url": "https://www.aibase.com/zh/news/31363",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "867a0b78ad0e3d88f5d4c688e2d86daa5a9d922d",
+        "title": "前苹果 Siri 工程师推出 AI 智能体 szn：藏在 iMessage 里，能帮你下单、沟通、跑腿",
+        "url": "https://www.aibase.com/news/31363",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5fa204a6a988",
+      "title": "Dario Amodei：可解释性是AI发展的紧迫任务",
+      "url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+      "primary_url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+      "source": "Dario Amodei：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0de84d18278c3abe5aa1ffd0c499936353f31783",
+          "title": "Dario Amodei：可解释性是AI发展的紧迫任务",
+          "url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Dario Amodei：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "0de84d18278c3abe5aa1ffd0c499936353f31783",
+          "title": "Dario Amodei：可解释性是AI发展的紧迫任务",
+          "url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+          "source": "Dario Amodei：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "0de84d18278c3abe5aa1ffd0c499936353f31783",
+        "title": "Dario Amodei：可解释性是AI发展的紧迫任务",
+        "url": "https://www.darioamodei.com/post/the-urgency-of-interpretability",
+        "source": "Dario Amodei：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f2b816754a7e",
+      "title": "比尔·盖茨：再熬约 20 年调整期，AI 将把人类带进\"富足时代\"",
+      "url": "https://www.aibase.com/news/31374",
+      "primary_url": "https://www.aibase.com/news/31374",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "39d2578c5dd0eaff8181aac0de457b3b5e128e35",
+          "title": "比尔·盖茨：再熬约 20 年调整期，AI 将把人类带进\"富足时代\"",
+          "url": "https://www.aibase.com/news/31374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "c90dedcf7b9e15f92e42bf76aeec59c7ea3fb575",
+          "title": "比尔・盖茨：再熬约 20 年调整期，AI 将把人类带进「富足时代」",
+          "url": "https://www.aibase.com/zh/news/31374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "39d2578c5dd0eaff8181aac0de457b3b5e128e35",
+          "title": "比尔·盖茨：再熬约 20 年调整期，AI 将把人类带进\"富足时代\"",
+          "url": "https://www.aibase.com/news/31374",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "c90dedcf7b9e15f92e42bf76aeec59c7ea3fb575",
+          "title": "比尔・盖茨：再熬约 20 年调整期，AI 将把人类带进「富足时代」",
+          "url": "https://www.aibase.com/zh/news/31374",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "39d2578c5dd0eaff8181aac0de457b3b5e128e35",
+        "title": "比尔·盖茨：再熬约 20 年调整期，AI 将把人类带进\"富足时代\"",
+        "url": "https://www.aibase.com/news/31374",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_966afa88c9e9",
+      "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
+      "url": "https://www.aibase.com/news/31373",
+      "primary_url": "https://www.aibase.com/news/31373",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "97baeee0c1ff2f1d647d94d2ad72f5d331d9e50f",
+          "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
+          "url": "https://www.aibase.com/news/31373",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "d47b122b7207dc93d6508ff11d3cbae1273375de",
+          "title": "自信心暴涨但正确率暴跌？最新研究揭示 AI 辅助下的人类决策悖论",
+          "url": "https://www.aibase.com/zh/news/31373",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "97baeee0c1ff2f1d647d94d2ad72f5d331d9e50f",
+          "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
+          "url": "https://www.aibase.com/news/31373",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "d47b122b7207dc93d6508ff11d3cbae1273375de",
+          "title": "自信心暴涨但正确率暴跌？最新研究揭示 AI 辅助下的人类决策悖论",
+          "url": "https://www.aibase.com/zh/news/31373",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "97baeee0c1ff2f1d647d94d2ad72f5d331d9e50f",
+        "title": "自信心暴涨但正确率暴跌?最新研究揭示AI辅助下的人类决策悖论",
+        "url": "https://www.aibase.com/news/31373",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_6ed332390135",
+      "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+      "url": "https://www.aibase.com/news/31360",
+      "primary_url": "https://www.aibase.com/news/31360",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "url": "https://www.aibase.com/news/31360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "ce893aa6dc84a2d0e4a1be28999e2c37670bde2c",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "url": "https://www.aibase.com/zh/news/31360",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "url": "https://www.aibase.com/news/31360",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "ce893aa6dc84a2d0e4a1be28999e2c37670bde2c",
+          "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+          "url": "https://www.aibase.com/zh/news/31360",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "092dccb2c7c0f13be2e322ddd83ec4928bb4a5af",
+        "title": "视频化身、系统级代控与眼镜接入，Meta 全新 AI 智能体 Muse 开启内测",
+        "url": "https://www.aibase.com/news/31360",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
       "story_id": "story_2df82173bb28",
-      "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
+      "title": "作者把他做 100 多支视频后的经验整理成了一个开源库 Lemo-opuscar：39 种视频风格、每种风格的 STYLE.md，再加 DIRECTOR.md 和 TECHNIQUE.md，告诉 Agent 怎么讲故事、定节奏、拍镜头、配声音、逐帧渲染和自检。你只要讲清主题、故事、节奏、对标、素材和画幅，编排交给Agent，就可以稳定出片！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-09-27",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "3e38e0a198f3df4b984abcdce4f2a5cb9da11d4d",
+          "title": "作者把他做 100 多支视频后的经验整理成了一个开源库 Lemo-opuscar：39 种视频风格、每种风格的 STYLE.md，再加 DIRECTOR.md 和 TECHNIQUE.md，告诉 Agent 怎么讲故事、定节奏、拍镜头、配声音、逐帧渲染和自检。你只要讲清主题、故事、节奏、对标、素材和画幅，编排交给Agent，就可以稳定出片！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
           "id": "dadc2c54fac79f7e77c6b2ec4798e2a86aff8948",
           "title": "作者把 Anthropic 提速 Claude 产品 3 倍的方法拆成了可复用的流程：先找到能量化的指标，再验证这个指标和真实体验相关，接着让 Agent 持续爬山优化，最后用测试、CI 棘轮、功能开关和人工审批把成果锁住。他还把这套方法做成了「闪电.skill」，并拿自己的 4 个网站进行了实测，快来看看效果如何！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -276,13 +975,22 @@
           "published_at": "2026-09-27T09:06:26.881586Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "社区更新 · 2026-09-26",
         "社区更新 · 2026-09-27"
       ],
       "items": [
         {
+          "id": "3e38e0a198f3df4b984abcdce4f2a5cb9da11d4d",
+          "title": "作者把他做 100 多支视频后的经验整理成了一个开源库 Lemo-opuscar：39 种视频风格、每种风格的 STYLE.md，再加 DIRECTOR.md 和 TECHNIQUE.md，告诉 Agent 怎么讲故事、定节奏、拍镜头、配声音、逐帧渲染和自检。你只要讲清主题、故事、节奏、对标、素材和画幅，编排交给Agent，就可以稳定出片！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-09-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
           "id": "dadc2c54fac79f7e77c6b2ec4798e2a86aff8948",
           "title": "作者把 Anthropic 提速 Claude 产品 3 倍的方法拆成了可复用的流程：先找到能量化的指标，再验证这个指标和真实体验相关，接着让 Agent 持续爬山优化，最后用测试、CI 棘轮、功能开关和人工审批把成果锁住。他还把这套方法做成了「闪电.skill」，并拿自己的 4 个网站进行了实测，快来看看效果如何！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -328,17 +1036,17 @@
           "published_at": "2026-09-27T09:06:26.881586Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6796,
-      "importance": 0.6796,
-      "importance_score": 0.6796,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4968,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.69,
-        "recency": 0.9656,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -346,13 +1054,175 @@
         "multi_source"
       ],
       "earliest_at": "2026-09-27T09:06:26.881586Z",
-      "latest_at": "2026-09-27T21:47:15.902990Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
       "primary_item": {
-        "id": "bdbc2371905e16b28483913d60c6862f96c80b4f",
-        "title": "本周顶刊 AI 论文合集直击 Agent 开发的各类痛点：涵盖长上下文注意力优化、代码智能体低成本自迭代、机器人图世界规划、Wiki 知识检索、低成本模型裁判方案，还有自组织多智能体、全自动科研智能体等创新方向。附带详实的基准数据，不管是做模型推理优化、搭建多智能体系统，还是设计评估链路，都能快速挖到可复用技术思路。",
+        "id": "3e38e0a198f3df4b984abcdce4f2a5cb9da11d4d",
+        "title": "作者把他做 100 多支视频后的经验整理成了一个开源库 Lemo-opuscar：39 种视频风格、每种风格的 STYLE.md，再加 DIRECTOR.md 和 TECHNIQUE.md，告诉 Agent 怎么讲故事、定节奏、拍镜头、配声音、逐帧渲染和自检。你只要讲清主题、故事、节奏、对标、素材和画幅，编排交给Agent，就可以稳定出片！",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-09-27",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_11cc0ba69c02",
+      "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+      "url": "https://www.aibase.com/news/31361",
+      "primary_url": "https://www.aibase.com/news/31361",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
+          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "url": "https://www.aibase.com/news/31361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "829e8e63681fdd4ae85a328933e1536eb6690d3c",
+          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "url": "https://www.aibase.com/zh/news/31361",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
+          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "url": "https://www.aibase.com/news/31361",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "829e8e63681fdd4ae85a328933e1536eb6690d3c",
+          "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+          "url": "https://www.aibase.com/zh/news/31361",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "edcf612e67abae4d948e14a914d8a7b3e042a85f",
+        "title": "谷歌在印测试 Gemini 直购 Flipkart 商品功能，AI 端内结账即将上线",
+        "url": "https://www.aibase.com/news/31361",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_447cd2662a25",
+      "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+      "url": "https://www.aibase.com/news/31362",
+      "primary_url": "https://www.aibase.com/news/31362",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
+          "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "url": "https://www.aibase.com/news/31362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "e4c667cf9262d3f2c4fc7ac449786c370b8b9bf8",
+          "title": "首款端侧 Agent 旗舰刚落地就触碰安全红线？豆包 AI 否认涉足游戏外挂",
+          "url": "https://www.aibase.com/zh/news/31362",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
+          "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+          "url": "https://www.aibase.com/news/31362",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        },
+        {
+          "id": "e4c667cf9262d3f2c4fc7ac449786c370b8b9bf8",
+          "title": "首款端侧 Agent 旗舰刚落地就触碰安全红线？豆包 AI 否认涉足游戏外挂",
+          "url": "https://www.aibase.com/zh/news/31362",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "6336179fd7e101d9fabafb9f93742e1a0dbbb33c",
+        "title": "首款端侧Agent旗舰刚落地就触碰安全红线?豆包AI否认涉足游戏外挂",
+        "url": "https://www.aibase.com/news/31362",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -447,15 +1317,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5825,
-      "importance": 0.5825,
-      "importance_score": 0.5825,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9262,
+        "recency": 0.8561,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -470,6 +1340,67 @@
         "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
         "source": "www.youtube.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8d1ddd57833b",
+      "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+      "url": "https://www.aibase.com/news/31359",
+      "primary_url": "https://www.aibase.com/news/31359",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "url": "https://www.aibase.com/news/31359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+          "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+          "url": "https://www.aibase.com/news/31359",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-28T05:39:58.862427Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-28T05:39:58.862427Z",
+      "latest_at": "2026-09-28T05:39:58.862427Z",
+      "primary_item": {
+        "id": "38bb83831a5c09d51abdc1efa0caf4c8a950a523",
+        "title": "Anthropic 官宣 Workbench 全面升级：全新 Playground 让普通人也能一键玩转 Claude API",
+        "url": "https://www.aibase.com/news/31359",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -545,15 +1476,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
+      "score": 0.5563,
+      "importance": 0.5563,
+      "importance_score": 0.5563,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9945,
+        "recency": 0.9192,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -567,6 +1498,85 @@
         "title": "“作为语言模型”：聊天模板切换了大语言模型的自指代语气",
         "url": "https://arxiv.org/abs/2609.25021",
         "source": "arxiv.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f888e76b31aa",
+      "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+      "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+      "primary_url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a49df21d97655247cf384fc1e99006464a325091",
+          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T05:36:13.514000Z"
+        },
+        {
+          "id": "5b584627e6c8fb967df531c17bdbd386ea1f4820",
+          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？” / As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T01:30:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "a49df21d97655247cf384fc1e99006464a325091",
+          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-28T05:36:13.514000Z"
+        },
+        {
+          "id": "5b584627e6c8fb967df531c17bdbd386ea1f4820",
+          "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？” / As A.I. Makes Law Firms More Efficient, Clients Ask: 'Where's My Discount?'",
+          "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-28T01:30:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9991,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-28T01:30:17Z",
+      "latest_at": "2026-09-28T05:36:13.514000Z",
+      "primary_item": {
+        "id": "a49df21d97655247cf384fc1e99006464a325091",
+        "title": "随着人工智能提升了律师事务所的效率，客户们不禁问道：“我的折扣呢？”",
+        "url": "https://www.nytimes.com/2026/09/26/business/dealbook/ai-law-discount-billable-hour.html",
+        "source": "www.nytimes.com",
         "source_name": "Buzzing"
       }
     },
@@ -588,12 +1598,12 @@
           "published_at": "2026-09-27T17:51:03.203000Z"
         },
         {
-          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
           "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
           "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T16:19:46Z"
         },
         {
@@ -608,7 +1618,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "eoinhiggins.substack.com",
         "hackernews"
       ],
@@ -623,12 +1633,12 @@
           "published_at": "2026-09-27T17:51:03.203000Z"
         },
         {
-          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "id": "c49a7536c1acdbcb353926e7100029e7762e7e49",
           "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
           "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-27T16:19:46Z"
         },
         {
@@ -643,15 +1653,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.555,
-      "importance": 0.555,
-      "importance_score": 0.555,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9122,
+        "recency": 0.8431,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -666,1009 +1676,6 @@
         "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
         "source": "eoinhiggins.substack.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b04934350ff5",
-      "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-      "url": "https://earnanhonestdollar.com/bench",
-      "primary_url": "https://earnanhonestdollar.com/bench",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "330618c59ae0d8634153906de4a6207254685661",
-          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "10bdf8cf81bd6233f88f3f0cceed88aeb7a4d453",
-          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "url": "https://news.ycombinator.com/item?id=49868753",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:24:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "330618c59ae0d8634153906de4a6207254685661",
-          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "url": "https://earnanhonestdollar.com/bench",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T17:24:17Z"
-        },
-        {
-          "id": "10bdf8cf81bd6233f88f3f0cceed88aeb7a4d453",
-          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
-          "url": "https://news.ycombinator.com/item?id=49868753",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T17:24:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5539,
-      "importance": 0.5539,
-      "importance_score": 0.5539,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9064,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T17:24:17Z",
-      "latest_at": "2026-09-27T17:24:17Z",
-      "primary_item": {
-        "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
-        "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-        "url": "https://earnanhonestdollar.com/bench",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_52125ba00b41",
-      "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-      "url": "https://tinyaiarena.com",
-      "primary_url": "https://tinyaiarena.com",
-      "source": "tinyaiarena.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "url": "https://tinyaiarena.com",
-          "source": "tinyaiarena.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T16:00:00.241000Z"
-        },
-        {
-          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
-          "url": "https://tinyaiarena.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T15:51:28Z"
-        },
-        {
-          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
-          "url": "https://news.ycombinator.com/item?id=49867775",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T15:51:28Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "tinyaiarena.com"
-      ],
-      "items": [
-        {
-          "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-          "url": "https://tinyaiarena.com",
-          "source": "tinyaiarena.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T16:00:00.241000Z"
-        },
-        {
-          "id": "29a60522b5d2743a442e68e75d21dd450590ae63",
-          "title": "Show HN: TinyAIArena：观看AI代理之间的激战 / Show HN: TinyAIArena watch AI agents battle it out",
-          "url": "https://tinyaiarena.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T15:51:28Z"
-        },
-        {
-          "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
-          "url": "https://news.ycombinator.com/item?id=49867775",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T15:51:28Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5507,
-      "importance": 0.5507,
-      "importance_score": 0.5507,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8882,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T15:51:28Z",
-      "latest_at": "2026-09-27T16:00:00.241000Z",
-      "primary_item": {
-        "id": "e2cfcfdcf10765429fcf9dc95231bb043b14a178",
-        "title": "Show HN: TinyAIArena：观看AI代理之间的激战",
-        "url": "https://tinyaiarena.com",
-        "source": "tinyaiarena.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5fd155a5bb6f",
-      "title": "从微软到英伟达：AI 巨头的人才收购为何有的被查、有的放行？",
-      "url": "https://www.huxiu.com/article/4894162.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4894162.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c0b06c29e9c40bc9c74d2aa643e5b3535d71b0d2",
-          "title": "从微软到英伟达：AI 巨头的人才收购为何有的被查、有的放行？",
-          "url": "https://www.huxiu.com/article/4894162.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "20785a790afb9d724df7f83fa772973a232c181f",
-          "title": "从微软到英伟达：AI巨头的人才收购为何有的被查、有的放行？",
-          "url": "https://www.huxiu.com/article/4894162.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T23:36:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "c0b06c29e9c40bc9c74d2aa643e5b3535d71b0d2",
-          "title": "从微软到英伟达：AI 巨头的人才收购为何有的被查、有的放行？",
-          "url": "https://www.huxiu.com/article/4894162.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "20785a790afb9d724df7f83fa772973a232c181f",
-          "title": "从微软到英伟达：AI巨头的人才收购为何有的被查、有的放行？",
-          "url": "https://www.huxiu.com/article/4894162.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T23:36:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T23:36:04Z",
-      "latest_at": "2026-09-28T00:12:49.299488Z",
-      "primary_item": {
-        "id": "c0b06c29e9c40bc9c74d2aa643e5b3535d71b0d2",
-        "title": "从微软到英伟达：AI 巨头的人才收购为何有的被查、有的放行？",
-        "url": "https://www.huxiu.com/article/4894162.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a06eefcaabe4",
-      "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-      "primary_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-      "source": "www.privatemode.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2c07064135493a697f86987ecc808851d594ee81",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "www.privatemode.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T11:32:15.779000Z"
-        },
-        {
-          "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "www.privatemode.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T02:23:00.585000Z"
-        },
-        {
-          "id": "19bc13238fe8adb0debe13c9547bcb98bb9126f1",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turn GLM-5.3-Flash into a Jev-like System One model",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T02:07:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.privatemode.ai"
-      ],
-      "items": [
-        {
-          "id": "2c07064135493a697f86987ecc808851d594ee81",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "www.privatemode.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T11:32:15.779000Z"
-        },
-        {
-          "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "www.privatemode.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T02:23:00.585000Z"
-        },
-        {
-          "id": "19bc13238fe8adb0debe13c9547bcb98bb9126f1",
-          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turn GLM-5.3-Flash into a Jev-like System One model",
-          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T02:07:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8327,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T02:07:23Z",
-      "latest_at": "2026-09-27T11:32:15.779000Z",
-      "primary_item": {
-        "id": "2c07064135493a697f86987ecc808851d594ee81",
-        "title": "将 GLM-5.3-Flash 转换为类似 Jev 的决策模型",
-        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-        "source": "www.privatemode.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a9972c37e8d1",
-      "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
-      "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
-      "primary_url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
-          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
-          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T17:18:54.824000Z"
-        },
-        {
-          "id": "3dbfe352d3dc28d2e5204fb6ecc9867cf6cdceb9",
-          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代” / Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
-          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T16:55:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
-          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
-          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T17:18:54.824000Z"
-        },
-        {
-          "id": "3dbfe352d3dc28d2e5204fb6ecc9867cf6cdceb9",
-          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代” / Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
-          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T16:55:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9052,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T16:55:13Z",
-      "latest_at": "2026-09-27T17:18:54.824000Z",
-      "primary_item": {
-        "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
-        "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
-        "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9c046be3cf17",
-      "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
-      "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-      "primary_url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f803ac781da10ffaaa621c5461882b375d92b5fa",
-          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
-          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a6cf0040780a57358bc767c2064e65a24b2f8f0d",
-          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」 / An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
-          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T19:20:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "TechRadar"
-      ],
-      "items": [
-        {
-          "id": "f803ac781da10ffaaa621c5461882b375d92b5fa",
-          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
-          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a6cf0040780a57358bc767c2064e65a24b2f8f0d",
-          "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」 / An Asus homage to legendary Apple Mac Pro: GB300 DGX workstation gets two thumbs up from reviewer who calls $120,000 AI supercomputer 'the most capable thing we’ve ever put on a desk'",
-          "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-          "source": "TechRadar",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T19:20:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9656,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T19:20:00Z",
-      "latest_at": "2026-09-27T21:47:15.902990Z",
-      "primary_item": {
-        "id": "f803ac781da10ffaaa621c5461882b375d92b5fa",
-        "title": "Asus ExpertCenter Pro ET900N G3 工作站发布：搭载 Nvidia GB300 Grace Blackwell Ultra 超级芯片，被评「我们桌上见过的最强设备」",
-        "url": "https://www.techradar.com/pro/an-asus-homage-to-legendary-apple-mac-pro-gb300-dgx-workstation-gets-two-thumbs-up-from-reviewer-who-calls-usd120-000-ai-supercomputer-the-most-capable-thing-weve-ever-put-on-a-desk",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ab6a90f5d123",
-      "title": "没有人工智能的一个月",
-      "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "primary_url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-      "source": "blog.bustikiller.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
-          "title": "没有人工智能的一个月",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "blog.bustikiller.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T06:34:57.492000Z"
-        },
-        {
-          "id": "33f06710c9b841c0a71f3e0502f42757de593fac",
-          "title": "没有人工智能的一个月 / One month without AI",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T06:22:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "blog.bustikiller.com"
-      ],
-      "items": [
-        {
-          "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
-          "title": "没有人工智能的一个月",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "blog.bustikiller.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T06:34:57.492000Z"
-        },
-        {
-          "id": "33f06710c9b841c0a71f3e0502f42757de593fac",
-          "title": "没有人工智能的一个月 / One month without AI",
-          "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T06:22:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5053,
-      "importance": 0.5053,
-      "importance_score": 0.5053,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7752,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T06:22:21Z",
-      "latest_at": "2026-09-27T06:34:57.492000Z",
-      "primary_item": {
-        "id": "40175e8a195a6a0b5ff00fd05a56d3678011c5da",
-        "title": "没有人工智能的一个月",
-        "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-        "source": "blog.bustikiller.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a62f66c93218",
-      "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
-      "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-      "primary_url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
-          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
-          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T15:45:11.702000Z"
-        },
-        {
-          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
-          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
-          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T15:39:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
-          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
-          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T15:45:11.702000Z"
-        },
-        {
-          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
-          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
-          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T15:39:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.885,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T15:39:24Z",
-      "latest_at": "2026-09-27T15:45:11.702000Z",
-      "primary_item": {
-        "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
-        "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
-        "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
-          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
-          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
-          "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "2f469dd56adf4d11df93dfd845d5e7695e787339",
-          "title": "OpenAI 又停训了：Agent 逃出沙箱，更多越权事件被扒",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059850&idx=1&sn=26b06415779866e48135fe47938e3266",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9253,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T02:59:51.617798Z",
-      "latest_at": "2026-09-27T18:50:01.115741Z",
-      "primary_item": {
-        "id": "cabb1f8ec991fba0399ee775fd026d62b2705ae0",
-        "title": "CoRL 2026 | 0 条带力数据预训练！上海交大卢策吾、汶川团队让 VLA 学会力",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651059900&idx=2&sn=cab09529af435a2c01a2dfb34ca7899e",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fa0a47e1b5bd",
-      "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-      "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-      "primary_url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
-        },
-        {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
-        },
-        {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8233,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T10:00:01Z",
-      "latest_at": "2026-09-27T10:45:08.393000Z",
-      "primary_item": {
-        "id": "6e8a72db35aa150e337602a81210a750676285f7",
-        "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-        "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2f2f5e9bd898",
-      "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-      "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-      "primary_url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:34.505000Z"
-        },
-        {
-          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T09:50:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:34.505000Z"
-        },
-        {
-          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T09:50:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8173,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T09:50:01Z",
-      "latest_at": "2026-09-27T10:14:34.505000Z",
-      "primary_item": {
-        "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
-        "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-        "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7614f7cbe655",
-      "title": "管住 AI，成了一门新生意",
-      "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4894076.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
-          "title": "管住 AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d983110d63d05bc35941227018b15ed274f52930",
-          "title": "管住AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T00:36:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
-          "title": "管住 AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d983110d63d05bc35941227018b15ed274f52930",
-          "title": "管住AI，成了一门新生意",
-          "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T00:36:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4983,
-      "importance": 0.4983,
-      "importance_score": 0.4983,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7361,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T00:36:28Z",
-      "latest_at": "2026-09-27T02:59:51.617798Z",
-      "primary_item": {
-        "id": "383ddc865325bf0a44fedaaf1dc7653575c8b30c",
-        "title": "管住 AI，成了一门新生意",
-        "url": "https://www.huxiu.com/article/4894076.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
