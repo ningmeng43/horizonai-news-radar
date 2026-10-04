@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T23:14:28.505908Z",
+  "generated_at": "2026-10-04T02:47:13.532015Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8842,
-      "importance": 0.8842,
-      "importance_score": 0.8842,
+      "score": 0.8753,
+      "importance": 0.8753,
+      "importance_score": 0.8753,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9958,
+        "recency": 0.9461,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7791,
-      "importance": 0.7791,
-      "importance_score": 0.7791,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9804,
+        "recency": 0.9315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -143,67 +143,6 @@
         "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
         "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a754eea0186f",
-      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "primary_url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7654202328494479b00a63601dedf32af4a164cb",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "7654202328494479b00a63601dedf32af4a164cb",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9232,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-03T17:42:22.515970Z",
-      "latest_at": "2026-10-03T17:42:22.515970Z",
-      "primary_item": {
-        "id": "7654202328494479b00a63601dedf32af4a164cb",
-        "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-        "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -261,15 +200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7831,
+        "recency": 0.744,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -285,6 +224,67 @@
         "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
         "url": "https://www.ithome.com/1/009/444.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a754eea0186f",
+      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+      "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+      "primary_url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7654202328494479b00a63601dedf32af4a164cb",
+          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "7654202328494479b00a63601dedf32af4a164cb",
+          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+          "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8771,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-03T17:42:22.515970Z",
+      "latest_at": "2026-10-03T17:42:22.515970Z",
+      "primary_item": {
+        "id": "7654202328494479b00a63601dedf32af4a164cb",
+        "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
+        "url": "https://www.lmsys.org/blog/2023-03-30-vicuna",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
       }
     },
@@ -331,18 +331,9 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-03T10:21:24Z"
-        },
-        {
-          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
-          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:22:04.817000Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
         "Hacker News · 24h最热",
         "Lobsters (技术社区)",
@@ -384,35 +375,26 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-03T10:21:24Z"
-        },
-        {
-          "id": "566c5ff090d77c0a61472f1fb57c2c8c939188a8",
-          "title": "Show HN: 我让Opus制作一个关于人工智能实验室的视频，结果它生成了这个奇怪的东西",
-          "url": "https://www.youtube.com/watch?v=nWWDUXhqWEs",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-02T23:22:04.817000Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5615,
+      "importance": 0.5615,
+      "importance_score": 0.5615,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8518,
-        "story_heat": 1.0
+        "recency": 0.8093,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-02T23:22:04.817000Z",
+      "earliest_at": "2026-10-03T10:21:24Z",
       "latest_at": "2026-10-03T12:07:54.478000Z",
       "primary_item": {
         "id": "8d41b8355bfdc36961629fb295df569095fa08a3",
@@ -495,15 +477,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.569,
-      "importance": 0.569,
-      "importance_score": 0.569,
+      "score": 0.5601,
+      "importance": 0.5601,
+      "importance_score": 0.5601,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9898,
+        "recency": 0.9404,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -611,15 +593,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5663,
-      "importance": 0.5663,
-      "importance_score": 0.5663,
+      "score": 0.5588,
+      "importance": 0.5588,
+      "importance_score": 0.5588,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8359,
+        "recency": 0.7942,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -633,6 +615,85 @@
         "title": "Show HN: 德国的新型主权人工智能模型“Kolibri”",
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "tej.as",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9dd1927e63f0",
+      "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+      "url": "https://getjpm.sh",
+      "primary_url": "https://getjpm.sh",
+      "source": "getjpm.sh",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:36:52.982000Z"
+        },
+        {
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "getjpm.sh"
+      ],
+      "items": [
+        {
+          "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+          "url": "https://getjpm.sh",
+          "source": "getjpm.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:36:52.982000Z"
+        },
+        {
+          "id": "add12be6da1864ce4936e3937a27451d8330d778",
+          "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写 / Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+          "url": "https://getjpm.sh",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-04T00:11:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9691,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T00:11:58Z",
+      "latest_at": "2026-10-04T00:36:52.982000Z",
+      "primary_item": {
+        "id": "813c7250c1863c047bb7daad5564161b922ddf3d",
+        "title": "Show HN: jpm——一个用Rust编写的JavaScript包管理器，每一行代码均由Claude Code编写",
+        "url": "https://getjpm.sh",
+        "source": "getjpm.sh",
         "source_name": "Buzzing"
       }
     },
@@ -690,15 +751,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -769,15 +830,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9866,
+        "recency": 0.9373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -848,15 +909,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9789,
+        "recency": 0.93,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -874,101 +935,82 @@
       }
     },
     {
-      "story_id": "story_fea867abcd50",
-      "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
-      "url": "https://www.36kr.com/p/4009475424063619",
-      "primary_url": "https://www.36kr.com/p/4009475424063619",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
+      "story_id": "story_810f091c82ef",
+      "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
-          "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
-          "url": "https://www.36kr.com/p/4009475424063619",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-03T08:23:21.212817Z"
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:57:03Z"
         },
         {
-          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
-          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
-          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T03:27:52Z"
-        },
-        {
-          "id": "3f8925ae3dd542d7099e9b1eb23ad0ad851e9136",
-          "title": "刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观",
-          "url": "https://www.36kr.com/p/4009475424063619",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-03T02:10:13.569925Z"
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
-          "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
-          "url": "https://www.36kr.com/p/4009475424063619",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-03T08:23:21.212817Z"
+          "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T17:57:03Z"
         },
         {
-          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
-          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
-          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T03:27:52Z"
-        },
-        {
-          "id": "3f8925ae3dd542d7099e9b1eb23ad0ad851e9136",
-          "title": "刚刚，AI 击穿了「视频图灵测试」，1700 万网友在线围观",
-          "url": "https://www.36kr.com/p/4009475424063619",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-10-03T02:10:13.569925Z"
+          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
+          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+          "url": "https://news.ycombinator.com/item?id=49946321",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-03T17:57:03Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.807,
-        "story_heat": 0.5
+        "recency": 0.8802,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T02:10:13.569925Z",
-      "latest_at": "2026-10-03T08:23:21.212817Z",
+      "earliest_at": "2026-10-03T17:57:03Z",
+      "latest_at": "2026-10-03T17:57:03Z",
       "primary_item": {
-        "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
-        "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
-        "url": "https://www.36kr.com/p/4009475424063619",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
+        "id": "6dffe42889a2eda58e4889c9d9fb9a3ba3ed6413",
+        "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
+        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1024,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5199,
+      "importance": 0.5199,
+      "importance_score": 0.5199,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9009,
+        "recency": 0.8559,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1047,183 +1089,6 @@
         "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
         "source": "www.bloomberg.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c6c4cf80a42a",
-      "title": "Show HN: Google 地图抓取工具 MCP",
-      "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-      "primary_url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-      "source": "gmapscrawl.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d25d7c38edd0b8531b165853022543fc2aa7ae37",
-          "title": "Show HN: Google 地图抓取工具 MCP",
-          "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-          "source": "gmapscrawl.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T01:58:05.229000Z"
-        },
-        {
-          "id": "1f73bfe751045212ed0759632545af83fadf2e76",
-          "title": "Show HN: Google 地图抓取工具 MCP / Show HN: Google Maps Scraper MCP",
-          "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T01:46:39Z"
-        },
-        {
-          "id": "74f259ffc26e1745be071fa38d2478d99729aa3e",
-          "title": "显示 HN：Google 地图 Scraper MCP / Show HN: Google Maps Scraper MCP",
-          "url": "https://news.ycombinator.com/item?id=49940653",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T01:46:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "gmapscrawl.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d25d7c38edd0b8531b165853022543fc2aa7ae37",
-          "title": "Show HN: Google 地图抓取工具 MCP",
-          "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-          "source": "gmapscrawl.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T01:58:05.229000Z"
-        },
-        {
-          "id": "1f73bfe751045212ed0759632545af83fadf2e76",
-          "title": "Show HN: Google 地图抓取工具 MCP / Show HN: Google Maps Scraper MCP",
-          "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-03T01:46:39Z"
-        },
-        {
-          "id": "74f259ffc26e1745be071fa38d2478d99729aa3e",
-          "title": "显示 HN：Google 地图 Scraper MCP / Show HN: Google Maps Scraper MCP",
-          "url": "https://news.ycombinator.com/item?id=49940653",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-03T01:46:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5232,
-      "importance": 0.5232,
-      "importance_score": 0.5232,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7355,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T01:46:39Z",
-      "latest_at": "2026-10-03T01:58:05.229000Z",
-      "primary_item": {
-        "id": "d25d7c38edd0b8531b165853022543fc2aa7ae37",
-        "title": "Show HN: Google 地图抓取工具 MCP",
-        "url": "https://gmapscrawl.com/google-maps-scraper-mcp",
-        "source": "gmapscrawl.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_956aebcec474",
-      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theatlantic.com"
-      ],
-      "items": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8722,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T11:05:53.668000Z",
-      "latest_at": "2026-10-03T13:46:34Z",
-      "primary_item": {
-        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-        "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1280,15 +1145,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8699,
+        "recency": 0.8265,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1358,15 +1223,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.516,
-      "importance": 0.516,
-      "importance_score": 0.516,
+      "score": 0.5086,
+      "importance": 0.5086,
+      "importance_score": 0.5086,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8347,
+        "recency": 0.7931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1381,6 +1246,85 @@
         "url": "https://news.ycombinator.com/item?id=49943034",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_54a7d29e5903",
+      "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
+      "url": "https://www.36kr.com/p/4009475424063619",
+      "primary_url": "https://www.36kr.com/p/4009475424063619",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
+          "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.36kr.com/p/4009475424063619",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-10-03T08:23:21.212817Z"
+        },
+        {
+          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
+          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T03:27:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
+          "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.36kr.com/p/4009475424063619",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-10-03T08:23:21.212817Z"
+        },
+        {
+          "id": "75a3bbe3db6b62bfa5177e66d5054766569c218b",
+          "title": "刚刚，AI 击穿了“视频图灵测试”，1700万网友在线围观",
+          "url": "https://www.huxiu.com/article/4895240.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T03:27:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7667,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T03:27:52Z",
+      "latest_at": "2026-10-03T08:23:21.212817Z",
+      "primary_item": {
+        "id": "fd13b7c3da6a0e17be7860cf77beed352c473fba",
+        "title": "刚刚，AI击穿了“视频图灵测试”，1700万网友在线围观",
+        "url": "https://www.36kr.com/p/4009475424063619",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1437,15 +1381,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5381,
-      "importance": 0.5381,
-      "importance_score": 0.5381,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9572,
+        "recency": 0.9094,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1463,30 +1407,30 @@
       }
     },
     {
-      "story_id": "story_810f091c82ef",
-      "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-      "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
-      "primary_url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+      "story_id": "story_8b1e323a2293",
+      "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+      "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
+      "primary_url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T17:57:03Z"
+          "published_at": "2026-10-03T17:44:29Z"
         },
         {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://news.ycombinator.com/item?id=49946321",
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://news.ycombinator.com/item?id=49946228",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
+          "published_at": "2026-10-03T17:44:29Z"
         }
       ],
       "source_count": 2,
@@ -1496,49 +1440,128 @@
       ],
       "items": [
         {
-          "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+          "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-03T17:57:03Z"
+          "published_at": "2026-10-03T17:44:29Z"
         },
         {
-          "id": "a9e7db9e2cedf54adec39982995ed421f86a43cb",
-          "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-          "url": "https://news.ycombinator.com/item?id=49946321",
+          "id": "49c7d33077fcebced13fae6cfa16face2db9e9b4",
+          "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+          "url": "https://news.ycombinator.com/item?id=49946228",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-03T17:57:03Z"
+          "published_at": "2026-10-03T17:44:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9264,
+        "recency": 0.8775,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-03T17:57:03Z",
-      "latest_at": "2026-10-03T17:57:03Z",
+      "earliest_at": "2026-10-03T17:44:29Z",
+      "latest_at": "2026-10-03T17:44:29Z",
       "primary_item": {
-        "id": "2f5b6f59a640c66062d519737a3fbf50426f8ef5",
-        "title": "Pop!_OS 禁止其大部分代码库中人工智能生成的代码 / Pop!_OS bans AI-generated code from much of its codebase",
-        "url": "https://www.neowin.net/news/system76-bans-ai-generated-code-across-many-of-its-cosmic-codebases",
+        "id": "0dc9c5b044398fe21e439c48dd9b5aef77f64d02",
+        "title": "LeCun对AI消灭人类、最近发生的“流氓”事件“零担忧” / LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+        "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_956aebcec474",
+      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T11:05:53.668000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.theatlantic.com"
+      ],
+      "items": [
+        {
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T11:05:53.668000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8287,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T11:05:53.668000Z",
+      "latest_at": "2026-10-03T13:46:34Z",
+      "primary_item": {
+        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+        "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1595,15 +1618,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5145,
+      "importance": 0.5145,
+      "importance_score": 0.5145,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8697,
+        "recency": 0.8263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1618,84 +1641,6 @@
         "url": "https://www.huxiu.com/article/4895291.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a650c74fe354",
-      "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-      "primary_url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
-          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
-          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:36:04Z"
-        },
-        {
-          "id": "1c41707746af6412df270725b43291fc673341c3",
-          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri: A Sovereign Open-Weight Model",
-          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:36:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
-          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
-          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:36:04Z"
-        },
-        {
-          "id": "1c41707746af6412df270725b43291fc673341c3",
-          "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri: A Sovereign Open-Weight Model",
-          "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T09:36:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8212,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T09:36:04Z",
-      "latest_at": "2026-10-03T09:36:04Z",
-      "primary_item": {
-        "id": "88719e228a676880ff0dfe173c02e4d4b574626c",
-        "title": "“Kolibri”已降落：一款主权开放重量级模型 / Kolibri Has Landed: A Sovereign Open-Weight Model",
-        "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
