@@ -1,69 +1,8 @@
 {
-  "generated_at": "2026-10-11T19:17:02.147566Z",
+  "generated_at": "2026-10-11T23:01:07.493401Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 16,
   "items": [
-    {
-      "story_id": "story_2e3af46c5b7b",
-      "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-      "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "primary_url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7302,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T21:30:36Z",
-      "latest_at": "2026-10-10T21:30:36Z",
-      "primary_item": {
-        "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-        "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-        "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
     {
       "story_id": "story_b24a437d8a62",
       "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
@@ -99,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8119,
+        "recency": 0.7692,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -185,56 +124,10 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-10-11T19:17:02.147566Z"
-        },
-        {
-          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
-          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
-        },
-        {
-          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
-          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
-        },
-        {
-          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
-          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
-        },
-        {
-          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
-          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
-        },
-        {
-          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
-          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
         }
       ],
-      "source_count": 11,
+      "source_count": 6,
       "source_names": [
-        "社区更新 · 2026-10-10",
         "社区更新 · 2026-10-11"
       ],
       "items": [
@@ -291,71 +184,26 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-10-11T19:17:02.147566Z"
-        },
-        {
-          "id": "e48888c190fa8b36e2e12c39a205cfaacb3e1b89",
-          "title": "AI 写代码越来越强，大家最常聊效率，却很少认真聊：当机器接过越来越多“手活”，工程师会失去什么。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
-        },
-        {
-          "id": "e605da7b0de1d1910cc0410691338bdc28b5022a",
-          "title": "Anthropic推出的Claude Motion，不靠视频大模型，直接用代码渲染演示动效。只需调整文字、数字、时长等参数，其余画面不会被破坏。文中还提供了可直接丢给 Opus 5.5 的全套提示词，自动筛选适合可视化的内容、输出分镜脚本、生成代码并导出 1080p MP4，快速制作产品演示短片。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
-        },
-        {
-          "id": "e3bbb7f729392650b972088c6bc7a7e6544190d5",
-          "title": "想低成本搭建个人网站与轻量AI接口？这份Cloudflare实操指南从域名接入、HTTPS配置、GitHub自动部署网站，到域名邮箱、R2对象存储，还讲解了Workers调用开源模型、全新cf命令行交由Agent管理的整套资源，帮你避开各类配置陷阱，零服务器成本落地你的线上项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
-        },
-        {
-          "id": "95d2fef6b7573e6b3c7562a41244a6b98401da86",
-          "title": "老金深度体验了 由 GPT-6 Astra 驱动的 Dot 个人云端智能体后，分享了开源项目看板、复用工作手册、手机语音续改、定时巡检等实操方案，可以帮你简化多任务管理，不用反复复述需求，轻松托管各类长期工作项目。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
-        },
-        {
-          "id": "22d79127b8860eee8937bea9db9f2653c31135f0",
-          "title": "这波 Personal Agent 火起来，不只是“AI 助手换个名字”，背后其实是产品形态开始收敛：每个用户一台云电脑、一个浏览器、一个常驻后台 Agent，敏感操作再拉人审批。这篇文章把 Meta Muse、OpenAI Dots、Grok Bot、Gemini Spark、Manus Cue 放在一起进行了全面复盘。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-10",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-10T19:27:13.037163Z"
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
-      "score": 0.69,
-      "importance": 0.69,
-      "importance_score": 0.69,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6805,
+      "importance": 0.6805,
+      "importance_score": 0.6805,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.54,
         "ai_relevance": 0.7,
-        "recency": 1.0,
+        "recency": 0.9475,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-10T19:27:13.037163Z",
+      "earliest_at": "2026-10-11T19:17:02.147566Z",
       "latest_at": "2026-10-11T19:17:02.147566Z",
       "primary_item": {
         "id": "42a1f31b79a394a0db6ca10a10b678e50a93253b",
@@ -366,82 +214,161 @@
       }
     },
     {
-      "story_id": "story_35dc91695d5d",
-      "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "source": "The Verge",
-      "source_name": "Curated Media",
+      "story_id": "story_d8e52c3d3e9a",
+      "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
+      "url": "https://www.36kr.com/p/4020977744449666",
+      "primary_url": "https://www.36kr.com/p/4020977744449666",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ced9daa641f3ea3f5fbc00699ac675215967117b",
-          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T22:10:17Z"
+          "id": "d64f857acff20bd69eb9a58a2ea524977cd01f9f",
+          "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
+          "url": "https://www.36kr.com/p/4020977744449666",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
-          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T03:41:53Z"
+          "id": "23c054615064a3448a00ddcbc0b86ea94d5086e3",
+          "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
+          "url": "https://www.36kr.com/p/4020977744449666",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "The Verge"
+        "36氪 · 24小时热榜",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "ced9daa641f3ea3f5fbc00699ac675215967117b",
-          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T22:10:17Z"
+          "id": "d64f857acff20bd69eb9a58a2ea524977cd01f9f",
+          "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
+          "url": "https://www.36kr.com/p/4020977744449666",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "f0c0fbfd6fe90b06fdcf8fde18a639363d28f334",
-          "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are 'compromised'",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-11T03:41:53Z"
+          "id": "23c054615064a3448a00ddcbc0b86ea94d5086e3",
+          "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
+          "url": "https://www.36kr.com/p/4020977744449666",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.7372,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-10T22:10:17Z",
-      "latest_at": "2026-10-11T03:41:53Z",
+      "earliest_at": "2026-10-11T14:32:22.267648Z",
+      "latest_at": "2026-10-11T23:01:07.493401Z",
       "primary_item": {
-        "id": "ced9daa641f3ea3f5fbc00699ac675215967117b",
-        "title": "萨蒂亚·纳德拉 (Satya Nadella) 表示，我们应该假设所有人工智能模型都“受到损害” / Satya Nadella says we should assume all AI models are ‘compromised’",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "source": "The Verge",
-        "source_name": "Curated Media"
+        "id": "d64f857acff20bd69eb9a58a2ea524977cd01f9f",
+        "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
+        "url": "https://www.36kr.com/p/4020977744449666",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4f0ae8ed3fe2",
+      "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+      "url": "https://github.com/mirabilis-agent/lip-ledger",
+      "primary_url": "https://github.com/mirabilis-agent/lip-ledger",
+      "source": "HN Algolia · AI 24h",
+      "source_name": "Hacker News",
+      "sources": [
+        {
+          "id": "ac4c37d16357dade574fd9c4648292635ab43fbc",
+          "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+          "url": "https://github.com/mirabilis-agent/lip-ledger",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-11T21:44:24Z"
+        },
+        {
+          "id": "00348a8c8553f485aa0840dabbf60056e49c454c",
+          "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+          "url": "https://news.ycombinator.com/item?id=50048136",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T21:44:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ac4c37d16357dade574fd9c4648292635ab43fbc",
+          "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+          "url": "https://github.com/mirabilis-agent/lip-ledger",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-11T21:44:24Z"
+        },
+        {
+          "id": "00348a8c8553f485aa0840dabbf60056e49c454c",
+          "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+          "url": "https://news.ycombinator.com/item?id=50048136",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T21:44:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9817,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T21:44:24Z",
+      "latest_at": "2026-10-11T21:44:24Z",
+      "primary_item": {
+        "id": "ac4c37d16357dade574fd9c4648292635ab43fbc",
+        "title": "An AI agent's $20 Kalshi account, with an exact reward model",
+        "url": "https://github.com/mirabilis-agent/lip-ledger",
+        "source": "HN Algolia · AI 24h",
+        "source_name": "Hacker News"
       }
     },
     {
@@ -463,7 +390,7 @@
         },
         {
           "id": "8d34cd9fd4319f80b93215cc18ce9dc193c5482f",
-          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B tokens later: Letting AI agents decompile a first-person shooter",
           "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -472,7 +399,7 @@
         },
         {
           "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "url": "https://news.ycombinator.com/item?id=50039092",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -498,7 +425,7 @@
         },
         {
           "id": "8d34cd9fd4319f80b93215cc18ce9dc193c5482f",
-          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "title": "500B 令牌之后：让 AI 代理反编译一款第一人称射击游戏 / 500B tokens later: Letting AI agents decompile a first-person shooter",
           "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -507,7 +434,7 @@
         },
         {
           "id": "7e60eb02ef534d15cccc1d15b4937a7dfa4487e8",
-          "title": "500B 代币之后：让 AI 代理反编译第一人称射击游戏 / 500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+          "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
           "url": "https://news.ycombinator.com/item?id=50039092",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -517,15 +444,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5504,
-      "importance": 0.5504,
-      "importance_score": 0.5504,
+      "score": 0.542,
+      "importance": 0.542,
+      "importance_score": 0.542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8864,
+        "recency": 0.8399,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -540,6 +467,85 @@
         "url": "https://momo5502.com/posts/2026-10-09-game-decompilation",
         "source": "momo5502.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_44c65736f8dd",
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "primary_url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T20:20:52Z"
+        },
+        {
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://news.ycombinator.com/item?id=50047422",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T20:20:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://twitter.com/karpathy/status/2109361546505966046",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T20:20:52Z"
+        },
+        {
+          "id": "543336c7453bd62c021d5c77fa16b9da5378a6d2",
+          "title": "The gap in shared understanding of LLM capability is widening",
+          "url": "https://news.ycombinator.com/item?id=50047422",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T20:20:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9622,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T20:20:52Z",
+      "latest_at": "2026-10-11T20:20:52Z",
+      "primary_item": {
+        "id": "e1a4cc6938c5a1e2cad718220bb17a9e8484c092",
+        "title": "The gap in shared understanding of LLM capability is widening",
+        "url": "https://twitter.com/karpathy/status/2109361546505966046",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -596,15 +602,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5339,
-      "importance": 0.5339,
-      "importance_score": 0.5339,
+      "score": 0.5251,
+      "importance": 0.5251,
+      "importance_score": 0.5251,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.934,
+        "recency": 0.8849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -675,15 +681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5204,
+      "importance": 0.5204,
+      "importance_score": 0.5204,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9067,
+        "recency": 0.8591,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -753,15 +759,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5198,
+      "importance": 0.5198,
+      "importance_score": 0.5198,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.903,
+        "recency": 0.8556,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -776,243 +782,6 @@
         "url": "https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_2ec605cc8689",
-      "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
-      "url": "https://jobs.ashbyhq.com/weave-os",
-      "primary_url": "https://jobs.ashbyhq.com/weave-os",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "18b52778464e88fa85742d37d1831981202beda2",
-          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
-          "url": "https://jobs.ashbyhq.com/weave-os",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T12:01:08Z"
-        },
-        {
-          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
-          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
-          "url": "https://news.ycombinator.com/item?id=50042330",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T12:01:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "18b52778464e88fa85742d37d1831981202beda2",
-          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
-          "url": "https://jobs.ashbyhq.com/weave-os",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T12:01:08Z"
-        },
-        {
-          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
-          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
-          "url": "https://news.ycombinator.com/item?id=50042330",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-11T12:01:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5279,
-      "importance": 0.5279,
-      "importance_score": 0.5279,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9004,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T12:01:08Z",
-      "latest_at": "2026-10-11T12:01:08Z",
-      "primary_item": {
-        "id": "18b52778464e88fa85742d37d1831981202beda2",
-        "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
-        "url": "https://jobs.ashbyhq.com/weave-os",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_45701154d94a",
-      "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
-      "url": "https://www.36kr.com/p/4020888466542726",
-      "primary_url": "https://www.36kr.com/p/4020888466542726",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a49cf5f1e0e67436e35ab4a0863da333b881cdd4",
-          "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
-          "url": "https://www.36kr.com/p/4020888466542726",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "bcfda676a0b2c9bbdfd6ce99d914a5550be5ba2f",
-          "title": "AI“克隆”的Adobe 全家桶一夜爆火，但先别急着卸载正版",
-          "url": "https://www.huxiu.com/article/4896574.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T02:03:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "a49cf5f1e0e67436e35ab4a0863da333b881cdd4",
-          "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
-          "url": "https://www.36kr.com/p/4020888466542726",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "bcfda676a0b2c9bbdfd6ce99d914a5550be5ba2f",
-          "title": "AI“克隆”的Adobe 全家桶一夜爆火，但先别急着卸载正版",
-          "url": "https://www.huxiu.com/article/4896574.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T02:03:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8447,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T02:03:08Z",
-      "latest_at": "2026-10-11T07:35:36.136409Z",
-      "primary_item": {
-        "id": "a49cf5f1e0e67436e35ab4a0863da333b881cdd4",
-        "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
-        "url": "https://www.36kr.com/p/4020888466542726",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_319b451f9164",
-      "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-      "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4896590.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e8e913cb31d3e6567695e5526901a3a5de740082",
-          "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8284bee6405c57fbb955313353d1a9260ffbb1f9",
-          "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
-          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T04:34:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "e8e913cb31d3e6567695e5526901a3a5de740082",
-          "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8284bee6405c57fbb955313353d1a9260ffbb1f9",
-          "title": "麻省理工：靠访谈让AI模拟真人，这条路能走多远？",
-          "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-11T04:34:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5178,
-      "importance": 0.5178,
-      "importance_score": 0.5178,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8447,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-11T04:34:12Z",
-      "latest_at": "2026-10-11T07:35:36.136409Z",
-      "primary_item": {
-        "id": "e8e913cb31d3e6567695e5526901a3a5de740082",
-        "title": "麻省理工：靠访谈让 AI 模拟真人，这条路能走多远？",
-        "url": "https://www.huxiu.com/article/4896590.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1069,15 +838,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5097,
-      "importance": 0.5097,
-      "importance_score": 0.5097,
+      "score": 0.5022,
+      "importance": 0.5022,
+      "importance_score": 0.5022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7996,
+        "recency": 0.7577,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1148,15 +917,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5049,
-      "importance": 0.5049,
-      "importance_score": 0.5049,
+      "score": 0.4976,
+      "importance": 0.4976,
+      "importance_score": 0.4976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7726,
+        "recency": 0.732,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1171,6 +940,85 @@
         "url": "https://littleguys.hervalicio.us",
         "source": "littleguys.hervalicio.us",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2ec605cc8689",
+      "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+      "url": "https://jobs.ashbyhq.com/weave-os",
+      "primary_url": "https://jobs.ashbyhq.com/weave-os",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T12:01:08Z"
+        },
+        {
+          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://news.ycombinator.com/item?id=50042330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T12:01:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "18b52778464e88fa85742d37d1831981202beda2",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://jobs.ashbyhq.com/weave-os",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T12:01:08Z"
+        },
+        {
+          "id": "8e3ffaaaba92ec5589a9a3e8fa83866310a0b67d",
+          "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+          "url": "https://news.ycombinator.com/item?id=50042330",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-11T12:01:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5194,
+      "importance": 0.5194,
+      "importance_score": 0.5194,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8531,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T12:01:08Z",
+      "latest_at": "2026-10-11T12:01:08Z",
+      "primary_item": {
+        "id": "18b52778464e88fa85742d37d1831981202beda2",
+        "title": "Weave (YC W25) 正在招聘 ML、AI、产品和设计工程师 / Weave (YC W25) is hiring ML, AI, product, & design engineers",
+        "url": "https://jobs.ashbyhq.com/weave-os",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1226,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8804,
+        "recency": 0.8342,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1305,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.5158,
+      "importance": 0.5158,
+      "importance_score": 0.5158,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8796,
+        "recency": 0.8335,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1328,6 +1176,85 @@
         "url": "https://www.businessinsider.com/personal-ai-agents-threaten-companies-profiting-from-consumer-inertia-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_45701154d94a",
+      "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
+      "url": "https://www.36kr.com/p/4020888466542726",
+      "primary_url": "https://www.36kr.com/p/4020888466542726",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a49cf5f1e0e67436e35ab4a0863da333b881cdd4",
+          "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
+          "url": "https://www.36kr.com/p/4020888466542726",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bcfda676a0b2c9bbdfd6ce99d914a5550be5ba2f",
+          "title": "AI“克隆”的Adobe 全家桶一夜爆火，但先别急着卸载正版",
+          "url": "https://www.huxiu.com/article/4896574.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T02:03:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "a49cf5f1e0e67436e35ab4a0863da333b881cdd4",
+          "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
+          "url": "https://www.36kr.com/p/4020888466542726",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "bcfda676a0b2c9bbdfd6ce99d914a5550be5ba2f",
+          "title": "AI“克隆”的Adobe 全家桶一夜爆火，但先别急着卸载正版",
+          "url": "https://www.huxiu.com/article/4896574.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-11T02:03:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5099,
+      "importance": 0.5099,
+      "importance_score": 0.5099,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8003,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-11T02:03:08Z",
+      "latest_at": "2026-10-11T07:35:36.136409Z",
+      "primary_item": {
+        "id": "a49cf5f1e0e67436e35ab4a0863da333b881cdd4",
+        "title": "AI“克隆”的Adobe全家桶一夜爆火，但先别急着卸载正版",
+        "url": "https://www.36kr.com/p/4020888466542726",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1384,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7986,
+        "recency": 0.7567,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1405,164 +1332,6 @@
         "id": "a2b6382986614849a774c8426987c7b822567cb3",
         "title": "AI 座席进行站立通话 / AI agents in a stand-up call",
         "url": "https://atoll92.github.io/agent-standup",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_3df84065df47",
-      "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
-      "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-      "primary_url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e658c9c9f72e208a2d1dfce7cae6074cb85fe029",
-          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
-          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T21:25:38.059000Z"
-        },
-        {
-          "id": "f7e80665a4a7d362c880069e1e936f9a25add3a0",
-          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上 / Satya Nadella says a company's relationship with AI should have trust issues",
-          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-10T21:05:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "e658c9c9f72e208a2d1dfce7cae6074cb85fe029",
-          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
-          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-10T21:25:38.059000Z"
-        },
-        {
-          "id": "f7e80665a4a7d362c880069e1e936f9a25add3a0",
-          "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上 / Satya Nadella says a company's relationship with AI should have trust issues",
-          "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-10T21:05:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4971,
-      "importance": 0.4971,
-      "importance_score": 0.4971,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7293,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-10T21:05:46Z",
-      "latest_at": "2026-10-10T21:25:38.059000Z",
-      "primary_item": {
-        "id": "e658c9c9f72e208a2d1dfce7cae6074cb85fe029",
-        "title": "萨蒂亚·纳德拉表示，企业与人工智能之间的关系应建立在信任的基础上",
-        "url": "https://www.businessinsider.com/microsoft-ceo-satya-nadella-ai-threat-blog-enterprise-companies-corporations-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_89b1c5b22d39",
-      "title": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-      "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-      "primary_url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "9b5840d704bf071edf7275cb389cf5a046e07cc4",
-          "title": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-10T21:19:42Z"
-        },
-        {
-          "id": "bb2c87ea74cd9db7ef82149fb047a4d64e00830c",
-          "title": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "url": "https://news.ycombinator.com/item?id=50037299",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T21:19:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9b5840d704bf071edf7275cb389cf5a046e07cc4",
-          "title": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-10T21:19:42Z"
-        },
-        {
-          "id": "bb2c87ea74cd9db7ef82149fb047a4d64e00830c",
-          "title": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-          "url": "https://news.ycombinator.com/item?id=50037299",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-10T21:19:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4969,
-      "importance": 0.4969,
-      "importance_score": 0.4969,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7283,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-10T21:19:42Z",
-      "latest_at": "2026-10-10T21:19:42Z",
-      "primary_item": {
-        "id": "9b5840d704bf071edf7275cb389cf5a046e07cc4",
-        "title": "黑客滥用 Google Ads、Bing 重定向来推送 Claude ClickFix 攻击 / Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-        "url": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
