@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T22:48:27.424854Z",
+  "generated_at": "2026-10-11T01:27:02.448765Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9451,
+        "recency": 0.9097,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9447,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -180,15 +180,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8688,
+        "recency": 0.8362,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -204,291 +204,6 @@
         "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
         "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8e5ec2908b04",
-      "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
-      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-      "primary_url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5bf966d84786caa61f847582525b4316675e87ca",
-          "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
-          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T22:58:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5bf966d84786caa61f847582525b4316675e87ca",
-          "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
-          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T22:58:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7088,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T22:58:23Z",
-      "latest_at": "2026-10-09T22:58:23Z",
-      "primary_item": {
-        "id": "5bf966d84786caa61f847582525b4316675e87ca",
-        "title": "GitHub Copilot 每周发布 — 10 月 5 日 / GitHub Copilot weekly releases — October 5",
-        "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cd6f5cc677d",
-      "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "primary_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T00:18:32Z"
-        },
-        {
-          "id": "a29f4ce9342c8d932fe09d9e42916b0d181465c5",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T00:18:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T00:18:32Z"
-        },
-        {
-          "id": "a29f4ce9342c8d932fe09d9e42916b0d181465c5",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T00:18:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7226,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T00:18:32Z",
-      "latest_at": "2026-10-10T00:18:32Z",
-      "primary_item": {
-        "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-        "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b72411781b2c",
-      "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-      "url": "https://www.ithome.com/1/011/194.htm",
-      "primary_url": "https://www.ithome.com/1/011/194.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        },
-        {
-          "id": "34149b0245337600fd2da8699290eb8392646bca",
-          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T01:07:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-          "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T01:07:47.053000Z"
-        },
-        {
-          "id": "34149b0245337600fd2da8699290eb8392646bca",
-          "title": "Anthropic 向白宫通报一起智能体失控事件：AI 试图闯进多个美国政府网站",
-          "url": "https://www.ithome.com/1/011/194.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-10T01:07:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7312,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T01:07:47Z",
-      "latest_at": "2026-10-10T01:07:47.053000Z",
-      "primary_item": {
-        "id": "bacb542641a8f98b896bae662a55fad5b27e3798",
-        "title": "Anthropic 向白宫通报 AI 智能体失控事件，曾试图访问美国政府网站",
-        "url": "https://www.ithome.com/1/011/194.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c842af9430c6",
-      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-      "url": "https://x.com/SaitoWu/status/2108919486581796872",
-      "primary_url": "https://x.com/SaitoWu/status/2108919486581796872",
-      "source": "X：Saito 硬地骇客 (@SaitoWu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-          "url": "https://x.com/SaitoWu/status/2108919486581796872",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:56:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Saito 硬地骇客 (@SaitoWu)"
-      ],
-      "items": [
-        {
-          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-          "url": "https://x.com/SaitoWu/status/2108919486581796872",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:56:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.761,
-      "importance": 0.761,
-      "importance_score": 0.761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8797,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T13:56:02Z",
-      "latest_at": "2026-10-10T13:56:02Z",
-      "primary_item": {
-        "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-        "url": "https://x.com/SaitoWu/status/2108919486581796872",
-        "source": "X：Saito 硬地骇客 (@SaitoWu)",
         "source_name": "AI HOT"
       }
     },
@@ -546,15 +261,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -571,6 +286,67 @@
         "url": "https://www.aibase.com/news/31544",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c842af9430c6",
+      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+      "url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "primary_url": "https://x.com/SaitoWu/status/2108919486581796872",
+      "source": "X：Saito 硬地骇客 (@SaitoWu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Saito 硬地骇客 (@SaitoWu)"
+      ],
+      "items": [
+        {
+          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+          "url": "https://x.com/SaitoWu/status/2108919486581796872",
+          "source": "X：Saito 硬地骇客 (@SaitoWu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-10T13:56:02Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8468,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T13:56:02Z",
+      "latest_at": "2026-10-10T13:56:02Z",
+      "primary_item": {
+        "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
+        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
+        "url": "https://x.com/SaitoWu/status/2108919486581796872",
+        "source": "X：Saito 硬地骇客 (@SaitoWu)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -608,21 +384,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7782,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-10T05:26:34Z",
       "latest_at": "2026-10-10T05:26:34Z",
@@ -669,15 +444,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7419,
+        "recency": 0.7141,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,15 +523,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -829,15 +604,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -910,15 +685,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1044,15 +819,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6607,
-      "importance": 0.6607,
-      "importance_score": 0.6607,
+      "score": 0.6543,
+      "importance": 0.6543,
+      "importance_score": 0.6543,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9527,
+        "recency": 0.917,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1122,15 +897,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6412,
-      "importance": 0.6412,
-      "importance_score": 0.6412,
+      "score": 0.6357,
+      "importance": 0.6357,
+      "importance_score": 0.6357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8192,
+        "recency": 0.7885,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1202,15 +977,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1283,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1364,15 +1139,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8226,
+        "recency": 0.7918,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1410,7 +1185,7 @@
         },
         {
           "id": "d6d0a36f3f3a8313f503fcc5370578013e5c0c95",
-          "title": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI / Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判 / Nvidia in talks to acquire US 'open' model startup Reflection AI",
           "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -1445,7 +1220,7 @@
         },
         {
           "id": "d6d0a36f3f3a8313f503fcc5370578013e5c0c95",
-          "title": "英伟达正在洽谈收购美国“开放”模式初创公司 Reflection AI / Nvidia in talks to acquire US 'open' model startup Reflection AI",
+          "title": "英伟达正就收购美国“开放”模型初创公司Reflection AI进行谈判 / Nvidia in talks to acquire US 'open' model startup Reflection AI",
           "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -1464,15 +1239,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.5544,
+      "importance": 0.5544,
+      "importance_score": 0.5544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.944,
+        "recency": 0.9086,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1562,15 +1337,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5513,
-      "importance": 0.5513,
-      "importance_score": 0.5513,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8917,
+        "recency": 0.8583,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1584,6 +1359,282 @@
         "title": "Talorys——基于 Cloudflare 免费套餐的自托管个人 AI 代理",
         "url": "https://github.com/rociiu/talorys",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7e544408ff81",
+      "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
+      "url": "https://www.aibase.com/news/31539",
+      "primary_url": "https://www.aibase.com/news/31539",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
+          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
+          "url": "https://www.aibase.com/news/31539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T09:16:54.842878Z"
+        },
+        {
+          "id": "b4dbb705bad991ddb6b145bec2153d32dd69ca8d",
+          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
+          "url": "https://www.aibase.com/zh/news/31539",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
+          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
+          "url": "https://www.aibase.com/news/31539",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-10T09:16:54.842878Z"
+        },
+        {
+          "id": "b4dbb705bad991ddb6b145bec2153d32dd69ca8d",
+          "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
+          "url": "https://www.aibase.com/zh/news/31539",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7918,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-10T09:16:54.842878Z",
+      "latest_at": "2026-10-10T09:16:54.842878Z",
+      "primary_item": {
+        "id": "be36b37c2cf167fe6abf949025783cc386b07cde",
+        "title": "腾讯云开源 TeamAI：适配 16 种 Agent，团队 Skill 走 Git 评审分发，成本降 76%",
+        "url": "https://www.aibase.com/news/31539",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ddbf35e86da2",
+      "title": "人工智能几乎没有什么“不可避免”之处 / LLMs Aren't Inevitable",
+      "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+      "primary_url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "b7b17584ac5aa9f98d2a7a26df807584cbb3715c",
+          "title": "人工智能几乎没有什么“不可避免”之处 / LLMs Aren't Inevitable",
+          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-10T12:04:04Z"
+        },
+        {
+          "id": "93725f49355ff10a8e90813436772b44a60144cf",
+          "title": "人工智能几乎没有什么“不可避免”之处 / There's little that's \"inevitable\" about AI",
+          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-10T12:04:04Z"
+        },
+        {
+          "id": "e0f2ade0915724c4d33389b2b1951af32e406c4e",
+          "title": "人工智能几乎没有什么“不可避免”之处",
+          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+          "source": "deadsimpletech.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T09:21:01.552000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "deadsimpletech.com"
+      ],
+      "items": [
+        {
+          "id": "b7b17584ac5aa9f98d2a7a26df807584cbb3715c",
+          "title": "人工智能几乎没有什么“不可避免”之处 / LLMs Aren't Inevitable",
+          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-10T12:04:04Z"
+        },
+        {
+          "id": "93725f49355ff10a8e90813436772b44a60144cf",
+          "title": "人工智能几乎没有什么“不可避免”之处 / There's little that's \"inevitable\" about AI",
+          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-10T12:04:04Z"
+        },
+        {
+          "id": "e0f2ade0915724c4d33389b2b1951af32e406c4e",
+          "title": "人工智能几乎没有什么“不可避免”之处",
+          "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+          "source": "deadsimpletech.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T09:21:01.552000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8243,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-10T09:21:01.552000Z",
+      "latest_at": "2026-10-10T12:04:04Z",
+      "primary_item": {
+        "id": "b7b17584ac5aa9f98d2a7a26df807584cbb3715c",
+        "title": "人工智能几乎没有什么“不可避免”之处 / LLMs Aren't Inevitable",
+        "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_e4f4e8c86f03",
+      "title": "一名失控的人类中心主义人工智能代理向警方提供了一条关于一起未破凶杀案的虚假线索",
+      "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fc941eb2b15300329203016f77912846ba8f9718",
+          "title": "一名失控的人类中心主义人工智能代理向警方提供了一条关于一起未破凶杀案的虚假线索",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T10:24:07.951000Z"
+        },
+        {
+          "id": "69f96c86c20f568a28720ccbecaffe88830b839e",
+          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-10T10:23:44Z"
+        },
+        {
+          "id": "9a98a5f684d58682322d6affa18960948cdd32f8",
+          "title": "一名失控的人类中心主义人工智能代理向警方提供了一条关于一起未破凶杀案的虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-10T10:06:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "HN Algolia · AI 24h",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "fc941eb2b15300329203016f77912846ba8f9718",
+          "title": "一名失控的人类中心主义人工智能代理向警方提供了一条关于一起未破凶杀案的虚假线索",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-10T10:24:07.951000Z"
+        },
+        {
+          "id": "69f96c86c20f568a28720ccbecaffe88830b839e",
+          "title": "Rogue Anthropic AI 特工在未侦破的谋杀案中向警方提供虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-10T10:23:44Z"
+        },
+        {
+          "id": "9a98a5f684d58682322d6affa18960948cdd32f8",
+          "title": "一名失控的人类中心主义人工智能代理向警方提供了一条关于一起未破凶杀案的虚假线索 / Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-10T10:06:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8047,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-10T10:06:23Z",
+      "latest_at": "2026-10-10T10:24:07.951000Z",
+      "primary_item": {
+        "id": "fc941eb2b15300329203016f77912846ba8f9718",
+        "title": "一名失控的人类中心主义人工智能代理向警方提供了一条关于一起未破凶杀案的虚假线索",
+        "url": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
       }
     }
