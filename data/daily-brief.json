@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T19:54:38.505473Z",
+  "generated_at": "2026-10-14T22:55:00.201944Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8434,
+      "importance": 0.8434,
+      "importance_score": 0.8434,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.948,
+        "recency": 0.9077,
         "story_heat": 0.0
       },
       "category": "official",
@@ -66,83 +66,21 @@
       }
     },
     {
-      "story_id": "story_a0e0fec2c2b5",
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "primary_url": "https://openai.com/index/amp-beyond-coding",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "url": "https://openai.com/index/amp-beyond-coding",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-          "title": "Amp puts AI agents to work beyond code with OpenAI models",
-          "url": "https://openai.com/index/amp-beyond-coding",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.892,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-14T12:00:00Z",
-      "latest_at": "2026-10-14T12:00:00Z",
-      "primary_item": {
-        "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
-        "title": "Amp puts AI agents to work beyond code with OpenAI models",
-        "url": "https://openai.com/index/amp-beyond-coding",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a3b7e4ededda",
-      "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "story_id": "story_116eea760bcf",
+      "title": "HydraFusion updates and new Max option",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
+      "primary_url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion updates and new Max option",
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
+          "published_at": "2026-10-14T20:01:35Z"
         }
       ],
       "source_count": 1,
@@ -151,26 +89,26 @@
       ],
       "items": [
         {
-          "id": "502bc892b0915388933022ba86cb435c84eda79f",
-          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion updates and new Max option",
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T13:49:15Z"
+          "published_at": "2026-10-14T20:01:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9158,
+        "recency": 0.9591,
         "story_heat": 0.0
       },
       "category": "official",
@@ -179,13 +117,95 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T13:49:15Z",
-      "latest_at": "2026-10-14T13:49:15Z",
+      "earliest_at": "2026-10-14T20:01:35Z",
+      "latest_at": "2026-10-14T20:01:35Z",
       "primary_item": {
-        "id": "502bc892b0915388933022ba86cb435c84eda79f",
-        "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
-        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+        "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+        "title": "HydraFusion updates and new Max option",
+        "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2f3282e48314",
+      "title": "欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "primary_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f58baf37454fff51e0d529ecb8486dbc87d1a628",
+          "title": "欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T00:00:00Z"
+        },
+        {
+          "id": "47440fddcc48dc009381c8552f371c01405d52d0",
+          "title": "欧盟人工智能的下一章是代理 / The EU's next chapter in AI is agentic",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f58baf37454fff51e0d529ecb8486dbc87d1a628",
+          "title": "欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T00:00:00Z"
+        },
+        {
+          "id": "47440fddcc48dc009381c8552f371c01405d52d0",
+          "title": "欧盟人工智能的下一章是代理 / The EU's next chapter in AI is agentic",
+          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7183,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T00:00:00Z",
+      "latest_at": "2026-10-14T10:58:23.121979Z",
+      "primary_item": {
+        "id": "f58baf37454fff51e0d529ecb8486dbc87d1a628",
+        "title": "欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -243,15 +263,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7721,
+        "recency": 0.7393,
         "story_heat": 0.25
       },
       "category": "official",
@@ -306,15 +326,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.8193,
+      "importance": 0.8193,
+      "importance_score": 0.8193,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7501,
+        "recency": 0.7183,
         "story_heat": 0.0
       },
       "category": "official",
@@ -387,15 +407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9841,
+        "recency": 0.9423,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -412,6 +432,130 @@
         "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a0e0fec2c2b5",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "primary_url": "https://openai.com/index/amp-beyond-coding",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "url": "https://openai.com/index/amp-beyond-coding",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8542,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T12:00:00Z",
+      "latest_at": "2026-10-14T12:00:00Z",
+      "primary_item": {
+        "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "url": "https://openai.com/index/amp-beyond-coding",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a3b7e4ededda",
+      "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "502bc892b0915388933022ba86cb435c84eda79f",
+          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T13:49:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "502bc892b0915388933022ba86cb435c84eda79f",
+          "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T13:49:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8769,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T13:49:15Z",
+      "latest_at": "2026-10-14T13:49:15Z",
+      "primary_item": {
+        "id": "502bc892b0915388933022ba86cb435c84eda79f",
+        "title": "公共预览版中的 GitHub Actions 工作流程锁定文件 / GitHub Actions workflow lockfiles in public preview",
+        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -449,15 +593,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.892,
+        "recency": 0.8542,
         "story_heat": 0.0
       },
       "category": "official",
@@ -477,85 +621,64 @@
       }
     },
     {
-      "story_id": "story_2f3282e48314",
-      "title": "欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "primary_url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_39ece297a3fc",
+      "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+      "url": "https://x.com/GeminiApp/status/2110491358498865638",
+      "primary_url": "https://x.com/GeminiApp/status/2110491358498865638",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f58baf37454fff51e0d529ecb8486dbc87d1a628",
-          "title": "欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic",
-          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T00:00:00Z"
-        },
-        {
-          "id": "47440fddcc48dc009381c8552f371c01405d52d0",
-          "title": "欧盟人工智能的下一章是代理 / The EU's next chapter in AI is agentic",
-          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
+          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+          "url": "https://x.com/GeminiApp/status/2110491358498865638",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T22:02:05Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
+        "X：Gemini (@GeminiApp)"
       ],
       "items": [
         {
-          "id": "f58baf37454fff51e0d529ecb8486dbc87d1a628",
-          "title": "欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic",
-          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-14T00:00:00Z"
-        },
-        {
-          "id": "47440fddcc48dc009381c8552f371c01405d52d0",
-          "title": "欧盟人工智能的下一章是代理 / The EU's next chapter in AI is agentic",
-          "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
+          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+          "url": "https://x.com/GeminiApp/status/2110491358498865638",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T22:02:05Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
-      "importance_label": "官方更新",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7653,
+      "importance": 0.7653,
+      "importance_score": 0.7653,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7501,
-        "story_heat": 0.25
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9873,
+        "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T00:00:00Z",
-      "latest_at": "2026-10-14T10:58:23.121979Z",
+      "earliest_at": "2026-10-14T22:02:05Z",
+      "latest_at": "2026-10-14T22:02:05Z",
       "primary_item": {
-        "id": "f58baf37454fff51e0d529ecb8486dbc87d1a628",
-        "title": "欧盟人工智能的下一章是代理 / The EU’s next chapter in AI is agentic",
-        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
+        "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+        "url": "https://x.com/GeminiApp/status/2110491358498865638",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -612,15 +735,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7708,
-      "importance": 0.7708,
-      "importance_score": 0.7708,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8789,
+        "recency": 0.8416,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -637,149 +760,6 @@
         "url": "https://www.aibase.com/news/31642",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0acb22f373dc",
-      "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-      "primary_url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e54186c69698777285914474fa2a37da8baf9f91",
-          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T23:17:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e54186c69698777285914474fa2a37da8baf9f91",
-          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-13T23:17:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7426,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T23:17:55Z",
-      "latest_at": "2026-10-13T23:17:55Z",
-      "primary_item": {
-        "id": "e54186c69698777285914474fa2a37da8baf9f91",
-        "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
-        "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_981568487b76",
-      "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
-      "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-      "primary_url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-      "source": "404 Media（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f4a3e9592ee46fe829909fca7b0eee3e9cc03d57",
-          "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
-          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T20:06:53Z"
-        },
-        {
-          "id": "69143f404de8c20f25598f125699369951e27a5b",
-          "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-14T15:39:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "404 Media（RSS）",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "f4a3e9592ee46fe829909fca7b0eee3e9cc03d57",
-          "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
-          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-          "source": "404 Media（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-13T20:06:53Z"
-        },
-        {
-          "id": "69143f404de8c20f25598f125699369951e27a5b",
-          "title": "Character.ai 破产文件显示 AI 商业模式难以为继 / Character.ai's Bankruptcy Documents Show the Economics of AI Don't Work",
-          "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-14T15:39:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7673,
-      "importance": 0.7673,
-      "importance_score": 0.7673,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7092,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-13T20:06:53Z",
-      "latest_at": "2026-10-14T15:39:45Z",
-      "primary_item": {
-        "id": "f4a3e9592ee46fe829909fca7b0eee3e9cc03d57",
-        "title": "Character.ai 破产文件显示 AI 商业模式难以为继",
-        "url": "https://www.404media.co/character-ais-bankruptcy-documents-show-the-economics-of-ai-dont-work",
-        "source": "404 Media（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -817,15 +797,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7831,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -840,6 +820,187 @@
         "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
         "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4aa2d1f49f31",
+      "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+      "url": "https://x.com/lydiahallie/status/2110484841926152622",
+      "primary_url": "https://x.com/lydiahallie/status/2110484841926152622",
+      "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
+          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+          "url": "https://x.com/lydiahallie/status/2110484841926152622",
+          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T21:36:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)"
+      ],
+      "items": [
+        {
+          "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
+          "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+          "url": "https://x.com/lydiahallie/status/2110484841926152622",
+          "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T21:36:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7552,
+      "importance": 0.7552,
+      "importance_score": 0.7552,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9812,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T21:36:11Z",
+      "latest_at": "2026-10-14T21:36:11Z",
+      "primary_item": {
+        "id": "0a000ac66d76a52b422de1e871659a362d9b9673",
+        "title": "Claude Code 空闲压缩从摘要继续，可用 idleCompaction 关闭并自定义阈值",
+        "url": "https://x.com/lydiahallie/status/2110484841926152622",
+        "source": "X：Lydia Hallie（Anthropic，Claude Code） (@lydiahallie)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_74660197f3ec",
+      "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+      "url": "https://x.com/elonmusk/status/2110483960312799675",
+      "primary_url": "https://x.com/elonmusk/status/2110483960312799675",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b53e7cdfbe3bb806b9f0cab47f6872614794ae45",
+          "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+          "url": "https://x.com/elonmusk/status/2110483960312799675",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T21:32:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "b53e7cdfbe3bb806b9f0cab47f6872614794ae45",
+          "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+          "url": "https://x.com/elonmusk/status/2110483960312799675",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T21:32:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9804,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-14T21:32:41Z",
+      "latest_at": "2026-10-14T21:32:41Z",
+      "primary_item": {
+        "id": "b53e7cdfbe3bb806b9f0cab47f6872614794ae45",
+        "title": "Musk 称 Grok Voice 3.0 登顶 Artificial Analysis 语音模型评测",
+        "url": "https://x.com/elonmusk/status/2110483960312799675",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_651673b2ec97",
+      "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+      "url": "https://x.com/arena/status/2110465487914295770",
+      "primary_url": "https://x.com/arena/status/2110465487914295770",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f3fb51e28260fc7d6d3a83cc163b73ac050cde4c",
+          "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+          "url": "https://x.com/arena/status/2110465487914295770",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T20:19:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "f3fb51e28260fc7d6d3a83cc163b73ac050cde4c",
+          "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+          "url": "https://x.com/arena/status/2110465487914295770",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T20:19:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9632,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-14T20:19:17Z",
+      "latest_at": "2026-10-14T20:19:17Z",
+      "primary_item": {
+        "id": "f3fb51e28260fc7d6d3a83cc163b73ac050cde4c",
+        "title": "Meta 的 Muse Wonder (Max) 以 +6.4% 净提升进入 Agent Arena 第12名",
+        "url": "https://x.com/arena/status/2110465487914295770",
+        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
@@ -878,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9649,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,15 +1099,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7342,
+      "importance": 0.7342,
+      "importance_score": 0.7342,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9028,
+        "recency": 0.8645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,15 +1177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8741,
+        "recency": 0.8369,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1078,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7388,
+        "recency": 0.7074,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1104,229 +1265,49 @@
       }
     },
     {
-      "story_id": "story_540c7947476a",
-      "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-      "url": "https://x.com/Khazix0918/status/2110174495420064055",
-      "primary_url": "https://x.com/Khazix0918/status/2110174495420064055",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
-          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "url": "https://x.com/Khazix0918/status/2110174495420064055",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T01:02:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
-          "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-          "url": "https://x.com/Khazix0918/status/2110174495420064055",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T01:02:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7616,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T01:02:59Z",
-      "latest_at": "2026-10-14T01:02:59Z",
-      "primary_item": {
-        "id": "776ceebc5b516ca479378270a5ea0dc3c32eda5e",
-        "title": "Gemini 4 Argon 全面开放，作者实测后认为难以撼动 Claude Opus 5.5 和 GPT-6 Astra",
-        "url": "https://x.com/Khazix0918/status/2110174495420064055",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_378737ffe80d",
-      "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-      "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "primary_url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-      "source": "MIT News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-          "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MIT News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-          "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-          "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-          "source": "MIT News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9315,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T15:00:00Z",
-      "latest_at": "2026-10-14T15:00:00Z",
-      "primary_item": {
-        "id": "58cd426374bf0da5060b40565d4dc4286c619c0d",
-        "title": "MIT团队用机器学习修正误差，将两到六周天气预报准确率翻倍",
-        "url": "https://news.mit.edu/2026/researchers-improve-weather-forecasts-looking-two-six-weeks-out-1014",
-        "source": "MIT News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_284b4849470f",
-      "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-      "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-      "primary_url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-      "source": "LangChain：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fe5963bba30276f89590c4bbcda15e6a64cd0511",
-          "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-          "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T17:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LangChain：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fe5963bba30276f89590c4bbcda15e6a64cd0511",
-          "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-          "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-          "source": "LangChain：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-14T17:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.63,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9588,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-14T17:00:00Z",
-      "latest_at": "2026-10-14T17:00:00Z",
-      "primary_item": {
-        "id": "fe5963bba30276f89590c4bbcda15e6a64cd0511",
-        "title": "LangChain 详解 Deep Agents 的上下文工程：如何记住信息而不塞满上下文窗口",
-        "url": "https://www.langchain.com/blog/context-engineering-deep-agents-remember",
-        "source": "LangChain：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e181547094b0",
-      "title": "Third Moment Research 如何让 10,000 个代理运行 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
-      "url": "https://openai.com/index/third-moment-research",
-      "primary_url": "https://openai.com/index/third-moment-research",
-      "source": "OpenAI News",
+      "story_id": "story_0acb22f373dc",
+      "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+      "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "primary_url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
-          "title": "Third Moment Research 如何让 10,000 个代理运行 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
-          "url": "https://openai.com/index/third-moment-research",
-          "source": "OpenAI News",
+          "id": "e54186c69698777285914474fa2a37da8baf9f91",
+          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T07:00:00Z"
+          "published_at": "2026-10-13T23:17:55Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
-          "title": "Third Moment Research 如何让 10,000 个代理运行 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
-          "url": "https://openai.com/index/third-moment-research",
-          "source": "OpenAI News",
+          "id": "e54186c69698777285914474fa2a37da8baf9f91",
+          "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+          "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-14T07:00:00Z"
+          "published_at": "2026-10-13T23:17:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8299,
+        "ai_relevance": 0.87,
+        "recency": 0.711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1335,13 +1316,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-14T07:00:00Z",
-      "latest_at": "2026-10-14T07:00:00Z",
+      "earliest_at": "2026-10-13T23:17:55Z",
+      "latest_at": "2026-10-13T23:17:55Z",
       "primary_item": {
-        "id": "14e1ae7e75baefecf46f87a03ea2ead230ddc485",
-        "title": "Third Moment Research 如何让 10,000 个代理运行 36 个小时以上 / How Third Moment Research runs 10,000 agents for 36+ hours",
-        "url": "https://openai.com/index/third-moment-research",
-        "source": "OpenAI News",
+        "id": "e54186c69698777285914474fa2a37da8baf9f91",
+        "title": "GitHub 应用程序的最小权限和管理改进 / GitHub App improvements for least privilege and management",
+        "url": "https://github.blog/changelog/2026-10-13-github-app-improvements-for-least-privilege-and-management",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     }
