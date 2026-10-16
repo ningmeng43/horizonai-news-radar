@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-10-16T10:00:24.731006Z",
+  "generated_at": "2026-10-16T14:57:05.680282Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_5c6d7a0c4df6",
+      "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+      "primary_url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
+          "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T02:16:35Z"
+        },
+        {
+          "id": "bbffe038e3adac029bd1d7e8cebeacebd0740571",
+          "title": "Slack 和 Teams 中对 GitHub 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub in Slack and Teams",
+          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T02:16:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
+          "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T02:16:35Z"
+        },
+        {
+          "id": "bbffe038e3adac029bd1d7e8cebeacebd0740571",
+          "title": "Slack 和 Teams 中对 GitHub 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub in Slack and Teams",
+          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T02:16:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8469,
+      "importance": 0.8469,
+      "importance_score": 0.8469,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8327,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T02:16:35Z",
+      "latest_at": "2026-10-16T02:16:35Z",
+      "primary_item": {
+        "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
+        "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
+        "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_ba4e7337aba2",
       "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
@@ -38,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8876,
+        "recency": 0.8264,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +143,6 @@
         "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
         "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5c6d7a0c4df6",
-      "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "primary_url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-          "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-          "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8944,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T02:16:35Z",
-      "latest_at": "2026-10-16T02:16:35Z",
-      "primary_item": {
-        "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-        "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-        "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8052,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,6 +205,68 @@
         "title": "将 GPT-Rosalind 引入学术研究实验室 / Bringing GPT-Rosalind to academic research labs",
         "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f70342f0ac6b",
+      "title": "开源许可证合规性已普遍可用 / Open source license compliance generally available",
+      "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b82843c2f38496c6dc4ac729808f89f62ea31845",
+          "title": "开源许可证合规性已普遍可用 / Open source license compliance generally available",
+          "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T14:00:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b82843c2f38496c6dc4ac729808f89f62ea31845",
+          "title": "开源许可证合规性已普遍可用 / Open source license compliance generally available",
+          "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T14:00:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9865,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T14:00:32Z",
+      "latest_at": "2026-10-16T14:00:32Z",
+      "primary_item": {
+        "id": "b82843c2f38496c6dc4ac729808f89f62ea31845",
+        "title": "开源许可证合规性已普遍可用 / Open source license compliance generally available",
+        "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -243,15 +324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.977,
+        "recency": 0.9097,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -271,8 +352,70 @@
       }
     },
     {
+      "story_id": "story_849b423196d1",
+      "title": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型 / Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "primary_url": "https://huggingface.co/blog/reflection-beam",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95491a4527855e05ea7d028887b6961c55e82c89",
+          "title": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型 / Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "95491a4527855e05ea7d028887b6961c55e82c89",
+          "title": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型 / Welcome Beam: a 501B open model you can own, customize, and scale",
+          "url": "https://huggingface.co/blog/reflection-beam",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8058,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T00:00:00Z",
+      "latest_at": "2026-10-16T00:00:00Z",
+      "primary_item": {
+        "id": "95491a4527855e05ea7d028887b6961c55e82c89",
+        "title": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型 / Welcome Beam: a 501B open model you can own, customize, and scale",
+        "url": "https://huggingface.co/blog/reflection-beam",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
       "story_id": "story_1d4cff712a9a",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
       "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
       "primary_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
       "source": "Google DeepMind",
@@ -280,7 +423,7 @@
       "sources": [
         {
           "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
-          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
           "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
@@ -295,7 +438,7 @@
       "items": [
         {
           "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
-          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
           "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
@@ -305,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8031,
-      "importance": 0.8031,
-      "importance_score": 0.8031,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7725,
+        "recency": 0.7193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -326,71 +469,9 @@
       "latest_at": "2026-10-15T16:08:03Z",
       "primary_item": {
         "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
-        "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+        "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
         "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a01e02239da0",
-      "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
-          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T20:34:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
-          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T20:34:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8282,
-      "importance": 0.8282,
-      "importance_score": 0.8282,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8236,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T20:34:01Z",
-      "latest_at": "2026-10-15T20:34:01Z",
-      "primary_item": {
-        "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
-        "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -448,15 +529,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9311,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -476,208 +557,126 @@
       }
     },
     {
-      "story_id": "story_818ecaf77f93",
-      "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "primary_url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:35:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:35:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.812,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T19:35:13Z",
-      "latest_at": "2026-10-15T19:35:13Z",
-      "primary_item": {
-        "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-        "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-        "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fa14b8f7db46",
-      "title": "Teaching students to think and learn through questions",
-      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "primary_url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
-          "title": "Teaching students to think and learn through questions",
-          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
-          "title": "Teaching students to think and learn through questions",
-          "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7383,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T13:00:00Z",
-      "latest_at": "2026-10-15T13:00:00Z",
-      "primary_item": {
-        "id": "acdde6aba6525f9d00a39deac8f0d8c9aaac39c0",
-        "title": "Teaching students to think and learn through questions",
-        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_faf4d5dfcd6c",
-      "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "primary_url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "source": "The Verge：AI（RSS）",
+      "story_id": "story_7fcb7288fa56",
+      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+      "source": "NVIDIA：Newsroom（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "eb65cb4b924ec64c238300f8c3aa0258fa9880f6",
-          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
-          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-          "source": "The Verge：AI（RSS）",
+          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "source": "NVIDIA：Newsroom（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-15T11:00:00Z"
-        },
-        {
-          "id": "c7d5f647cfb008f44a26cbf0f40683b51bb38157",
-          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-15T11:00:00Z"
+          "published_at": "2026-10-16T12:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
+        "NVIDIA：Newsroom（RSS）"
       ],
       "items": [
         {
-          "id": "eb65cb4b924ec64c238300f8c3aa0258fa9880f6",
-          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
-          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-          "source": "The Verge：AI（RSS）",
+          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+          "source": "NVIDIA：Newsroom（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-15T11:00:00Z"
-        },
-        {
-          "id": "c7d5f647cfb008f44a26cbf0f40683b51bb38157",
-          "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持 / Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-          "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-15T11:00:00Z"
+          "published_at": "2026-10-16T12:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7657,
-      "importance": 0.7657,
-      "importance_score": 0.7657,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.8,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7173,
-        "story_heat": 0.25
+        "recency": 0.9583,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-15T11:00:00Z",
-      "latest_at": "2026-10-15T11:00:00Z",
+      "earliest_at": "2026-10-16T12:00:00Z",
+      "latest_at": "2026-10-16T12:00:00Z",
       "primary_item": {
-        "id": "eb65cb4b924ec64c238300f8c3aa0258fa9880f6",
-        "title": "The Verge 实测 Eiliko 机器人玩具：68000 台设备数据可被任意访问并可远程劫持",
-        "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-        "source": "The Verge：AI（RSS）",
+        "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
+        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
+        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
+        "source": "NVIDIA：Newsroom（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a01e02239da0",
+      "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
+          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T20:34:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
+          "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T20:34:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7668,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T20:34:01Z",
+      "latest_at": "2026-10-15T20:34:01Z",
+      "primary_item": {
+        "id": "18a16d20b4ae3024a4c04d2b32eb3070f6a76f16",
+        "title": "Granite Switch 4.1：来自一个端点的聊天、决策和语音 / Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -715,15 +714,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7928,
+        "recency": 0.7382,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -738,6 +737,67 @@
         "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
         "url": "https://pytorch.org/blog/muse-spark-open",
         "source": "PyTorch：Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_92a0c66fbd5f",
+      "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
+      "url": "https://x.com/OpenRouter/status/2110793354154008685",
+      "primary_url": "https://x.com/OpenRouter/status/2110793354154008685",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
+          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
+          "url": "https://x.com/OpenRouter/status/2110793354154008685",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T18:02:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
+          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
+          "url": "https://x.com/OpenRouter/status/2110793354154008685",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T18:02:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7393,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T18:02:06Z",
+      "latest_at": "2026-10-15T18:02:06Z",
+      "primary_item": {
+        "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
+        "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
+        "url": "https://x.com/OpenRouter/status/2110793354154008685",
+        "source": "X：OpenRouter (@OpenRouter)",
         "source_name": "AI HOT"
       }
     },
@@ -795,15 +855,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7802,
+      "importance": 0.7802,
+      "importance_score": 0.7802,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9311,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -820,67 +880,6 @@
         "url": "https://www.aibase.com/news/31700",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_92a0c66fbd5f",
-      "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2110793354154008685",
-      "primary_url": "https://x.com/OpenRouter/status/2110793354154008685",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
-          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2110793354154008685",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:02:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
-          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2110793354154008685",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:02:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7605,
-      "importance": 0.7605,
-      "importance_score": 0.7605,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.794,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T18:02:06Z",
-      "latest_at": "2026-10-15T18:02:06Z",
-      "primary_item": {
-        "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
-        "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-        "url": "https://x.com/OpenRouter/status/2110793354154008685",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -918,21 +917,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7486,
+      "importance": 0.7486,
+      "importance_score": 0.7486,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8174,
+        "recency": 0.7611,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-15T20:02:51Z",
       "latest_at": "2026-10-15T20:02:51Z",
@@ -942,6 +940,68 @@
         "url": "https://x.com/ChatGPT/status/2110823738531037651",
         "source": "X：ChatGPT (@ChatGPT)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_818ecaf77f93",
+      "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "primary_url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
+          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
+          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T19:35:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
+          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
+          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T19:35:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7561,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T19:35:13Z",
+      "latest_at": "2026-10-15T19:35:13Z",
+      "primary_item": {
+        "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
+        "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
+        "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -979,21 +1039,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.746,
+      "importance": 0.746,
+      "importance_score": 0.746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8915,
+        "recency": 0.83,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T02:03:07Z",
       "latest_at": "2026-10-16T02:03:07Z",
@@ -1003,68 +1062,6 @@
         "url": "https://x.com/Khazix0918/status/2110914404393091205",
         "source": "X：卡兹克 (@Khazix0918)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a0a3bd711ccb",
-      "title": "将 GitHub 代码质量许可证使用情况下载为 CSV / Download GitHub Code Quality license usage as a CSV",
-      "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
-      "primary_url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1e8364e172ac1d52eec01eb2a7a2f992bb1f8740",
-          "title": "将 GitHub 代码质量许可证使用情况下载为 CSV / Download GitHub Code Quality license usage as a CSV",
-          "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T20:11:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1e8364e172ac1d52eec01eb2a7a2f992bb1f8740",
-          "title": "将 GitHub 代码质量许可证使用情况下载为 CSV / Download GitHub Code Quality license usage as a CSV",
-          "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T20:11:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8191,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T20:11:26Z",
-      "latest_at": "2026-10-15T20:11:26Z",
-      "primary_item": {
-        "id": "1e8364e172ac1d52eec01eb2a7a2f992bb1f8740",
-        "title": "将 GitHub 代码质量许可证使用情况下载为 CSV / Download GitHub Code Quality license usage as a CSV",
-        "url": "https://github.blog/changelog/2026-10-15-download-github-code-quality-license-usage-as-a-csv",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1102,21 +1099,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8692,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T00:18:00Z",
       "latest_at": "2026-10-16T00:18:00Z",
@@ -1163,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7974,
+        "recency": 0.7424,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1189,63 +1185,62 @@
       }
     },
     {
-      "story_id": "story_5f1365d94749",
-      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-      "url": "https://www.ithome.com/1/013/914.htm",
-      "primary_url": "https://www.ithome.com/1/013/914.htm",
-      "source": "IT之家·人工智能",
+      "story_id": "story_8d90e8324fc8",
+      "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+      "url": "https://ollama.com/blog/reflection-beam",
+      "primary_url": "https://ollama.com/blog/reflection-beam",
+      "source": "Ollama：Blog（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
-          "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-          "url": "https://www.ithome.com/1/013/914.htm",
-          "source": "IT之家·人工智能",
+          "id": "a1f06eb65b65bc9318f9ad66e58cb26cd9f677bd",
+          "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+          "url": "https://ollama.com/blog/reflection-beam",
+          "source": "Ollama：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T06:14:36.073000Z"
+          "published_at": "2026-10-16T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家·人工智能"
+        "Ollama：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
-          "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-          "url": "https://www.ithome.com/1/013/914.htm",
-          "source": "IT之家·人工智能",
+          "id": "a1f06eb65b65bc9318f9ad66e58cb26cd9f677bd",
+          "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+          "url": "https://ollama.com/blog/reflection-beam",
+          "source": "Ollama：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T06:14:36.073000Z"
+          "published_at": "2026-10-16T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9471,
+        "recency": 0.8058,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-16T06:14:36.073000Z",
-      "latest_at": "2026-10-16T06:14:36.073000Z",
+      "earliest_at": "2026-10-16T00:00:00Z",
+      "latest_at": "2026-10-16T00:00:00Z",
       "primary_item": {
-        "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
-        "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
-        "url": "https://www.ithome.com/1/013/914.htm",
-        "source": "IT之家·人工智能",
+        "id": "a1f06eb65b65bc9318f9ad66e58cb26cd9f677bd",
+        "title": "Reflection 开源权重模型 Beam 上架 Ollama，限时免费可用",
+        "url": "https://ollama.com/blog/reflection-beam",
+        "source": "Ollama：Blog（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -1284,15 +1279,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7394,
-      "importance": 0.7394,
-      "importance_score": 0.7394,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.76,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "industry",
