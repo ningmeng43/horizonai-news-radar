@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T14:57:05.680282Z",
+  "generated_at": "2026-10-16T18:36:52.319574Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,15 +56,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8469,
-      "importance": 0.8469,
-      "importance_score": 0.8469,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8327,
+        "recency": 0.7898,
         "story_heat": 0.25
       },
       "category": "official",
@@ -119,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8211,
+      "importance": 0.8211,
+      "importance_score": 0.8211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8264,
+        "recency": 0.7838,
         "story_heat": 0.0
       },
       "category": "official",
@@ -181,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7497,
+        "recency": 0.7111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8416,
-      "importance": 0.8416,
-      "importance_score": 0.8416,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9865,
+        "recency": 0.9357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -324,15 +324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9097,
+        "recency": 0.8628,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -386,15 +386,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.825,
-      "importance": 0.825,
-      "importance_score": 0.825,
+      "score": 0.8176,
+      "importance": 0.8176,
+      "importance_score": 0.8176,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8058,
+        "recency": 0.7643,
         "story_heat": 0.0
       },
       "category": "official",
@@ -410,68 +410,6 @@
         "title": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型 / Welcome Beam: a 501B open model you can own, customize, and scale",
         "url": "https://huggingface.co/blog/reflection-beam",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_1d4cff712a9a",
-      "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-      "primary_url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
-          "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T16:08:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
-          "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
-          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T16:08:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7193,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T16:08:03Z",
-      "latest_at": "2026-10-15T16:08:03Z",
-      "primary_item": {
-        "id": "0ed9013b81a41d17bc7bbad7777463b754dc5203",
-        "title": "利用 Google Antigravity 加速抗菌肽的搜索 / Accelerating the search for antimicrobial peptides with Google Antigravity",
-        "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery",
-        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -529,15 +467,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -591,15 +529,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9583,
+        "recency": 0.9089,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -615,6 +553,68 @@
         "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
         "source": "NVIDIA：Newsroom（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_038384fba558",
+      "title": "Xcode 27 runner image generally available",
+      "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
+          "title": "Xcode 27 runner image generally available",
+          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T04:36:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
+          "title": "Xcode 27 runner image generally available",
+          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T04:36:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8169,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T04:36:30Z",
+      "latest_at": "2026-10-16T04:36:30Z",
+      "primary_item": {
+        "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
+        "title": "Xcode 27 runner image generally available",
+        "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -652,15 +652,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8109,
+      "importance": 0.8109,
+      "importance_score": 0.8109,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7668,
+        "recency": 0.7273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -677,128 +677,6 @@
         "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_7b4e8f58fbe6",
-      "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-      "url": "https://pytorch.org/blog/muse-spark-open",
-      "primary_url": "https://pytorch.org/blog/muse-spark-open",
-      "source": "PyTorch：Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ddbc4149c532faa82463715083d799711d1fd837",
-          "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-          "url": "https://pytorch.org/blog/muse-spark-open",
-          "source": "PyTorch：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T17:55:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "PyTorch：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ddbc4149c532faa82463715083d799711d1fd837",
-          "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-          "url": "https://pytorch.org/blog/muse-spark-open",
-          "source": "PyTorch：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T17:55:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7382,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T17:55:52Z",
-      "latest_at": "2026-10-15T17:55:52Z",
-      "primary_item": {
-        "id": "ddbc4149c532faa82463715083d799711d1fd837",
-        "title": "Meta 发布开源权重模型 Muse Spark Open，816B 参数、1M 上下文",
-        "url": "https://pytorch.org/blog/muse-spark-open",
-        "source": "PyTorch：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_92a0c66fbd5f",
-      "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-      "url": "https://x.com/OpenRouter/status/2110793354154008685",
-      "primary_url": "https://x.com/OpenRouter/status/2110793354154008685",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
-          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2110793354154008685",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:02:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
-          "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-          "url": "https://x.com/OpenRouter/status/2110793354154008685",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:02:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.82,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7393,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-15T18:02:06Z",
-      "latest_at": "2026-10-15T18:02:06Z",
-      "primary_item": {
-        "id": "7dd2806d4c202639c47ed3420c35f7e75ce674d9",
-        "title": "Meta 开放权重模型 Muse Spark Open 上架 OpenRouter",
-        "url": "https://x.com/OpenRouter/status/2110793354154008685",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -855,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9311,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -917,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7611,
+        "recency": 0.7219,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -943,65 +821,83 @@
       }
     },
     {
-      "story_id": "story_818ecaf77f93",
-      "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "primary_url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f6042d12a62b",
+      "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+      "primary_url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+      "source": "Waymo：Blog（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:35:13Z"
+          "id": "3e43a73eedcc1aa2770320cebf07c8532e011d56",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Waymo：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T07:00:00Z"
+        },
+        {
+          "id": "923ef3500f6f7b07c2e3966cb347a24eeb483d8d",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客 / Hello Toronto – Waymo Is En Route",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T14:44:17Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News · 24h最热",
+        "Waymo：Blog（网页）"
       ],
       "items": [
         {
-          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-15T19:35:13Z"
+          "id": "3e43a73eedcc1aa2770320cebf07c8532e011d56",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Waymo：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T07:00:00Z"
+        },
+        {
+          "id": "923ef3500f6f7b07c2e3966cb347a24eeb483d8d",
+          "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客 / Hello Toronto – Waymo Is En Route",
+          "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T14:44:17Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7561,
-        "story_heat": 0.0
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8456,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T19:35:13Z",
-      "latest_at": "2026-10-15T19:35:13Z",
+      "earliest_at": "2026-10-16T07:00:00Z",
+      "latest_at": "2026-10-16T14:44:17Z",
       "primary_item": {
-        "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
-        "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
-        "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "3e43a73eedcc1aa2770320cebf07c8532e011d56",
+        "title": "Waymo 宣布进军多伦多，计划2028年迎接首批乘客",
+        "url": "https://waymo.com/blog/2026/10/waymo-in-toronto",
+        "source": "Waymo：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -1039,15 +935,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.83,
+        "recency": 0.7873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1099,15 +995,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8093,
+        "recency": 0.7676,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,66 +1017,6 @@
         "title": "可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考",
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198",
         "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fda00c156ca1",
-      "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-      "url": "https://x.com/arena/status/2110797782953132049",
-      "primary_url": "https://x.com/arena/status/2110797782953132049",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "510e056148149e7ac6521b31323270ec3d53101e",
-          "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-          "url": "https://x.com/arena/status/2110797782953132049",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:19:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "510e056148149e7ac6521b31323270ec3d53101e",
-          "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-          "url": "https://x.com/arena/status/2110797782953132049",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-15T18:19:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7424,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-15T18:19:42Z",
-      "latest_at": "2026-10-15T18:19:42Z",
-      "primary_item": {
-        "id": "510e056148149e7ac6521b31323270ec3d53101e",
-        "title": "Muse Spark Open 上架 Arena，可在 Agent Arena 实测，评分即将公布",
-        "url": "https://x.com/arena/status/2110797782953132049",
-        "source": "X：Arena (@arena)",
         "source_name": "AI HOT"
       }
     },
@@ -1219,15 +1055,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7252,
+      "importance": 0.7252,
+      "importance_score": 0.7252,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8058,
+        "recency": 0.7643,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1245,63 +1081,267 @@
       }
     },
     {
-      "story_id": "story_d0a00342ca12",
-      "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "primary_url": "https://bfl.ai/blog/flux-3-image-klein",
-      "source": "Black Forest Labs：Blog（网页）",
+      "story_id": "story_5f1365d94749",
+      "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+      "url": "https://www.ithome.com/1/013/914.htm",
+      "primary_url": "https://www.ithome.com/1/013/914.htm",
+      "source": "IT之家·人工智能",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a9dc3b7c7e3561d7b895c077178529073614b29c",
-          "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "Black Forest Labs：Blog（网页）",
+          "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
+          "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+          "url": "https://www.ithome.com/1/013/914.htm",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-15T15:00:00Z"
+          "published_at": "2026-10-16T06:14:36.073000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Black Forest Labs：Blog（网页）"
+        "IT之家·人工智能"
       ],
       "items": [
         {
-          "id": "a9dc3b7c7e3561d7b895c077178529073614b29c",
-          "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-          "url": "https://bfl.ai/blog/flux-3-image-klein",
-          "source": "Black Forest Labs：Blog（网页）",
+          "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
+          "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+          "url": "https://www.ithome.com/1/013/914.htm",
+          "source": "IT之家·人工智能",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-15T15:00:00Z"
+          "published_at": "2026-10-16T06:14:36.073000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7076,
+        "recency": 0.8364,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T06:14:36.073000Z",
+      "latest_at": "2026-10-16T06:14:36.073000Z",
+      "primary_item": {
+        "id": "6c4432dac24f33940cb963c8bca5dd52164ebe87",
+        "title": "丹麦最高法院裁定持有传播 AI 生成儿童色情内容可判实刑",
+        "url": "https://www.ithome.com/1/013/914.htm",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_53ba81b124a0",
+      "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
+      "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
+      "primary_url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
+      "source": "a16z：News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "aaafea4ab7c61be4f4e1ab35bad8ca54646fc4c1",
+          "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
+          "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T14:00:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "a16z：News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "aaafea4ab7c61be4f4e1ab35bad8ca54646fc4c1",
+          "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
+          "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
+          "source": "a16z：News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T14:00:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9357,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-15T15:00:00Z",
-      "latest_at": "2026-10-15T15:00:00Z",
+      "earliest_at": "2026-10-16T14:00:39Z",
+      "latest_at": "2026-10-16T14:00:39Z",
       "primary_item": {
-        "id": "a9dc3b7c7e3561d7b895c077178529073614b29c",
-        "title": "Black Forest Labs 发布开源文生图模型 FLUX 3 Image Klein（5.6B）",
-        "url": "https://bfl.ai/blog/flux-3-image-klein",
-        "source": "Black Forest Labs：Blog（网页）",
+        "id": "aaafea4ab7c61be4f4e1ab35bad8ca54646fc4c1",
+        "title": "a16z 图表周报：智能体购物遭电商拦截，消费意愿仍滞后",
+        "url": "https://www.a16z.news/p/this-week-in-charts-agents-denied",
+        "source": "a16z：News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d0a9f07f059e",
+      "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0许可证",
+      "url": "https://www.aibase.com/news/31690",
+      "primary_url": "https://www.aibase.com/news/31690",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f00b10baa3471b7f03d1fc0324d9e79e5c6998d",
+          "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0许可证",
+          "url": "https://www.aibase.com/news/31690",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "a77ebb4abac98bc43e3274da03729b00ab983c29",
+          "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0 许可证",
+          "url": "https://www.aibase.com/zh/news/31690",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3f00b10baa3471b7f03d1fc0324d9e79e5c6998d",
+          "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0许可证",
+          "url": "https://www.aibase.com/news/31690",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "a77ebb4abac98bc43e3274da03729b00ab983c29",
+          "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0 许可证",
+          "url": "https://www.aibase.com/zh/news/31690",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8831,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T10:00:24.731006Z",
+      "latest_at": "2026-10-16T10:00:24.731006Z",
+      "primary_item": {
+        "id": "3f00b10baa3471b7f03d1fc0324d9e79e5c6998d",
+        "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0许可证",
+        "url": "https://www.aibase.com/news/31690",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_818ecaf77f93",
+      "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
+      "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "primary_url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
+          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
+          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T19:35:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
+          "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
+          "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-15T19:35:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7171,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T19:35:13Z",
+      "latest_at": "2026-10-15T19:35:13Z",
+      "primary_item": {
+        "id": "de14d434df2097d11ee04feba7f21ccbc50770bf",
+        "title": "即将于 11 月中旬弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in mid-November",
+        "url": "https://github.blog/changelog/2026-10-15-upcoming-deprecation-of-selected-github-copilot-models-in-mid-november",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
