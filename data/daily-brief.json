@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-10-16T21:51:34.934995Z",
+  "generated_at": "2026-10-17T00:05:22.432607Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_65442e708214",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "primary_url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f962ed66ceabadd86abe4e7127ba2c2a121f616a",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f962ed66ceabadd86abe4e7127ba2c2a121f616a",
+          "title": "How Itaú is building generative AI for its entire customer base",
+          "url": "https://openai.com/index/itau-generative-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-16T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9291,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-16T19:00:00Z",
+      "latest_at": "2026-10-16T19:00:00Z",
+      "primary_item": {
+        "id": "f962ed66ceabadd86abe4e7127ba2c2a121f616a",
+        "title": "How Itaú is building generative AI for its entire customer base",
+        "url": "https://openai.com/index/itau-generative-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_5c6d7a0c4df6",
       "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
@@ -56,15 +118,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8327,
-      "importance": 0.8327,
-      "importance_score": 0.8327,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7537,
+        "recency": 0.7298,
         "story_heat": 0.25
       },
       "category": "official",
@@ -81,68 +143,6 @@
         "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
         "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9db4940a53f8",
-      "title": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍 / Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "primary_url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b36f45115eff92fea7b2009844b09042a3428aee",
-          "title": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍 / Stack Overflow for Agents triples signups with ChatGPT plugin",
-          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "b36f45115eff92fea7b2009844b09042a3428aee",
-          "title": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍 / Stack Overflow for Agents triples signups with ChatGPT plugin",
-          "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8193,
-      "importance": 0.8193,
-      "importance_score": 0.8193,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7293,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T00:00:00Z",
-      "latest_at": "2026-10-16T00:00:00Z",
-      "primary_item": {
-        "id": "b36f45115eff92fea7b2009844b09042a3428aee",
-        "title": "Stack Overflow for Agents 使用 ChatGPT 插件使注册人数增加了三倍 / Stack Overflow for Agents triples signups with ChatGPT plugin",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -181,15 +181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7479,
+        "recency": 0.7242,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8928,
+        "recency": 0.8645,
         "story_heat": 0.0
       },
       "category": "official",
@@ -324,15 +324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8233,
+        "recency": 0.7972,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -352,65 +352,64 @@
       }
     },
     {
-      "story_id": "story_849b423196d1",
-      "title": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型 / Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "primary_url": "https://huggingface.co/blog/reflection-beam",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_fe51ab270dfc",
+      "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+      "url": "https://x.com/arena/status/2111221323217412318",
+      "primary_url": "https://x.com/arena/status/2111221323217412318",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "95491a4527855e05ea7d028887b6961c55e82c89",
-          "title": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型 / Welcome Beam: a 501B open model you can own, customize, and scale",
-          "url": "https://huggingface.co/blog/reflection-beam",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T00:00:00Z"
+          "id": "e08d5df77f8ec08339c40bf8616c998e3810b335",
+          "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+          "url": "https://x.com/arena/status/2111221323217412318",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T22:22:42Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "X：Arena (@arena)"
       ],
       "items": [
         {
-          "id": "95491a4527855e05ea7d028887b6961c55e82c89",
-          "title": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型 / Welcome Beam: a 501B open model you can own, customize, and scale",
-          "url": "https://huggingface.co/blog/reflection-beam",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T00:00:00Z"
+          "id": "e08d5df77f8ec08339c40bf8616c998e3810b335",
+          "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+          "url": "https://x.com/arena/status/2111221323217412318",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-16T22:22:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
-      "importance_label": "官方更新",
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7293,
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9756,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-16T00:00:00Z",
-      "latest_at": "2026-10-16T00:00:00Z",
+      "earliest_at": "2026-10-16T22:22:42Z",
+      "latest_at": "2026-10-16T22:22:42Z",
       "primary_item": {
-        "id": "95491a4527855e05ea7d028887b6961c55e82c89",
-        "title": "欢迎光束：您可以拥有、定制和扩展的 501B 开放模型 / Welcome Beam: a 501B open model you can own, customize, and scale",
-        "url": "https://huggingface.co/blog/reflection-beam",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "id": "e08d5df77f8ec08339c40bf8616c998e3810b335",
+        "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
+        "url": "https://x.com/arena/status/2111221323217412318",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -467,15 +466,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.816,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -566,15 +565,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8069,
+        "recency": 0.7813,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -628,15 +627,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7448,
+      "importance": 0.7448,
+      "importance_score": 0.7448,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8673,
+        "recency": 0.8398,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -688,15 +687,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9609,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -748,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7795,
+        "recency": 0.7548,
         "story_heat": 0.0
       },
       "category": "official",
@@ -829,15 +828,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.816,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -891,15 +890,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7512,
+        "recency": 0.7274,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,15 +950,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7254,
-      "importance": 0.7254,
-      "importance_score": 0.7254,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7325,
+        "recency": 0.7093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1011,15 +1010,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7981,
+        "recency": 0.7728,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1090,15 +1089,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.816,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1152,15 +1151,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7389,
+        "recency": 0.7155,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1231,15 +1230,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.816,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1402,15 +1401,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.661,
-      "importance": 0.661,
-      "importance_score": 0.661,
+      "score": 0.6555,
+      "importance": 0.6555,
+      "importance_score": 0.6555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9542,
+        "recency": 0.924,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1481,15 +1480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8427,
+        "recency": 0.816,
         "story_heat": 0.25
       },
       "category": "industry",
