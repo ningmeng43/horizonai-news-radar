@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T08:57:30.324123Z",
+  "generated_at": "2026-10-17T12:42:43.075217Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8191,
-      "importance": 0.8191,
-      "importance_score": 0.8191,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8174,
+        "recency": 0.7743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7606,
+        "recency": 0.7205,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8583,
+        "recency": 0.813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -223,15 +223,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7621,
-      "importance": 0.7621,
-      "importance_score": 0.7621,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9028,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -250,314 +250,152 @@
       }
     },
     {
-      "story_id": "story_ae8de707ac23",
-      "title": "​OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线",
-      "url": "https://www.aibase.com/news/31694",
-      "primary_url": "https://www.aibase.com/news/31694",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d0eb975828fc9a6b623bc16667b0cdd0581edb1b",
-          "title": "​OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线",
-          "url": "https://www.aibase.com/news/31694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "3c05cfb51522478f701474ad37f69df20e2ef517",
-          "title": "OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线",
-          "url": "https://www.aibase.com/zh/news/31694",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d0eb975828fc9a6b623bc16667b0cdd0581edb1b",
-          "title": "​OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线",
-          "url": "https://www.aibase.com/news/31694",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "3c05cfb51522478f701474ad37f69df20e2ef517",
-          "title": "OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线",
-          "url": "https://www.aibase.com/zh/news/31694",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7179,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T10:00:24.731006Z",
-      "latest_at": "2026-10-16T10:00:24.731006Z",
-      "primary_item": {
-        "id": "d0eb975828fc9a6b623bc16667b0cdd0581edb1b",
-        "title": "​OpenAI 升级 ChatGPT 扩展：多标签页联动与网页智能代办全面上线",
-        "url": "https://www.aibase.com/news/31694",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7fcb7288fa56",
-      "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "primary_url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "source": "NVIDIA：Newsroom（RSS）",
+      "story_id": "story_80848c46bab6",
+      "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+      "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+      "primary_url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+      "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
+          "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
+          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+          "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z"
+          "published_at": "2026-10-17T10:29:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "NVIDIA：Newsroom（RSS）"
+        "X：Tencent WorkBuddy (@WorkBuddy_AI)"
       ],
       "items": [
         {
-          "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-          "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-          "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-          "source": "NVIDIA：Newsroom（RSS）",
+          "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
+          "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+          "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+          "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-16T12:00:00Z"
+          "published_at": "2026-10-17T10:29:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7266,
-      "importance": 0.7266,
-      "importance_score": 0.7266,
+      "score": 0.7469,
+      "importance": 0.7469,
+      "importance_score": 0.7469,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.74,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7389,
+        "recency": 0.9683,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-16T12:00:00Z",
-      "latest_at": "2026-10-16T12:00:00Z",
+      "earliest_at": "2026-10-17T10:29:00Z",
+      "latest_at": "2026-10-17T10:29:00Z",
       "primary_item": {
-        "id": "5da0c78c59c2e6a215bdcd654f58acbc9ecc036d",
-        "title": "NVIDIA RTX Spark 笔记本今日开售，主打 128GB 统一内存与本地 AI",
-        "url": "https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-        "source": "NVIDIA：Newsroom（RSS）",
+        "id": "7edb8342d34922708068c58821a1e0a8c8f8a1b3",
+        "title": "WorkBuddy Intl 更新支持 DeepSeek-V4.1-Flash-1017，10 月 31 日前免费",
+        "url": "https://x.com/WorkBuddy_AI/status/2111404103402430558",
+        "source": "X：Tencent WorkBuddy (@WorkBuddy_AI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f320adafc592",
-      "title": "印度首报\"失控智能体\"：AI 测试时擅自入侵企业系统，受害方浑然不知",
-      "url": "https://www.aibase.com/news/31700",
-      "primary_url": "https://www.aibase.com/news/31700",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_6cbde97d8260",
+      "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "91100b35a145663f8a4815caf61bdde8f5a579d5",
-          "title": "印度首报\"失控智能体\"：AI 测试时擅自入侵企业系统，受害方浑然不知",
-          "url": "https://www.aibase.com/news/31700",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "aeed94b178c2fa9e1970b19bae5c6c6baeeb7b81",
-          "title": "印度首报「失控智能体」：AI 测试时擅自入侵企业系统，受害方浑然不知",
-          "url": "https://www.aibase.com/zh/news/31700",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
+          "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T10:19:04Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "公众号：数字生命卡兹克"
       ],
       "items": [
         {
-          "id": "91100b35a145663f8a4815caf61bdde8f5a579d5",
-          "title": "印度首报\"失控智能体\"：AI 测试时擅自入侵企业系统，受害方浑然不知",
-          "url": "https://www.aibase.com/news/31700",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "aeed94b178c2fa9e1970b19bae5c6c6baeeb7b81",
-          "title": "印度首报「失控智能体」：AI 测试时擅自入侵企业系统，受害方浑然不知",
-          "url": "https://www.aibase.com/zh/news/31700",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
+          "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T10:19:04Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7465,
+      "importance": 0.7465,
+      "importance_score": 0.7465,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7179,
-        "story_heat": 0.25
+        "recency": 0.966,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-16T10:00:24.731006Z",
-      "latest_at": "2026-10-16T10:00:24.731006Z",
+      "earliest_at": "2026-10-17T10:19:04Z",
+      "latest_at": "2026-10-17T10:19:04Z",
       "primary_item": {
-        "id": "91100b35a145663f8a4815caf61bdde8f5a579d5",
-        "title": "印度首报\"失控智能体\"：AI 测试时擅自入侵企业系统，受害方浑然不知",
-        "url": "https://www.aibase.com/news/31700",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d0a9f07f059e",
-      "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0许可证",
-      "url": "https://www.aibase.com/news/31690",
-      "primary_url": "https://www.aibase.com/news/31690",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3f00b10baa3471b7f03d1fc0324d9e79e5c6998d",
-          "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0许可证",
-          "url": "https://www.aibase.com/news/31690",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "a77ebb4abac98bc43e3274da03729b00ab983c29",
-          "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0 许可证",
-          "url": "https://www.aibase.com/zh/news/31690",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3f00b10baa3471b7f03d1fc0324d9e79e5c6998d",
-          "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0许可证",
-          "url": "https://www.aibase.com/news/31690",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "a77ebb4abac98bc43e3274da03729b00ab983c29",
-          "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0 许可证",
-          "url": "https://www.aibase.com/zh/news/31690",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7179,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T10:00:24.731006Z",
-      "latest_at": "2026-10-16T10:00:24.731006Z",
-      "primary_item": {
-        "id": "3f00b10baa3471b7f03d1fc0324d9e79e5c6998d",
-        "title": "小米开源空间音频大模型 MiDashengLM-Spatial，采用 Apache2.0许可证",
-        "url": "https://www.aibase.com/news/31690",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "80df91dd037d6cb71fc1df7bc6ad24d1bfc64ec8",
+        "title": "卡兹克实测37999元RTX Spark轻薄本：一周实现本地Token自由",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687354&idx=1&sn=dea0d54dc3b71b361e36199db6cf4a86",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+      "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-10-16",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "02b924dd0e67cd7fce2ccf3a8261f7f9e4894648",
+          "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-17T12:42:43.075217Z"
+        },
+        {
+          "id": "8fe68d30c0e463734a82280c2ac334be3e83368e",
+          "title": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-17T12:42:43.075217Z"
+        },
+        {
           "id": "3bca8390ff8f6204f3fad381985f2e4930edc50b",
           "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -592,51 +430,32 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-10-16T18:36:52.319574Z"
-        },
-        {
-          "id": "a672e14724a3d9ae4148a95ca62d9d2b340e970e",
-          "title": "Meta 全新 Muse Wonder 模型带来亮眼的 Active Memory 主动记忆能力，突破了传统 AI 仅存储对话文本的局限，能调取你的过往偏好，直接参与任务决策。老金以长跑规划、婚礼排座、T 恤定制演示为例，搭配 Active Focus 能力，跨工具执行时仍然可以持续守住你的个性化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "2cf078ae7e8d9c575c775018c609effa46450c41",
-          "title": "作者利用Opus 5.5通过编写HTML动效网页截帧生成视频，无需AE、不用手动找图，仅靠几句指令就完成多款AI产品宣传片，还开源了整套制作Skill。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "08458402893b57ee1ad0e1fe6e702e342d5b9e2c",
-          "title": "作者实测了爆火开源逆向工具REA，仅用6分钟就让AI解析出飞书客户端架构并做出本地多开版本。文中复盘了REA短时间内爆火的底层原因，同时还整理了社区热议的争议点，包括工具价值、IP合规风险与使用边界。最后附上了实操安全提醒，可以帮你看懂AI逆向的能力上限，避开法律与安全陷阱。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "38e0c69361abc08dd8321b73fa5b7fd8bc3e8127",
-          "title": "作者开源视频风格Skill chengfeng-video-styles，依托Opus 5.5，搭建起了一套可复用的AI视频生产工作流。内置16种成熟视频风格，还支持上传参考素材复刻全新视觉。流程也很巧妙，先生成多版3秒样片筛选风格，确认满意后再渲染全片，避免token浪费。来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 6,
       "source_names": [
-        "社区更新 · 2026-10-15",
         "社区更新 · 2026-10-16"
       ],
       "items": [
         {
+          "id": "02b924dd0e67cd7fce2ccf3a8261f7f9e4894648",
+          "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-17T12:42:43.075217Z"
+        },
+        {
+          "id": "8fe68d30c0e463734a82280c2ac334be3e83368e",
+          "title": "很多人用 Agent 做产品，习惯把调研、选题、写代码和发布全塞给一个机器人，最后结论互相打架，流程也无法复用。作者用Grok Bot把产品开发拆成了 9 个常驻角色：找趋势、挖痛点、看竞品、定策略、淘汰弱想法，再写规格、构建产品和准备发布视频。适合独立开发者和小团队搭建可持续运行的 Agent 产品流水线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-17T12:42:43.075217Z"
+        },
+        {
           "id": "3bca8390ff8f6204f3fad381985f2e4930edc50b",
           "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -671,309 +490,33 @@
           "source_name": "WaytoAGI",
           "site_id": "waytoagi",
           "published_at": "2026-10-16T18:36:52.319574Z"
-        },
-        {
-          "id": "a672e14724a3d9ae4148a95ca62d9d2b340e970e",
-          "title": "Meta 全新 Muse Wonder 模型带来亮眼的 Active Memory 主动记忆能力，突破了传统 AI 仅存储对话文本的局限，能调取你的过往偏好，直接参与任务决策。老金以长跑规划、婚礼排座、T 恤定制演示为例，搭配 Active Focus 能力，跨工具执行时仍然可以持续守住你的个性化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "2cf078ae7e8d9c575c775018c609effa46450c41",
-          "title": "作者利用Opus 5.5通过编写HTML动效网页截帧生成视频，无需AE、不用手动找图，仅靠几句指令就完成多款AI产品宣传片，还开源了整套制作Skill。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "08458402893b57ee1ad0e1fe6e702e342d5b9e2c",
-          "title": "作者实测了爆火开源逆向工具REA，仅用6分钟就让AI解析出飞书客户端架构并做出本地多开版本。文中复盘了REA短时间内爆火的底层原因，同时还整理了社区热议的争议点，包括工具价值、IP合规风险与使用边界。最后附上了实操安全提醒，可以帮你看懂AI逆向的能力上限，避开法律与安全陷阱。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "38e0c69361abc08dd8321b73fa5b7fd8bc3e8127",
-          "title": "作者开源视频风格Skill chengfeng-video-styles，依托Opus 5.5，搭建起了一套可复用的AI视频生产工作流。内置16种成熟视频风格，还支持上传参考素材复刻全新视觉。流程也很巧妙，先生成多版3秒样片筛选风格，确认满意后再渲染全片，避免token浪费。来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6586,
-      "importance": 0.6586,
-      "importance_score": 0.6586,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9413,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-16T10:00:24.731006Z",
-      "latest_at": "2026-10-17T04:45:57.110050Z",
+      "earliest_at": "2026-10-16T18:36:52.319574Z",
+      "latest_at": "2026-10-17T12:42:43.075217Z",
       "primary_item": {
-        "id": "3bca8390ff8f6204f3fad381985f2e4930edc50b",
-        "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+        "id": "02b924dd0e67cd7fce2ccf3a8261f7f9e4894648",
+        "title": "DeepSeek V4.1-Flash 新版发布，这次把重点放在“更强也更省”：11 项基准全部提升，软件任务 max 档通过率 77%，单任务约 1.3 元，low 档不到 8 毛。作者梳理了三项实用变化：Harness、CodeBuddy 与 WorkBuddy 完成适配；少量提示即可从零搭游戏和 3D 项目；API 新增 Search 与 Fetch，可直接搜索并抓取网页。模型权重同步 MIT 开源，支持图文输入与 1M 上下文。想评估是否升级或接入 DeepSeek 的开发者，可以先看这篇。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-10-16",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_f8cbaeb85517",
-      "title": "小红书强化 AI 技术与产品协同，明确模型应用优先方向",
-      "url": "https://www.aibase.com/news/31701",
-      "primary_url": "https://www.aibase.com/news/31701",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "677862be4a60eb36eeab76195410ec5aa64cee2a",
-          "title": "小红书强化 AI 技术与产品协同，明确模型应用优先方向",
-          "url": "https://www.aibase.com/news/31701",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "819af669f4715f4c64f1708d831d746ffbac1299",
-          "title": "小红书强化 AI 技术与产品协同，明确模型应用优先方向",
-          "url": "https://www.aibase.com/zh/news/31701",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "677862be4a60eb36eeab76195410ec5aa64cee2a",
-          "title": "小红书强化 AI 技术与产品协同，明确模型应用优先方向",
-          "url": "https://www.aibase.com/news/31701",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "819af669f4715f4c64f1708d831d746ffbac1299",
-          "title": "小红书强化 AI 技术与产品协同，明确模型应用优先方向",
-          "url": "https://www.aibase.com/zh/news/31701",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7179,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T10:00:24.731006Z",
-      "latest_at": "2026-10-16T10:00:24.731006Z",
-      "primary_item": {
-        "id": "677862be4a60eb36eeab76195410ec5aa64cee2a",
-        "title": "小红书强化 AI 技术与产品协同，明确模型应用优先方向",
-        "url": "https://www.aibase.com/news/31701",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bac347f84a47",
-      "title": "微软完成 MAI-Base-2 预训练：2.8T 参数碾压开源对手，算力效率超 DeepSeek 数倍",
-      "url": "https://www.aibase.com/news/31691",
-      "primary_url": "https://www.aibase.com/news/31691",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0cbddb953ad5fc1a24257d639f0d66b1e531afe8",
-          "title": "微软完成 MAI-Base-2 预训练：2.8T 参数碾压开源对手，算力效率超 DeepSeek 数倍",
-          "url": "https://www.aibase.com/news/31691",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "9ca707fc59a9134a6780015610ddacd0f0cf23af",
-          "title": "微软完成 MAI-Base-2 预训练：2.8T 参数，算力效率超 DeepSeek 数倍",
-          "url": "https://www.aibase.com/zh/news/31691",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0cbddb953ad5fc1a24257d639f0d66b1e531afe8",
-          "title": "微软完成 MAI-Base-2 预训练：2.8T 参数碾压开源对手，算力效率超 DeepSeek 数倍",
-          "url": "https://www.aibase.com/news/31691",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "9ca707fc59a9134a6780015610ddacd0f0cf23af",
-          "title": "微软完成 MAI-Base-2 预训练：2.8T 参数，算力效率超 DeepSeek 数倍",
-          "url": "https://www.aibase.com/zh/news/31691",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7179,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T10:00:24.731006Z",
-      "latest_at": "2026-10-16T10:00:24.731006Z",
-      "primary_item": {
-        "id": "0cbddb953ad5fc1a24257d639f0d66b1e531afe8",
-        "title": "微软完成 MAI-Base-2 预训练：2.8T 参数碾压开源对手，算力效率超 DeepSeek 数倍",
-        "url": "https://www.aibase.com/news/31691",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_60a01224a236",
-      "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
-      "url": "https://www.aibase.com/news/31683",
-      "primary_url": "https://www.aibase.com/news/31683",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "01bcb042ff53e26b9d69f71fc63fcb6a1aa24e19",
-          "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
-          "url": "https://www.aibase.com/news/31683",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "72eb236261ff0fc0e049a02186c5cd04b817c4c2",
-          "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
-          "url": "https://www.aibase.com/zh/news/31683",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "01bcb042ff53e26b9d69f71fc63fcb6a1aa24e19",
-          "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
-          "url": "https://www.aibase.com/news/31683",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "72eb236261ff0fc0e049a02186c5cd04b817c4c2",
-          "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
-          "url": "https://www.aibase.com/zh/news/31683",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7179,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T10:00:24.731006Z",
-      "latest_at": "2026-10-16T10:00:24.731006Z",
-      "primary_item": {
-        "id": "01bcb042ff53e26b9d69f71fc63fcb6a1aa24e19",
-        "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
-        "url": "https://www.aibase.com/news/31683",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1029,15 +572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.591,
-      "importance": 0.591,
-      "importance_score": 0.591,
+      "score": 0.5828,
+      "importance": 0.5828,
+      "importance_score": 0.5828,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8643,
+        "recency": 0.8187,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,6 +595,104 @@
         "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_1fd6dd971a81",
+      "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "primary_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "source": "openrouter.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
+          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T10:06:14.023000Z"
+        },
+        {
+          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:37:46Z"
+        },
+        {
+          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "url": "https://news.ycombinator.com/item?id=50129121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:37:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "openrouter.ai"
+      ],
+      "items": [
+        {
+          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
+          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T10:06:14.023000Z"
+        },
+        {
+          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T08:37:46Z"
+        },
+        {
+          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
+          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+          "url": "https://news.ycombinator.com/item?id=50129121",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:37:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5641,
+      "importance": 0.5641,
+      "importance_score": 0.5641,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.963,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T08:37:46Z",
+      "latest_at": "2026-10-17T10:06:14.023000Z",
+      "primary_item": {
+        "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
+        "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+        "source": "openrouter.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1127,15 +768,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5603,
-      "importance": 0.5603,
-      "importance_score": 0.5603,
+      "score": 0.5514,
+      "importance": 0.5514,
+      "importance_score": 0.5514,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9418,
+        "recency": 0.8921,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1150,6 +791,164 @@
         "url": "https://llmspeed.dev",
         "source": "llmspeed.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9b780e5528de",
+      "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "primary_url": "https://github.com/akitaonrails/ai-memory",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
+          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:16:48.698000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
+          "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e093aec71608c94ab78108d3149519fad3663164",
+          "title": "akitaonrails / ai-内存 / akitaonrails /      ai-memory",
+          "url": "https://github.com/akitaonrails/ai-memory",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:16:48.698000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T12:16:48.698000Z",
+      "latest_at": "2026-10-17T12:42:43.075217Z",
+      "primary_item": {
+        "id": "7ed9cfc7ad6a8a90822e035db00cc2078fa0ca5e",
+        "title": "akitaonrails / ai-内存 / akitaonrails / ai-memory",
+        "url": "https://github.com/akitaonrails/ai-memory",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_fe66d36b69bf",
+      "title": "边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行",
+      "url": "https://www.ithome.com/1/014/387.htm",
+      "primary_url": "https://www.ithome.com/1/014/387.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "31bcd8003c5e2f763d07b0d752f395fbd89609d0",
+          "title": "边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行",
+          "url": "https://www.ithome.com/1/014/387.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6ff95087b7b84a069070fa8bdfc69cbe18abc82e",
+          "title": "边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行",
+          "url": "https://www.ithome.com/1/014/387.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T11:48:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "31bcd8003c5e2f763d07b0d752f395fbd89609d0",
+          "title": "边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行",
+          "url": "https://www.ithome.com/1/014/387.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6ff95087b7b84a069070fa8bdfc69cbe18abc82e",
+          "title": "边建设边运营：“鹏城云脑 Ⅲ”10000P 国产算力上线试运行",
+          "url": "https://www.ithome.com/1/014/387.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T11:48:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T11:48:30Z",
+      "latest_at": "2026-10-17T12:42:43.075217Z",
+      "primary_item": {
+        "id": "31bcd8003c5e2f763d07b0d752f395fbd89609d0",
+        "title": "边建设边运营：「鹏城云脑 Ⅲ」10000P 国产算力上线试运行",
+        "url": "https://www.ithome.com/1/014/387.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1225,15 +1024,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5533,
-      "importance": 0.5533,
-      "importance_score": 0.5533,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9027,
+        "recency": 0.8551,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1323,15 +1122,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.549,
-      "importance": 0.549,
-      "importance_score": 0.549,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8787,
+        "recency": 0.8324,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1349,239 +1148,160 @@
       }
     },
     {
-      "story_id": "story_c4a0e2f966fd",
-      "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-      "url": "https://www.aibase.com/news/31702",
-      "primary_url": "https://www.aibase.com/news/31702",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_674cf12d6505",
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source": "huggingface.co",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "14b14e5193bf7ecc24de48b6e93c7de0e39b817b",
-          "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-          "url": "https://www.aibase.com/news/31702",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T14:57:05.680282Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "14b14e5193bf7ecc24de48b6e93c7de0e39b817b",
-          "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-          "url": "https://www.aibase.com/news/31702",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-16T14:57:05.680282Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.771,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T14:57:05.680282Z",
-      "latest_at": "2026-10-16T14:57:05.680282Z",
-      "primary_item": {
-        "id": "14b14e5193bf7ecc24de48b6e93c7de0e39b817b",
-        "title": "AI 代理网购遭亚马逊封杀！马斯克被逼急：大不了自己建个电商帝国去竞争",
-        "url": "https://www.aibase.com/news/31702",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_390d075c90db",
-      "title": "我国首个全自主可控气象 AI 集合预报系统「风清」正式投入业务运行",
-      "url": "https://www.ithome.com/1/014/289.htm",
-      "primary_url": "https://www.ithome.com/1/014/289.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a66146686deae2bbde26f68e72734cea7e64fd86",
-          "title": "我国首个全自主可控气象 AI 集合预报系统「风清」正式投入业务运行",
-          "url": "https://www.ithome.com/1/014/289.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T09:34:06.239000Z"
         },
         {
-          "id": "42a6933dac2e0de2d81c297f4f1a214b697f87b6",
-          "title": "我国首个全自主可控气象 AI 集合预报系统“风清”正式投入业务运行",
-          "url": "https://www.ithome.com/1/014/289.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T06:32:50Z"
+          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "url": "https://news.ycombinator.com/item?id=50129045",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:21:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "hackernews",
+        "huggingface.co"
       ],
       "items": [
         {
-          "id": "a66146686deae2bbde26f68e72734cea7e64fd86",
-          "title": "我国首个全自主可控气象 AI 集合预报系统「风清」正式投入业务运行",
-          "url": "https://www.ithome.com/1/014/289.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T09:34:06.239000Z"
         },
         {
-          "id": "42a6933dac2e0de2d81c297f4f1a214b697f87b6",
-          "title": "我国首个全自主可控气象 AI 集合预报系统“风清”正式投入业务运行",
-          "url": "https://www.ithome.com/1/014/289.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T06:32:50Z"
+          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "url": "https://news.ycombinator.com/item?id=50129045",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T08:21:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5378,
+      "importance": 0.5378,
+      "importance_score": 0.5378,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9556,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T06:32:50Z",
-      "latest_at": "2026-10-17T08:57:30.324123Z",
+      "earliest_at": "2026-10-17T08:21:25Z",
+      "latest_at": "2026-10-17T09:34:06.239000Z",
       "primary_item": {
-        "id": "a66146686deae2bbde26f68e72734cea7e64fd86",
-        "title": "我国首个全自主可控气象 AI 集合预报系统「风清」正式投入业务运行",
-        "url": "https://www.ithome.com/1/014/289.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+        "source": "huggingface.co",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_18255162d61c",
-      "title": "人工智能是资本主义的最终归宿",
-      "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-      "primary_url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-      "source": "www.equator.org",
+      "story_id": "story_189f56785edd",
+      "title": "Show HN: Claude Code，使用 thevibehosting.com 进行部署 您的应用运行在 Linux 根目录下",
+      "url": "https://thevibehosting.com",
+      "primary_url": "https://thevibehosting.com",
+      "source": "thevibehosting.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "16ba2cd3a20d6f08b8707d5008055ffeed28a75d",
-          "title": "人工智能是资本主义的最终归宿",
-          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-          "source": "www.equator.org",
+          "id": "743c51111422b02cd5f188696371d4cf53e352a1",
+          "title": "Show HN: Claude Code，使用 thevibehosting.com 进行部署 您的应用运行在 Linux 根目录下",
+          "url": "https://thevibehosting.com",
+          "source": "thevibehosting.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-16T22:24:50.023000Z"
+          "published_at": "2026-10-17T09:18:21.272000Z"
         },
         {
-          "id": "3fa3d1af0d60efb9e4e223118e29bc35a1b6fb22",
-          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
-          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T12:08:40Z"
-        },
-        {
-          "id": "c5a77f435cb7a4390f960ba752d7553a2dda8cdc",
-          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
-          "url": "https://news.ycombinator.com/item?id=50117382",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T12:08:40Z"
+          "id": "421a2deb0ed0c2536961e007a3bb57d52bf8c823",
+          "title": "Show HN: Claude Code，使用 thevibehosting.com 进行部署 您的应用运行在 Linux 根目录下 / Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux",
+          "url": "https://thevibehosting.com",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-17T09:04:06Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.equator.org"
+        "HN Algolia · AI 24h",
+        "thevibehosting.com"
       ],
       "items": [
         {
-          "id": "16ba2cd3a20d6f08b8707d5008055ffeed28a75d",
-          "title": "人工智能是资本主义的最终归宿",
-          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-          "source": "www.equator.org",
+          "id": "743c51111422b02cd5f188696371d4cf53e352a1",
+          "title": "Show HN: Claude Code，使用 thevibehosting.com 进行部署 您的应用运行在 Linux 根目录下",
+          "url": "https://thevibehosting.com",
+          "source": "thevibehosting.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-10-16T22:24:50.023000Z"
+          "published_at": "2026-10-17T09:18:21.272000Z"
         },
         {
-          "id": "3fa3d1af0d60efb9e4e223118e29bc35a1b6fb22",
-          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
-          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-16T12:08:40Z"
-        },
-        {
-          "id": "c5a77f435cb7a4390f960ba752d7553a2dda8cdc",
-          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
-          "url": "https://news.ycombinator.com/item?id=50117382",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-16T12:08:40Z"
+          "id": "421a2deb0ed0c2536961e007a3bb57d52bf8c823",
+          "title": "Show HN: Claude Code，使用 thevibehosting.com 进行部署 您的应用运行在 Linux 根目录下 / Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux",
+          "url": "https://thevibehosting.com",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-10-17T09:04:06Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5372,
+      "importance": 0.5372,
+      "importance_score": 0.5372,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8588,
-        "story_heat": 0.5
+        "recency": 0.952,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-16T12:08:40Z",
-      "latest_at": "2026-10-16T22:24:50.023000Z",
+      "earliest_at": "2026-10-17T09:04:06Z",
+      "latest_at": "2026-10-17T09:18:21.272000Z",
       "primary_item": {
-        "id": "16ba2cd3a20d6f08b8707d5008055ffeed28a75d",
-        "title": "人工智能是资本主义的最终归宿",
-        "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
-        "source": "www.equator.org",
+        "id": "743c51111422b02cd5f188696371d4cf53e352a1",
+        "title": "Show HN: Claude Code，使用 thevibehosting.com 进行部署 您的应用运行在 Linux 根目录下",
+        "url": "https://thevibehosting.com",
+        "source": "thevibehosting.com",
         "source_name": "Buzzing"
       }
     },
@@ -1658,15 +1378,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8456,
+        "recency": 0.801,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1680,6 +1400,300 @@
         "title": "Claude Code 团队如何进行代码审查",
         "url": "https://claude.dev/blog/solving-code-review-at-anthropic",
         "source": "claude.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a0696e415e0e",
+      "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+      "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "primary_url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+      "source": "www.ft.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9ee0c8a93d66ac06afbd1e75b794c26878682d1f",
+          "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T20:32:34.116000Z"
+        },
+        {
+          "id": "8aebbe635525d07b8bc86a0419772a1d64a349d5",
+          "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级 / Anthropic assigned highest junk credit rating in June",
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T18:11:42Z"
+        },
+        {
+          "id": "4ea2564c6760696757356b6cc3b04fad15c17f24",
+          "title": "Anthropic 授予 6 月​​份最高垃圾信用评级 / Anthropic assigned highest junk credit rating in June",
+          "url": "https://news.ycombinator.com/item?id=50122112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:11:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "9ee0c8a93d66ac06afbd1e75b794c26878682d1f",
+          "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T20:32:34.116000Z"
+        },
+        {
+          "id": "8aebbe635525d07b8bc86a0419772a1d64a349d5",
+          "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级 / Anthropic assigned highest junk credit rating in June",
+          "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T18:11:42Z"
+        },
+        {
+          "id": "4ea2564c6760696757356b6cc3b04fad15c17f24",
+          "title": "Anthropic 授予 6 月​​份最高垃圾信用评级 / Anthropic assigned highest junk credit rating in June",
+          "url": "https://news.ycombinator.com/item?id=50122112",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:11:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7918,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T18:11:42Z",
+      "latest_at": "2026-10-16T20:32:34.116000Z",
+      "primary_item": {
+        "id": "9ee0c8a93d66ac06afbd1e75b794c26878682d1f",
+        "title": "Anthropic于6月被赋予最高级别的垃圾级信用评级",
+        "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+        "source": "www.ft.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e4018d8e9eb4",
+      "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+      "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "primary_url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+      "source": "www.theregister.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.239000Z"
+        },
+        {
+          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T15:55:40Z"
+        },
+        {
+          "id": "f54517ed65dad78cba0a13775fd9e967aca5c5c8",
+          "title": "Postgres 19 因 AI 审阅者发现的错误多于人类可以修复的错误而被推迟 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "url": "https://news.ycombinator.com/item?id=50119991",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T15:55:40Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.theregister.com"
+      ],
+      "items": [
+        {
+          "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.239000Z"
+        },
+        {
+          "id": "608e9405db5fe5767f6acb76b55bc8de2a9cad1f",
+          "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T15:55:40Z"
+        },
+        {
+          "id": "f54517ed65dad78cba0a13775fd9e967aca5c5c8",
+          "title": "Postgres 19 因 AI 审阅者发现的错误多于人类可以修复的错误而被推迟 / Postgres 19 delayed after AI reviewers find more bugs than humans can fix",
+          "url": "https://news.ycombinator.com/item?id=50119991",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T15:55:40Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7678,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T15:55:40Z",
+      "latest_at": "2026-10-16T18:24:37.239000Z",
+      "primary_item": {
+        "id": "e061eea975855e76d072f698e6dfaa5d463190cf",
+        "title": "Postgres 19 推迟发布，因 AI 审查人员发现的漏洞数量已超出人类能够修复的范围",
+        "url": "https://www.theregister.com/databases/2026/10/16/postgres-19-delayed-after-ai-reviewers-find-more-bugs-than-humans-can-fix/5303471",
+        "source": "www.theregister.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_32239fe1b8b1",
+      "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+      "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+      "primary_url": "https://www.mercor.com/research/labor-index/benchmark-map",
+      "source": "www.mercor.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "www.mercor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.246000Z"
+        },
+        {
+          "id": "66eff31c80038b26ef9019a476a9f26f7eac4d6d",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T17:08:38Z"
+        },
+        {
+          "id": "b170765e389b347f209eff7fa887e3051bfb9a70",
+          "title": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://news.ycombinator.com/item?id=50121179",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T17:08:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.mercor.com"
+      ],
+      "items": [
+        {
+          "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "www.mercor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T18:24:37.246000Z"
+        },
+        {
+          "id": "66eff31c80038b26ef9019a476a9f26f7eac4d6d",
+          "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T17:08:38Z"
+        },
+        {
+          "id": "b170765e389b347f209eff7fa887e3051bfb9a70",
+          "title": "美国 90% 的工作时间都花在了人工智能基准未涵盖的任务上 / 90% of US working hours are spent on tasks not covered well by AI benchmarks",
+          "url": "https://news.ycombinator.com/item?id=50121179",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T17:08:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7678,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T17:08:38Z",
+      "latest_at": "2026-10-16T18:24:37.246000Z",
+      "primary_item": {
+        "id": "f208adbf424f9c0f081a11364e15e5fcd485cc36",
+        "title": "美国90%的工作时间都花在了人工智能基准测试未能充分覆盖的任务上",
+        "url": "https://www.mercor.com/research/labor-index/benchmark-map",
+        "source": "www.mercor.com",
         "source_name": "Buzzing"
       }
     }
