@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:05:22.432607Z",
+  "generated_at": "2026-10-17T04:45:57.110050Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8392,
-      "importance": 0.8392,
-      "importance_score": 0.8392,
+      "score": 0.8283,
+      "importance": 0.8283,
+      "importance_score": 0.8283,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9291,
+        "recency": 0.8685,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,149 +62,6 @@
         "title": "How Itaú is building generative AI for its entire customer base",
         "url": "https://openai.com/index/itau-generative-ai",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5c6d7a0c4df6",
-      "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "primary_url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-          "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        },
-        {
-          "id": "bbffe038e3adac029bd1d7e8cebeacebd0740571",
-          "title": "Slack 和 Teams 中对 GitHub 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-          "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        },
-        {
-          "id": "bbffe038e3adac029bd1d7e8cebeacebd0740571",
-          "title": "Slack 和 Teams 中对 GitHub 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub in Slack and Teams",
-          "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T02:16:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7298,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T02:16:35Z",
-      "latest_at": "2026-10-16T02:16:35Z",
-      "primary_item": {
-        "id": "6d77be398f5157bce020898f12e3c37f31771b1e",
-        "title": "Slack 和 Microsoft Teams 中 GitHub Copilot 的多存储库支持和其他改进 / Multi-repo support and other improvements for GitHub Copilot in Slack and Microsoft Teams",
-        "url": "https://github.blog/changelog/2026-10-15-copilot-in-slack-and-teams-adds-model-and-repository-updates",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ba4e7337aba2",
-      "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "primary_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b52dd80c7de1b122a45016c0a987a40272dbe73f",
-          "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T01:44:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b52dd80c7de1b122a45016c0a987a40272dbe73f",
-          "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T01:44:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7242,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T01:44:47Z",
-      "latest_at": "2026-10-16T01:44:47Z",
-      "primary_item": {
-        "id": "b52dd80c7de1b122a45016c0a987a40272dbe73f",
-        "title": "扩展 Indic 预训练：2.8 万亿代币和开放数据生成管道 / Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -243,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8196,
-      "importance": 0.8196,
-      "importance_score": 0.8196,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8645,
+        "recency": 0.8081,
         "story_heat": 0.0
       },
       "category": "official",
@@ -324,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7891,
-      "importance": 0.7891,
-      "importance_score": 0.7891,
+      "score": 0.7797,
+      "importance": 0.7797,
+      "importance_score": 0.7797,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7972,
+        "recency": 0.7452,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -386,15 +243,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7872,
-      "importance": 0.7872,
-      "importance_score": 0.7872,
+      "score": 0.7757,
+      "importance": 0.7757,
+      "importance_score": 0.7757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.9119,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -409,6 +266,67 @@
         "title": "Muse Spark Open (Max) 登顶 Code Arena: WebDev 美国开源模型第一",
         "url": "https://x.com/arena/status/2111221323217412318",
         "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c40c2fbd10d1",
+      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+      "url": "https://x.com/shao__meng/status/2111274173192638932",
+      "primary_url": "https://x.com/shao__meng/status/2111274173192638932",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "url": "https://x.com/shao__meng/status/2111274173192638932",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T01:52:43Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "url": "https://x.com/shao__meng/status/2111274173192638932",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-17T01:52:43Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9592,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-17T01:52:43Z",
+      "latest_at": "2026-10-17T01:52:43Z",
+      "primary_item": {
+        "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
+        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "url": "https://x.com/shao__meng/status/2111274173192638932",
+        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
       }
     },
@@ -466,22 +384,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.816,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T10:00:24.731006Z",
       "latest_at": "2026-10-16T10:00:24.731006Z",
@@ -565,22 +482,21 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7813,
+        "recency": 0.7303,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T07:00:00Z",
       "latest_at": "2026-10-16T14:44:17Z",
@@ -627,15 +543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8398,
+        "recency": 0.785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -687,15 +603,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8697,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -710,68 +626,6 @@
         "url": "https://x.com/adocomplete/status/2111171735806767558",
         "source": "X：Ado Kukic（Anthropic 开发者关系，Claude Code） (@adocomplete)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_038384fba558",
-      "title": "Xcode 27 运行程序镜像正式可用 / Xcode 27 runner image generally available",
-      "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-          "title": "Xcode 27 运行程序镜像正式可用 / Xcode 27 runner image generally available",
-          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T04:36:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-          "title": "Xcode 27 运行程序镜像正式可用 / Xcode 27 runner image generally available",
-          "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-16T04:36:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7548,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-16T04:36:30Z",
-      "latest_at": "2026-10-16T04:36:30Z",
-      "primary_item": {
-        "id": "6859539e51af6b9f287fce867c7fa438183efd1b",
-        "title": "Xcode 27 运行程序镜像正式可用 / Xcode 27 runner image generally available",
-        "url": "https://github.blog/changelog/2026-10-15-xcode-27-runner-image-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -828,22 +682,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.816,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T10:00:24.731006Z",
       "latest_at": "2026-10-16T10:00:24.731006Z",
@@ -853,126 +706,6 @@
         "url": "https://www.aibase.com/news/31700",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_21ce871b03af",
-      "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-      "url": "https://x.com/Khazix0918/status/2110914404393091205",
-      "primary_url": "https://x.com/Khazix0918/status/2110914404393091205",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "641e7ffc841e1c9081bb0af205cda7491927164f",
-          "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "url": "https://x.com/Khazix0918/status/2110914404393091205",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T02:03:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：卡兹克 (@Khazix0918)"
-      ],
-      "items": [
-        {
-          "id": "641e7ffc841e1c9081bb0af205cda7491927164f",
-          "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-          "url": "https://x.com/Khazix0918/status/2110914404393091205",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T02:03:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7274,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T02:03:07Z",
-      "latest_at": "2026-10-16T02:03:07Z",
-      "primary_item": {
-        "id": "641e7ffc841e1c9081bb0af205cda7491927164f",
-        "title": "Kling 4.0 深夜上线，作者实测30秒一镜到底与全能参考表现",
-        "url": "https://x.com/Khazix0918/status/2110914404393091205",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27d32b3fe77e5f77e8f1e5a9aa33e8f9a3671b7d",
-          "title": "可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T00:18:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "27d32b3fe77e5f77e8f1e5a9aa33e8f9a3671b7d",
-          "title": "可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T00:18:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7093,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-16T00:18:00Z",
-      "latest_at": "2026-10-16T00:18:00Z",
-      "primary_item": {
-        "id": "27d32b3fe77e5f77e8f1e5a9aa33e8f9a3671b7d",
-        "title": "可灵 Kling 4.0 上线：支持30秒一镜到底，作者实测动态与全能参考",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687203&idx=1&sn=a58bc4411e8226b629f1b5c61509a198",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1010,15 +743,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7296,
+      "importance": 0.7296,
+      "importance_score": 0.7296,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7728,
+        "recency": 0.7224,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1089,22 +822,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.816,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T10:00:24.731006Z",
       "latest_at": "2026-10-16T10:00:24.731006Z",
@@ -1117,63 +849,190 @@
       }
     },
     {
-      "story_id": "story_99ab3953aaf1",
-      "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-      "url": "https://www.ithome.com/1/013/723.htm",
-      "primary_url": "https://www.ithome.com/1/013/723.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-16",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "60e47fcff41d839ffe6522686a0cb56f8d7f20b9",
-          "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-          "url": "https://www.ithome.com/1/013/723.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T00:54:07.827000Z"
+          "id": "3bca8390ff8f6204f3fad381985f2e4930edc50b",
+          "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-17T04:45:57.110050Z"
+        },
+        {
+          "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
+          "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:36:52.319574Z"
+        },
+        {
+          "id": "5baf18867a885939109ce3540133c99a3da4d1c7",
+          "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:36:52.319574Z"
+        },
+        {
+          "id": "fc3134c218e04ac28e8ddae2114f68c0c7456144",
+          "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:36:52.319574Z"
+        },
+        {
+          "id": "a672e14724a3d9ae4148a95ca62d9d2b340e970e",
+          "title": "Meta 全新 Muse Wonder 模型带来亮眼的 Active Memory 主动记忆能力，突破了传统 AI 仅存储对话文本的局限，能调取你的过往偏好，直接参与任务决策。老金以长跑规划、婚礼排座、T 恤定制演示为例，搭配 Active Focus 能力，跨工具执行时仍然可以持续守住你的个性化。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-15",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "2cf078ae7e8d9c575c775018c609effa46450c41",
+          "title": "作者利用Opus 5.5通过编写HTML动效网页截帧生成视频，无需AE、不用手动找图，仅靠几句指令就完成多款AI产品宣传片，还开源了整套制作Skill。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-15",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "08458402893b57ee1ad0e1fe6e702e342d5b9e2c",
+          "title": "作者实测了爆火开源逆向工具REA，仅用6分钟就让AI解析出飞书客户端架构并做出本地多开版本。文中复盘了REA短时间内爆火的底层原因，同时还整理了社区热议的争议点，包括工具价值、IP合规风险与使用边界。最后附上了实操安全提醒，可以帮你看懂AI逆向的能力上限，避开法律与安全陷阱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-15",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "38e0c69361abc08dd8321b73fa5b7fd8bc3e8127",
+          "title": "作者开源视频风格Skill chengfeng-video-styles，依托Opus 5.5，搭建起了一套可复用的AI视频生产工作流。内置16种成熟视频风格，还支持上传参考素材复刻全新视觉。流程也很巧妙，先生成多版3秒样片筛选风格，确认满意后再渲染全片，避免token浪费。来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-15",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T10:00:24.731006Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 8,
       "source_names": [
-        "IT之家·人工智能"
+        "社区更新 · 2026-10-15",
+        "社区更新 · 2026-10-16"
       ],
       "items": [
         {
-          "id": "60e47fcff41d839ffe6522686a0cb56f8d7f20b9",
-          "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-          "url": "https://www.ithome.com/1/013/723.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-16T00:54:07.827000Z"
+          "id": "3bca8390ff8f6204f3fad381985f2e4930edc50b",
+          "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-17T04:45:57.110050Z"
+        },
+        {
+          "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
+          "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:36:52.319574Z"
+        },
+        {
+          "id": "5baf18867a885939109ce3540133c99a3da4d1c7",
+          "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:36:52.319574Z"
+        },
+        {
+          "id": "fc3134c218e04ac28e8ddae2114f68c0c7456144",
+          "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-16",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T18:36:52.319574Z"
+        },
+        {
+          "id": "a672e14724a3d9ae4148a95ca62d9d2b340e970e",
+          "title": "Meta 全新 Muse Wonder 模型带来亮眼的 Active Memory 主动记忆能力，突破了传统 AI 仅存储对话文本的局限，能调取你的过往偏好，直接参与任务决策。老金以长跑规划、婚礼排座、T 恤定制演示为例，搭配 Active Focus 能力，跨工具执行时仍然可以持续守住你的个性化。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-15",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "2cf078ae7e8d9c575c775018c609effa46450c41",
+          "title": "作者利用Opus 5.5通过编写HTML动效网页截帧生成视频，无需AE、不用手动找图，仅靠几句指令就完成多款AI产品宣传片，还开源了整套制作Skill。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-15",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "08458402893b57ee1ad0e1fe6e702e342d5b9e2c",
+          "title": "作者实测了爆火开源逆向工具REA，仅用6分钟就让AI解析出飞书客户端架构并做出本地多开版本。文中复盘了REA短时间内爆火的底层原因，同时还整理了社区热议的争议点，包括工具价值、IP合规风险与使用边界。最后附上了实操安全提醒，可以帮你看懂AI逆向的能力上限，避开法律与安全陷阱。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-15",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "38e0c69361abc08dd8321b73fa5b7fd8bc3e8127",
+          "title": "作者开源视频风格Skill chengfeng-video-styles，依托Opus 5.5，搭建起了一套可复用的AI视频生产工作流。内置16种成熟视频风格，还支持上传参考素材复刻全新视觉。流程也很巧妙，先生成多版3秒样片筛选风格，确认满意后再渲染全片，避免token浪费。来上手试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-15",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-16T10:00:24.731006Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
-      "importance_label": "行业动态",
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7155,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-16T00:54:07.827000Z",
-      "latest_at": "2026-10-16T00:54:07.827000Z",
+      "earliest_at": "2026-10-16T10:00:24.731006Z",
+      "latest_at": "2026-10-17T04:45:57.110050Z",
       "primary_item": {
-        "id": "60e47fcff41d839ffe6522686a0cb56f8d7f20b9",
-        "title": "消息称投资者下调 Anthropic IPO 估值预期，从约 2 万亿美元降至约 1.5 万亿美元",
-        "url": "https://www.ithome.com/1/013/723.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
+        "id": "3bca8390ff8f6204f3fad381985f2e4930edc50b",
+        "title": "Anthropic 为应对 AI 批量生成代码带来的海量变更压力，耗时 5 个月自研 Scion，替换了内部的 Git，大幅降低了超大代码库的资源消耗，任务准备耗时从数分钟压缩至几秒。作者详细拆解了下这套系统的设计思路，还分享了 Claude 参与开发过程中踩过的工程陷阱，或许会给你带来一些关键启发！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-16",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1230,22 +1089,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.816,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T10:00:24.731006Z",
       "latest_at": "2026-10-16T10:00:24.731006Z",
@@ -1255,175 +1113,6 @@
         "url": "https://www.aibase.com/news/31701",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-10-16",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
-          "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T18:36:52.319574Z"
-        },
-        {
-          "id": "5baf18867a885939109ce3540133c99a3da4d1c7",
-          "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T18:36:52.319574Z"
-        },
-        {
-          "id": "fc3134c218e04ac28e8ddae2114f68c0c7456144",
-          "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T18:36:52.319574Z"
-        },
-        {
-          "id": "a672e14724a3d9ae4148a95ca62d9d2b340e970e",
-          "title": "Meta 全新 Muse Wonder 模型带来亮眼的 Active Memory 主动记忆能力，突破了传统 AI 仅存储对话文本的局限，能调取你的过往偏好，直接参与任务决策。老金以长跑规划、婚礼排座、T 恤定制演示为例，搭配 Active Focus 能力，跨工具执行时仍然可以持续守住你的个性化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "2cf078ae7e8d9c575c775018c609effa46450c41",
-          "title": "作者利用Opus 5.5通过编写HTML动效网页截帧生成视频，无需AE、不用手动找图，仅靠几句指令就完成多款AI产品宣传片，还开源了整套制作Skill。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "08458402893b57ee1ad0e1fe6e702e342d5b9e2c",
-          "title": "作者实测了爆火开源逆向工具REA，仅用6分钟就让AI解析出飞书客户端架构并做出本地多开版本。文中复盘了REA短时间内爆火的底层原因，同时还整理了社区热议的争议点，包括工具价值、IP合规风险与使用边界。最后附上了实操安全提醒，可以帮你看懂AI逆向的能力上限，避开法律与安全陷阱。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "38e0c69361abc08dd8321b73fa5b7fd8bc3e8127",
-          "title": "作者开源视频风格Skill chengfeng-video-styles，依托Opus 5.5，搭建起了一套可复用的AI视频生产工作流。内置16种成熟视频风格，还支持上传参考素材复刻全新视觉。流程也很巧妙，先生成多版3秒样片筛选风格，确认满意后再渲染全片，避免token浪费。来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        }
-      ],
-      "source_count": 7,
-      "source_names": [
-        "社区更新 · 2026-10-15",
-        "社区更新 · 2026-10-16"
-      ],
-      "items": [
-        {
-          "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
-          "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T18:36:52.319574Z"
-        },
-        {
-          "id": "5baf18867a885939109ce3540133c99a3da4d1c7",
-          "title": "作者带来一套适配飞书文档的 AI 绘图实操方案，区分了 Mermaid 和 HTML 两种绘图方式。Mermaid 快速生成流程图、架构图等可编辑结构图表，方便团队评审修改；HTML 用来制作高颜值、可交互的汇报可视化图表。这套方法能省去手动拖拽排版的繁琐工作，让你把精力聚焦在梳理业务逻辑上。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T18:36:52.319574Z"
-        },
-        {
-          "id": "fc3134c218e04ac28e8ddae2114f68c0c7456144",
-          "title": "小歪对谷歌全新旗舰模型Gemini 4 Argon进行了实测，发现它在榜单上和Opus 5.5实力接近，长文本写作、3D场景构建、交互式网页生成表现亮眼。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-16",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T18:36:52.319574Z"
-        },
-        {
-          "id": "a672e14724a3d9ae4148a95ca62d9d2b340e970e",
-          "title": "Meta 全新 Muse Wonder 模型带来亮眼的 Active Memory 主动记忆能力，突破了传统 AI 仅存储对话文本的局限，能调取你的过往偏好，直接参与任务决策。老金以长跑规划、婚礼排座、T 恤定制演示为例，搭配 Active Focus 能力，跨工具执行时仍然可以持续守住你的个性化。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "2cf078ae7e8d9c575c775018c609effa46450c41",
-          "title": "作者利用Opus 5.5通过编写HTML动效网页截帧生成视频，无需AE、不用手动找图，仅靠几句指令就完成多款AI产品宣传片，还开源了整套制作Skill。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "08458402893b57ee1ad0e1fe6e702e342d5b9e2c",
-          "title": "作者实测了爆火开源逆向工具REA，仅用6分钟就让AI解析出飞书客户端架构并做出本地多开版本。文中复盘了REA短时间内爆火的底层原因，同时还整理了社区热议的争议点，包括工具价值、IP合规风险与使用边界。最后附上了实操安全提醒，可以帮你看懂AI逆向的能力上限，避开法律与安全陷阱。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        },
-        {
-          "id": "38e0c69361abc08dd8321b73fa5b7fd8bc3e8127",
-          "title": "作者开源视频风格Skill chengfeng-video-styles，依托Opus 5.5，搭建起了一套可复用的AI视频生产工作流。内置16种成熟视频风格，还支持上传参考素材复刻全新视觉。流程也很巧妙，先生成多版3秒样片筛选风格，确认满意后再渲染全片，避免token浪费。来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-10-15",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-10-16T10:00:24.731006Z"
-        }
-      ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.6555,
-      "importance": 0.6555,
-      "importance_score": 0.6555,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.924,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-16T10:00:24.731006Z",
-      "latest_at": "2026-10-16T18:36:52.319574Z",
-      "primary_item": {
-        "id": "4c2b8d31fc423941b3b77dd613490b35d5ec9535",
-        "title": "AI 短剧看着像一句话就能出片，真做起来却常遇到人物不一致、动作接不上、表演僵硬和文字乱码。作者用五组案例对可灵 4.0进行了实测，通过 Codex 对话跑通剧本、角色与场景资产、分镜提示词、生成返修到字幕配乐与剪辑，全程没打开剪辑软件。一起来看看！",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-10-16",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1480,22 +1169,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.816,
+        "recency": 0.7627,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-16T10:00:24.731006Z",
       "latest_at": "2026-10-16T10:00:24.731006Z",
@@ -1505,6 +1193,458 @@
         "url": "https://www.aibase.com/news/31691",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cb4458cafd2f",
+      "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+      "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "primary_url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "772ad425ce58f29a5f4a02262c50a4cb52763220",
+          "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+          "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-16T22:51:22Z"
+        },
+        {
+          "id": "3a865c995fbfd81450ebf59b39b07ccef58faa29",
+          "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+          "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-16T22:51:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "772ad425ce58f29a5f4a02262c50a4cb52763220",
+          "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+          "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-16T22:51:22Z"
+        },
+        {
+          "id": "3a865c995fbfd81450ebf59b39b07ccef58faa29",
+          "title": "Apple’s updated App Store rules go after ‘nudify’ AI apps",
+          "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-16T22:51:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6008,
+      "importance": 0.6008,
+      "importance_score": 0.6008,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.9182,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T22:51:22Z",
+      "latest_at": "2026-10-16T22:51:22Z",
+      "primary_item": {
+        "id": "772ad425ce58f29a5f4a02262c50a4cb52763220",
+        "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+        "url": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_60a01224a236",
+      "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
+      "url": "https://www.aibase.com/news/31683",
+      "primary_url": "https://www.aibase.com/news/31683",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "01bcb042ff53e26b9d69f71fc63fcb6a1aa24e19",
+          "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
+          "url": "https://www.aibase.com/news/31683",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "72eb236261ff0fc0e049a02186c5cd04b817c4c2",
+          "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
+          "url": "https://www.aibase.com/zh/news/31683",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "01bcb042ff53e26b9d69f71fc63fcb6a1aa24e19",
+          "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
+          "url": "https://www.aibase.com/news/31683",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-16T10:00:24.731006Z"
+        },
+        {
+          "id": "72eb236261ff0fc0e049a02186c5cd04b817c4c2",
+          "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
+          "url": "https://www.aibase.com/zh/news/31683",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7627,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-16T10:00:24.731006Z",
+      "latest_at": "2026-10-16T10:00:24.731006Z",
+      "primary_item": {
+        "id": "01bcb042ff53e26b9d69f71fc63fcb6a1aa24e19",
+        "title": "斯坦福等联合提出全新文本生成范式 NCM，生成速度狂飙 31 倍",
+        "url": "https://www.aibase.com/news/31683",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_04b7640931c7",
+      "title": "利用Claude设计更高效的量子电路",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "primary_url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+          "title": "利用Claude设计更高效的量子电路",
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:52:14.008000Z"
+        },
+        {
+          "id": "082525f474773fe4f140fb2bf776d94701ebde83",
+          "title": "利用Claude设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:00:18Z"
+        },
+        {
+          "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
+          "title": "与 Claude 一起设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "url": "https://news.ycombinator.com/item?id=50121939",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:00:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+          "title": "利用Claude设计更高效的量子电路",
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T01:52:14.008000Z"
+        },
+        {
+          "id": "082525f474773fe4f140fb2bf776d94701ebde83",
+          "title": "利用Claude设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T18:00:18Z"
+        },
+        {
+          "id": "38ddce7c8c246026550308f6248b7571cd9ddd29",
+          "title": "与 Claude 一起设计更高效的量子电路 / Designing more efficient quantum circuits with Claude",
+          "url": "https://news.ycombinator.com/item?id=50121939",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T18:00:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5634,
+      "importance": 0.5634,
+      "importance_score": 0.5634,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9591,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T18:00:18Z",
+      "latest_at": "2026-10-17T01:52:14.008000Z",
+      "primary_item": {
+        "id": "2ca00eaf77979420722b41c3e63a1b6fdcb51806",
+        "title": "利用Claude设计更高效的量子电路",
+        "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c19e7ef010f7",
+      "title": "你完全可以凭记忆发明出变形金刚",
+      "url": "https://alexwang.ai/posts/associative-memory",
+      "primary_url": "https://alexwang.ai/posts/associative-memory",
+      "source": "alexwang.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
+          "title": "你完全可以凭记忆发明出变形金刚",
+          "url": "https://alexwang.ai/posts/associative-memory",
+          "source": "alexwang.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T00:00:23.665000Z"
+        },
+        {
+          "id": "5f5d12afb201b8e0e026e0ea1e86f74d8356d142",
+          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
+          "url": "https://alexwang.ai/posts/associative-memory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T19:01:17Z"
+        },
+        {
+          "id": "5b1e4d74bf76325a41d1f1b454549d28a581e9b4",
+          "title": "你本可以凭记忆发明变形金刚 / You could have invented transformers from memory",
+          "url": "https://news.ycombinator.com/item?id=50122878",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T19:01:17Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "alexwang.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
+          "title": "你完全可以凭记忆发明出变形金刚",
+          "url": "https://alexwang.ai/posts/associative-memory",
+          "source": "alexwang.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-17T00:00:23.665000Z"
+        },
+        {
+          "id": "5f5d12afb201b8e0e026e0ea1e86f74d8356d142",
+          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
+          "url": "https://alexwang.ai/posts/associative-memory",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-16T19:01:17Z"
+        },
+        {
+          "id": "5b1e4d74bf76325a41d1f1b454549d28a581e9b4",
+          "title": "你本可以凭记忆发明变形金刚 / You could have invented transformers from memory",
+          "url": "https://news.ycombinator.com/item?id=50122878",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T19:01:17Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5588,
+      "importance": 0.5588,
+      "importance_score": 0.5588,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9336,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T19:01:17Z",
+      "latest_at": "2026-10-17T00:00:23.665000Z",
+      "primary_item": {
+        "id": "1165087802d3484327bc10c6dbfbac4f89354054",
+        "title": "你完全可以凭记忆发明出变形金刚",
+        "url": "https://alexwang.ai/posts/associative-memory",
+        "source": "alexwang.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_18255162d61c",
+      "title": "人工智能是资本主义的最终归宿",
+      "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+      "primary_url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+      "source": "www.equator.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "16ba2cd3a20d6f08b8707d5008055ffeed28a75d",
+          "title": "人工智能是资本主义的最终归宿",
+          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+          "source": "www.equator.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T22:24:50.023000Z"
+        },
+        {
+          "id": "3fa3d1af0d60efb9e4e223118e29bc35a1b6fb22",
+          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
+          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T12:08:40Z"
+        },
+        {
+          "id": "c5a77f435cb7a4390f960ba752d7553a2dda8cdc",
+          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
+          "url": "https://news.ycombinator.com/item?id=50117382",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T12:08:40Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.equator.org"
+      ],
+      "items": [
+        {
+          "id": "16ba2cd3a20d6f08b8707d5008055ffeed28a75d",
+          "title": "人工智能是资本主义的最终归宿",
+          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+          "source": "www.equator.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-16T22:24:50.023000Z"
+        },
+        {
+          "id": "3fa3d1af0d60efb9e4e223118e29bc35a1b6fb22",
+          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
+          "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-16T12:08:40Z"
+        },
+        {
+          "id": "c5a77f435cb7a4390f960ba752d7553a2dda8cdc",
+          "title": "人工智能是资本主义的最终归宿 / Artificial intelligence is capitalism's final destination",
+          "url": "https://news.ycombinator.com/item?id=50117382",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-16T12:08:40Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.555,
+      "importance": 0.555,
+      "importance_score": 0.555,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9124,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-16T12:08:40Z",
+      "latest_at": "2026-10-16T22:24:50.023000Z",
+      "primary_item": {
+        "id": "16ba2cd3a20d6f08b8707d5008055ffeed28a75d",
+        "title": "人工智能是资本主义的最终归宿",
+        "url": "https://www.equator.org/articles/arundhati-roy-artificial-intelligence",
+        "source": "www.equator.org",
+        "source_name": "Buzzing"
       }
     }
   ]
