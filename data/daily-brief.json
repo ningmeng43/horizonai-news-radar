@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T14:45:49.614193Z",
+  "generated_at": "2026-10-18T17:42:42.590586Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9801,
+        "recency": 0.9393,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -138,15 +138,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7907,
+      "importance": 0.7907,
+      "importance_score": 0.7907,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9454,
+        "recency": 0.906,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -166,63 +166,117 @@
       }
     },
     {
-      "story_id": "story_d5ffb91e798d",
-      "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
-      "url": "https://x.com/Khazix0918/status/2111639562720329976",
-      "primary_url": "https://x.com/Khazix0918/status/2111639562720329976",
-      "source": "X：卡兹克 (@Khazix0918)",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "AI 能高效完成各类执行任务，却无法拥有源于生命体验、文化阅历形成的价值品味 taste。作者拆解了品味的底层逻辑，还给出培养品味的实操方法，或许可以帮你打造 AI 难以复刻的个人核心竞争力。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-10-17",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "fd7c7e4a70a780994369500c5546e8c2922a5ece",
-          "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
-          "url": "https://x.com/Khazix0918/status/2111639562720329976",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T02:04:38Z"
+          "id": "4928e540b115bdb715f81063b34b1485cd9f17dc",
+          "title": "AI 能高效完成各类执行任务，却无法拥有源于生命体验、文化阅历形成的价值品味 taste。作者拆解了品味的底层逻辑，还给出培养品味的实操方法，或许可以帮你打造 AI 难以复刻的个人核心竞争力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-18T17:42:42.590586Z"
+        },
+        {
+          "id": "205c8736902166e753b26c72b8f079e0d746ba6e",
+          "title": "Ambi 创始人子皓结合自身丰富的创业经历，剖析了当下 Personal AI 赛道的机遇。文中抛出诸多反常识判断，搭配真实商业落地案例，给大家提供了很多宝贵的行业判断与实战思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-18T17:42:42.590586Z"
+        },
+        {
+          "id": "8551e345e0b0ee6ee05471c76442efc2a04ebc56",
+          "title": "DeepSeek-V4.1-Flash重磅更新，在模型单价不变的前提下大幅强化代码与工具能力，能一键生成赛车、故宫3D场景、Godot游戏交互原型。软件工程、终端任务评测指标也明显上涨，同时还新增了Search与Fetch联网抓取接口，可以低成本实现资料检索。一起看看效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-18T17:42:42.590586Z"
+        },
+        {
+          "id": "df565bfcf32df9b2df6dd7594719281b68f025af",
+          "title": "如果你也想靠AI搭建个性化的个人网站，却总做出千篇一律的成品，这篇文章或许会帮到你。先用飞书文档统一管理网站素材，再整理八大类六十多个高质量网页资源。从UI组件、动效3D、页面灵感、配色图标，到AI建站工具、设计提示词一应俱全，附带详细复用技巧，可直接提取代码与提示词，快速打造风格独特的个人站点。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-18T17:42:42.590586Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "X：卡兹克 (@Khazix0918)"
+        "社区更新 · 2026-10-17"
       ],
       "items": [
         {
-          "id": "fd7c7e4a70a780994369500c5546e8c2922a5ece",
-          "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
-          "url": "https://x.com/Khazix0918/status/2111639562720329976",
-          "source": "X：卡兹克 (@Khazix0918)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-18T02:04:38Z"
+          "id": "4928e540b115bdb715f81063b34b1485cd9f17dc",
+          "title": "AI 能高效完成各类执行任务，却无法拥有源于生命体验、文化阅历形成的价值品味 taste。作者拆解了品味的底层逻辑，还给出培养品味的实操方法，或许可以帮你打造 AI 难以复刻的个人核心竞争力。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-18T17:42:42.590586Z"
+        },
+        {
+          "id": "205c8736902166e753b26c72b8f079e0d746ba6e",
+          "title": "Ambi 创始人子皓结合自身丰富的创业经历，剖析了当下 Personal AI 赛道的机遇。文中抛出诸多反常识判断，搭配真实商业落地案例，给大家提供了很多宝贵的行业判断与实战思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-18T17:42:42.590586Z"
+        },
+        {
+          "id": "8551e345e0b0ee6ee05471c76442efc2a04ebc56",
+          "title": "DeepSeek-V4.1-Flash重磅更新，在模型单价不变的前提下大幅强化代码与工具能力，能一键生成赛车、故宫3D场景、Godot游戏交互原型。软件工程、终端任务评测指标也明显上涨，同时还新增了Search与Fetch联网抓取接口，可以低成本实现资料检索。一起看看效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-18T17:42:42.590586Z"
+        },
+        {
+          "id": "df565bfcf32df9b2df6dd7594719281b68f025af",
+          "title": "如果你也想靠AI搭建个性化的个人网站，却总做出千篇一律的成品，这篇文章或许会帮到你。先用飞书文档统一管理网站素材，再整理八大类六十多个高质量网页资源。从UI组件、动效3D、页面灵感、配色图标，到AI建站工具、设计提示词一应俱全，附带详细复用技巧，可直接提取代码与提示词，快速打造风格独特的个人站点。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-10-17",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-10-18T17:42:42.590586Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7255,
-      "importance": 0.7255,
-      "importance_score": 0.7255,
-      "importance_label": "行业动态",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8326,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-18T02:04:38Z",
-      "latest_at": "2026-10-18T02:04:38Z",
+      "earliest_at": "2026-10-18T17:42:42.590586Z",
+      "latest_at": "2026-10-18T17:42:42.590586Z",
       "primary_item": {
-        "id": "fd7c7e4a70a780994369500c5546e8c2922a5ece",
-        "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
-        "url": "https://x.com/Khazix0918/status/2111639562720329976",
-        "source": "X：卡兹克 (@Khazix0918)",
-        "source_name": "AI HOT"
+        "id": "4928e540b115bdb715f81063b34b1485cd9f17dc",
+        "title": "AI 能高效完成各类执行任务，却无法拥有源于生命体验、文化阅历形成的价值品味 taste。作者拆解了品味的底层逻辑，还给出培养品味的实操方法，或许可以帮你打造 AI 难以复刻的个人核心竞争力。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-10-17",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -279,15 +333,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6286,
-      "importance": 0.6286,
-      "importance_score": 0.6286,
+      "score": 0.623,
+      "importance": 0.623,
+      "importance_score": 0.623,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7496,
+        "recency": 0.7183,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -396,15 +450,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5805,
-      "importance": 0.5805,
-      "importance_score": 0.5805,
+      "score": 0.5737,
+      "importance": 0.5737,
+      "importance_score": 0.5737,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9151,
+        "recency": 0.877,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -494,15 +548,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5555,
-      "importance": 0.5555,
-      "importance_score": 0.5555,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9151,
+        "recency": 0.877,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -517,85 +571,6 @@
         "url": "https://api-docs.deepseek.com/guides/search",
         "source": "api-docs.deepseek.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_530db20d1b98",
-      "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-      "url": "https://www.ithome.com/1/014/589.htm",
-      "primary_url": "https://www.ithome.com/1/014/589.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
-          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
-          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T12:21:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
-          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
-          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T12:21:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T12:21:25Z",
-      "latest_at": "2026-10-18T14:45:49.614193Z",
-      "primary_item": {
-        "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
-        "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-        "url": "https://www.ithome.com/1/014/589.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -671,15 +646,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8582,
+        "recency": 0.8224,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -693,6 +668,322 @@
         "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
         "url": "https://github.com/openai/codex/issues/25921",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_79619743255e",
+      "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T14:58:10Z"
+        },
+        {
+          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://news.ycombinator.com/item?id=50141657",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:58:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T14:58:10Z"
+        },
+        {
+          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://news.ycombinator.com/item?id=50141657",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:58:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9612,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:58:10Z",
+      "latest_at": "2026-10-18T14:58:10Z",
+      "primary_item": {
+        "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
+        "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_530db20d1b98",
+      "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
+      "url": "https://www.ithome.com/1/014/589.htm",
+      "primary_url": "https://www.ithome.com/1/014/589.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
+          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
+          "url": "https://www.ithome.com/1/014/589.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
+          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
+          "url": "https://www.ithome.com/1/014/589.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T12:21:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
+          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
+          "url": "https://www.ithome.com/1/014/589.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
+          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
+          "url": "https://www.ithome.com/1/014/589.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T12:21:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9583,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T12:21:25Z",
+      "latest_at": "2026-10-18T14:45:49.614193Z",
+      "primary_item": {
+        "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
+        "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
+        "url": "https://www.ithome.com/1/014/589.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_a257dddc2d05",
+      "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        },
+        {
+          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://news.ycombinator.com/item?id=50141429",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        },
+        {
+          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
+          "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://news.ycombinator.com/item?id=50141429",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9548,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:30:27Z",
+      "latest_at": "2026-10-18T14:30:27Z",
+      "primary_item": {
+        "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+        "title": "Anthropic 提出的人工智能安全法案仅在 50 人死亡或 10 亿美元损失时生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_6e962c8babf2",
+      "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+      "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+      "primary_url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T14:28:08.026000Z"
+        },
+        {
+          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T14:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T14:28:08.026000Z"
+        },
+        {
+          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T14:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9542,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:00:01Z",
+      "latest_at": "2026-10-18T14:28:08.026000Z",
+      "primary_item": {
+        "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+        "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+        "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -750,15 +1041,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5375,
+      "importance": 0.5375,
+      "importance_score": 0.5375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9954,
+        "recency": 0.9539,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -773,6 +1064,85 @@
         "url": "https://github.com/mlabonne/llm-course",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6e2930f20afd",
+      "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+      "url": "https://www.vals.ai/blogs/impossible-refund",
+      "primary_url": "https://www.vals.ai/blogs/impossible-refund",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "95a26e07c8bff64b77be4d1a75bbab1aae02792a",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://www.vals.ai/blogs/impossible-refund",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T12:22:58Z"
+        },
+        {
+          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://news.ycombinator.com/item?id=50140462",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T12:22:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "95a26e07c8bff64b77be4d1a75bbab1aae02792a",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://www.vals.ai/blogs/impossible-refund",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T12:22:58Z"
+        },
+        {
+          "id": "4092e25118235f2cce4bf1d9405e0428b70ed93c",
+          "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+          "url": "https://news.ycombinator.com/item?id=50140462",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T12:22:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9259,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T12:22:58Z",
+      "latest_at": "2026-10-18T12:22:58Z",
+      "primary_item": {
+        "id": "95a26e07c8bff64b77be4d1a75bbab1aae02792a",
+        "title": "拿不到退款，人工智能助理会走多远？ / How Far Will AI Assistants Go for a Refund They Can't Get?",
+        "url": "https://www.vals.ai/blogs/impossible-refund",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -829,15 +1199,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9253,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -927,15 +1297,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.801,
+        "recency": 0.7676,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -950,202 +1320,6 @@
         "url": "https://abolish-ai.net/abolish-ai-a-manifesto",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_28fe2bff247e",
-      "title": "OpenAI披露了另外四起违规事件",
-      "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "primary_url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-      "source": "fortune.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-          "title": "OpenAI披露了另外四起违规事件",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T19:22:11.943000Z"
-        },
-        {
-          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
-          "title": "OpenAI披露了另外四起违规事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:31:12Z"
-        },
-        {
-          "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
-          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://news.ycombinator.com/item?id=50132502",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:31:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "fortune.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-          "title": "OpenAI披露了另外四起违规事件",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "fortune.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T19:22:11.943000Z"
-        },
-        {
-          "id": "c81de980025f7a775d56f86f390ce81dc776c152",
-          "title": "OpenAI披露了另外四起违规事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:31:12Z"
-        },
-        {
-          "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
-          "title": "OpenAI又披露了四起流氓事件 / OpenAI discloses four more rogue incidents",
-          "url": "https://news.ycombinator.com/item?id=50132502",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:31:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7557,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T16:31:12Z",
-      "latest_at": "2026-10-17T19:22:11.943000Z",
-      "primary_item": {
-        "id": "a3297038fde279329518cbac6dd672063aaa53d2",
-        "title": "OpenAI披露了另外四起违规事件",
-        "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
-        "source": "fortune.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dbca5928ae7c",
-      "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-      "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-      "primary_url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-      "source": "www.opendemocracy.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "www.opendemocracy.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:06.954000Z"
-        },
-        {
-          "id": "1083148e9c404becf18be8144edc6721fcddae10",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:04:23Z"
-        },
-        {
-          "id": "fe94a22556c5abe5cfee23ed9a4a6b00362eec6c",
-          "title": "亚马逊使用人工智能监控英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://news.ycombinator.com/item?id=50132278",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:04:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.opendemocracy.net"
-      ],
-      "items": [
-        {
-          "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "www.opendemocracy.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T18:34:06.954000Z"
-        },
-        {
-          "id": "1083148e9c404becf18be8144edc6721fcddae10",
-          "title": "亚马逊利用人工智能监测英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T16:04:23Z"
-        },
-        {
-          "id": "fe94a22556c5abe5cfee23ed9a4a6b00362eec6c",
-          "title": "亚马逊使用人工智能监控英国仓库的工会风险 / Amazon uses AI to monitor union risk in UK warehouses",
-          "url": "https://news.ycombinator.com/item?id=50132278",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T16:04:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.747,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T16:04:23Z",
-      "latest_at": "2026-10-17T18:34:06.954000Z",
-      "primary_item": {
-        "id": "948c145d79facd298f05f16806d04ef6da86e21c",
-        "title": "亚马逊利用人工智能监测英国仓库的工会风险",
-        "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
-        "source": "www.opendemocracy.net",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1202,15 +1376,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
+      "score": 0.4947,
+      "importance": 0.4947,
+      "importance_score": 0.4947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.747,
+        "recency": 0.7159,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1281,15 +1455,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
+      "score": 0.5183,
+      "importance": 0.5183,
+      "importance_score": 0.5183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8842,
+        "recency": 0.8473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1307,79 +1481,80 @@
       }
     },
     {
-      "story_id": "story_32b83c7f52bb",
-      "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-      "primary_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "story_id": "story_a99b07861f4f",
+      "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
+      "primary_url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
+          "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
+          "published_at": "2026-10-18T06:46:50Z"
         },
         {
-          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
+          "id": "ffe2d1b841e7ce3391e965cc1bbb4eb440fb8d77",
+          "title": "美国10万亿美元的人工智能基础设施热潮开始出现裂痕",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:26:11.357000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "Hacker News · 24h最热",
+        "www.ft.com"
       ],
       "items": [
         {
-          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
+          "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
+          "published_at": "2026-10-18T06:46:50Z"
         },
         {
-          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
-          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
-          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T03:19:49Z"
+          "id": "ffe2d1b841e7ce3391e965cc1bbb4eb440fb8d77",
+          "title": "美国10万亿美元的人工智能基础设施热潮开始出现裂痕",
+          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:26:11.357000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5184,
-      "importance": 0.5184,
-      "importance_score": 0.5184,
+      "score": 0.5195,
+      "importance": 0.5195,
+      "importance_score": 0.5195,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8478,
+        "recency": 0.854,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T03:19:49Z",
-      "latest_at": "2026-10-18T03:19:49Z",
+      "earliest_at": "2026-10-18T04:26:11.357000Z",
+      "latest_at": "2026-10-18T06:46:50Z",
       "primary_item": {
-        "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
-        "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
-        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
+        "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
+        "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1438,15 +1613,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.5079,
+      "importance": 0.5079,
+      "importance_score": 0.5079,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8235,
+        "recency": 0.7892,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1464,239 +1639,81 @@
       }
     },
     {
-      "story_id": "story_1ef3aa7eb1be",
-      "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
-      "url": "https://www.ithome.com/1/014/439.htm",
-      "primary_url": "https://www.ithome.com/1/014/439.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_32b83c7f52bb",
+      "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "primary_url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
-          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
-          "url": "https://www.ithome.com/1/014/439.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
         },
         {
-          "id": "85cb8869520983a90656abf5044f8cdb945b3556",
-          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
-          "url": "https://www.ithome.com/1/014/439.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:35:36Z"
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
-          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
-          "url": "https://www.ithome.com/1/014/439.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
         },
         {
-          "id": "85cb8869520983a90656abf5044f8cdb945b3556",
-          "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是“人”，是“创作者”",
-          "url": "https://www.ithome.com/1/014/439.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:35:36Z"
+          "id": "04aeee945769bb26a995c10ac2a2ba3aecdc14c4",
+          "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+          "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T03:19:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
+      "score": 0.512,
+      "importance": 0.512,
+      "importance_score": 0.512,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8235,
+        "recency": 0.8125,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T00:35:36Z",
-      "latest_at": "2026-10-18T01:19:07.643955Z",
+      "earliest_at": "2026-10-18T03:19:49Z",
+      "latest_at": "2026-10-18T03:19:49Z",
       "primary_item": {
-        "id": "ebc721298d5bef610d2a2c3fd66091fb88d4c431",
-        "title": "科乐美社长早川英树谈 AI 对游戏开发的影响：最重要的依然是「人」，是「创作者」",
-        "url": "https://www.ithome.com/1/014/439.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_ff1fbf23f1e4",
-      "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
-      "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4898351.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "db592c5364f48a22e912fe447ce2d45872d0036f",
-          "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
-          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3ddc7306b22c14b5cd22cc27dd4a2eb15f07a985",
-          "title": "观察｜AI时代，不敢裁员也不愿招聘：中国企业的“不裁只冻”困局",
-          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:37:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "db592c5364f48a22e912fe447ce2d45872d0036f",
-          "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
-          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3ddc7306b22c14b5cd22cc27dd4a2eb15f07a985",
-          "title": "观察｜AI时代，不敢裁员也不愿招聘：中国企业的“不裁只冻”困局",
-          "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:37:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.514,
-      "importance": 0.514,
-      "importance_score": 0.514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8235,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T00:37:56Z",
-      "latest_at": "2026-10-18T01:19:07.643955Z",
-      "primary_item": {
-        "id": "db592c5364f48a22e912fe447ce2d45872d0036f",
-        "title": "观察｜AI 时代，不敢裁员也不愿招聘：中国企业的「不裁只冻」困局",
-        "url": "https://www.huxiu.com/article/4898351.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
-          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
-          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5054,
-      "importance": 0.5054,
-      "importance_score": 0.5054,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7757,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T21:10:31.514034Z",
-      "latest_at": "2026-10-17T21:10:31.514034Z",
-      "primary_item": {
-        "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-        "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "0f8090a7483a2fa0a8443ec7360a96f466d27f99",
+        "title": "纪录片《You Can See Everything》是如何误导观众的 / How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+        "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
