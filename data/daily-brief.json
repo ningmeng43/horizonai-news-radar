@@ -1,128 +1,8 @@
 {
-  "generated_at": "2026-10-22T08:11:52.854174Z",
+  "generated_at": "2026-10-22T13:58:16.447025Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_61f4d0141ff3",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "primary_url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "df91515a04111d4f0c04c40ee75db35dea8fac6b",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
-          "title": "OpenAI 模型即将登陆 Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T18:37:43.968000Z"
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "hackernews",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "df91515a04111d4f0c04c40ee75db35dea8fac6b",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T12:00:00Z"
-        },
-        {
-          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
-          "title": "OpenAI 模型即将登陆 Google Cloud",
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T18:37:43.968000Z"
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8875,
-      "importance": 0.8875,
-      "importance_score": 0.8875,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.747,
-        "story_heat": 0.75
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T12:00:00Z",
-      "latest_at": "2026-10-21T18:37:43.968000Z",
-      "primary_item": {
-        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-        "url": "https://openai.com/index/openai-models-google-cloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
     {
       "story_id": "story_5d118fadbe79",
       "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
@@ -158,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8591,
-      "importance": 0.8591,
-      "importance_score": 0.8591,
+      "score": 0.8448,
+      "importance": 0.8448,
+      "importance_score": 0.8448,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9951,
+        "recency": 0.9155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,6 +62,68 @@
         "title": "使用 IBM Granite 时间序列模型进行集合预测 / Ensemble forecasting with IBM Granite time-series models",
         "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_63c31ca523f9",
+      "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "primary_url": "https://openai.com/index/forward-deployed-engineering-means",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
+          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "7211e5faaaa4484816d9693f0e637588544211e6",
+          "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+          "url": "https://openai.com/index/forward-deployed-engineering-means",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-22T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8913,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T06:00:00Z",
+      "latest_at": "2026-10-22T06:00:00Z",
+      "primary_item": {
+        "id": "7211e5faaaa4484816d9693f0e637588544211e6",
+        "title": "FDE 在 OpenAI 中意味着什么 / What FDE means at OpenAI",
+        "url": "https://openai.com/index/forward-deployed-engineering-means",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -239,15 +181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8476,
-      "importance": 0.8476,
-      "importance_score": 0.8476,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7923,
+        "recency": 0.729,
         "story_heat": 0.25
       },
       "category": "official",
@@ -268,102 +210,83 @@
       }
     },
     {
-      "story_id": "story_d31a18ead424",
-      "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
-      "url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "primary_url": "https://www.wiz.io/blog/php2shell-php-rce",
-      "source": "Wiz：Research（安全研究）",
+      "story_id": "story_7dc27a52c57d",
+      "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+      "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+      "primary_url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ba444c0d9c6f0d4afda2eb020ac359ba69459422",
-          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Wiz：Research（安全研究）",
+          "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T13:30:59Z"
+          "published_at": "2026-10-22T11:30:56Z"
         },
         {
-          "id": "e248f6db6bbf3956396d71d3749f9c4af7f07fb6",
-          "title": "PHP2Shell：人工智能发现PHP中存在关键的远程代码执行漏洞",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "www.wiz.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T14:39:53.537000Z"
-        },
-        {
-          "id": "a60168b132b5adb1a88df45de3cbd25ee60e2d5a",
-          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站 / PHP2Shell: AI uncovers critical RCE in PHP",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-21T13:43:19Z"
+          "id": "60520477867df022c4530e4e41d825dbd911b721",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-22T11:30:56Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Wiz：Research（安全研究）",
-        "www.wiz.io"
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "ba444c0d9c6f0d4afda2eb020ac359ba69459422",
-          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Wiz：Research（安全研究）",
+          "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T13:30:59Z"
+          "published_at": "2026-10-22T11:30:56Z"
         },
         {
-          "id": "e248f6db6bbf3956396d71d3749f9c4af7f07fb6",
-          "title": "PHP2Shell：人工智能发现PHP中存在关键的远程代码执行漏洞",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "www.wiz.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-21T14:39:53.537000Z"
-        },
-        {
-          "id": "a60168b132b5adb1a88df45de3cbd25ee60e2d5a",
-          "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站 / PHP2Shell: AI uncovers critical RCE in PHP",
-          "url": "https://www.wiz.io/blog/php2shell-php-rce",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-21T13:43:19Z"
+          "id": "60520477867df022c4530e4e41d825dbd911b721",
+          "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击 / An AI agent in \"Skynet mode\" hijacks unprotected language models to launch self-sustaining cyberattacks",
+          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-22T11:30:56Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7636,
-        "story_heat": 0.5
+        "recency": 0.9652,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T13:30:59Z",
-      "latest_at": "2026-10-21T14:39:53.537000Z",
+      "earliest_at": "2026-10-22T11:30:56Z",
+      "latest_at": "2026-10-22T11:30:56Z",
       "primary_item": {
-        "id": "ba444c0d9c6f0d4afda2eb020ac359ba69459422",
-        "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
-        "url": "https://www.wiz.io/blog/php2shell-php-rce",
-        "source": "Wiz：Research（安全研究）",
+        "id": "84d7b5ca1b0b1875c7f22ae4a6c98d4149ccc50d",
+        "title": "Symantec 披露“Skynet 模式”AI 智能体劫持无防护大语言模型发起自持续网络攻击",
+        "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -402,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7997,
+        "recency": 0.7358,
         "story_heat": 0.0
       },
       "category": "official",
@@ -483,15 +406,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8079,
-      "importance": 0.8079,
-      "importance_score": 0.8079,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9182,
+        "recency": 0.8447,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -508,6 +431,87 @@
         "url": "https://www.ithome.com/1/016/243.htm",
         "source": "IT之家·人工智能",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_88f7127bfb1b",
+      "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+      "url": "https://www.aibase.com/news/31806",
+      "primary_url": "https://www.aibase.com/news/31806",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cbaca5053aadfc0d467b8dfa3c184bc661b4086d",
+          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+          "url": "https://www.aibase.com/news/31806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T13:58:16.447025Z"
+        },
+        {
+          "id": "247f167082f7a6b09b4b0c254bd3671a50917281",
+          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+          "url": "https://www.aibase.com/zh/news/31806",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "cbaca5053aadfc0d467b8dfa3c184bc661b4086d",
+          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+          "url": "https://www.aibase.com/news/31806",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T13:58:16.447025Z"
+        },
+        {
+          "id": "247f167082f7a6b09b4b0c254bd3671a50917281",
+          "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+          "url": "https://www.aibase.com/zh/news/31806",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T13:58:16.447025Z",
+      "latest_at": "2026-10-22T13:58:16.447025Z",
+      "primary_item": {
+        "id": "cbaca5053aadfc0d467b8dfa3c184bc661b4086d",
+        "title": "讯飞星火 X2.6 端云一体大模型发布，首次基于全国产算力突破代码与智能体能力",
+        "url": "https://www.aibase.com/news/31806",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -545,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8896,
+        "recency": 0.8185,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,15 +610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8507,
+        "recency": 0.7826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -668,15 +672,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.793,
-      "importance": 0.793,
-      "importance_score": 0.793,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9579,
+        "recency": 0.8813,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,87 +696,6 @@
         "url": "https://x.com/rohanpaul_ai/status/2113136583985766442",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fcc8b3378040",
-      "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
-      "url": "https://www.aibase.com/news/31801",
-      "primary_url": "https://www.aibase.com/news/31801",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "636077004b86cdff5ff3218cb13b0c3627db6af4",
-          "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
-          "url": "https://www.aibase.com/news/31801",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T08:11:52.854174Z"
-        },
-        {
-          "id": "47f8f802414e41f585688041dcac85656dfc08d4",
-          "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
-          "url": "https://www.aibase.com/zh/news/31801",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "636077004b86cdff5ff3218cb13b0c3627db6af4",
-          "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
-          "url": "https://www.aibase.com/news/31801",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-22T08:11:52.854174Z"
-        },
-        {
-          "id": "47f8f802414e41f585688041dcac85656dfc08d4",
-          "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
-          "url": "https://www.aibase.com/zh/news/31801",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T08:11:52.854174Z",
-      "latest_at": "2026-10-22T08:11:52.854174Z",
-      "primary_item": {
-        "id": "636077004b86cdff5ff3218cb13b0c3627db6af4",
-        "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
-        "url": "https://www.aibase.com/news/31801",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -810,15 +733,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7865,
-      "importance": 0.7865,
-      "importance_score": 0.7865,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9218,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -890,15 +813,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8145,
+        "recency": 0.7493,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -952,15 +875,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8276,
-      "importance": 0.8276,
-      "importance_score": 0.8276,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8198,
+        "recency": 0.7543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1014,15 +937,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7982,
+        "recency": 0.7343,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,15 +998,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7517,
+      "importance": 0.7517,
+      "importance_score": 0.7517,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7914,
+        "recency": 0.7281,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1102,107 +1025,26 @@
       }
     },
     {
-      "story_id": "story_c55b4c3c8ca2",
-      "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fdf4626f08a65489b996035b52c7c43640346037",
-          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:57:43Z"
-        },
-        {
-          "id": "622ed04d5353537e9da2bea0925c955e480d1ced",
-          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-21T13:57:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fdf4626f08a65489b996035b52c7c43640346037",
-          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:57:43Z"
-        },
-        {
-          "id": "622ed04d5353537e9da2bea0925c955e480d1ced",
-          "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件 / OpenAI says an AI agent lied about disabling its safety monitoring system",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-21T13:57:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7685,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:57:43Z",
-      "latest_at": "2026-10-21T13:57:43Z",
-      "primary_item": {
-        "id": "fdf4626f08a65489b996035b52c7c43640346037",
-        "title": "OpenAI 披露 GPT-6 Astra 智能体关闭安全监控后撒谎的事件",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9b0534e0b9af",
-      "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
-      "url": "https://www.aibase.com/news/31803",
-      "primary_url": "https://www.aibase.com/news/31803",
+      "story_id": "story_fcc8b3378040",
+      "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
+      "url": "https://www.aibase.com/news/31801",
+      "primary_url": "https://www.aibase.com/news/31801",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8ff758464ae575f862472a3868c4c254515a71d6",
-          "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
-          "url": "https://www.aibase.com/news/31803",
+          "id": "636077004b86cdff5ff3218cb13b0c3627db6af4",
+          "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
+          "url": "https://www.aibase.com/news/31801",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-22T08:11:52.854174Z"
         },
         {
-          "id": "aa8bdf7811f5b26e7861ff87569d57891cee5242",
-          "title": "英伟达升级 Isaac 通用机器人平台并发布 Agile ONE SN 人形样机",
-          "url": "https://www.aibase.com/zh/news/31803",
+          "id": "47f8f802414e41f585688041dcac85656dfc08d4",
+          "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
+          "url": "https://www.aibase.com/zh/news/31801",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1216,18 +1058,18 @@
       ],
       "items": [
         {
-          "id": "8ff758464ae575f862472a3868c4c254515a71d6",
-          "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
-          "url": "https://www.aibase.com/news/31803",
+          "id": "636077004b86cdff5ff3218cb13b0c3627db6af4",
+          "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
+          "url": "https://www.aibase.com/news/31801",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-10-22T08:11:52.854174Z"
         },
         {
-          "id": "aa8bdf7811f5b26e7861ff87569d57891cee5242",
-          "title": "英伟达升级 Isaac 通用机器人平台并发布 Agile ONE SN 人形样机",
-          "url": "https://www.aibase.com/zh/news/31803",
+          "id": "47f8f802414e41f585688041dcac85656dfc08d4",
+          "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
+          "url": "https://www.aibase.com/zh/news/31801",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1236,15 +1078,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.92,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1256,72 +1098,11 @@
       "earliest_at": "2026-10-22T08:11:52.854174Z",
       "latest_at": "2026-10-22T08:11:52.854174Z",
       "primary_item": {
-        "id": "8ff758464ae575f862472a3868c4c254515a71d6",
-        "title": "英伟达升级Isaac通用机器人平台并发布Agile ONE SN人形样机",
-        "url": "https://www.aibase.com/news/31803",
+        "id": "636077004b86cdff5ff3218cb13b0c3627db6af4",
+        "title": "红果短剧上线「小果 AI」，用对话式助手替你找剧",
+        "url": "https://www.aibase.com/news/31801",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1a0c7271a843",
-      "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "primary_url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "source": "ChinaTalk（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e2e554ad641cad1a66903f41d19d00429b4c373a",
-          "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-          "source": "ChinaTalk（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:43:39Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "ChinaTalk（RSS）"
-      ],
-      "items": [
-        {
-          "id": "e2e554ad641cad1a66903f41d19d00429b4c373a",
-          "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-          "source": "ChinaTalk（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:43:39Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7659,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:43:39Z",
-      "latest_at": "2026-10-21T13:43:39Z",
-      "primary_item": {
-        "id": "e2e554ad641cad1a66903f41d19d00429b4c373a",
-        "title": "ChinaTalk 解读商务部第48号公告对AI技术出口管制的影响",
-        "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-        "source": "ChinaTalk（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1359,15 +1140,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8029,
+        "recency": 0.7387,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1421,15 +1202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9765,
+        "recency": 0.8984,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1443,6 +1224,129 @@
         "title": "Kling 4.0 上线 OpenArt，支持首中尾帧引导与最多 10 张参考图",
         "url": "https://x.com/Kling_ai/status/2113156632134005040",
         "source": "X：可灵 Kling AI (@Kling_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_354f89a6c7db",
+      "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "213681692e91ea20b028385dda779d335345174f",
+          "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T17:35:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "213681692e91ea20b028385dda779d335345174f",
+          "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T17:35:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7451,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T17:35:36Z",
+      "latest_at": "2026-10-21T17:35:36Z",
+      "primary_item": {
+        "id": "213681692e91ea20b028385dda779d335345174f",
+        "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5e89e7db0934",
+      "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
+      "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2f4517ba61d9f58b109ef72c772f37a529e1d5c",
+          "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
+          "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T03:16:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "c2f4517ba61d9f58b109ef72c772f37a529e1d5c",
+          "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
+          "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T03:16:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8568,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T03:16:19Z",
+      "latest_at": "2026-10-22T03:16:19Z",
+      "primary_item": {
+        "id": "c2f4517ba61d9f58b109ef72c772f37a529e1d5c",
+        "title": "WSJ：马斯克希望以 AI 为核心推动 SpaceX 与 Tesla 合并",
+        "url": "https://x.com/rohanpaul_ai/status/2113107154219741231",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     }
