@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T23:51:20.530436Z",
+  "generated_at": "2026-10-22T02:48:43.699068Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -95,15 +95,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9047,
-      "importance": 0.9047,
-      "importance_score": 0.9047,
+      "score": 0.8983,
+      "importance": 0.8983,
+      "importance_score": 0.8983,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8427,
+        "recency": 0.8074,
         "story_heat": 0.75
       },
       "category": "official",
@@ -177,15 +177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8659,
-      "importance": 0.8659,
-      "importance_score": 0.8659,
+      "score": 0.8592,
+      "importance": 0.8592,
+      "importance_score": 0.8592,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8938,
+        "recency": 0.8564,
         "story_heat": 0.25
       },
       "category": "official",
@@ -297,15 +297,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8881,
-      "importance": 0.8881,
-      "importance_score": 0.8881,
+      "score": 0.8822,
+      "importance": 0.8822,
+      "importance_score": 0.8822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.784,
+        "recency": 0.7512,
         "story_heat": 0.75
       },
       "category": "official",
@@ -398,15 +398,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8316,
-      "importance": 0.8316,
-      "importance_score": 0.8316,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8613,
+        "recency": 0.8253,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -422,6 +422,87 @@
         "title": "Wiz Research 披露 PHP2Shell：AI 助攻 PHP 核心 RCE 漏洞，影响全球 70% 网站",
         "url": "https://www.wiz.io/blog/php2shell-php-rce",
         "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_95b58aa9005f",
+      "title": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
+      "url": "https://www.ithome.com/1/016/243.htm",
+      "primary_url": "https://www.ithome.com/1/016/243.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4fefaa54e689348369ec1f4fb223bbd75ef6f756",
+          "title": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
+          "url": "https://www.ithome.com/1/016/243.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T02:17:14.247000Z"
+        },
+        {
+          "id": "8175861afcfb9753d2cb1f46196c94d0777ab67c",
+          "title": "迈步“史上最大 IPO”，消息称 Anthropic 最快本周五公开提交上市申请",
+          "url": "https://www.ithome.com/1/016/243.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-22T02:17:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "4fefaa54e689348369ec1f4fb223bbd75ef6f756",
+          "title": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
+          "url": "https://www.ithome.com/1/016/243.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T02:17:14.247000Z"
+        },
+        {
+          "id": "8175861afcfb9753d2cb1f46196c94d0777ab67c",
+          "title": "迈步“史上最大 IPO”，消息称 Anthropic 最快本周五公开提交上市申请",
+          "url": "https://www.ithome.com/1/016/243.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-22T02:17:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8212,
+      "importance": 0.8212,
+      "importance_score": 0.8212,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9924,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T02:17:14Z",
+      "latest_at": "2026-10-22T02:17:14.247000Z",
+      "primary_item": {
+        "id": "4fefaa54e689348369ec1f4fb223bbd75ef6f756",
+        "title": "消息称 Anthropic 最快本周五公开提交 S-1 招股书，或创史上最大 IPO",
+        "url": "https://www.ithome.com/1/016/243.htm",
+        "source": "IT之家·人工智能",
         "source_name": "AI HOT"
       }
     },
@@ -460,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9021,
+        "recency": 0.8644,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,6 +566,67 @@
         "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "57b779c46686bc1954136c094928ec6605314308",
+          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T00:06:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "57b779c46686bc1954136c094928ec6605314308",
+          "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-22T00:06:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9616,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T00:06:00Z",
+      "latest_at": "2026-10-22T00:06:00Z",
+      "primary_item": {
+        "id": "57b779c46686bc1954136c094928ec6605314308",
+        "title": "卡兹克详解 AI 挖出的 PHP2Shell 漏洞：发现只花2天，修复用了两个月",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687466&idx=1&sn=ba7ba0f3ca50ef789c17b179dd061f60",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -522,15 +664,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9248,
+        "recency": 0.8861,
         "story_heat": 0.0
       },
       "category": "official",
@@ -584,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7507,
+        "recency": 0.7193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -684,15 +826,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8588,
-      "importance": 0.8588,
-      "importance_score": 0.8588,
+      "score": 0.853,
+      "importance": 0.853,
+      "importance_score": 0.853,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7598,
+        "recency": 0.728,
         "story_heat": 0.5
       },
       "category": "official",
@@ -710,6 +852,87 @@
         "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fba26157a6de",
+      "title": "PHP 爆出\"PHP2Shell\"高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
+      "url": "https://www.aibase.com/news/31789",
+      "primary_url": "https://www.aibase.com/news/31789",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "74ff38378694148b7a59eccb9146dd76a1a22bfc",
+          "title": "PHP 爆出\"PHP2Shell\"高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
+          "url": "https://www.aibase.com/news/31789",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T02:48:43.699068Z"
+        },
+        {
+          "id": "df402cfdf79179abe06d88cb863d9a9054be056e",
+          "title": "PHP 爆出「PHP2Shell」高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
+          "url": "https://www.aibase.com/zh/news/31789",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "74ff38378694148b7a59eccb9146dd76a1a22bfc",
+          "title": "PHP 爆出\"PHP2Shell\"高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
+          "url": "https://www.aibase.com/news/31789",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T02:48:43.699068Z"
+        },
+        {
+          "id": "df402cfdf79179abe06d88cb863d9a9054be056e",
+          "title": "PHP 爆出「PHP2Shell」高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
+          "url": "https://www.aibase.com/zh/news/31789",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T02:48:43.699068Z",
+      "latest_at": "2026-10-22T02:48:43.699068Z",
+      "primary_item": {
+        "id": "74ff38378694148b7a59eccb9146dd76a1a22bfc",
+        "title": "PHP 爆出\"PHP2Shell\"高危漏洞：影响约七成网站，OpenAI 牵头全球协防",
+        "url": "https://www.aibase.com/news/31789",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -766,15 +989,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9187,
+        "recency": 0.8803,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -828,15 +1051,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9135,
+        "recency": 0.8754,
         "story_heat": 0.0
       },
       "category": "official",
@@ -890,15 +1113,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9003,
+        "recency": 0.8627,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,15 +1174,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8928,
+        "recency": 0.8554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1031,15 +1254,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7806,
-      "importance": 0.7806,
-      "importance_score": 0.7806,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8669,
+        "recency": 0.8306,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1093,15 +1316,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
+      "score": 0.7696,
+      "importance": 0.7696,
+      "importance_score": 0.7696,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8639,
+        "recency": 0.8278,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1154,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9147,
+        "recency": 0.8765,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1178,6 +1401,87 @@
         "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_db5d0c6d1245",
+      "title": "特斯拉加州工厂正式量产Optimus机器人，高额AI支出致第三季度利润大跌43%",
+      "url": "https://www.aibase.com/news/31785",
+      "primary_url": "https://www.aibase.com/news/31785",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aeefbf9c1d4bdeb75e7216e9ddf80b26e8289a9c",
+          "title": "特斯拉加州工厂正式量产Optimus机器人，高额AI支出致第三季度利润大跌43%",
+          "url": "https://www.aibase.com/news/31785",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T02:48:43.699068Z"
+        },
+        {
+          "id": "1b1a79ff91a71e6a68f50fc9d3ec9712abb6b3a7",
+          "title": "特斯拉加州工厂正式量产 Optimus 机器人，高额 AI 支出致第三季度利润大跌 43%",
+          "url": "https://www.aibase.com/zh/news/31785",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "aeefbf9c1d4bdeb75e7216e9ddf80b26e8289a9c",
+          "title": "特斯拉加州工厂正式量产Optimus机器人，高额AI支出致第三季度利润大跌43%",
+          "url": "https://www.aibase.com/news/31785",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-22T02:48:43.699068Z"
+        },
+        {
+          "id": "1b1a79ff91a71e6a68f50fc9d3ec9712abb6b3a7",
+          "title": "特斯拉加州工厂正式量产 Optimus 机器人，高额 AI 支出致第三季度利润大跌 43%",
+          "url": "https://www.aibase.com/zh/news/31785",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-22T02:48:43.699068Z",
+      "latest_at": "2026-10-22T02:48:43.699068Z",
+      "primary_item": {
+        "id": "aeefbf9c1d4bdeb75e7216e9ddf80b26e8289a9c",
+        "title": "特斯拉加州工厂正式量产Optimus机器人，高额AI支出致第三季度利润大跌43%",
+        "url": "https://www.aibase.com/news/31785",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1215,15 +1519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9596,
+        "recency": 0.9195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1240,251 +1544,6 @@
         "url": "https://openai.com/index/broad-access-through-consistent-standards",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_676c96ebe28e",
-      "title": "OpenAI 收购 AI 制药初创 Orchestra Bio，把\"管研发\"的 Agent 收编进生命科学版图",
-      "url": "https://www.aibase.com/news/31783",
-      "primary_url": "https://www.aibase.com/news/31783",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c6d88c6e00cf0e70e66858a5b34d0dbbcdd8ee0b",
-          "title": "OpenAI 收购 AI 制药初创 Orchestra Bio，把\"管研发\"的 Agent 收编进生命科学版图",
-          "url": "https://www.aibase.com/news/31783",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T17:29:12.376942Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c6d88c6e00cf0e70e66858a5b34d0dbbcdd8ee0b",
-          "title": "OpenAI 收购 AI 制药初创 Orchestra Bio，把\"管研发\"的 Agent 收编进生命科学版图",
-          "url": "https://www.aibase.com/news/31783",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-21T17:29:12.376942Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9121,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T17:29:12.376942Z",
-      "latest_at": "2026-10-21T17:29:12.376942Z",
-      "primary_item": {
-        "id": "c6d88c6e00cf0e70e66858a5b34d0dbbcdd8ee0b",
-        "title": "OpenAI 收购 AI 制药初创 Orchestra Bio，把\"管研发\"的 Agent 收编进生命科学版图",
-        "url": "https://www.aibase.com/news/31783",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_38715d90bd30",
-      "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "primary_url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
-          "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:51:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
-          "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:51:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8396,
-      "importance": 0.8396,
-      "importance_score": 0.8396,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8531,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T12:51:24Z",
-      "latest_at": "2026-10-21T12:51:24Z",
-      "primary_item": {
-        "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
-        "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-        "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c7046f8aa8cc",
-      "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-      "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-      "primary_url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-      "source": "Wiz：Research（安全研究）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:44:12Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Wiz：Research（安全研究）"
-      ],
-      "items": [
-        {
-          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:44:12Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7761,
-      "importance": 0.7761,
-      "importance_score": 0.7761,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8641,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:44:12Z",
-      "latest_at": "2026-10-21T13:44:12Z",
-      "primary_item": {
-        "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-        "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-        "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-        "source": "Wiz：Research（安全研究）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ad5cc19532b6",
-      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7599,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:50:29Z",
-      "latest_at": "2026-10-21T04:50:29Z",
-      "primary_item": {
-        "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-        "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-        "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
       }
     }
   ]
