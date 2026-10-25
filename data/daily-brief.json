@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T22:10:03.919860Z",
+  "generated_at": "2026-10-25T00:25:51.058368Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7913,
+      "importance": 0.7913,
+      "importance_score": 0.7913,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8536,
+        "recency": 0.8262,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -82,68 +82,6 @@
         "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ba4d3ab8dded",
-      "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-      "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "primary_url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-          "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-          "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T23:42:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7229,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T23:42:03Z",
-      "latest_at": "2026-10-23T23:42:03Z",
-      "primary_item": {
-        "id": "3b4fcd596e6825d3abe88776d6c9bae75a9a3323",
-        "title": "使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode",
-        "url": "https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -181,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8953,
+        "recency": 0.8666,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -204,67 +142,6 @@
         "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
         "url": "https://x.com/emollick/status/2114001653879672877",
         "source": "X：Ethan Mollick (@emollick)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3130243d7b87",
-      "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-      "url": "https://x.com/OpenAI/status/2113766354386084338",
-      "primary_url": "https://x.com/OpenAI/status/2113766354386084338",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "url": "https://x.com/OpenAI/status/2113766354386084338",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-          "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-          "url": "https://x.com/OpenAI/status/2113766354386084338",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T22:55:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7149,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T22:55:45Z",
-      "latest_at": "2026-10-23T22:55:45Z",
-      "primary_item": {
-        "id": "8955336bb918f3a84db49c7d425f022048fe0904",
-        "title": "OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露",
-        "url": "https://x.com/OpenAI/status/2113766354386084338",
-        "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
       }
     },
@@ -303,15 +180,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7489,
+        "recency": 0.7248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -326,6 +203,85 @@
         "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687627&idx=1&sn=4816c8130f378587885913b465fd686f",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8f5707e9a13c",
+      "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5426,
+      "importance": 0.5426,
+      "importance_score": 0.5426,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9824,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T23:11:54Z",
+      "latest_at": "2026-10-24T23:11:54Z",
+      "primary_item": {
+        "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+        "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -382,15 +338,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9678,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -480,15 +436,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5402,
-      "importance": 0.5402,
-      "importance_score": 0.5402,
+      "score": 0.5354,
+      "importance": 0.5354,
+      "importance_score": 0.5354,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8302,
+        "recency": 0.8035,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -503,85 +459,6 @@
         "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
         "source": "www.reddit.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_074b7d5e1602",
-      "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T19:47:19Z"
-        },
-        {
-          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-          "url": "https://news.ycombinator.com/item?id=50224463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T19:47:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T19:47:19Z"
-        },
-        {
-          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-          "url": "https://news.ycombinator.com/item?id=50224463",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T19:47:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5397,
-      "importance": 0.5397,
-      "importance_score": 0.5397,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9662,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T19:47:19Z",
-      "latest_at": "2026-10-24T19:47:19Z",
-      "primary_item": {
-        "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
-        "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
-        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -637,15 +514,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9459,
+        "recency": 0.9155,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -716,15 +593,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5213,
+      "importance": 0.5213,
+      "importance_score": 0.5213,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8928,
+        "recency": 0.8641,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -795,15 +672,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8861,
+        "recency": 0.8576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -874,15 +751,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8827,
+        "recency": 0.8544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -953,15 +830,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8659,
+        "recency": 0.8381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -976,85 +853,6 @@
         "url": "https://homepage.farm/ai.html",
         "source": "homepage.farm",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e998a2c73394",
-      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://news.ycombinator.com/item?id=50220042",
-      "primary_url": "https://news.ycombinator.com/item?id=50220042",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8493,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T10:51:35Z",
-      "latest_at": "2026-10-24T10:51:35Z",
-      "primary_item": {
-        "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-        "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "url": "https://news.ycombinator.com/item?id=50220042",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1111,15 +909,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5097,
-      "importance": 0.5097,
-      "importance_score": 0.5097,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7992,
+        "recency": 0.7735,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1134,6 +932,85 @@
         "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
         "source": "openai.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_074b7d5e1602",
+      "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T19:47:19Z"
+        },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "url": "https://news.ycombinator.com/item?id=50224463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T19:47:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T19:47:19Z"
+        },
+        {
+          "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+          "url": "https://news.ycombinator.com/item?id=50224463",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T19:47:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9352,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T19:47:19Z",
+      "latest_at": "2026-10-24T19:47:19Z",
+      "primary_item": {
+        "id": "070e04dc2cb5f52814badb5e9de3485715ab923d",
+        "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
+        "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1190,15 +1067,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.5024,
+      "importance": 0.5024,
+      "importance_score": 0.5024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7842,
+        "recency": 0.759,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1213,164 +1090,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_81c8fd74d5e2",
-      "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "primary_url": "https://arxiv.org/abs/2610.29162",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "url": "https://arxiv.org/abs/2610.29162",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T18:04:57Z"
-        },
-        {
-          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "url": "https://news.ycombinator.com/item?id=50223647",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T18:04:57Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "url": "https://arxiv.org/abs/2610.29162",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T18:04:57Z"
-        },
-        {
-          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
-          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-          "url": "https://news.ycombinator.com/item?id=50223647",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T18:04:57Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9427,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T18:04:57Z",
-      "latest_at": "2026-10-24T18:04:57Z",
-      "primary_item": {
-        "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
-        "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
-        "url": "https://arxiv.org/abs/2610.29162",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_30d488eaad13",
-      "title": "亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？",
-      "url": "https://www.huxiu.com/article/4900187.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4900187.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "e8e084fd1e0493645d6a8f959427556387613e2a",
-          "title": "亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？",
-          "url": "https://www.huxiu.com/article/4900187.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "605ef1ad40cd1305722348c290e9cfa420bf8be0",
-          "title": "亚马逊CEO 深度访谈：一年砸下2200亿美元，为什么算力依然不够用？",
-          "url": "https://www.huxiu.com/article/4900187.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T12:33:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "e8e084fd1e0493645d6a8f959427556387613e2a",
-          "title": "亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？",
-          "url": "https://www.huxiu.com/article/4900187.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "605ef1ad40cd1305722348c290e9cfa420bf8be0",
-          "title": "亚马逊CEO 深度访谈：一年砸下2200亿美元，为什么算力依然不够用？",
-          "url": "https://www.huxiu.com/article/4900187.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T12:33:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8859,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T12:33:23Z",
-      "latest_at": "2026-10-24T13:46:30.862927Z",
-      "primary_item": {
-        "id": "e8e084fd1e0493645d6a8f959427556387613e2a",
-        "title": "亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？",
-        "url": "https://www.huxiu.com/article/4900187.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1427,15 +1146,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5253,
-      "importance": 0.5253,
-      "importance_score": 0.5253,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8861,
+        "recency": 0.8576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1450,6 +1169,85 @@
         "url": "https://github.com/pollen-robotics/microduck",
         "source": "github",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_30d488eaad13",
+      "title": "亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？",
+      "url": "https://www.huxiu.com/article/4900187.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4900187.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e8e084fd1e0493645d6a8f959427556387613e2a",
+          "title": "亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？",
+          "url": "https://www.huxiu.com/article/4900187.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "605ef1ad40cd1305722348c290e9cfa420bf8be0",
+          "title": "亚马逊CEO 深度访谈：一年砸下2200亿美元，为什么算力依然不够用？",
+          "url": "https://www.huxiu.com/article/4900187.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T12:33:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "e8e084fd1e0493645d6a8f959427556387613e2a",
+          "title": "亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？",
+          "url": "https://www.huxiu.com/article/4900187.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "605ef1ad40cd1305722348c290e9cfa420bf8be0",
+          "title": "亚马逊CEO 深度访谈：一年砸下2200亿美元，为什么算力依然不够用？",
+          "url": "https://www.huxiu.com/article/4900187.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T12:33:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8574,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T12:33:23Z",
+      "latest_at": "2026-10-24T13:46:30.862927Z",
+      "primary_item": {
+        "id": "e8e084fd1e0493645d6a8f959427556387613e2a",
+        "title": "亚马逊 CEO 深度访谈：一年砸下 2200 亿美元，为什么算力依然不够用？",
+        "url": "https://www.huxiu.com/article/4900187.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1506,15 +1304,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8793,
+        "recency": 0.851,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1529,6 +1327,243 @@
         "url": "https://www.businessinsider.com/black-october-php-vulnerability-cybersecurity-ai-threat-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8ef9c99c3688",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8275,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
+      "primary_item": {
+        "id": "1575a26aae65caac257cbdec39ad86792fc48d99",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_81c8fd74d5e2",
+      "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "primary_url": "https://arxiv.org/abs/2610.29162",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T18:04:57Z"
+        },
+        {
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://arxiv.org/abs/2610.29162",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T18:04:57Z"
+        },
+        {
+          "id": "3b8655c86f43e8c0d5382958ba3370e3243edf2f",
+          "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+          "url": "https://news.ycombinator.com/item?id=50223647",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T18:04:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.53,
+      "importance": 0.53,
+      "importance_score": 0.53,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9124,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T18:04:57Z",
+      "latest_at": "2026-10-24T18:04:57Z",
+      "primary_item": {
+        "id": "9c1fe8fc734c816db1f72f37ae9b8aab1ace8053",
+        "title": "为什么人工智能生成的语言如此难以理解？ / Why is AI generated language so hard to understand?",
+        "url": "https://arxiv.org/abs/2610.29162",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_9ad5ce51a997",
+      "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "primary_url": "https://github.com/google-gemini/gemini-cli",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T13:47:34.887000Z"
+        },
+        {
+          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
+          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T13:47:34.887000Z"
+        },
+        {
+          "id": "caed36981fdbcaa9ea58e8671a57e2a226c7fd63",
+          "title": "谷歌双子座/双子座-cli / google-gemini / gemini-cli",
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8576,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T13:46:30.862927Z",
+      "latest_at": "2026-10-24T13:47:34.887000Z",
+      "primary_item": {
+        "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+        "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     }
   ]

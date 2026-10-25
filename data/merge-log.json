@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-10-24T22:10:03.919860Z",
+  "generated_at": "2026-10-25T00:25:51.058368Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 28,
+  "total_events": 25,
   "events": [
-    {
-      "story_id": "story_35c215264172",
-      "item_id": "132fd146a91ed13d521d2dbc6f7bfbfbeeea3628",
-      "merged_into": "story_35c215264172",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_dbd73ba4a677",
-      "item_id": "e84690a27de993d64152df7b6e030dabab3057ab",
-      "merged_into": "story_dbd73ba4a677",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_670d0f288ea9",
-      "item_id": "48b4f8ecf876692eef9446fd79fedc20fa235d32",
-      "merged_into": "story_670d0f288ea9",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
-      "story_id": "story_eb6185c6bd6a",
-      "item_id": "952771f58e90ed80df11d45dbab293cff3a2ed49",
-      "merged_into": "story_eb6185c6bd6a",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
     {
       "story_id": "story_1f788f91ec2e",
       "item_id": "9603036d7713d2ca494bd719ac4076e7917c83ed",
@@ -88,9 +60,9 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_e998a2c73394",
-      "item_id": "16dbb0c896d4fbc8b2f934e1c86108125f83d3ff",
-      "merged_into": "story_e998a2c73394",
+      "story_id": "story_000984af5b78",
+      "item_id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
+      "merged_into": "story_000984af5b78",
       "reason": "title_similarity",
       "similarity": 1.0
     },
@@ -197,6 +169,13 @@
       "item_id": "768deac0d0a50019e3f416322efce528fc494a6e",
       "merged_into": "story_cdf697355512",
       "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_8f5707e9a13c",
+      "item_id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+      "merged_into": "story_8f5707e9a13c",
+      "reason": "title_similarity",
       "similarity": 1.0
     }
   ]
