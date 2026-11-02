@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T17:17:45.833345Z",
+  "generated_at": "2026-11-02T23:57:30.624762Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8711,
-      "importance": 0.8711,
-      "importance_score": 0.8711,
+      "score": 0.8552,
+      "importance": 0.8552,
+      "importance_score": 0.8552,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9674,
+        "recency": 0.8787,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +82,68 @@
         "title": "OpenAI 推出 Grid Protectors 计划 / Introducing the Grid Protectors Program",
         "url": "https://openai.com/index/grid-protectors-program",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1802721ebc5f",
+      "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+          "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T17:45:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8286,
+      "importance": 0.8286,
+      "importance_score": 0.8286,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9142,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T17:45:00Z",
+      "latest_at": "2026-11-02T17:45:00Z",
+      "primary_item": {
+        "id": "323059415bec7db6c1b2c25448a93a3c86683035",
+        "title": "我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8401,
-      "importance": 0.8401,
-      "importance_score": 0.8401,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9785,
+        "recency": 0.8887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -143,6 +205,150 @@
         "id": "743ef30d896f622611d53a06f5c6e9a21f4b8321",
         "title": "Security risk assessments include repository protection status",
         "url": "https://github.blog/changelog/2026-11-02-security-risk-assessments-include-repository-protection-status",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_ed4b58253682",
+      "title": "LifeVal：衡量 AI 帮助人们完成日常任务的基准 / LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "primary_url": "https://openai.com/index/lifeval",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
+          "title": "LifeVal：衡量 AI 帮助人们完成日常任务的基准 / LifeVal",
+          "url": "https://openai.com/index/lifeval",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T09:00:00Z"
+        },
+        {
+          "id": "663cc8dd20c5a625cf42f364b16033056b951c1b",
+          "title": "LifeVal：衡量 AI 帮助人们完成日常任务的基准",
+          "url": "https://openai.com/index/lifeval",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
+          "title": "LifeVal：衡量 AI 帮助人们完成日常任务的基准 / LifeVal",
+          "url": "https://openai.com/index/lifeval",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T09:00:00Z"
+        },
+        {
+          "id": "663cc8dd20c5a625cf42f364b16033056b951c1b",
+          "title": "LifeVal：衡量 AI 帮助人们完成日常任务的基准",
+          "url": "https://openai.com/index/lifeval",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8057,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T09:00:00Z",
+      "latest_at": "2026-11-02T23:57:30.624762Z",
+      "primary_item": {
+        "id": "f0bf534dce27c1e2b66cd879c898e2597304daf9",
+        "title": "LifeVal：衡量 AI 帮助人们完成日常任务的基准 / LifeVal",
+        "url": "https://openai.com/index/lifeval",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0e5ffbeff8b8",
+      "title": "pull_request_target blocked by default December 2",
+      "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "primary_url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+          "title": "pull_request_target blocked by default December 2",
+          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:14:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+          "title": "pull_request_target blocked by default December 2",
+          "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:14:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8818,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T15:14:46Z",
+      "latest_at": "2026-11-02T15:14:46Z",
+      "primary_item": {
+        "id": "b96e8422984b28dab9da765338770cfc10976a7f",
+        "title": "pull_request_target blocked by default December 2",
+        "url": "https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -201,15 +407,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.8953,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -226,6 +432,68 @@
         "url": "https://www.aibase.com/news/32021",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_de4cf53f9db9",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "primary_url": "https://openai.com/index/scaling-git-at-openai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
+          "title": "Scaling Git at OpenAI",
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
+          "title": "Scaling Git at OpenAI",
+          "url": "https://openai.com/index/scaling-git-at-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T15:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.885,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T15:30:00Z",
+      "latest_at": "2026-11-02T15:30:00Z",
+      "primary_item": {
+        "id": "49415b5efb4eab546f2d268df92792882e18f4e4",
+        "title": "Scaling Git at OpenAI",
+        "url": "https://openai.com/index/scaling-git-at-openai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -281,15 +549,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -343,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8746,
+        "recency": 0.7944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -366,6 +634,68 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_598c6194c0d3",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "primary_url": "https://openai.com/index/qodo-codex-plugin",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2c4204e87cf0ac83be120bc8c60c83cedc682468",
+          "title": "Qodo builds context into AI code review with Codex",
+          "url": "https://openai.com/index/qodo-codex-plugin",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2c4204e87cf0ac83be120bc8c60c83cedc682468",
+          "title": "Qodo builds context into AI code review with Codex",
+          "url": "https://openai.com/index/qodo-codex-plugin",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-02T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7075,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-02T00:00:00Z",
+      "latest_at": "2026-11-02T00:00:00Z",
+      "primary_item": {
+        "id": "2c4204e87cf0ac83be120bc8c60c83cedc682468",
+        "title": "Qodo builds context into AI code review with Codex",
+        "url": "https://openai.com/index/qodo-codex-plugin",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -422,15 +752,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -503,15 +833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -584,15 +914,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -609,6 +939,84 @@
         "url": "https://www.aibase.com/news/32013",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9233f8bfd339",
+      "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "primary_url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "d26611e5ffe314a8074a8fdb77ce5ef17d1558a6",
+          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-02T17:06:10Z"
+        },
+        {
+          "id": "0f4091dbe6b6c9c15f864d23ea4d50cb7805fb74",
+          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-02T17:06:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "d26611e5ffe314a8074a8fdb77ce5ef17d1558a6",
+          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-02T17:06:10Z"
+        },
+        {
+          "id": "0f4091dbe6b6c9c15f864d23ea4d50cb7805fb74",
+          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
+          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-02T17:06:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6068,
+      "importance": 0.6068,
+      "importance_score": 0.6068,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.504,
+        "source_tier": 0.58,
+        "ai_relevance": 0.7,
+        "recency": 0.9057,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T17:06:10Z",
+      "latest_at": "2026-11-02T17:06:10Z",
+      "primary_item": {
+        "id": "d26611e5ffe314a8074a8fdb77ce5ef17d1558a6",
+        "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s &#8216;Ultra&#8217; smart home robot might have to wait until 2028",
+        "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
+        "source": "The Verge",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -665,15 +1073,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -745,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.615,
-      "importance": 0.615,
-      "importance_score": 0.615,
+      "score": 0.5985,
+      "importance": 0.5985,
+      "importance_score": 0.5985,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.504,
         "source_tier": 0.54,
         "ai_relevance": 0.7,
-        "recency": 1.0,
+        "recency": 0.9083,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -824,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8635,
+        "recency": 0.7843,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -849,6 +1257,104 @@
         "url": "https://www.aibase.com/news/32015",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d7eb8c9ceea3",
+      "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+      "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "primary_url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "43642aa1cd5ab6ca5e32e38d7ad37ace8bbecfed",
+          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-02T19:42:44.918000Z"
+        },
+        {
+          "id": "63516fc62ab58736208534f92059204217a4b180",
+          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
+          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-02T12:50:59Z"
+        },
+        {
+          "id": "913b01df13b5064ed173dc195cf48c7ebcadd4e9",
+          "title": "Last night an AI agent performed brain surgery on a mouse",
+          "url": "https://news.ycombinator.com/item?id=50336138",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T12:50:59Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "43642aa1cd5ab6ca5e32e38d7ad37ace8bbecfed",
+          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-02T19:42:44.918000Z"
+        },
+        {
+          "id": "63516fc62ab58736208534f92059204217a4b180",
+          "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术 / Last night an AI agent performed brain surgery on a mouse",
+          "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-02T12:50:59Z"
+        },
+        {
+          "id": "913b01df13b5064ed173dc195cf48c7ebcadd4e9",
+          "title": "Last night an AI agent performed brain surgery on a mouse",
+          "url": "https://news.ycombinator.com/item?id=50336138",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-02T12:50:59Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5601,
+      "importance": 0.5601,
+      "importance_score": 0.5601,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9405,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-02T12:50:59Z",
+      "latest_at": "2026-11-02T19:42:44.918000Z",
+      "primary_item": {
+        "id": "43642aa1cd5ab6ca5e32e38d7ad37ace8bbecfed",
+        "title": "昨晚，一个人工智能代理对一只小鼠进行了脑部手术",
+        "url": "https://twitter.com/OcanaSantero/status/2115442964574908902",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -869,12 +1375,12 @@
           "published_at": "2026-11-02T17:04:04.290000Z"
         },
         {
-          "id": "97bc64e3c576b0f09c5e252be28a450d8bdd0cc0",
+          "id": "dc615055991efd3545ffe09d5f69fbebd85e1555",
           "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向 / AI fan wikis riddled with errors are muddying the waters of games culture",
           "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-02T01:47:07Z"
         },
         {
@@ -889,7 +1395,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "www.eurogamer.net"
       ],
@@ -904,12 +1410,12 @@
           "published_at": "2026-11-02T17:04:04.290000Z"
         },
         {
-          "id": "97bc64e3c576b0f09c5e252be28a450d8bdd0cc0",
+          "id": "dc615055991efd3545ffe09d5f69fbebd85e1555",
           "title": "充斥着错误的AI粉丝维基正在混淆游戏文化的风向 / AI fan wikis riddled with errors are muddying the waters of games culture",
           "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-02T01:47:07Z"
         },
         {
@@ -924,15 +1430,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5538,
+      "importance": 0.5538,
+      "importance_score": 0.5538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9967,
+        "recency": 0.9053,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1022,15 +1528,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5681,
-      "importance": 0.5681,
-      "importance_score": 0.5681,
+      "score": 0.5519,
+      "importance": 0.5519,
+      "importance_score": 0.5519,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9852,
+        "recency": 0.8949,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1044,599 +1550,6 @@
         "title": "Anthropic在修订后的S-1文件中报告第三季度营收为170亿美元，承诺金额达8950亿美元",
         "url": "https://www.cnbc.com/2026/11/02/anthropic-ant-s-1-quarter-financials.html",
         "source": "www.cnbc.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ca130899e453",
-      "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-      "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-      "primary_url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-      "source": "labs.cloudsecurityalliance.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d4b0ca68f3385c9fd0dbee6f1e2cf42f5ea348de",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "labs.cloudsecurityalliance.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T14:23:59.534000Z"
-        },
-        {
-          "id": "23bbde92d76c394651a3c10e419b5a9e84a38c4e",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-02T07:27:28Z"
-        },
-        {
-          "id": "881632740502dde2c09bee49a33e0c671f20fb5c",
-          "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "url": "https://news.ycombinator.com/item?id=50334038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T07:27:28Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "labs.cloudsecurityalliance.org"
-      ],
-      "items": [
-        {
-          "id": "d4b0ca68f3385c9fd0dbee6f1e2cf42f5ea348de",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "labs.cloudsecurityalliance.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T14:23:59.534000Z"
-        },
-        {
-          "id": "23bbde92d76c394651a3c10e419b5a9e84a38c4e",
-          "title": "中国首项前沿人工智能出口管制：商务部第48号公告 / China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-02T07:27:28Z"
-        },
-        {
-          "id": "881632740502dde2c09bee49a33e0c671f20fb5c",
-          "title": "China's First Frontier AI Export Controls: Mofcom Announcement No. 48",
-          "url": "https://news.ycombinator.com/item?id=50334038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T07:27:28Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.959,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T07:27:28Z",
-      "latest_at": "2026-11-02T14:23:59.534000Z",
-      "primary_item": {
-        "id": "d4b0ca68f3385c9fd0dbee6f1e2cf42f5ea348de",
-        "title": "中国首项前沿人工智能出口管制：商务部第48号公告",
-        "url": "https://labs.cloudsecurityalliance.org/research/csa-research-note-china-ai-export-controls-announcement-48-2",
-        "source": "labs.cloudsecurityalliance.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_180e61e174f6",
-      "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-      "url": "https://www.aibase.com/news/32003",
-      "primary_url": "https://www.aibase.com/news/32003",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "688994597b519f588560937471a6c002c05ecc0f",
-          "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-          "url": "https://www.aibase.com/news/32003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:07:45.697656Z"
-        },
-        {
-          "id": "8b525402a259e7735ff4cc815e2516c9b411d684",
-          "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-          "url": "https://www.aibase.com/zh/news/32003",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "688994597b519f588560937471a6c002c05ecc0f",
-          "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-          "url": "https://www.aibase.com/news/32003",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-02T07:07:45.697656Z"
-        },
-        {
-          "id": "8b525402a259e7735ff4cc815e2516c9b411d684",
-          "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-          "url": "https://www.aibase.com/zh/news/32003",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8635,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-02T07:07:45.697656Z",
-      "latest_at": "2026-11-02T07:07:45.697656Z",
-      "primary_item": {
-        "id": "688994597b519f588560937471a6c002c05ecc0f",
-        "title": "阿里千问 AI 眼镜 OTA 升级：通话、看片都能实时翻译了",
-        "url": "https://www.aibase.com/news/32003",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bfb6017ca2a7",
-      "title": "Anthropic修订后的IPO文件显示，第三季度营收激增，计算费用惊人 / Anthropic's amended IPO paperwork reveals soaring Q3 revenue and a stunning compute bill",
-      "url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
-      "primary_url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
-      "source": "Business Insider",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "cc7c8285863207f3293632786944da0f13d9631e",
-          "title": "Anthropic修订后的IPO文件显示，第三季度营收激增，计算费用惊人 / Anthropic's amended IPO paperwork reveals soaring Q3 revenue and a stunning compute bill",
-          "url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-02T16:21:52Z"
-        },
-        {
-          "id": "087d976f0be060391afc8f1b854f03e586213542",
-          "title": "Anthropic修订后的IPO文件显示，第三季度营收激增，计算费用惊人",
-          "url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T15:28:00.229000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cc7c8285863207f3293632786944da0f13d9631e",
-          "title": "Anthropic修订后的IPO文件显示，第三季度营收激增，计算费用惊人 / Anthropic's amended IPO paperwork reveals soaring Q3 revenue and a stunning compute bill",
-          "url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-02T16:21:52Z"
-        },
-        {
-          "id": "087d976f0be060391afc8f1b854f03e586213542",
-          "title": "Anthropic修订后的IPO文件显示，第三季度营收激增，计算费用惊人",
-          "url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T15:28:00.229000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9866,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T15:28:00.229000Z",
-      "latest_at": "2026-11-02T16:21:52Z",
-      "primary_item": {
-        "id": "cc7c8285863207f3293632786944da0f13d9631e",
-        "title": "Anthropic修订后的IPO文件显示，第三季度营收激增，计算费用惊人 / Anthropic's amended IPO paperwork reveals soaring Q3 revenue and a stunning compute bill",
-        "url": "https://www.businessinsider.com/anthropic-q3-revenue-amended-s-1-compute-commitments-2026-11",
-        "source": "Business Insider",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_c436d7f7f831",
-      "title": "AI 并没有导致 Weil 倒闭。它或许能防止下一家大型律所倒闭。",
-      "url": "https://www.businessinsider.com/weil-gotshal-wind-down-ai-big-law-2026-11",
-      "primary_url": "https://www.businessinsider.com/weil-gotshal-wind-down-ai-big-law-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "576dfde4b4a08476b0034585f11cbf5557c79663",
-          "title": "AI 并没有导致 Weil 倒闭。它或许能防止下一家大型律所倒闭。",
-          "url": "https://www.businessinsider.com/weil-gotshal-wind-down-ai-big-law-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T15:59:55.013000Z"
-        },
-        {
-          "id": "51b2d1701a93a8720590868da14fe33ae7fb3120",
-          "title": "AI 并没有导致 Weil 倒闭。它或许能防止下一家大型律所倒闭。 / AI didn't sink Weil. It could prevent the next Big Law failure.",
-          "url": "https://www.businessinsider.com/weil-gotshal-wind-down-ai-big-law-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-02T15:30:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "576dfde4b4a08476b0034585f11cbf5557c79663",
-          "title": "AI 并没有导致 Weil 倒闭。它或许能防止下一家大型律所倒闭。",
-          "url": "https://www.businessinsider.com/weil-gotshal-wind-down-ai-big-law-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T15:59:55.013000Z"
-        },
-        {
-          "id": "51b2d1701a93a8720590868da14fe33ae7fb3120",
-          "title": "AI 并没有导致 Weil 倒闭。它或许能防止下一家大型律所倒闭。 / AI didn't sink Weil. It could prevent the next Big Law failure.",
-          "url": "https://www.businessinsider.com/weil-gotshal-wind-down-ai-big-law-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-02T15:30:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9814,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T15:30:35Z",
-      "latest_at": "2026-11-02T15:59:55.013000Z",
-      "primary_item": {
-        "id": "576dfde4b4a08476b0034585f11cbf5557c79663",
-        "title": "AI 并没有导致 Weil 倒闭。它或许能防止下一家大型律所倒闭。",
-        "url": "https://www.businessinsider.com/weil-gotshal-wind-down-ai-big-law-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_33f208a6008d",
-      "title": "保障互联网关键软件的安全：我们本可以如何在Bash中植入后门",
-      "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
-      "primary_url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
-      "source": "www.hacktron.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "25233e63b016f1124df374988def7684a6fb7362",
-          "title": "保障互联网关键软件的安全：我们本可以如何在Bash中植入后门",
-          "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
-          "source": "www.hacktron.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T15:59:53.372000Z"
-        },
-        {
-          "id": "cc869d98faf71b2a6cc12077af21927661be3544",
-          "title": "保障互联网关键软件的安全：我们本可以如何在Bash中植入后门 / Securing Internet-Critical Software: How We Could Have Backdoored Bash",
-          "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T15:06:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.hacktron.ai"
-      ],
-      "items": [
-        {
-          "id": "25233e63b016f1124df374988def7684a6fb7362",
-          "title": "保障互联网关键软件的安全：我们本可以如何在Bash中植入后门",
-          "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
-          "source": "www.hacktron.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T15:59:53.372000Z"
-        },
-        {
-          "id": "cc869d98faf71b2a6cc12077af21927661be3544",
-          "title": "保障互联网关键软件的安全：我们本可以如何在Bash中植入后门 / Securing Internet-Critical Software: How We Could Have Backdoored Bash",
-          "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T15:06:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9814,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T15:06:38Z",
-      "latest_at": "2026-11-02T15:59:53.372000Z",
-      "primary_item": {
-        "id": "25233e63b016f1124df374988def7684a6fb7362",
-        "title": "保障互联网关键软件的安全：我们本可以如何在Bash中植入后门",
-        "url": "https://www.hacktron.ai/blog/hacking-gnu-savannah",
-        "source": "www.hacktron.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c6fdf6f3ceac",
-      "title": "GPT-Rosalind-6 System Card Addendum",
-      "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-      "primary_url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "b373419cc31cb3055ef21d0a20223b5f38ba7b3e",
-          "title": "GPT-Rosalind-6 System Card Addendum",
-          "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T14:44:02Z"
-        },
-        {
-          "id": "6c9e348fa593f2e78246d1d842f40fe01842101e",
-          "title": "GPT-Rosalind-6 System Card Addendum",
-          "url": "https://news.ycombinator.com/item?id=50337503",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T14:44:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b373419cc31cb3055ef21d0a20223b5f38ba7b3e",
-          "title": "GPT-Rosalind-6 System Card Addendum",
-          "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-02T14:44:02Z"
-        },
-        {
-          "id": "6c9e348fa593f2e78246d1d842f40fe01842101e",
-          "title": "GPT-Rosalind-6 System Card Addendum",
-          "url": "https://news.ycombinator.com/item?id=50337503",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-02T14:44:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9637,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T14:44:02Z",
-      "latest_at": "2026-11-02T14:44:02Z",
-      "primary_item": {
-        "id": "b373419cc31cb3055ef21d0a20223b5f38ba7b3e",
-        "title": "GPT-Rosalind-6 System Card Addendum",
-        "url": "https://deploymentsafety.openai.com/gpt-rosalind-6",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_b23877b88e69",
-      "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "primary_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "source": "techcrunch.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T00:37:42.544000Z"
-        },
-        {
-          "id": "432c791e7cec1658799824a9b0f819bc56c08d82",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-01T22:10:45Z"
-        },
-        {
-          "id": "c1dd654ab1324ce8f59e488c8b6cfadcfe4ac956",
-          "title": "阿波罗经济学家表示，人工智能为大多数公司带来“零财务回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "url": "https://news.ycombinator.com/item?id=50330456",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T22:10:45Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-02T00:37:42.544000Z"
-        },
-        {
-          "id": "432c791e7cec1658799824a9b0f819bc56c08d82",
-          "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-01T22:10:45Z"
-        },
-        {
-          "id": "c1dd654ab1324ce8f59e488c8b6cfadcfe4ac956",
-          "title": "阿波罗经济学家表示，人工智能为大多数公司带来“零财务回报” / AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-          "url": "https://news.ycombinator.com/item?id=50330456",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-01T22:10:45Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7861,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-01T22:10:45Z",
-      "latest_at": "2026-11-02T00:37:42.544000Z",
-      "primary_item": {
-        "id": "111fc5d91d2395cb2e4e6f3f1db87ac4d305be2e",
-        "title": "阿波罗经济学家称，人工智能对大多数企业而言“毫无经济回报”",
-        "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-        "source": "techcrunch.com",
         "source_name": "Buzzing"
       }
     }
