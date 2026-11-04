@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-11-04T00:24:38.538979Z",
+  "generated_at": "2026-11-04T06:48:04.062380Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0f281cabd4f6",
+      "title": "BYOK and enterprise custom models in the Copilot usage API",
+      "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "BYOK and enterprise custom models in the Copilot usage API",
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+          "title": "BYOK and enterprise custom models in the Copilot usage API",
+          "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T00:32:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8364,
+      "importance": 0.8364,
+      "importance_score": 0.8364,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9135,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T00:32:19Z",
+      "latest_at": "2026-11-04T00:32:19Z",
+      "primary_item": {
+        "id": "0b2414a218d2dfcfe59d09ac7f9ae87c04ea42d6",
+        "title": "BYOK and enterprise custom models in the Copilot usage API",
+        "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_a55665cf4895",
       "title": "StateBench：测试语言模型如何跟踪长文档的状态变化 / StateBench: Testing how language models track state changes over long documents",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8423,
-      "importance": 0.8423,
-      "importance_score": 0.8423,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9018,
+        "recency": 0.8223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +124,6 @@
         "title": "StateBench：测试语言模型如何跟踪长文档的状态变化 / StateBench: Testing how language models track state changes over long documents",
         "url": "https://huggingface.co/blog/allenai/statebench",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_51a16b58b850",
-      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T20:24:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9438,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T20:24:07Z",
-      "latest_at": "2026-11-03T20:24:07Z",
-      "primary_item": {
-        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
-        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8989,
+        "recency": 0.8197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8359,
+        "recency": 0.7622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8933,
+        "recency": 0.8145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,21 +314,102 @@
       }
     },
     {
-      "story_id": "story_9c22661ce9de",
-      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "story_id": "story_15bb7fa68b6a",
+      "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+      "url": "https://www.aibase.com/news/32066",
+      "primary_url": "https://www.aibase.com/news/32066",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "464590bf4f93c631368599f2e6420f452a889b37",
+          "title": "2027 年起 K-12 学生账户 AI 与搜索服务将默认关闭，禁用 AI 将连带失去传统搜索",
+          "url": "https://www.aibase.com/zh/news/32066",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+          "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+          "url": "https://www.aibase.com/news/32066",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "464590bf4f93c631368599f2e6420f452a889b37",
+          "title": "2027 年起 K-12 学生账户 AI 与搜索服务将默认关闭，禁用 AI 将连带失去传统搜索",
+          "url": "https://www.aibase.com/zh/news/32066",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T06:48:04.062380Z",
+      "latest_at": "2026-11-04T06:48:04.062380Z",
+      "primary_item": {
+        "id": "54005af7fd9926a6d8fcb4bbe17d67a5117d2ccd",
+        "title": "2027 年起K- 12 学生账户AI与搜索服务将默认关闭，禁用AI将连带失去传统搜索",
+        "url": "https://www.aibase.com/news/32066",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_51a16b58b850",
+      "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
+      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z"
+          "published_at": "2026-11-03T20:24:07Z"
         }
       ],
       "source_count": 1,
@@ -337,26 +418,26 @@
       ],
       "items": [
         {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+          "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+          "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z"
+          "published_at": "2026-11-03T20:24:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8754,
+        "ai_relevance": 0.87,
+        "recency": 0.8606,
         "story_heat": 0.0
       },
       "category": "official",
@@ -365,12 +446,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T15:11:46Z",
-      "latest_at": "2026-11-03T15:11:46Z",
+      "earliest_at": "2026-11-03T20:24:07Z",
+      "latest_at": "2026-11-03T20:24:07Z",
       "primary_item": {
-        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+        "id": "8e85b2df881a41e8c0c05908266286a97f7a0159",
+        "title": "Dependabot版本更新支持代理包管理器 / Dependabot version updates support Agent Package Manager",
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -410,15 +491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.789,
+        "recency": 0.7195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -438,26 +519,26 @@
       }
     },
     {
-      "story_id": "story_95258340e73a",
-      "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-      "url": "https://www.aibase.com/news/32051",
-      "primary_url": "https://www.aibase.com/news/32051",
+      "story_id": "story_a3e2c85538d7",
+      "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
+      "url": "https://www.aibase.com/news/32073",
+      "primary_url": "https://www.aibase.com/news/32073",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "635e93c45031619fede27113f142ea63629efd30",
-          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "url": "https://www.aibase.com/news/32051",
+          "id": "040260493ae6687c9548b3fa2322c47c4aa6c257",
+          "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
+          "url": "https://www.aibase.com/news/32073",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:57:35.773089Z"
+          "published_at": "2026-11-04T06:48:04.062380Z"
         },
         {
-          "id": "d20404bf02d6431a6b9a36eccba081e3ad655324",
-          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "url": "https://www.aibase.com/zh/news/32051",
+          "id": "c80540cad9382470d920bea4d7d71a438dd93b9e",
+          "title": "Claude 给自己发「身份证」：Anthropic 用零知识证明斩断套壳灰产",
+          "url": "https://www.aibase.com/zh/news/32073",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -471,18 +552,18 @@
       ],
       "items": [
         {
-          "id": "635e93c45031619fede27113f142ea63629efd30",
-          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "url": "https://www.aibase.com/news/32051",
+          "id": "040260493ae6687c9548b3fa2322c47c4aa6c257",
+          "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
+          "url": "https://www.aibase.com/news/32073",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:57:35.773089Z"
+          "published_at": "2026-11-04T06:48:04.062380Z"
         },
         {
-          "id": "d20404bf02d6431a6b9a36eccba081e3ad655324",
-          "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-          "url": "https://www.aibase.com/zh/news/32051",
+          "id": "c80540cad9382470d920bea4d7d71a438dd93b9e",
+          "title": "Claude 给自己发「身份证」：Anthropic 用零知识证明斩断套壳灰产",
+          "url": "https://www.aibase.com/zh/news/32073",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -491,15 +572,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8476,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -508,32 +589,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T12:57:35.773089Z",
-      "latest_at": "2026-11-03T12:57:35.773089Z",
+      "earliest_at": "2026-11-04T06:48:04.062380Z",
+      "latest_at": "2026-11-04T06:48:04.062380Z",
       "primary_item": {
-        "id": "635e93c45031619fede27113f142ea63629efd30",
-        "title": "Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型",
-        "url": "https://www.aibase.com/news/32051",
+        "id": "040260493ae6687c9548b3fa2322c47c4aa6c257",
+        "title": "Claude 给自己发\"身份证\"：Anthropic 用零知识证明斩断套壳灰产",
+        "url": "https://www.aibase.com/news/32073",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_946f3d391d21",
-      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "story_id": "story_9c22661ce9de",
+      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z"
+          "published_at": "2026-11-03T15:11:46Z"
         }
       ],
       "source_count": 1,
@@ -542,26 +623,26 @@
       ],
       "items": [
         {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z"
+          "published_at": "2026-11-03T15:11:46Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8787,
+        "ai_relevance": 0.91,
+        "recency": 0.7982,
         "story_heat": 0.0
       },
       "category": "official",
@@ -570,12 +651,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T15:27:13Z",
-      "latest_at": "2026-11-03T15:27:13Z",
+      "earliest_at": "2026-11-03T15:11:46Z",
+      "latest_at": "2026-11-03T15:11:46Z",
       "primary_item": {
-        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -615,15 +696,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.789,
+        "recency": 0.7195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -643,26 +724,26 @@
       }
     },
     {
-      "story_id": "story_8dd3be13d074",
-      "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-      "url": "https://www.aibase.com/news/32058",
-      "primary_url": "https://www.aibase.com/news/32058",
+      "story_id": "story_5e7770ff7cb0",
+      "title": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+      "url": "https://www.aibase.com/news/32080",
+      "primary_url": "https://www.aibase.com/news/32080",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
-          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-          "url": "https://www.aibase.com/news/32058",
+          "id": "0aac943559c3a6db6261a2454485e44ca9ff63a0",
+          "title": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+          "url": "https://www.aibase.com/news/32080",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:57:35.773089Z"
+          "published_at": "2026-11-04T06:48:04.062380Z"
         },
         {
-          "id": "ea7d0bcae8475b89e76df29060890c6ed584a10b",
-          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-          "url": "https://www.aibase.com/zh/news/32058",
+          "id": "1bf40153b38b1e5ba911cd92ef37b30177896d5e",
+          "title": "微软为 Outlook 引入小型 AI 模型，优化邮件搜索排序",
+          "url": "https://www.aibase.com/zh/news/32080",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -676,18 +757,18 @@
       ],
       "items": [
         {
-          "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
-          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-          "url": "https://www.aibase.com/news/32058",
+          "id": "0aac943559c3a6db6261a2454485e44ca9ff63a0",
+          "title": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+          "url": "https://www.aibase.com/news/32080",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T12:57:35.773089Z"
+          "published_at": "2026-11-04T06:48:04.062380Z"
         },
         {
-          "id": "ea7d0bcae8475b89e76df29060890c6ed584a10b",
-          "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-          "url": "https://www.aibase.com/zh/news/32058",
+          "id": "1bf40153b38b1e5ba911cd92ef37b30177896d5e",
+          "title": "微软为 Outlook 引入小型 AI 模型，优化邮件搜索排序",
+          "url": "https://www.aibase.com/zh/news/32080",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -696,15 +777,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8476,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -713,12 +794,155 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T12:57:35.773089Z",
-      "latest_at": "2026-11-03T12:57:35.773089Z",
+      "earliest_at": "2026-11-04T06:48:04.062380Z",
+      "latest_at": "2026-11-04T06:48:04.062380Z",
       "primary_item": {
-        "id": "afa8e70e748bd1e3cc4b018384cc13872a6c61f6",
-        "title": "电动车退烧、AI 储能烧起来：LG 新能源把产能挪向数据中心",
-        "url": "https://www.aibase.com/news/32058",
+        "id": "0aac943559c3a6db6261a2454485e44ca9ff63a0",
+        "title": "微软为Outlook引入小型AI模型，优化邮件搜索排序",
+        "url": "https://www.aibase.com/news/32080",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_946f3d391d21",
+      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:27:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T15:27:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8012,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T15:27:13Z",
+      "latest_at": "2026-11-03T15:27:13Z",
+      "primary_item": {
+        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3c3e473ac1e6",
+      "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
+      "url": "https://www.aibase.com/news/32078",
+      "primary_url": "https://www.aibase.com/news/32078",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3e4a2d043c1ed3be3e2bd80c6a6e9e267c5bda27",
+          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
+          "url": "https://www.aibase.com/news/32078",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "b06f085076d31661f40dd9dee286f16d3e09b2e6",
+          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打「真干活」",
+          "url": "https://www.aibase.com/zh/news/32078",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3e4a2d043c1ed3be3e2bd80c6a6e9e267c5bda27",
+          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
+          "url": "https://www.aibase.com/news/32078",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "b06f085076d31661f40dd9dee286f16d3e09b2e6",
+          "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打「真干活」",
+          "url": "https://www.aibase.com/zh/news/32078",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T06:48:04.062380Z",
+      "latest_at": "2026-11-04T06:48:04.062380Z",
+      "primary_item": {
+        "id": "3e4a2d043c1ed3be3e2bd80c6a6e9e267c5bda27",
+        "title": "腾讯 Hy4 正式版亮相：挤进最强开源阵营，主打\"真干活\"",
+        "url": "https://www.aibase.com/news/32078",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -758,15 +982,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8071,
+      "importance": 0.8071,
+      "importance_score": 0.8071,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8721,
+        "recency": 0.7952,
         "story_heat": 0.0
       },
       "category": "official",
@@ -783,87 +1007,6 @@
         "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cb654acfc6f9",
-      "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
-      "url": "https://www.aibase.com/news/32055",
-      "primary_url": "https://www.aibase.com/news/32055",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
-          "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
-          "url": "https://www.aibase.com/news/32055",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T12:57:35.773089Z"
-        },
-        {
-          "id": "06335068b1baeda9e0021bc540f4aaac3a5da667",
-          "title": "腾讯混元重磅发布 Hyra 2.0，让 AI Agent 全面参与科学大模型与硬核研发",
-          "url": "https://www.aibase.com/zh/news/32055",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
-          "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
-          "url": "https://www.aibase.com/news/32055",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T12:57:35.773089Z"
-        },
-        {
-          "id": "06335068b1baeda9e0021bc540f4aaac3a5da667",
-          "title": "腾讯混元重磅发布 Hyra 2.0，让 AI Agent 全面参与科学大模型与硬核研发",
-          "url": "https://www.aibase.com/zh/news/32055",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8476,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T12:57:35.773089Z",
-      "latest_at": "2026-11-03T12:57:35.773089Z",
-      "primary_item": {
-        "id": "b9c6ff9540f47352760c67fb89cc39bcf9a3565d",
-        "title": "腾讯混元重磅发布Hyra 2.0，让AI Agent全面参与科学大模型与硬核研发",
-        "url": "https://www.aibase.com/news/32055",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -901,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8185,
-      "importance": 0.8185,
-      "importance_score": 0.8185,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8583,
+        "recency": 0.7826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -929,81 +1072,237 @@
       }
     },
     {
-      "story_id": "story_65db784456a6",
-      "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-      "url": "https://www.aibase.com/news/32029",
-      "primary_url": "https://www.aibase.com/news/32029",
+      "story_id": "story_0f583a5f1ce5",
+      "title": "AI与组织效率驱动调整 Canva启动大规模重组",
+      "url": "https://www.aibase.com/news/32072",
+      "primary_url": "https://www.aibase.com/news/32072",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-          "url": "https://www.aibase.com/news/32029",
+          "id": "b0b7a98583d5fdb25e1f4552821156fd5e3b197c",
+          "title": "AI与组织效率驱动调整 Canva启动大规模重组",
+          "url": "https://www.aibase.com/news/32072",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "a2a1409c9af168de1fb2c23131f09de1c58e4f4a",
-          "title": "Anthropic 修订 S-1 文件：AI 可能很快达到递归式自我改进阈值",
-          "url": "https://www.aibase.com/zh/news/32029",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-04T06:48:04.062380Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-          "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-          "url": "https://www.aibase.com/news/32029",
+          "id": "b0b7a98583d5fdb25e1f4552821156fd5e3b197c",
+          "title": "AI与组织效率驱动调整 Canva启动大规模重组",
+          "url": "https://www.aibase.com/news/32072",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "a2a1409c9af168de1fb2c23131f09de1c58e4f4a",
-          "title": "Anthropic 修订 S-1 文件：AI 可能很快达到递归式自我改进阈值",
-          "url": "https://www.aibase.com/zh/news/32029",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-04T06:48:04.062380Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7611,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-03T05:30:14.633903Z",
-      "latest_at": "2026-11-03T05:30:14.633903Z",
+      "earliest_at": "2026-11-04T06:48:04.062380Z",
+      "latest_at": "2026-11-04T06:48:04.062380Z",
       "primary_item": {
-        "id": "43d3f0ac181c0237861172ae255a4b9e53d5fb3e",
-        "title": "Anthropic修订S-1文件:AI可能很快达到递归式自我改进阈值",
-        "url": "https://www.aibase.com/news/32029",
+        "id": "b0b7a98583d5fdb25e1f4552821156fd5e3b197c",
+        "title": "AI与组织效率驱动调整 Canva启动大规模重组",
+        "url": "https://www.aibase.com/news/32072",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-03",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "8b1a716245e4c3b78d0f5fdda55fea2f841ec5e0",
+          "title": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "6506e130fa84760be9abc76291e62ffc465f6464",
+          "title": "作者这篇笔记梳理了快手企业 AI 落地经验，给出了一个可落地的解法：先沉淀员工经验为共享能力，再重构分工；以小团队模式压缩交付链路，搭配需求风险分级的智能质检体系，同时搭建统一底座与积分机制管控成本。这套兼顾试点试错和企业治理的思路，可以帮大小团队避开 Agent 孤岛、空转、质量失控等问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "765d4a810d4ed582609e61df09786a602cc0b4f8",
+          "title": "卡兹克将自用的Agent自动化系统重构后，开源了Agent-Autoloop。整套架构采用插件化设计，事件、模型、通知通道均可自由接入，适配绝大多数主流Agent。文中还展示了大量可直接复用的自动化场景，个人和团队都能快速搭建自主流转、按需人工审批的智能工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "6f1ba51a2a0d6b9778e7e64069bda9d1d5b7c28e",
+          "title": "最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。很多人说没看懂，也有很多人说，这就是自己工作的日常。作者这篇文章就是想跟大家聊一下，过去这一年观察到的Agent产品工具的演进逻辑。可能从这个过程回顾，有机会帮助我们更好理解，发生了什么？为什么走到了现在。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "社区更新 · 2026-11-03"
+      ],
+      "items": [
+        {
+          "id": "8b1a716245e4c3b78d0f5fdda55fea2f841ec5e0",
+          "title": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "6506e130fa84760be9abc76291e62ffc465f6464",
+          "title": "作者这篇笔记梳理了快手企业 AI 落地经验，给出了一个可落地的解法：先沉淀员工经验为共享能力，再重构分工；以小团队模式压缩交付链路，搭配需求风险分级的智能质检体系，同时搭建统一底座与积分机制管控成本。这套兼顾试点试错和企业治理的思路，可以帮大小团队避开 Agent 孤岛、空转、质量失控等问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "765d4a810d4ed582609e61df09786a602cc0b4f8",
+          "title": "卡兹克将自用的Agent自动化系统重构后，开源了Agent-Autoloop。整套架构采用插件化设计，事件、模型、通知通道均可自由接入，适配绝大多数主流Agent。文中还展示了大量可直接复用的自动化场景，个人和团队都能快速搭建自主流转、按需人工审批的智能工作流。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        },
+        {
+          "id": "6f1ba51a2a0d6b9778e7e64069bda9d1d5b7c28e",
+          "title": "最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。很多人说没看懂，也有很多人说，这就是自己工作的日常。作者这篇文章就是想跟大家聊一下，过去这一年观察到的Agent产品工具的演进逻辑。可能从这个过程回顾，有机会帮助我们更好理解，发生了什么？为什么走到了现在。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-03",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.6442,
+      "importance": 0.6442,
+      "importance_score": 0.6442,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T06:48:04.062380Z",
+      "latest_at": "2026-11-04T06:48:04.062380Z",
+      "primary_item": {
+        "id": "8b1a716245e4c3b78d0f5fdda55fea2f841ec5e0",
+        "title": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-03",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_5c185da980d8",
+      "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+      "url": "https://www.aibase.com/news/32079",
+      "primary_url": "https://www.aibase.com/news/32079",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4a80b19073bb689970bae441c0df968acca55788",
+          "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+          "url": "https://www.aibase.com/news/32079",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "4a80b19073bb689970bae441c0df968acca55788",
+          "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+          "url": "https://www.aibase.com/news/32079",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-04T06:48:04.062380Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T06:48:04.062380Z",
+      "latest_at": "2026-11-04T06:48:04.062380Z",
+      "primary_item": {
+        "id": "4a80b19073bb689970bae441c0df968acca55788",
+        "title": "Anthropic 杀手级验真系统 FlashProve 正式开源：17 秒精准戳破“套壳模型”，验身速度飙升 5000 倍",
+        "url": "https://www.aibase.com/news/32079",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1043,15 +1342,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7882,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1068,416 +1367,6 @@
         "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_75170dbb218e",
-      "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-      "url": "https://www.aibase.com/news/32035",
-      "primary_url": "https://www.aibase.com/news/32035",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-          "url": "https://www.aibase.com/news/32035",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "042f813aba39c78f3070152bfd5436dbd02c0844",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的「必答题」",
-          "url": "https://www.aibase.com/zh/news/32035",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-          "url": "https://www.aibase.com/news/32035",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "042f813aba39c78f3070152bfd5436dbd02c0844",
-          "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的「必答题」",
-          "url": "https://www.aibase.com/zh/news/32035",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7611,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-03T05:30:14.633903Z",
-      "latest_at": "2026-11-03T05:30:14.633903Z",
-      "primary_item": {
-        "id": "46d0be152ac9a75464b18b05638180d5d17c236e",
-        "title": "一份私密备忘录流出：OpenAI 想让 AI 成为 2028 大选的\"必答题\"",
-        "url": "https://www.aibase.com/news/32035",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eadaa378c2b5",
-      "title": "谷歌将屏蔽拒绝采用人工智能的学校的搜索结果",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1df53edf87b79011a2d8b8bbe9a1e73d19c7a92b",
-          "title": "谷歌将屏蔽拒绝采用人工智能的学校的搜索结果",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T20:25:18.983000Z"
-        },
-        {
-          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T17:14:02.313000Z"
-        },
-        {
-          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-03T17:13:03Z"
-        },
-        {
-          "id": "09812c60205bffd5aecc3b19c6581c0359996c52",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-03T16:15:53Z"
-        },
-        {
-          "id": "8fae8b28f23f859e271c9fa211d87e8634b9623d",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T15:25:47Z"
-        },
-        {
-          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
-          "title": "谷歌将关闭对拒绝人工智能的学校的搜索 / Google will turn off search for schools that reject AI",
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "New York Times",
-        "hackernews",
-        "www.nytimes.com"
-      ],
-      "items": [
-        {
-          "id": "1df53edf87b79011a2d8b8bbe9a1e73d19c7a92b",
-          "title": "谷歌将屏蔽拒绝采用人工智能的学校的搜索结果",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T20:25:18.983000Z"
-        },
-        {
-          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T17:14:02.313000Z"
-        },
-        {
-          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-03T17:13:03Z"
-        },
-        {
-          "id": "09812c60205bffd5aecc3b19c6581c0359996c52",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-03T16:15:53Z"
-        },
-        {
-          "id": "8fae8b28f23f859e271c9fa211d87e8634b9623d",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T15:25:47Z"
-        },
-        {
-          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
-          "title": "谷歌将关闭对拒绝人工智能的学校的搜索 / Google will turn off search for schools that reject AI",
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6107,
-      "importance": 0.6107,
-      "importance_score": 0.6107,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.944,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-03T15:25:47Z",
-      "latest_at": "2026-11-03T20:25:18.983000Z",
-      "primary_item": {
-        "id": "1df53edf87b79011a2d8b8bbe9a1e73d19c7a92b",
-        "title": "谷歌将屏蔽拒绝采用人工智能的学校的搜索结果",
-        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-        "source": "www.nytimes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d3a5c3405718",
-      "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
-      "url": "https://www.aibase.com/news/32042",
-      "primary_url": "https://www.aibase.com/news/32042",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
-          "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
-          "url": "https://www.aibase.com/news/32042",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "678ae3932c77876e525f4418fe0bad338097721c",
-          "title": "苹果 App Store 新规：AI 伴侣与约会应用将强制设为 18 岁以上限制",
-          "url": "https://www.aibase.com/zh/news/32042",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
-          "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
-          "url": "https://www.aibase.com/news/32042",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "678ae3932c77876e525f4418fe0bad338097721c",
-          "title": "苹果 App Store 新规：AI 伴侣与约会应用将强制设为 18 岁以上限制",
-          "url": "https://www.aibase.com/zh/news/32042",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7611,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-03T05:30:14.633903Z",
-      "latest_at": "2026-11-03T05:30:14.633903Z",
-      "primary_item": {
-        "id": "fdddc2e375a18956b883c8902b7156770f7c36c9",
-        "title": "苹果 App Store 新规:AI 伴侣与约会应用将强制设为18岁以上限制",
-        "url": "https://www.aibase.com/news/32042",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "Kimi 全新推出面向游戏团队的创意开发方案，依托 K3.1 Pro、Kimi Code 与 Kimi Work 智能体，打通了 Godot、Unity、UE、Blender 等主流工具。它可以快速搭建可试玩原型、自动排查美术模型问题、直接迭代引擎工程，同时覆盖投放素材制作、玩家反馈归集、本地化与 UGC 审核等运营环节。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-02",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "38657555350bb34d43adce88607c5d3115c46c25",
-          "title": "Kimi 全新推出面向游戏团队的创意开发方案，依托 K3.1 Pro、Kimi Code 与 Kimi Work 智能体，打通了 Godot、Unity、UE、Blender 等主流工具。它可以快速搭建可试玩原型、自动排查美术模型问题、直接迭代引擎工程，同时覆盖投放素材制作、玩家反馈归集、本地化与 UGC 审核等运营环节。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "4251232cb06f461a07a93a25c5ba8fc89117b81f",
-          "title": "本周AI音乐周刊汇集了近期行业版权新规、商业变动与产品更新。韩国音著协探索AI音乐确权信托，Spotify计划推出合规AI翻唱工具，MiniMax收缩国内音乐云端业务。Suno MCP、ElevenLabs音效新模型、NI合成器等新品上线。还有6篇前沿论文，覆盖音频合成、乐谱建模等方向，适合音乐创作者、音频开发者快速掌握行业动态与落地工具。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "1d4c96756aea9cb30264c73ae7fddd65315c0886",
-          "title": "歸藏设计的这款适配DeepSeek Harness的插件，整合了5款高人气Skill，打通了PPT、图文卡片、网页排版等内容产出链路，可以学习你的表达风格消除AI感，数据本地留存还能保障隐私。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "社区更新 · 2026-11-02"
-      ],
-      "items": [
-        {
-          "id": "38657555350bb34d43adce88607c5d3115c46c25",
-          "title": "Kimi 全新推出面向游戏团队的创意开发方案，依托 K3.1 Pro、Kimi Code 与 Kimi Work 智能体，打通了 Godot、Unity、UE、Blender 等主流工具。它可以快速搭建可试玩原型、自动排查美术模型问题、直接迭代引擎工程，同时覆盖投放素材制作、玩家反馈归集、本地化与 UGC 审核等运营环节。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "4251232cb06f461a07a93a25c5ba8fc89117b81f",
-          "title": "本周AI音乐周刊汇集了近期行业版权新规、商业变动与产品更新。韩国音著协探索AI音乐确权信托，Spotify计划推出合规AI翻唱工具，MiniMax收缩国内音乐云端业务。Suno MCP、ElevenLabs音效新模型、NI合成器等新品上线。还有6篇前沿论文，覆盖音频合成、乐谱建模等方向，适合音乐创作者、音频开发者快速掌握行业动态与落地工具。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        },
-        {
-          "id": "1d4c96756aea9cb30264c73ae7fddd65315c0886",
-          "title": "歸藏设计的这款适配DeepSeek Harness的插件，整合了5款高人气Skill，打通了PPT、图文卡片、网页排版等内容产出链路，可以学习你的表达风格消除AI感，数据本地留存还能保障隐私。快来上手试试！",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-02",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-03T05:30:14.633903Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5762,
-      "importance": 0.5762,
-      "importance_score": 0.5762,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7611,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-03T05:30:14.633903Z",
-      "latest_at": "2026-11-03T05:30:14.633903Z",
-      "primary_item": {
-        "id": "38657555350bb34d43adce88607c5d3115c46c25",
-        "title": "Kimi 全新推出面向游戏团队的创意开发方案，依托 K3.1 Pro、Kimi Code 与 Kimi Work 智能体，打通了 Godot、Unity、UE、Blender 等主流工具。它可以快速搭建可试玩原型、自动排查美术模型问题、直接迭代引擎工程，同时覆盖投放素材制作、玩家反馈归集、本地化与 UGC 审核等运营环节。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-02",
-        "source_name": "WaytoAGI"
       }
     }
   ]
