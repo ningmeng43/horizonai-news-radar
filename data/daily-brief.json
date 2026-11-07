@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T02:58:31.480713Z",
+  "generated_at": "2026-11-07T09:42:58.414070Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9643,
+        "recency": 0.8748,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8393,
-      "importance": 0.8393,
-      "importance_score": 0.8393,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8293,
+        "recency": 0.7524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9343,
+        "recency": 0.8476,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,88 +186,6 @@
         "title": "超越代码生成：代理工程开发人员指南 / Beyond code generation: A developer’s guide to agentic engineering",
         "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_bc8f9eac1966",
-      "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "primary_url": "https://openai.com/index/partnering-with-hacktron",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T08:00:00Z"
-        },
-        {
-          "id": "066b4628f2a1c4cd02fbc1bee08e5f039ab13a98",
-          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T08:00:00Z"
-        },
-        {
-          "id": "066b4628f2a1c4cd02fbc1bee08e5f039ab13a98",
-          "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞",
-          "url": "https://openai.com/index/partnering-with-hacktron",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8339,
-      "importance": 0.8339,
-      "importance_score": 0.8339,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7603,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T08:00:00Z",
-      "latest_at": "2026-11-06T23:21:29.686185Z",
-      "primary_item": {
-        "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-        "title": "OpenAI 与 Hacktron 合作，排查其系统漏洞 / Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-        "url": "https://openai.com/index/partnering-with-hacktron",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -306,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9346,
+        "recency": 0.8479,
         "story_heat": 0.0
       },
       "category": "official",
@@ -368,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9174,
+        "recency": 0.8323,
         "story_heat": 0.0
       },
       "category": "official",
@@ -449,22 +367,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.7231,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-06T11:15:49.432181Z",
       "latest_at": "2026-11-06T11:15:49.432181Z",
@@ -511,15 +428,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.911,
+        "recency": 0.8265,
         "story_heat": 0.0
       },
       "category": "official",
@@ -592,22 +509,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.7231,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-06T11:15:49.432181Z",
       "latest_at": "2026-11-06T11:15:49.432181Z",
@@ -673,22 +589,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.7231,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-06T11:15:49.432181Z",
       "latest_at": "2026-11-06T11:15:49.432181Z",
@@ -698,6 +613,138 @@
         "url": "https://www.aibase.com/news/32145",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-06",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "af2381a64d45268bfbcf2dbc85f51111cb17e8a5",
+          "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        },
+        {
+          "id": "edca6713d8ca85f9709e9ce8c5cd6d56e49da3a5",
+          "title": "企业把 AI 接进来，很多团队还是停留在单纯地“给员工装个工具”：一碰权限、数据、业务系统和万人并发，方案就乱了。作者这篇文章完整梳理了企业如何搭建一套自己的 AI 智能体工作台，适合正在做内部落地、又担心安全和规模的人。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        },
+        {
+          "id": "4f3beb51bcdcfb0b8631159a2f0c6395635d16a3",
+          "title": "作者用 520 万字、50 万次语义判断，把 AI 写作习惯拆成了 100 多项指标。如果你平时用 AI 写东西，这篇能帮你省下很多改稿到崩溃的时间。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        },
+        {
+          "id": "ae122f675a6a3acd50575087cc161acf963b14d9",
+          "title": "姚金刚和乔木老师的《海外GEO白皮书》正式发布，把海外的 GEO 拆成了一条可执行的路线，适合出海品牌、SEO/内容和增长团队，把“被 AI 看见”做成可测的长期工程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        },
+        {
+          "id": "4c8bf049c801c4ee3279f8726b7ed0fc5d2ebb09",
+          "title": "找不到爆款AI视频的提示词？作者这套方案可以直接逆向拆解。依托Antigravity+Gemini原生视频理解，它能识别运镜时序与动作节奏，远胜过普通抽帧方案。作者实测了7条爆款，同时讲清了批量生成、垫图锁画风的实操技巧，很适合短视频创作者复刻爆款画面。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "社区更新 · 2026-11-06"
+      ],
+      "items": [
+        {
+          "id": "af2381a64d45268bfbcf2dbc85f51111cb17e8a5",
+          "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        },
+        {
+          "id": "edca6713d8ca85f9709e9ce8c5cd6d56e49da3a5",
+          "title": "企业把 AI 接进来，很多团队还是停留在单纯地“给员工装个工具”：一碰权限、数据、业务系统和万人并发，方案就乱了。作者这篇文章完整梳理了企业如何搭建一套自己的 AI 智能体工作台，适合正在做内部落地、又担心安全和规模的人。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        },
+        {
+          "id": "4f3beb51bcdcfb0b8631159a2f0c6395635d16a3",
+          "title": "作者用 520 万字、50 万次语义判断，把 AI 写作习惯拆成了 100 多项指标。如果你平时用 AI 写东西，这篇能帮你省下很多改稿到崩溃的时间。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        },
+        {
+          "id": "ae122f675a6a3acd50575087cc161acf963b14d9",
+          "title": "姚金刚和乔木老师的《海外GEO白皮书》正式发布，把海外的 GEO 拆成了一条可执行的路线，适合出海品牌、SEO/内容和增长团队，把“被 AI 看见”做成可测的长期工程。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        },
+        {
+          "id": "4c8bf049c801c4ee3279f8726b7ed0fc5d2ebb09",
+          "title": "找不到爆款AI视频的提示词？作者这套方案可以直接逆向拆解。依托Antigravity+Gemini原生视频理解，它能识别运镜时序与动作节奏，远胜过普通抽帧方案。作者实测了7条爆款，同时讲清了批量生成、垫图锁画风的实操技巧，很适合短视频创作者复刻爆款画面。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-06",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-07T09:42:58.414070Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T09:42:58.414070Z",
+      "latest_at": "2026-11-07T09:42:58.414070Z",
+      "primary_item": {
+        "id": "af2381a64d45268bfbcf2dbc85f51111cb17e8a5",
+        "title": "GPT Image 2.6正式上线，新增了透明底GIF、SVG矢量图能力，生成速度提升约50%，API还提供多档思考强度可调。小歪做了多场景的实测，电商图、漫画分镜、家装方案都能落地，噪点问题小幅改善，但依然存在手指畸形、中文信息图文字错乱、多次迭代修改后质感下滑、塑料感变强等短板。快来看看真实效果如何！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-06",
+        "source_name": "WaytoAGI"
       }
     },
     {
@@ -754,22 +801,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.7231,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-06T11:15:49.432181Z",
       "latest_at": "2026-11-06T11:15:49.432181Z",
@@ -835,22 +881,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.797,
+        "recency": 0.7231,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-06T11:15:49.432181Z",
       "latest_at": "2026-11-06T11:15:49.432181Z",
@@ -915,15 +960,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.5793,
+      "importance": 0.5793,
+      "importance_score": 0.5793,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8806,
+        "recency": 0.7989,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -941,27 +986,204 @@
       }
     },
     {
-      "story_id": "story_a1bbc8479eae",
-      "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
-      "url": "https://www.aibase.com/news/32134",
-      "primary_url": "https://www.aibase.com/news/32134",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e086e2a5c605",
+      "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "primary_url": "https://arxiv.org/abs/2610.21375",
+      "source": "arxiv.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c52b86afb476972ff7ef986c7c22d1acbdadc7dd",
-          "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
-          "url": "https://www.aibase.com/news/32134",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T03:01:25.703506Z"
+          "id": "f228c25b09ff1871747edc80af56003ccc8c0f6c",
+          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+          "url": "https://arxiv.org/abs/2610.21375",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T05:22:36.632000Z"
         },
         {
-          "id": "67fb470081554035274d8eb44a594486fcdcc6b3",
-          "title": "ElevenLabs 支持用户将 AI 音乐直接发布至 SoundCloud",
-          "url": "https://www.aibase.com/zh/news/32134",
+          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
+          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
+          "url": "https://arxiv.org/abs/2610.21375",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T18:03:33Z"
+        },
+        {
+          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
+          "title": "备忘录：法学硕士的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
+          "url": "https://news.ycombinator.com/item?id=50395919",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T18:03:33Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "arxiv.org",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f228c25b09ff1871747edc80af56003ccc8c0f6c",
+          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+          "url": "https://arxiv.org/abs/2610.21375",
+          "source": "arxiv.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-07T05:22:36.632000Z"
+        },
+        {
+          "id": "afff8aa14dbc3edd6cf0ba1f68feddbdfd301fe0",
+          "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
+          "url": "https://arxiv.org/abs/2610.21375",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-06T18:03:33Z"
+        },
+        {
+          "id": "6ade50df0531c2c4a72b11ff2f633d7eee5b4554",
+          "title": "备忘录：法学硕士的潜在语义记忆 / Memorilla: Latent Semantic Memory for LLMs",
+          "url": "https://news.ycombinator.com/item?id=50395919",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-06T18:03:33Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5599,
+      "importance": 0.5599,
+      "importance_score": 0.5599,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9393,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-06T18:03:33Z",
+      "latest_at": "2026-11-07T05:22:36.632000Z",
+      "primary_item": {
+        "id": "f228c25b09ff1871747edc80af56003ccc8c0f6c",
+        "title": "Memorilla：面向大型语言模型（LLM）的潜在语义记忆",
+        "url": "https://arxiv.org/abs/2610.21375",
+        "source": "arxiv.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f00aebf0875e",
+      "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+      "url": "https://www.ithome.com/1/023/752.htm",
+      "primary_url": "https://www.ithome.com/1/023/752.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ed657592e5aa3846232aad271fec1820ae131761",
+          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
           "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
+          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T08:10:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ed657592e5aa3846232aad271fec1820ae131761",
+          "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f87a6c2de08a47f9ce52d28a9650f2bf8002a7ac",
+          "title": "Anthropic 神秘模型“立功”，AI 帮助攻克量子计算领域重大难题",
+          "url": "https://www.ithome.com/1/023/752.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-07T08:10:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T08:10:11Z",
+      "latest_at": "2026-11-07T09:42:58.414070Z",
+      "primary_item": {
+        "id": "ed657592e5aa3846232aad271fec1820ae131761",
+        "title": "Anthropic 神秘模型「立功」，AI 帮助攻克量子计算领域重大难题",
+        "url": "https://www.ithome.com/1/023/752.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_f6f0b21aa3e6",
+      "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
+      "url": "https://www.producthunt.com/products/openai",
+      "primary_url": "https://www.producthunt.com/products/openai",
+      "source": "Product Hunt · 今日新产品",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "3b83d87d9c0f4a3a9d005c62533417b2905e1a00",
+          "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "1be470331a87a065dab70508ae0eee370b6fe954",
+          "title": "GPT‑6 Cyber",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt · 今日新产品",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -969,24 +1191,23 @@
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "Product Hunt · 今日新产品"
       ],
       "items": [
         {
-          "id": "c52b86afb476972ff7ef986c7c22d1acbdadc7dd",
-          "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
-          "url": "https://www.aibase.com/news/32134",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T03:01:25.703506Z"
+          "id": "3b83d87d9c0f4a3a9d005c62533417b2905e1a00",
+          "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt · 今日新产品",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "67fb470081554035274d8eb44a594486fcdcc6b3",
-          "title": "ElevenLabs 支持用户将 AI 音乐直接发布至 SoundCloud",
-          "url": "https://www.aibase.com/zh/news/32134",
-          "source": "Readhub · AI",
+          "id": "1be470331a87a065dab70508ae0eee370b6fe954",
+          "title": "GPT‑6 Cyber",
+          "url": "https://www.producthunt.com/products/openai",
+          "source": "Product Hunt · 今日新产品",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
@@ -994,30 +1215,29 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
-      "importance_label": "行业动态",
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7076,
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-06T03:01:25.703506Z",
-      "latest_at": "2026-11-06T03:01:25.703506Z",
+      "earliest_at": "2026-11-07T09:42:58.414070Z",
+      "latest_at": "2026-11-07T09:42:58.414070Z",
       "primary_item": {
-        "id": "c52b86afb476972ff7ef986c7c22d1acbdadc7dd",
-        "title": "ElevenLabs支持用户将AI音乐直接发布至SoundCloud",
-        "url": "https://www.aibase.com/news/32134",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3b83d87d9c0f4a3a9d005c62533417b2905e1a00",
+        "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
+        "url": "https://www.producthunt.com/products/openai",
+        "source": "Product Hunt · 今日新产品",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1093,15 +1313,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9434,
+        "recency": 0.8559,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1191,15 +1411,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5606,
-      "importance": 0.5606,
-      "importance_score": 0.5606,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9434,
+        "recency": 0.8559,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1214,165 +1434,6 @@
         "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
         "source": "www.cbc.ca",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5896265e356c",
-      "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-      "url": "https://www.aibase.com/news/32135",
-      "primary_url": "https://www.aibase.com/news/32135",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8ebf7da3bcf78b11309cd920eb21444ab8dbe9e3",
-          "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-          "url": "https://www.aibase.com/news/32135",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T03:01:25.703506Z"
-        },
-        {
-          "id": "08fa8e36e791a51e15e29167bac393fa5cbdb962",
-          "title": "OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-          "url": "https://www.aibase.com/zh/news/32135",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8ebf7da3bcf78b11309cd920eb21444ab8dbe9e3",
-          "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-          "url": "https://www.aibase.com/news/32135",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-06T03:01:25.703506Z"
-        },
-        {
-          "id": "08fa8e36e791a51e15e29167bac393fa5cbdb962",
-          "title": "OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-          "url": "https://www.aibase.com/zh/news/32135",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7076,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T03:01:25.703506Z",
-      "latest_at": "2026-11-06T03:01:25.703506Z",
-      "primary_item": {
-        "id": "8ebf7da3bcf78b11309cd920eb21444ab8dbe9e3",
-        "title": "一把双刃剑：OpenAI 最强安全模型 GPT-6 Cyber 揪出 81 个 Firefox 漏洞",
-        "url": "https://www.aibase.com/news/32135",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_cd756bd1b2f0",
-      "title": "Planet AI 邀你「向地球提问」：超 10 年卫星影像变化，一句话就能查",
-      "url": "https://www.ithome.com/1/023/614.htm",
-      "primary_url": "https://www.ithome.com/1/023/614.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "3997ee194586a2873559b6a0b54b36644f862aa6",
-          "title": "Planet AI 邀你「向地球提问」：超 10 年卫星影像变化，一句话就能查",
-          "url": "https://www.ithome.com/1/023/614.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "271b7299b24875698df1011d26d5c1a30e280182",
-          "title": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查",
-          "url": "https://www.ithome.com/1/023/614.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T23:40:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3997ee194586a2873559b6a0b54b36644f862aa6",
-          "title": "Planet AI 邀你「向地球提问」：超 10 年卫星影像变化，一句话就能查",
-          "url": "https://www.ithome.com/1/023/614.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "271b7299b24875698df1011d26d5c1a30e280182",
-          "title": "Planet AI 邀你“向地球提问”：超 10 年卫星影像变化，一句话就能查",
-          "url": "https://www.ithome.com/1/023/614.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-06T23:40:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-06T23:40:22Z",
-      "latest_at": "2026-11-07T02:58:31.480713Z",
-      "primary_item": {
-        "id": "3997ee194586a2873559b6a0b54b36644f862aa6",
-        "title": "Planet AI 邀你「向地球提问」：超 10 年卫星影像变化，一句话就能查",
-        "url": "https://www.ithome.com/1/023/614.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1448,15 +1509,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8456,
+        "recency": 0.7672,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1527,15 +1588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9735,
+        "recency": 0.8832,
         "story_heat": 0.25
       },
       "category": "watch",
