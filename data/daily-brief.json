@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T16:55:34.888400Z",
+  "generated_at": "2026-11-08T20:55:49.261873Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_ea760ce1fa5f",
@@ -38,21 +38,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7542,
-      "importance": 0.7542,
-      "importance_score": 0.7542,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9257,
+        "recency": 0.8736,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-08T11:34:35Z",
       "latest_at": "2026-11-08T11:34:35Z",
@@ -66,13 +65,22 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+      "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "source": "社区更新 · 2026-11-08",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "1e2603b316d7b77c60f91459f09ceb2ba7b62f78",
+          "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T20:55:49.261873Z"
+        },
+        {
           "id": "082ad56beda9336881fe078c989d91b40c50fa09",
           "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -145,13 +153,22 @@
           "published_at": "2026-11-08T10:57:42.853273Z"
         }
       ],
-      "source_count": 8,
+      "source_count": 9,
       "source_names": [
         "社区更新 · 2026-11-07",
         "社区更新 · 2026-11-08"
       ],
       "items": [
         {
+          "id": "1e2603b316d7b77c60f91459f09ceb2ba7b62f78",
+          "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T20:55:49.261873Z"
+        },
+        {
           "id": "082ad56beda9336881fe078c989d91b40c50fa09",
           "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -224,16 +241,16 @@
           "published_at": "2026-11-08T10:57:42.853273Z"
         }
       ],
-      "item_count": 8,
-      "duplicate_count": 8,
-      "score": 0.6775,
-      "importance": 0.6775,
-      "importance_score": 0.6775,
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4824,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.67,
+        "ai_relevance": 0.65,
         "recency": 1.0,
         "story_heat": 1.0
       },
@@ -242,247 +259,92 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-08T10:57:42.853273Z",
-      "latest_at": "2026-11-08T16:55:34.888400Z",
+      "latest_at": "2026-11-08T20:55:49.261873Z",
       "primary_item": {
-        "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
-        "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+        "id": "1e2603b316d7b77c60f91459f09ceb2ba7b62f78",
+        "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-08",
         "source_name": "WaytoAGI"
       }
     },
     {
-      "story_id": "story_5186d80b7eef",
-      "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "apiiro.com",
-      "source_name": "Buzzing",
+      "story_id": "story_45fb196cb1bb",
+      "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "primary_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "1513613c40ea8527528953578f44a089b0b5f552",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "apiiro.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T00:06:44.743000Z"
-        },
-        {
-          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
+          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T19:37:42Z"
         },
         {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://news.ycombinator.com/item?id=50407882",
+          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
+          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+          "url": "https://news.ycombinator.com/item?id=50416363",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T19:37:42Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Readhub · AI",
-        "apiiro.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "1513613c40ea8527528953578f44a089b0b5f552",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "apiiro.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T00:06:44.743000Z"
-        },
-        {
-          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4b4b0561cf19026e2c0425c8d13bc94623ca954c",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
+          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T19:37:42Z"
         },
         {
-          "id": "bb744760bc89f3e1a9434a3cd9f8d3d7451ea43a",
-          "title": "Claude Code 的“Don’t Ask Again”暴露了 1,122 个公共 GitHub 文件中的密码 / Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-          "url": "https://news.ycombinator.com/item?id=50407882",
+          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
+          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+          "url": "https://news.ycombinator.com/item?id=50416363",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-07T20:45:32Z"
+          "published_at": "2026-11-08T19:37:42Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.557,
-      "importance": 0.557,
-      "importance_score": 0.557,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7844,
-        "story_heat": 0.75
+        "recency": 0.9814,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T20:45:32Z",
-      "latest_at": "2026-11-08T00:06:44.743000Z",
+      "earliest_at": "2026-11-08T19:37:42Z",
+      "latest_at": "2026-11-08T19:37:42Z",
       "primary_item": {
-        "id": "1513613c40ea8527528953578f44a089b0b5f552",
-        "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "source": "apiiro.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1eeaf5457cb1",
-      "title": "微软研究院“AI Frontiers”团队的解散",
-      "url": "https://hunch.net/?p=13764006",
-      "primary_url": "https://hunch.net/?p=13764006",
-      "source": "hunch.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-          "title": "微软研究院“AI Frontiers”团队的解散",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "hunch.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T19:40:52.028000Z"
-        },
-        {
-          "id": "ada3daab238c0bf635fe511f0003c79e74d106f7",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The End of AI Frontiers",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T18:04:07Z"
-        },
-        {
-          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
-          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "hunch.net"
-      ],
-      "items": [
-        {
-          "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-          "title": "微软研究院“AI Frontiers”团队的解散",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "hunch.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T19:40:52.028000Z"
-        },
-        {
-          "id": "ada3daab238c0bf635fe511f0003c79e74d106f7",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The End of AI Frontiers",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T18:04:07Z"
-        },
-        {
-          "id": "2e98d0544a58d52e34da032c24e72fb766091eeb",
-          "title": "微软研究院“AI Frontiers”团队的解散 / The end of Microsoft Research's AI Frontiers group",
-          "url": "https://hunch.net/?p=13764006",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T18:02:17Z"
-        },
-        {
-          "id": "f0bfdc71f0f3fb8834297a8fce13ce277da79f2e",
-          "title": "微软研究院人工智能前沿小组的终结 / The end of Microsoft Research's AI Frontiers group",
-          "url": "https://news.ycombinator.com/item?id=50406563",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T18:02:17Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5482,
-      "importance": 0.5482,
-      "importance_score": 0.5482,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7358,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T18:02:17Z",
-      "latest_at": "2026-11-07T19:40:52.028000Z",
-      "primary_item": {
-        "id": "5826ee2b72c1e0c566de8d30c84852e5e1b0096d",
-        "title": "微软研究院“AI Frontiers”团队的解散",
-        "url": "https://hunch.net/?p=13764006",
-        "source": "hunch.net",
-        "source_name": "Buzzing"
+        "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
+        "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -539,15 +401,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -562,85 +424,6 @@
         "url": "https://github.com/anthropics/claude-quickstarts",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_34520e7f743e",
-      "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "primary_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T15:19:51Z"
-        },
-        {
-          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "url": "https://news.ycombinator.com/item?id=50414021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T15:19:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T15:19:51Z"
-        },
-        {
-          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "url": "https://news.ycombinator.com/item?id=50414021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T15:19:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5417,
-      "importance": 0.5417,
-      "importance_score": 0.5417,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9772,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T15:19:51Z",
-      "latest_at": "2026-11-08T15:19:51Z",
-      "primary_item": {
-        "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
-        "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -697,15 +480,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9407,
+        "recency": 0.8878,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -776,15 +559,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5217,
+      "importance": 0.5217,
+      "importance_score": 0.5217,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9175,
+        "recency": 0.8659,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -799,6 +582,85 @@
         "url": "https://www.huxiu.com/article/4903919.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d8ba3532e1ff",
+      "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "primary_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:43:07Z"
+        },
+        {
+          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://news.ycombinator.com/item?id=50415817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:43:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:43:07Z"
+        },
+        {
+          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://news.ycombinator.com/item?id=50415817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:43:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9686,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T18:43:07Z",
+      "latest_at": "2026-11-08T18:43:07Z",
+      "primary_item": {
+        "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+        "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -854,15 +716,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5146,
-      "importance": 0.5146,
-      "importance_score": 0.5146,
+      "score": 0.5062,
+      "importance": 0.5062,
+      "importance_score": 0.5062,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8266,
+        "recency": 0.7801,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,6 +738,401 @@
         "title": "[程序员] 40 岁老登，最近看一部 AI 漫剧上头",
         "url": "https://www.v2ex.com/t/1255314",
         "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_5186d80b7eef",
+      "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "source": "apiiro.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1513613c40ea8527528953578f44a089b0b5f552",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "apiiro.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T00:06:44.743000Z"
+        },
+        {
+          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "apiiro.com"
+      ],
+      "items": [
+        {
+          "id": "1513613c40ea8527528953578f44a089b0b5f552",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "apiiro.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T00:06:44.743000Z"
+        },
+        {
+          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
+          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
+          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7404,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-07T23:45:08.507495Z",
+      "latest_at": "2026-11-08T00:06:44.743000Z",
+      "primary_item": {
+        "id": "1513613c40ea8527528953578f44a089b0b5f552",
+        "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
+        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+        "source": "apiiro.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a78801b83036",
+      "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:16:07Z"
+        },
+        {
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "url": "https://news.ycombinator.com/item?id=50415628",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:16:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:16:07Z"
+        },
+        {
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+          "url": "https://news.ycombinator.com/item?id=50415628",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:16:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9623,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T18:16:07Z",
+      "latest_at": "2026-11-08T18:16:07Z",
+      "primary_item": {
+        "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+        "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_885bc368b079",
+      "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+      "url": "https://www.ithome.com/1/023/849.htm",
+      "primary_url": "https://www.ithome.com/1/023/849.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
+          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
+          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T00:05:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
+          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
+          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
+          "url": "https://www.ithome.com/1/023/849.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T00:05:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7808,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T00:05:52Z",
+      "latest_at": "2026-11-08T03:47:39.606636Z",
+      "primary_item": {
+        "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
+        "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
+        "url": "https://www.ithome.com/1/023/849.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_c2edba4d78c7",
+      "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑 AI 经济",
+      "url": "https://www.huxiu.com/article/4903879.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4903879.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "db465f5bf1a048c7b821318d08ed62f8ca8540f8",
+          "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑 AI 经济",
+          "url": "https://www.huxiu.com/article/4903879.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e2b92491f7c54e71cd8ccfd9433b93c7eeeb1307",
+          "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑AI 经济",
+          "url": "https://www.huxiu.com/article/4903879.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T03:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "db465f5bf1a048c7b821318d08ed62f8ca8540f8",
+          "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑 AI 经济",
+          "url": "https://www.huxiu.com/article/4903879.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "e2b92491f7c54e71cd8ccfd9433b93c7eeeb1307",
+          "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑AI 经济",
+          "url": "https://www.huxiu.com/article/4903879.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T03:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7808,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T03:00:00Z",
+      "latest_at": "2026-11-08T03:47:39.606636Z",
+      "primary_item": {
+        "id": "db465f5bf1a048c7b821318d08ed62f8ca8540f8",
+        "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑 AI 经济",
+        "url": "https://www.huxiu.com/article/4903879.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_34520e7f743e",
+      "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "primary_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T15:19:51Z"
+        },
+        {
+          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://news.ycombinator.com/item?id=50414021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T15:19:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T15:19:51Z"
+        },
+        {
+          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://news.ycombinator.com/item?id=50414021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T15:19:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5318,
+      "importance": 0.5318,
+      "importance_score": 0.5318,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9223,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T15:19:51Z",
+      "latest_at": "2026-11-08T15:19:51Z",
+      "primary_item": {
+        "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
+        "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+        "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
     },
@@ -933,15 +1190,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9701,
+        "recency": 0.9156,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -956,164 +1213,6 @@
         "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_f7fffb994d85",
-      "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-      "primary_url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-      "source": "maxxbench.unlap.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "maxxbench.unlap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T20:43:55.325000Z"
-        },
-        {
-          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T17:19:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "maxxbench.unlap.ai"
-      ],
-      "items": [
-        {
-          "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "maxxbench.unlap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T20:43:55.325000Z"
-        },
-        {
-          "id": "8bd74463349c59c443141e88f803f9c6521e790a",
-          "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？” / MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-          "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-07T17:19:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5003,
-      "importance": 0.5003,
-      "importance_score": 0.5003,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7471,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T17:19:00Z",
-      "latest_at": "2026-11-07T20:43:55.325000Z",
-      "primary_item": {
-        "id": "c80a03823821bf9dd26984ea0f3d855825ef8d45",
-        "title": "MaxxBench – “DeepSWE 得分不错。但这是真的吗？”",
-        "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
-        "source": "maxxbench.unlap.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_885bc368b079",
-      "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-      "url": "https://www.ithome.com/1/023/849.htm",
-      "primary_url": "https://www.ithome.com/1/023/849.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
-          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
-          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T00:05:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
-          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
-          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T00:05:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8273,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T00:05:52Z",
-      "latest_at": "2026-11-08T03:47:39.606636Z",
-      "primary_item": {
-        "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
-        "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-        "url": "https://www.ithome.com/1/023/849.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1170,15 +1269,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9096,
+        "recency": 0.8585,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1193,85 +1292,6 @@
         "url": "https://github.com/synchopate/llama-modchip",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_c2edba4d78c7",
-      "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑 AI 经济",
-      "url": "https://www.huxiu.com/article/4903879.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4903879.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "db465f5bf1a048c7b821318d08ed62f8ca8540f8",
-          "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑 AI 经济",
-          "url": "https://www.huxiu.com/article/4903879.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2b92491f7c54e71cd8ccfd9433b93c7eeeb1307",
-          "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑AI 经济",
-          "url": "https://www.huxiu.com/article/4903879.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T03:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "db465f5bf1a048c7b821318d08ed62f8ca8540f8",
-          "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑 AI 经济",
-          "url": "https://www.huxiu.com/article/4903879.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2b92491f7c54e71cd8ccfd9433b93c7eeeb1307",
-          "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑AI 经济",
-          "url": "https://www.huxiu.com/article/4903879.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T03:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8273,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T03:00:00Z",
-      "latest_at": "2026-11-08T03:47:39.606636Z",
-      "primary_item": {
-        "id": "db465f5bf1a048c7b821318d08ed62f8ca8540f8",
-        "title": "马斯克最新访谈：从地表工厂到近地轨道，物理世界如何重塑 AI 经济",
-        "url": "https://www.huxiu.com/article/4903879.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1328,15 +1348,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8202,
+        "recency": 0.7741,
         "story_heat": 0.25
       },
       "category": "watch",
