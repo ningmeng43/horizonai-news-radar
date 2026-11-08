@@ -1,59 +1,114 @@
 {
-  "generated_at": "2026-11-08T10:57:42.853273Z",
+  "generated_at": "2026-11-08T16:55:34.888400Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 15,
   "items": [
     {
-      "story_id": "story_2df82173bb28",
-      "title": "做动图的人可能都会遇到找素材怕版权，做视频又嫌动作失控，一个小循环动效都要磨半天。GPT Image 2.6 把 2–16 帧 GIF 直接塞进对话框，作者实测了 10 种能落地的玩法，内容创作者、设计和产品同学都能直接抄。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-07",
-      "source_name": "WaytoAGI",
+      "story_id": "story_ea760ce1fa5f",
+      "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "4e397c1cd0ed1f149234ea7b93850a7be28c94ff",
-          "title": "做动图的人可能都会遇到找素材怕版权，做视频又嫌动作失控，一个小循环动效都要磨半天。GPT Image 2.6 把 2–16 帧 GIF 直接塞进对话框，作者实测了 10 种能落地的玩法，内容创作者、设计和产品同学都能直接抄。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-08T10:57:42.853273Z"
-        },
-        {
-          "id": "0fc9fb9d57c1d2a82e96ed0843693014f9e40193",
-          "title": "如果你想做 AI 短片，但是工具装不上，角色和分镜又分散在各处，生成失败也不知道从哪改。作者用一段 18 秒的剧情小样，跑了一遍 Muse＋无限画布的流程，适合没视频经验却想把创意做成片的人做参考。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-08T10:57:42.853273Z"
-        },
-        {
-          "id": "e5482590cd0c76cb10f9ae477fff609681dee144",
-          "title": "开了几个 Coding Agent 后，很多开发者反而更忙：追进度、验结果、处理冲突，最后自己成了系统里最慢的环节。作者把用智能体类比成“管理工作”，并将优秀工程管理者的实践与使用和创建 Claude Code 的经验进行了对比。或许会对大家有所帮助。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-08T10:57:42.853273Z"
-        },
-        {
-          "id": "007620060c263d9f6b6614d54fee15cf2f2474ae",
-          "title": "拿到一张噪点重、压缩厉害的参考图，直接让 AI 重绘，常常会越修越跑偏：构图变了，产品识别点也丢了。PT这套方法把图片重绘拆成了可控流程，适合做产品图、角色图或视觉素材修复的人。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-07",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-08T10:57:42.853273Z"
+          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
+          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-08T11:34:35Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "社区更新 · 2026-11-07"
+        "Daily Digest"
       ],
       "items": [
         {
+          "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
+          "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-08T11:34:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7542,
+      "importance": 0.7542,
+      "importance_score": 0.7542,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9257,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-08T11:34:35Z",
+      "latest_at": "2026-11-08T11:34:35Z",
+      "primary_item": {
+        "id": "4ed0d205bde53569c251b831b5277e17b8e1cbaa",
+        "title": "何夕2077 AI 深度信号周报 2026 W45：执行底座、验收负债与记忆边界",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-08-ai-deep-signals-weekly-2026-w45",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_2df82173bb28",
+      "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-08",
+      "source_name": "WaytoAGI",
+      "sources": [
+        {
+          "id": "082ad56beda9336881fe078c989d91b40c50fa09",
+          "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T16:55:34.888400Z"
+        },
+        {
+          "id": "09df639f22eac41f4cb2800fd38fff0b4a30e253",
+          "title": "本周精选的10项前沿研究，覆盖上下文压缩、技能路由、递归自学习、持续记忆、合规门控、销售智能体、后训练训练场、决策模型、协作基准、生活化任务评测。各项方案都附带实测数据与落地价值，不管是优化成本、提升智能体稳定性，还是搭建自进化系统，都能找到可参考的技术思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T16:55:34.888400Z"
+        },
+        {
+          "id": "5dbfa067e03a57466db1dde11f66ecebb2de339a",
+          "title": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T16:55:34.888400Z"
+        },
+        {
+          "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
+          "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T16:55:34.888400Z"
+        },
+        {
           "id": "4e397c1cd0ed1f149234ea7b93850a7be28c94ff",
           "title": "做动图的人可能都会遇到找素材怕版权，做视频又嫌动作失控，一个小循环动效都要磨半天。GPT Image 2.6 把 2–16 帧 GIF 直接塞进对话框，作者实测了 10 种能落地的玩法，内容创作者、设计和产品同学都能直接抄。",
           "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
@@ -90,30 +145,109 @@
           "published_at": "2026-11-08T10:57:42.853273Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6442,
-      "importance": 0.6442,
-      "importance_score": 0.6442,
+      "source_count": 8,
+      "source_names": [
+        "社区更新 · 2026-11-07",
+        "社区更新 · 2026-11-08"
+      ],
+      "items": [
+        {
+          "id": "082ad56beda9336881fe078c989d91b40c50fa09",
+          "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T16:55:34.888400Z"
+        },
+        {
+          "id": "09df639f22eac41f4cb2800fd38fff0b4a30e253",
+          "title": "本周精选的10项前沿研究，覆盖上下文压缩、技能路由、递归自学习、持续记忆、合规门控、销售智能体、后训练训练场、决策模型、协作基准、生活化任务评测。各项方案都附带实测数据与落地价值，不管是优化成本、提升智能体稳定性，还是搭建自进化系统，都能找到可参考的技术思路。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T16:55:34.888400Z"
+        },
+        {
+          "id": "5dbfa067e03a57466db1dde11f66ecebb2de339a",
+          "title": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T16:55:34.888400Z"
+        },
+        {
+          "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
+          "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-08",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T16:55:34.888400Z"
+        },
+        {
+          "id": "4e397c1cd0ed1f149234ea7b93850a7be28c94ff",
+          "title": "做动图的人可能都会遇到找素材怕版权，做视频又嫌动作失控，一个小循环动效都要磨半天。GPT Image 2.6 把 2–16 帧 GIF 直接塞进对话框，作者实测了 10 种能落地的玩法，内容创作者、设计和产品同学都能直接抄。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T10:57:42.853273Z"
+        },
+        {
+          "id": "0fc9fb9d57c1d2a82e96ed0843693014f9e40193",
+          "title": "如果你想做 AI 短片，但是工具装不上，角色和分镜又分散在各处，生成失败也不知道从哪改。作者用一段 18 秒的剧情小样，跑了一遍 Muse＋无限画布的流程，适合没视频经验却想把创意做成片的人做参考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T10:57:42.853273Z"
+        },
+        {
+          "id": "e5482590cd0c76cb10f9ae477fff609681dee144",
+          "title": "开了几个 Coding Agent 后，很多开发者反而更忙：追进度、验结果、处理冲突，最后自己成了系统里最慢的环节。作者把用智能体类比成“管理工作”，并将优秀工程管理者的实践与使用和创建 Claude Code 的经验进行了对比。或许会对大家有所帮助。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T10:57:42.853273Z"
+        },
+        {
+          "id": "007620060c263d9f6b6614d54fee15cf2f2474ae",
+          "title": "拿到一张噪点重、压缩厉害的参考图，直接让 AI 重绘，常常会越修越跑偏：构图变了，产品识别点也丢了。PT这套方法把图片重绘拆成了可控流程，适合做产品图、角色图或视觉素材修复的人。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-07",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-08T10:57:42.853273Z"
+        }
+      ],
+      "item_count": 8,
+      "duplicate_count": 8,
+      "score": 0.6775,
+      "importance": 0.6775,
+      "importance_score": 0.6775,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.468,
+        "editorial": 0.4824,
         "source_tier": 0.54,
-        "ai_relevance": 0.65,
+        "ai_relevance": 0.67,
         "recency": 1.0,
-        "story_heat": 0.75
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-11-08T10:57:42.853273Z",
-      "latest_at": "2026-11-08T10:57:42.853273Z",
+      "latest_at": "2026-11-08T16:55:34.888400Z",
       "primary_item": {
-        "id": "4e397c1cd0ed1f149234ea7b93850a7be28c94ff",
-        "title": "做动图的人可能都会遇到找素材怕版权，做视频又嫌动作失控，一个小循环动效都要磨半天。GPT Image 2.6 把 2–16 帧 GIF 直接塞进对话框，作者实测了 10 种能落地的玩法，内容创作者、设计和产品同学都能直接抄。",
+        "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
+        "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-07",
+        "source": "社区更新 · 2026-11-08",
         "source_name": "WaytoAGI"
       }
     },
@@ -209,15 +343,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.557,
+      "importance": 0.557,
+      "importance_score": 0.557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.855,
+        "recency": 0.7844,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -326,15 +460,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5602,
-      "importance": 0.5602,
-      "importance_score": 0.5602,
+      "score": 0.5482,
+      "importance": 0.5482,
+      "importance_score": 0.5482,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.802,
+        "recency": 0.7358,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -349,6 +483,243 @@
         "url": "https://hunch.net/?p=13764006",
         "source": "hunch.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_26b52d229f33",
+      "title": "人类学 / 克劳德快速入门 / anthropics / claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "primary_url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "db5583eb4aa330ac6131feaabf89b9547bcd4d09",
+          "title": "人类学 / 克劳德快速入门 / anthropics / claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "11002f4e8e25dc72519ebfb572dfa7ed8e6f32ef",
+          "title": "人类学 / 克劳德快速入门 / anthropics /      claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T16:37:09.719000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "db5583eb4aa330ac6131feaabf89b9547bcd4d09",
+          "title": "人类学 / 克劳德快速入门 / anthropics / claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "11002f4e8e25dc72519ebfb572dfa7ed8e6f32ef",
+          "title": "人类学 / 克劳德快速入门 / anthropics /      claude-quickstarts",
+          "url": "https://github.com/anthropics/claude-quickstarts",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T16:37:09.719000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T16:37:09.719000Z",
+      "latest_at": "2026-11-08T16:55:34.888400Z",
+      "primary_item": {
+        "id": "db5583eb4aa330ac6131feaabf89b9547bcd4d09",
+        "title": "人类学 / 克劳德快速入门 / anthropics / claude-quickstarts",
+        "url": "https://github.com/anthropics/claude-quickstarts",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_34520e7f743e",
+      "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "primary_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T15:19:51Z"
+        },
+        {
+          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://news.ycombinator.com/item?id=50414021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T15:19:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T15:19:51Z"
+        },
+        {
+          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://news.ycombinator.com/item?id=50414021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T15:19:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9772,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T15:19:51Z",
+      "latest_at": "2026-11-08T15:19:51Z",
+      "primary_item": {
+        "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
+        "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_d4758dafd35c",
+      "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "primary_url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
+          "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:41:25Z"
+        },
+        {
+          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
+          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T11:28:32.102000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.ft.com"
+      ],
+      "items": [
+        {
+          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
+          "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:41:25Z"
+        },
+        {
+          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
+          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T11:28:32.102000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9407,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T11:28:32.102000Z",
+      "latest_at": "2026-11-08T12:41:25Z",
+      "primary_item": {
+        "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
+        "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+        "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -405,15 +776,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -483,15 +854,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.528,
-      "importance": 0.528,
-      "importance_score": 0.528,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9009,
+        "recency": 0.8266,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -509,30 +880,30 @@
       }
     },
     {
-      "story_id": "story_e66f4eeac8f3",
-      "title": "再见，克劳德；你好，π / Goodbye Claude, Hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "primary_url": "https://caleb.software/posts/claude-to-pi.html",
+      "story_id": "story_1d660dc4ea7a",
+      "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
-          "title": "再见，克劳德；你好，π / Goodbye Claude, Hello Pi",
-          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T03:11:48Z"
+          "published_at": "2026-11-08T14:49:23Z"
         },
         {
-          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
-          "title": "再见克劳德，你好皮 / Goodbye Claude, Hello Pi",
-          "url": "https://news.ycombinator.com/item?id=50410107",
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://news.ycombinator.com/item?id=50413822",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T03:11:48Z"
+          "published_at": "2026-11-08T14:49:23Z"
         }
       ],
       "source_count": 2,
@@ -542,47 +913,47 @@
       ],
       "items": [
         {
-          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
-          "title": "再见，克劳德；你好，π / Goodbye Claude, Hello Pi",
-          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T03:11:48Z"
+          "published_at": "2026-11-08T14:49:23Z"
         },
         {
-          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
-          "title": "再见克劳德，你好皮 / Goodbye Claude, Hello Pi",
-          "url": "https://news.ycombinator.com/item?id=50410107",
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://news.ycombinator.com/item?id=50413822",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T03:11:48Z"
+          "published_at": "2026-11-08T14:49:23Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8939,
+        "recency": 0.9701,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T03:11:48Z",
-      "latest_at": "2026-11-08T03:11:48Z",
+      "earliest_at": "2026-11-08T14:49:23Z",
+      "latest_at": "2026-11-08T14:49:23Z",
       "primary_item": {
-        "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
-        "title": "再见，克劳德；你好，π / Goodbye Claude, Hello Pi",
-        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "id": "e8b759987beb87bd3466b92e2d30369720d12097",
+        "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -641,15 +1012,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
+      "score": 0.5003,
+      "importance": 0.5003,
+      "importance_score": 0.5003,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8143,
+        "recency": 0.7471,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -664,321 +1035,6 @@
         "url": "https://maxxbench.unlap.ai/research/why-maxxbench",
         "source": "maxxbench.unlap.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ccf16ddd4103",
-      "title": "人工智能正在改变成为一名数学家所需的条件",
-      "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-      "primary_url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
-          "title": "人工智能正在改变成为一名数学家所需的条件",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T17:33:00.917000Z"
-        },
-        {
-          "id": "4114d11a72eab019203db88c277c93a73956522d",
-          "title": "人工智能正在改变成为一名数学家所需的条件 / AI is changing what it takes to get hired as a mathematician",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T16:17:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
-          "title": "人工智能正在改变成为一名数学家所需的条件",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T17:33:00.917000Z"
-        },
-        {
-          "id": "4114d11a72eab019203db88c277c93a73956522d",
-          "title": "人工智能正在改变成为一名数学家所需的条件 / AI is changing what it takes to get hired as a mathematician",
-          "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T16:17:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7777,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T16:17:17Z",
-      "latest_at": "2026-11-07T17:33:00.917000Z",
-      "primary_item": {
-        "id": "0d0bfb2bdcb9a01b5fc1da47a4dff145396f7d0b",
-        "title": "人工智能正在改变成为一名数学家所需的条件",
-        "url": "https://www.businessinsider.com/ai-math-hiring-academia-papers-journals-phd-charisma-communication-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b95f6aa29001",
-      "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
-      "url": "https://github.com/dsx-ai-factory/nvke",
-      "primary_url": "https://github.com/dsx-ai-factory/nvke",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ded629dd211e146cbd6c7ab017f3907ec69c0631",
-          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "778c1770dfe203d6bb084f0550ee054509a76b74",
-          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory /      nvke",
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:45:31.889000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "ded629dd211e146cbd6c7ab017f3907ec69c0631",
-          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "778c1770dfe203d6bb084f0550ee054509a76b74",
-          "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory /      nvke",
-          "url": "https://github.com/dsx-ai-factory/nvke",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:45:31.889000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5027,
-      "importance": 0.5027,
-      "importance_score": 0.5027,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7606,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T15:45:31.889000Z",
-      "latest_at": "2026-11-07T16:00:38.549181Z",
-      "primary_item": {
-        "id": "ded629dd211e146cbd6c7ab017f3907ec69c0631",
-        "title": "dsx-ai-工厂 / NVKE / dsx-ai-factory / nvke",
-        "url": "https://github.com/dsx-ai-factory/nvke",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_f6f0b21aa3e6",
-      "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
-      "url": "https://www.producthunt.com/products/openai",
-      "primary_url": "https://www.producthunt.com/products/openai",
-      "source": "producthunt",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6965bcbcc478dd83d8a0060eed6586999374a017",
-          "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:45:27.348000Z"
-        },
-        {
-          "id": "3d87b2f237d4630e09ed9017529c181beee88574",
-          "title": "GPT-6 网络 / GPT‑6 Cyber",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:45:27.348000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "6965bcbcc478dd83d8a0060eed6586999374a017",
-          "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:45:27.348000Z"
-        },
-        {
-          "id": "3d87b2f237d4630e09ed9017529c181beee88574",
-          "title": "GPT-6 网络 / GPT‑6 Cyber",
-          "url": "https://www.producthunt.com/products/openai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:45:27.348000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5022,
-      "importance": 0.5022,
-      "importance_score": 0.5022,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7578,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T15:45:27.348000Z",
-      "latest_at": "2026-11-07T15:45:27.348000Z",
-      "primary_item": {
-        "id": "6965bcbcc478dd83d8a0060eed6586999374a017",
-        "title": "ChatGPT 图像 2.6 / ChatGPT Images 2.6",
-        "url": "https://www.producthunt.com/products/openai",
-        "source": "producthunt",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_f45973610354",
-      "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "primary_url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "21d9df437718fa920d9892ade2924765dbb15afa",
-          "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T15:16:01Z"
-        },
-        {
-          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
-          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://news.ycombinator.com/item?id=50405263",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:16:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "21d9df437718fa920d9892ade2924765dbb15afa",
-          "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-07T15:16:01Z"
-        },
-        {
-          "id": "307451c705f6211f27896dc8d1f5f26bd1cd88e2",
-          "title": "Show HN：我们将31B视频+音频扩散模型压缩为14B，6步，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-          "url": "https://news.ycombinator.com/item?id=50405263",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-07T15:16:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5012,
-      "importance": 0.5012,
-      "importance_score": 0.5012,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7525,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-07T15:16:01Z",
-      "latest_at": "2026-11-07T15:16:01Z",
-      "primary_item": {
-        "id": "21d9df437718fa920d9892ade2924765dbb15afa",
-        "title": "Show HN: 我们将一个31B的视频音频扩散模型压缩到了14B，6个步骤，INT8 / Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
-        "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1035,15 +1091,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9017,
+        "recency": 0.8273,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1061,82 +1117,82 @@
       }
     },
     {
-      "story_id": "story_5a16899cf400",
-      "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题",
-      "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-      "primary_url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_5e9d3fd0e59c",
+      "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "primary_url": "https://github.com/synchopate/llama-modchip",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "14e004247ea4e15b2bcb2c164a30cbcd219f9db9",
-          "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题",
-          "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T14:21:55.286000Z"
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
         },
         {
-          "id": "f2cf34c58cbba77a17866207d85b1db73af2664f",
-          "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题 / This week's drama in startup land exposes the big legal headache of the AI agent era",
-          "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T11:05:01Z"
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "14e004247ea4e15b2bcb2c164a30cbcd219f9db9",
-          "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题",
-          "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-07T14:21:55.286000Z"
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
         },
         {
-          "id": "f2cf34c58cbba77a17866207d85b1db73af2664f",
-          "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题 / This week's drama in startup land exposes the big legal headache of the AI agent era",
-          "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-07T11:05:01Z"
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7427,
+        "recency": 0.9096,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T11:05:01Z",
-      "latest_at": "2026-11-07T14:21:55.286000Z",
+      "earliest_at": "2026-11-08T10:22:04Z",
+      "latest_at": "2026-11-08T10:22:04Z",
       "primary_item": {
-        "id": "14e004247ea4e15b2bcb2c164a30cbcd219f9db9",
-        "title": "竞争对手初创公司Railway与Primcloud之间的纠纷，揭示了人工智能代理时代面临的重大法律难题",
-        "url": "https://www.businessinsider.com/railway-primcloud-ai-agent-drama-legal-question-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+        "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1193,15 +1249,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9017,
+        "recency": 0.8273,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1216,6 +1272,85 @@
         "url": "https://www.huxiu.com/article/4903879.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_e66f4eeac8f3",
+      "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "primary_url": "https://caleb.software/posts/claude-to-pi.html",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
+          "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T03:11:48Z"
+        },
+        {
+          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
+          "title": "再见克劳德，你好皮 / Goodbye Claude, hello Pi",
+          "url": "https://news.ycombinator.com/item?id=50410107",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T03:11:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
+          "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
+          "url": "https://caleb.software/posts/claude-to-pi.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T03:11:48Z"
+        },
+        {
+          "id": "f9e6a111a822d959b2ebb2618203323831a1dd64",
+          "title": "再见克劳德，你好皮 / Goodbye Claude, hello Pi",
+          "url": "https://news.ycombinator.com/item?id=50410107",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T03:11:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5134,
+      "importance": 0.5134,
+      "importance_score": 0.5134,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8202,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T03:11:48Z",
+      "latest_at": "2026-11-08T03:11:48Z",
+      "primary_item": {
+        "id": "e7fe2cecfcd23f7afe0f7ec86eeaecb9a3bb623b",
+        "title": "再见，克劳德；你好，π / Goodbye Claude, hello Pi",
+        "url": "https://caleb.software/posts/claude-to-pi.html",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
