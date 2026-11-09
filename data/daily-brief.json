@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T20:55:49.261873Z",
+  "generated_at": "2026-11-09T00:25:48.548634Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_ea760ce1fa5f",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7371,
+      "importance": 0.7371,
+      "importance_score": 0.7371,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8736,
+        "recency": 0.8306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -243,15 +243,15 @@
       ],
       "item_count": 9,
       "duplicate_count": 9,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6603,
+      "importance": 0.6603,
+      "importance_score": 0.6603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9507,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -270,15 +270,24 @@
     },
     {
       "story_id": "story_45fb196cb1bb",
-      "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+      "title": "我如何对抗AI脑力透支",
       "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
       "primary_url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "source": "sergeykuhne.com",
+      "source_name": "Buzzing",
       "sources": [
         {
+          "id": "d57f924153c691d936e302db8a945c1275036341",
+          "title": "我如何对抗AI脑力透支",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "source": "sergeykuhne.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T22:19:44.002000Z"
+        },
+        {
           "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
-          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+          "title": "我如何对抗AI脑力透支 / How I Fight AI Brain Fry",
           "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -293,6 +302,528 @@
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-11-08T19:37:42Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "sergeykuhne.com"
+      ],
+      "items": [
+        {
+          "id": "d57f924153c691d936e302db8a945c1275036341",
+          "title": "我如何对抗AI脑力透支",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "source": "sergeykuhne.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T22:19:44.002000Z"
+        },
+        {
+          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
+          "title": "我如何对抗AI脑力透支 / How I Fight AI Brain Fry",
+          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T19:37:42Z"
+        },
+        {
+          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
+          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
+          "url": "https://news.ycombinator.com/item?id=50416363",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T19:37:42Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5654,
+      "importance": 0.5654,
+      "importance_score": 0.5654,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9701,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T19:37:42Z",
+      "latest_at": "2026-11-08T22:19:44.002000Z",
+      "primary_item": {
+        "id": "d57f924153c691d936e302db8a945c1275036341",
+        "title": "我如何对抗AI脑力透支",
+        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "source": "sergeykuhne.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5e9d3fd0e59c",
+      "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "primary_url": "https://github.com/synchopate/llama-modchip",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.367000Z"
+        },
+        {
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.367000Z"
+        },
+        {
+          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
+          "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://github.com/synchopate/llama-modchip",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T10:22:04Z"
+        },
+        {
+          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
+          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+          "url": "https://news.ycombinator.com/item?id=50411961",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T10:22:04Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9508,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T10:22:04Z",
+      "latest_at": "2026-11-08T20:56:03.367000Z",
+      "primary_item": {
+        "id": "358b1f60ce95f575914da4e0562788c199a8cea0",
+        "title": "Llama-modchip：搭载 284B DeepSeek 芯片，配备 64GB 内存，无 GPU",
+        "url": "https://github.com/synchopate/llama-modchip",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1d660dc4ea7a",
+      "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+      "source": "247wallst.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "247wallst.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.911000Z"
+        },
+        {
+          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T14:49:23Z"
+        },
+        {
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://news.ycombinator.com/item?id=50413822",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "247wallst.com",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "247wallst.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:03.911000Z"
+        },
+        {
+          "id": "2d02cd05dea16af32f1e53f8275e579854f25c61",
+          "title": "OpenAI以1.25万亿美元估值融资110亿美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T14:49:23Z"
+        },
+        {
+          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
+          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
+          "url": "https://news.ycombinator.com/item?id=50413822",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T14:49:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5619,
+      "importance": 0.5619,
+      "importance_score": 0.5619,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9508,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T14:49:23Z",
+      "latest_at": "2026-11-08T20:56:03.911000Z",
+      "primary_item": {
+        "id": "4ce2bead2f9eceac6f778755e823b34b9d40f5a0",
+        "title": "OpenAI以1.25万亿美元估值融资110亿美元",
+        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
+        "source": "247wallst.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_63afb5aa91d0",
+      "title": "为什么我不会在编程中使用大型语言模型",
+      "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "primary_url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+      "source": "www.polso.info",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2704834de82acc4f58d1989254432d7e63eef624",
+          "title": "为什么我不会在编程中使用大型语言模型",
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "www.polso.info",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T21:47:44Z"
+        },
+        {
+          "id": "c244167d85979ee6bccf856aef4c1c5464df7d6b",
+          "title": "为什么我不会在编程中使用大型语言模型 / Why I will not be using LLMs in my coding",
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:14:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.polso.info"
+      ],
+      "items": [
+        {
+          "id": "2704834de82acc4f58d1989254432d7e63eef624",
+          "title": "为什么我不会在编程中使用大型语言模型",
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "www.polso.info",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T21:47:44Z"
+        },
+        {
+          "id": "c244167d85979ee6bccf856aef4c1c5464df7d6b",
+          "title": "为什么我不会在编程中使用大型语言模型 / Why I will not be using LLMs in my coding",
+          "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:14:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9627,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T12:14:10Z",
+      "latest_at": "2026-11-08T21:47:44Z",
+      "primary_item": {
+        "id": "2704834de82acc4f58d1989254432d7e63eef624",
+        "title": "为什么我不会在编程中使用大型语言模型",
+        "url": "https://www.polso.info/why-i-will-not-be-using-llms-coding",
+        "source": "www.polso.info",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7f83204997ea",
+      "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
+      "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "primary_url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+      "source": "lobste.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2f707956a9d5057063a1fbafa1be7553393f078c",
+          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
+          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:15.361000Z"
+        },
+        {
+          "id": "eef953c0170c3ae75f6e66a62dba620c3d94da1c",
+          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？ / What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T17:07:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "lobste.rs"
+      ],
+      "items": [
+        {
+          "id": "2f707956a9d5057063a1fbafa1be7553393f078c",
+          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
+          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:15.361000Z"
+        },
+        {
+          "id": "eef953c0170c3ae75f6e66a62dba620c3d94da1c",
+          "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？ / What can I realistically do with local AI on a Mac mini M5 Pro (48GB)?",
+          "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T17:07:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9508,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T17:07:51Z",
+      "latest_at": "2026-11-08T20:56:15.361000Z",
+      "primary_item": {
+        "id": "2f707956a9d5057063a1fbafa1be7553393f078c",
+        "title": "在 Mac mini M5 Pro（48GB）上，我能实际利用本地 AI 做些什么？",
+        "url": "https://lobste.rs/s/umsitb/what_can_i_realistically_do_with_local_ai",
+        "source": "lobste.rs",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_eda53e4d3719",
+      "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
+      "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+      "primary_url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "106ef5d16d6ed92c5d755a079b47783d0fe13874",
+          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
+          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:17.292000Z"
+        },
+        {
+          "id": "66365d6f39117065c0bad43f45f9ba5124b98e6c",
+          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。 / DARPA wants AI to find hidden flaws in digital markets that adversaries could exploit to wreak economic havoc",
+          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-08T14:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "106ef5d16d6ed92c5d755a079b47783d0fe13874",
+          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
+          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:17.292000Z"
+        },
+        {
+          "id": "66365d6f39117065c0bad43f45f9ba5124b98e6c",
+          "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。 / DARPA wants AI to find hidden flaws in digital markets that adversaries could exploit to wreak economic havoc",
+          "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-08T14:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9508,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T14:00:01Z",
+      "latest_at": "2026-11-08T20:56:17.292000Z",
+      "primary_item": {
+        "id": "106ef5d16d6ed92c5d755a079b47783d0fe13874",
+        "title": "美国国防高级研究计划局（DARPA）希望借助人工智能发现数字市场中隐藏的漏洞，这些漏洞可能被对手利用来造成经济破坏。",
+        "url": "https://www.businessinsider.com/darpa-wants-to-find-weak-points-digital-markets-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d8ba3532e1ff",
+      "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "primary_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T18:43:07Z"
+        },
+        {
+          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://news.ycombinator.com/item?id=50415817",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T18:43:07Z"
         }
       ],
       "source_count": 2,
@@ -302,47 +833,47 @@
       ],
       "items": [
         {
-          "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
-          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
-          "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T19:37:42Z"
+          "published_at": "2026-11-08T18:43:07Z"
         },
         {
-          "id": "3789f0677926e9e5fd2bedeeb772b2676776581c",
-          "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
-          "url": "https://news.ycombinator.com/item?id=50416363",
+          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
+          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+          "url": "https://news.ycombinator.com/item?id=50415817",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T19:37:42Z"
+          "published_at": "2026-11-08T18:43:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9814,
+        "recency": 0.9208,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T19:37:42Z",
-      "latest_at": "2026-11-08T19:37:42Z",
+      "earliest_at": "2026-11-08T18:43:07Z",
+      "latest_at": "2026-11-08T18:43:07Z",
       "primary_item": {
-        "id": "4bf3a5f895b78c58cc6a50ad4dbfc47499168349",
-        "title": "我如何对抗人工智能脑残 / How I Fight AI Brain Fry",
-        "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+        "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
+        "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -401,15 +932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9438,
+        "recency": 0.8973,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -427,80 +958,80 @@
       }
     },
     {
-      "story_id": "story_d4758dafd35c",
-      "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
-      "primary_url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "story_id": "story_34520e7f743e",
+      "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
+      "primary_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
-          "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-08T12:41:25Z"
+          "published_at": "2026-11-08T15:19:51Z"
         },
         {
-          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
-          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
-          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T11:28:32.102000Z"
+          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://news.ycombinator.com/item?id=50414021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T15:19:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "www.ft.com"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
-          "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-08T12:41:25Z"
+          "published_at": "2026-11-08T15:19:51Z"
         },
         {
-          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
-          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
-          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-08T11:28:32.102000Z"
+          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
+          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+          "url": "https://news.ycombinator.com/item?id=50414021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-08T15:19:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8878,
+        "recency": 0.8769,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T11:28:32.102000Z",
-      "latest_at": "2026-11-08T12:41:25Z",
+      "earliest_at": "2026-11-08T15:19:51Z",
+      "latest_at": "2026-11-08T15:19:51Z",
       "primary_item": {
-        "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
-        "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
-        "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+        "id": "82f759ae935b822f6c2f6d7383c41bb4d8db3b6e",
+        "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
+        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -559,15 +1090,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5217,
-      "importance": 0.5217,
-      "importance_score": 0.5217,
+      "score": 0.514,
+      "importance": 0.514,
+      "importance_score": 0.514,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8659,
+        "recency": 0.8233,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -585,30 +1116,109 @@
       }
     },
     {
-      "story_id": "story_d8ba3532e1ff",
-      "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-      "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
-      "primary_url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+      "story_id": "story_831a9fbe986d",
+      "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
+      "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+      "primary_url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+      "source": "lobste.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3041fae439ea0d17c0dd2d8d6f4f77d0781c03da",
+          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
+          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:15.158000Z"
+        },
+        {
+          "id": "be8fb2c5e9e0b5c4e2532b6749aa106989a4678a",
+          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？ / Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T16:36:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "lobste.rs"
+      ],
+      "items": [
+        {
+          "id": "3041fae439ea0d17c0dd2d8d6f4f77d0781c03da",
+          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
+          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+          "source": "lobste.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-08T20:56:15.158000Z"
+        },
+        {
+          "id": "be8fb2c5e9e0b5c4e2532b6749aa106989a4678a",
+          "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？ / Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+          "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-08T16:36:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9508,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-08T16:36:17Z",
+      "latest_at": "2026-11-08T20:56:15.158000Z",
+      "primary_item": {
+        "id": "3041fae439ea0d17c0dd2d8d6f4f77d0781c03da",
+        "title": "谁愿意通过众包方式，利用大型语言模型（LLM）对提交至Lobste.rs的文章进行扫描？",
+        "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+        "source": "lobste.rs",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a78801b83036",
+      "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
-          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T18:43:07Z"
+          "published_at": "2026-11-08T18:16:07Z"
         },
         {
-          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
-          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "url": "https://news.ycombinator.com/item?id=50415817",
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回克劳德·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://news.ycombinator.com/item?id=50415628",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T18:43:07Z"
+          "published_at": "2026-11-08T18:16:07Z"
         }
       ],
       "source_count": 2,
@@ -618,47 +1228,47 @@
       ],
       "items": [
         {
-          "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
-          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+          "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-08T18:43:07Z"
+          "published_at": "2026-11-08T18:16:07Z"
         },
         {
-          "id": "94e3bc16650cf0dc95de7f225a04e2a48115d8f1",
-          "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-          "url": "https://news.ycombinator.com/item?id=50415817",
+          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
+          "title": "高盛 (Goldman Sachs) 正在从其银行家和交易员手中撤回克劳德·科德 (Claude Code) / Goldman Sachs is pulling Claude Code from its bankers and traders",
+          "url": "https://news.ycombinator.com/item?id=50415628",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-08T18:43:07Z"
+          "published_at": "2026-11-08T18:16:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9686,
+        "recency": 0.9149,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-08T18:43:07Z",
-      "latest_at": "2026-11-08T18:43:07Z",
+      "earliest_at": "2026-11-08T18:16:07Z",
+      "latest_at": "2026-11-08T18:16:07Z",
       "primary_item": {
-        "id": "ac3fb92d615a0116d2fe54b9a364e04803e4f33c",
-        "title": "硅谷承诺人工智能将治愈疾病。制药商首席执行官并不买账 / Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
-        "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+        "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
+        "title": "高盛正要求其银行家和交易员停止使用“克劳德代码” / Goldman Sachs is pulling Claude Code from its bankers and traders",
+        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
@@ -716,15 +1326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5062,
-      "importance": 0.5062,
-      "importance_score": 0.5062,
+      "score": 0.4993,
+      "importance": 0.4993,
+      "importance_score": 0.4993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7801,
+        "recency": 0.7417,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -742,240 +1352,82 @@
       }
     },
     {
-      "story_id": "story_5186d80b7eef",
-      "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "primary_url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "source": "apiiro.com",
-      "source_name": "Buzzing",
+      "story_id": "story_d4758dafd35c",
+      "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+      "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "primary_url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "1513613c40ea8527528953578f44a089b0b5f552",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "apiiro.com",
+          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
+          "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:41:25Z"
+        },
+        {
+          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
+          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+          "source": "www.ft.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T00:06:44.743000Z"
-        },
-        {
-          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-08T11:28:32.102000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "apiiro.com"
+        "Hacker News · 24h最热",
+        "www.ft.com"
       ],
       "items": [
         {
-          "id": "1513613c40ea8527528953578f44a089b0b5f552",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "apiiro.com",
+          "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
+          "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-08T12:41:25Z"
+        },
+        {
+          "id": "fb5554a8f926d61d9e944ee3ac6cb0bc0df0b9b1",
+          "title": "Anthropic达成34亿美元协议，为数据中心提供燃气发电服务",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0?syn-25a6b1a6=1",
+          "source": "www.ft.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-08T00:06:44.743000Z"
-        },
-        {
-          "id": "6c84d010e4ca8e7820bec6dedde8ac53d459e1a4",
-          "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码 / Claude Code「Don't Ask Again」exposes passwords in 1,122 public GitHub files",
-          "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-08T11:28:32.102000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7404,
+        "recency": 0.8441,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-07T23:45:08.507495Z",
-      "latest_at": "2026-11-08T00:06:44.743000Z",
+      "earliest_at": "2026-11-08T11:28:32.102000Z",
+      "latest_at": "2026-11-08T12:41:25Z",
       "primary_item": {
-        "id": "1513613c40ea8527528953578f44a089b0b5f552",
-        "title": "克劳德·科德（Claude Code）的“Don't Ask Again”在1,122个公开的GitHub文件中泄露了密码",
-        "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-        "source": "apiiro.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a78801b83036",
-      "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "primary_url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T18:16:07Z"
-        },
-        {
-          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
-          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-          "url": "https://news.ycombinator.com/item?id=50415628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T18:16:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-          "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T18:16:07Z"
-        },
-        {
-          "id": "d43187dd7d10a43e740ccb7780157d9b32d5fd36",
-          "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-          "url": "https://news.ycombinator.com/item?id=50415628",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T18:16:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9623,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T18:16:07Z",
-      "latest_at": "2026-11-08T18:16:07Z",
-      "primary_item": {
-        "id": "543853c01c55526a97053ae6fa8b176ab7f4fb01",
-        "title": "高盛正在从其银行家和交易员那里撤回克劳德代码 / Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-        "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_885bc368b079",
-      "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-      "url": "https://www.ithome.com/1/023/849.htm",
-      "primary_url": "https://www.ithome.com/1/023/849.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
-          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
-          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T00:05:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
-          "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "be22e34e878a61144e96d87397631f8dd1fcdd42",
-          "title": "索尼全球首发“基于视觉语言模型的驾驶接管危险预警”，为驾驶员提供分级提示",
-          "url": "https://www.ithome.com/1/023/849.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T00:05:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7808,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T00:05:52Z",
-      "latest_at": "2026-11-08T03:47:39.606636Z",
-      "primary_item": {
-        "id": "64fc80297c08c2b871612ce5cb851a56343d5fef",
-        "title": "索尼全球首发「基于视觉语言模型的驾驶接管危险预警」，为驾驶员提供分级提示",
-        "url": "https://www.ithome.com/1/023/849.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "846adb95bbc4db3d6c71fe87aa8a545013f6ed44",
+        "title": "Anthropic 达成 3.4B 美元协议，为数据中心提供燃气发电 / Anthropic strikes $3.4B deal to generate gas-fired power for data centres",
+        "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1032,15 +1484,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5063,
-      "importance": 0.5063,
-      "importance_score": 0.5063,
+      "score": 0.4994,
+      "importance": 0.4994,
+      "importance_score": 0.4994,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7808,
+        "recency": 0.7423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1055,243 +1507,6 @@
         "url": "https://www.huxiu.com/article/4903879.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_34520e7f743e",
-      "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "primary_url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T15:19:51Z"
-        },
-        {
-          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "url": "https://news.ycombinator.com/item?id=50414021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T15:19:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T15:19:51Z"
-        },
-        {
-          "id": "cc0841b99a64136605260a310d986b8891ec5b06",
-          "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-          "url": "https://news.ycombinator.com/item?id=50414021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T15:19:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9223,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T15:19:51Z",
-      "latest_at": "2026-11-08T15:19:51Z",
-      "primary_item": {
-        "id": "b64bb5b5e0b62f4b86c854df0bdcf52a874ad062",
-        "title": "苹果首席执行官敦促软件主管推行更雄心勃勃的人工智能战略 / Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy",
-        "url": "https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_1d660dc4ea7a",
-      "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-      "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "primary_url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T14:49:23Z"
-        },
-        {
-          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "url": "https://news.ycombinator.com/item?id=50413822",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e8b759987beb87bd3466b92e2d30369720d12097",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T14:49:23Z"
-        },
-        {
-          "id": "7367874c294b3660d9d6b2e429d8694a2a496026",
-          "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-          "url": "https://news.ycombinator.com/item?id=50413822",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T14:49:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5306,
-      "importance": 0.5306,
-      "importance_score": 0.5306,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9156,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T14:49:23Z",
-      "latest_at": "2026-11-08T14:49:23Z",
-      "primary_item": {
-        "id": "e8b759987beb87bd3466b92e2d30369720d12097",
-        "title": "OpenAI 以 1.25T 估值筹集 11B 美元 / OpenAI raises $11B at a $1.25T valuation",
-        "url": "https://247wallst.com/investing/2026/11/07/openai-just-raised-11-billion-at-a-1-25-trillion-valuation-below-the-1-4-trillion-it-first-sought",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_5e9d3fd0e59c",
-      "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "primary_url": "https://github.com/synchopate/llama-modchip",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
-        },
-        {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://news.ycombinator.com/item?id=50411961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://github.com/synchopate/llama-modchip",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-08T10:22:04Z"
-        },
-        {
-          "id": "8f04bec23a1edb9e9568e499ff9df6c3d73d5fbe",
-          "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-          "url": "https://news.ycombinator.com/item?id=50411961",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-08T10:22:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8585,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-08T10:22:04Z",
-      "latest_at": "2026-11-08T10:22:04Z",
-      "primary_item": {
-        "id": "2ba0fcca3e7491ed3e816b3f261ef6abeda25eda",
-        "title": "Llama-modchip：64GB RAM 上的 284B DeepSeek，无 GPU / Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-        "url": "https://github.com/synchopate/llama-modchip",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1348,15 +1563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.4983,
+      "importance": 0.4983,
+      "importance_score": 0.4983,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7741,
+        "recency": 0.7359,
         "story_heat": 0.25
       },
       "category": "watch",
