@@ -1,52 +1,134 @@
 {
-  "generated_at": "2026-11-10T07:56:05.800958Z",
+  "generated_at": "2026-11-10T16:01:28.576874Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_057e22ab69c0",
-      "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "source": "Hugging Face Blog",
+      "story_id": "story_f8c1a7370c13",
+      "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "primary_url": "https://deepmind.google/blog/introducing-alphaproof-code",
+      "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
-          "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-          "source": "Hugging Face Blog",
+          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+          "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T15:05:57Z"
+          "published_at": "2026-11-10T12:02:28Z"
+        },
+        {
+          "id": "1aa5a410901b2fb1ab7ac790c14001d5c3c5465c",
+          "title": "AlphaProof 代码 / AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T12:11:12Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "Google DeepMind",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
-          "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-          "source": "Hugging Face Blog",
+          "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+          "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T15:05:57Z"
+          "published_at": "2026-11-10T12:02:28Z"
+        },
+        {
+          "id": "1aa5a410901b2fb1ab7ac790c14001d5c3c5465c",
+          "title": "AlphaProof 代码 / AlphaProof Code",
+          "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T12:11:12Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8312,
-      "importance": 0.8312,
-      "importance_score": 0.8312,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8589,
+      "importance": 0.8589,
+      "importance_score": 0.8589,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7842,
+        "ai_relevance": 0.87,
+        "recency": 0.9441,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T12:02:28Z",
+      "latest_at": "2026-11-10T12:11:12Z",
+      "primary_item": {
+        "id": "2ba91228e6f3978ba389f4bd92a40873088c236d",
+        "title": "AlphaProof 代码 / Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+        "url": "https://deepmind.google/blog/introducing-alphaproof-code",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_02e4a20d191a",
+      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9573,
         "story_heat": 0.0
       },
       "category": "official",
@@ -55,32 +137,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T15:05:57Z",
-      "latest_at": "2026-11-09T15:05:57Z",
+      "earliest_at": "2026-11-10T13:00:00Z",
+      "latest_at": "2026-11-10T13:00:00Z",
       "primary_item": {
-        "id": "54170f7bc75122eecdc2fce6ca02f61da42c8503",
-        "title": "Nemotron-Personas-Finance-Japan：捕捉日本人口统计和金融背景的综合数据集 / Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-        "source": "Hugging Face Blog",
+        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_9c331579e229",
-      "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "story_id": "story_46ecb159c153",
+      "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "primary_url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T19:00:00Z"
+          "published_at": "2026-11-10T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -89,26 +171,26 @@
       ],
       "items": [
         {
-          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+          "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+          "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+          "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T19:00:00Z"
+          "published_at": "2026-11-10T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8296,
+        "ai_relevance": 0.91,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,13 +199,404 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T19:00:00Z",
-      "latest_at": "2026-11-09T19:00:00Z",
+      "earliest_at": "2026-11-10T12:00:00Z",
+      "latest_at": "2026-11-10T12:00:00Z",
       "primary_item": {
-        "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
-        "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
-        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+        "id": "2a40a3a6bcc6f0286054e56d6df9a7b022559411",
+        "title": "帮助护理人员在日常生活中使用人工智能 / Helping caregivers use AI in everyday life",
+        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b7cb9f6e5192",
+      "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
+      "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+          "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
+          "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:20:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9759,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:20:05Z",
+      "latest_at": "2026-11-10T14:20:05Z",
+      "primary_item": {
+        "id": "18951e96f6f52400f4525f7a1370d2988b63ff87",
+        "title": "Dependabot 警报将在不活动的存储库上暂停 / Dependabot alerts will pause on inactive repositories",
+        "url": "https://github.blog/changelog/2026-11-10-dependabot-alerts-will-pause-on-inactive-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3229de0d9192",
+      "title": "拥抱决策模型 / Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "primary_url": "https://huggingface.co/blog/decision",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2aa75c357740c94768091126824fe0a964128bf5",
+          "title": "拥抱决策模型 / Decision Models in Hugging Face",
+          "url": "https://huggingface.co/blog/decision",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2aa75c357740c94768091126824fe0a964128bf5",
+          "title": "拥抱决策模型 / Decision Models in Hugging Face",
+          "url": "https://huggingface.co/blog/decision",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7934,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T00:00:00Z",
+      "latest_at": "2026-11-10T00:00:00Z",
+      "primary_item": {
+        "id": "2aa75c357740c94768091126824fe0a964128bf5",
+        "title": "拥抱决策模型 / Decision Models in Hugging Face",
+        "url": "https://huggingface.co/blog/decision",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_66ed14c6418f",
+      "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "primary_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9712,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:00:00Z",
+      "latest_at": "2026-11-10T14:00:00Z",
+      "primary_item": {
+        "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+        "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_01a8528fa117",
+      "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "primary_url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
+          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T09:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
+          "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
+          "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T09:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8346,
+      "importance": 0.8346,
+      "importance_score": 0.8346,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9035,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T09:00:00Z",
+      "latest_at": "2026-11-10T09:00:00Z",
+      "primary_item": {
+        "id": "2118e9e25c18dc3d5272a11c0032e68c32791871",
+        "title": "缩小人工智能在教育指导方面的差距 / Closing the AI guidance gap in education",
+        "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_272ac6dac162",
+      "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
+      "url": "https://www.aibase.com/news/32215",
+      "primary_url": "https://www.aibase.com/news/32215",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
+          "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
+          "url": "https://www.aibase.com/news/32215",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T16:01:28.576874Z"
+        },
+        {
+          "id": "e59e92445221bfcf3aa3048d96a96f8e25466415",
+          "title": "谷歌给 Gemini 装「删除键」：AI 记住的隐私，现在你能看能改能删",
+          "url": "https://www.aibase.com/zh/news/32215",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
+          "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
+          "url": "https://www.aibase.com/news/32215",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-10T16:01:28.576874Z"
+        },
+        {
+          "id": "e59e92445221bfcf3aa3048d96a96f8e25466415",
+          "title": "谷歌给 Gemini 装「删除键」：AI 记住的隐私，现在你能看能改能删",
+          "url": "https://www.aibase.com/zh/news/32215",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T16:01:28.576874Z",
+      "latest_at": "2026-11-10T16:01:28.576874Z",
+      "primary_item": {
+        "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
+        "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
+        "url": "https://www.aibase.com/news/32215",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7da1b2b4758f",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "primary_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "798822270fdec7fd185863f89fd0c703c44e5310",
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:51:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "798822270fdec7fd185863f89fd0c703c44e5310",
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:51:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.97,
+        "recency": 0.7474,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T19:51:47Z",
+      "latest_at": "2026-11-09T19:51:47Z",
+      "primary_item": {
+        "id": "798822270fdec7fd185863f89fd0c703c44e5310",
+        "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +635,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8087,
+      "importance": 0.8087,
+      "importance_score": 0.8087,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8034,
+        "recency": 0.7148,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,6 +659,68 @@
         "title": "GitHub Copilot 中的克劳德寓言 5.2 / Claude Fable 5.2 in GitHub Copilot",
         "url": "https://github.blog/changelog/2026-11-09-claude-fable-5-2-in-github-copilot",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3588ceed4155",
+      "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "primary_url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
+          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
+          "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
+          "url": "https://openai.com/index/ai-effect-on-freelance-work",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8778,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T07:00:00Z",
+      "latest_at": "2026-11-10T07:00:00Z",
+      "primary_item": {
+        "id": "10fe2a7ba9b78b25b420ae38577ae9a8daf081dd",
+        "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
+        "url": "https://openai.com/index/ai-effect-on-freelance-work",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -243,15 +778,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8897,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -271,83 +806,21 @@
       }
     },
     {
-      "story_id": "story_7b1451fc786c",
-      "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "primary_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
-          "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
-          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T12:34:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
-          "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
-          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T12:34:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7561,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T12:34:29Z",
-      "latest_at": "2026-11-09T12:34:29Z",
-      "primary_item": {
-        "id": "5efec1cd5bcd76249e5afb10fa5d26a1e3bcf316",
-        "title": "您的专家有合作伙伴。让他们在一起是有希望的 / Your Experts Have Partners. There's HOPE for Keeping Them Together",
-        "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f37b680abcf7",
-      "title": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "primary_url": "https://openai.com/index/control-room",
+      "story_id": "story_9c331579e229",
+      "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "primary_url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
-          "title": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure",
-          "url": "https://openai.com/index/control-room",
+          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T13:00:00Z"
+          "published_at": "2026-11-09T19:00:00Z"
         }
       ],
       "source_count": 1,
@@ -356,26 +829,26 @@
       ],
       "items": [
         {
-          "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
-          "title": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure",
-          "url": "https://openai.com/index/control-room",
+          "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+          "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+          "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-09T13:00:00Z"
+          "published_at": "2026-11-09T19:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8129,
+      "importance": 0.8129,
+      "importance_score": 0.8129,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7608,
+        "ai_relevance": 0.95,
+        "recency": 0.7382,
         "story_heat": 0.0
       },
       "category": "official",
@@ -384,75 +857,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T13:00:00Z",
-      "latest_at": "2026-11-09T13:00:00Z",
+      "earliest_at": "2026-11-09T19:00:00Z",
+      "latest_at": "2026-11-09T19:00:00Z",
       "primary_item": {
-        "id": "9f7666cac7c829e5dc72760195dcbf2eded8d707",
-        "title": "控制室：一个中央系统，用于跟踪和停止我们研究基础设施中的模型工作负载 / Control Room: A central system to track and stop model workloads across our research infrastructure",
-        "url": "https://openai.com/index/control-room",
+        "id": "b5b74182ef3bc39bd7477591301a2b995f9e5645",
+        "title": "ChatGPT Enterprise 现已在 AWS Marketplace 中提供 / ChatGPT Enterprise now available in AWS Marketplace",
+        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_06e2b9999d4d",
-      "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
-      "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
-      "primary_url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
-          "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
-          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T09:01:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
-          "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
-          "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T09:01:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7183,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T09:01:37Z",
-      "latest_at": "2026-11-09T09:01:37Z",
-      "primary_item": {
-        "id": "54f90d8c719562032e8d44bbc09276f0b94e565f",
-        "title": "秘密扫描检测 GitHub Actions 工作流程日志中的秘密 / Secret scanning detects secrets in GitHub Actions workflow logs",
-        "url": "https://github.blog/changelog/2026-11-09-secret-scanning-detects-secrets-in-github-actions-workflow-logs",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -510,15 +921,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8897,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -535,68 +946,6 @@
         "url": "https://www.aibase.com/news/32207",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_23b94c697622",
-      "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "primary_url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
-          "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
-          "url": "https://openai.com/index/coderabbit-codex-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T08:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
-          "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
-          "url": "https://openai.com/index/coderabbit-codex-daybreak",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T08:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7078,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T08:00:00Z",
-      "latest_at": "2026-11-09T08:00:00Z",
-      "primary_item": {
-        "id": "54b42c0d20e87c61af841220ddb1ed55ddfaccc3",
-        "title": "CodeRabbit 扩展了代理软件开发并将交付量增加了 20 倍 / CodeRabbit scales agentic software development and ships 20x more",
-        "url": "https://openai.com/index/coderabbit-codex-daybreak",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -653,15 +1002,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8897,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -678,68 +1027,6 @@
         "url": "https://www.aibase.com/news/32210",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_932fe34bad72",
-      "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "primary_url": "https://openai.com/index/kuken",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-          "url": "https://openai.com/index/kuken",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T08:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-          "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-          "url": "https://openai.com/index/kuken",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-09T08:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7078,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T08:00:00Z",
-      "latest_at": "2026-11-09T08:00:00Z",
-      "primary_item": {
-        "id": "976f5c8f16a92005f0e52d5133ef3b494aa2232d",
-        "title": "Kuken Industries 在几分钟内搜索 70 年的图纸 / Kuken Industries searches 70 years of drawings in minutes",
-        "url": "https://openai.com/index/kuken",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -796,15 +1083,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8897,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -877,15 +1164,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8897,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -900,87 +1187,6 @@
         "id": "3ac3e254c5f1ab70e8ebeab8ee39b20f8f5768af",
         "title": "美团开源LongCat-2.5，长序列SFT单卡吞吐较DDP提升86%",
         "url": "https://www.aibase.com/news/32206",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_23d08a82f0bc",
-      "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
-      "url": "https://www.aibase.com/news/32198",
-      "primary_url": "https://www.aibase.com/news/32198",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
-          "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
-          "url": "https://www.aibase.com/news/32198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
-        },
-        {
-          "id": "d70b2bc0aa65a562a6d2c05f4a90268d13016fc7",
-          "title": "迪士尼携手 Adobe 开发专属 AI 模型，布局主题公园、影视及体育业务",
-          "url": "https://www.aibase.com/zh/news/32198",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
-          "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
-          "url": "https://www.aibase.com/news/32198",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
-        },
-        {
-          "id": "d70b2bc0aa65a562a6d2c05f4a90268d13016fc7",
-          "title": "迪士尼携手 Adobe 开发专属 AI 模型，布局主题公园、影视及体育业务",
-          "url": "https://www.aibase.com/zh/news/32198",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T07:56:05.800958Z",
-      "latest_at": "2026-11-10T07:56:05.800958Z",
-      "primary_item": {
-        "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
-        "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
-        "url": "https://www.aibase.com/news/32198",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1092,15 +1298,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6348,
-      "importance": 0.6348,
-      "importance_score": 0.6348,
+      "score": 0.6188,
+      "importance": 0.6188,
+      "importance_score": 0.6188,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.809,
+        "recency": 0.7198,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1115,87 +1321,6 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-09",
         "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_2263b6819550",
-      "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
-      "url": "https://www.aibase.com/news/32203",
-      "primary_url": "https://www.aibase.com/news/32203",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bb38cf7bdfb0a1dc265dfe6110e1430a8ab75198",
-          "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
-          "url": "https://www.aibase.com/news/32203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
-        },
-        {
-          "id": "8eb412067c673f2aeedaf33c94e6b794fbfd9842",
-          "title": "通用大脑能力再提升，蚂蚁灵波发布 LingBot-Touch 触觉基础模型",
-          "url": "https://www.aibase.com/zh/news/32203",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "bb38cf7bdfb0a1dc265dfe6110e1430a8ab75198",
-          "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
-          "url": "https://www.aibase.com/news/32203",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
-        },
-        {
-          "id": "8eb412067c673f2aeedaf33c94e6b794fbfd9842",
-          "title": "通用大脑能力再提升，蚂蚁灵波发布 LingBot-Touch 触觉基础模型",
-          "url": "https://www.aibase.com/zh/news/32203",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T07:56:05.800958Z",
-      "latest_at": "2026-11-10T07:56:05.800958Z",
-      "primary_item": {
-        "id": "bb38cf7bdfb0a1dc265dfe6110e1430a8ab75198",
-        "title": "通用大脑能力再提升，蚂蚁灵波发布LingBot-Touch触觉基础模型",
-        "url": "https://www.aibase.com/news/32203",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1252,15 +1377,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6098,
-      "importance": 0.6098,
-      "importance_score": 0.6098,
+      "score": 0.5933,
+      "importance": 0.5933,
+      "importance_score": 0.5933,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8296,
+        "recency": 0.7382,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1278,239 +1403,82 @@
       }
     },
     {
-      "story_id": "story_baaf713b11e3",
-      "title": "追踪神秘哔声的来源 / Locating the source of a mysterious beep with Claude",
-      "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps",
-      "primary_url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps",
-      "source": "Simon Willison",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "eecc57cf89b0b62782ae76cc1da17b6cfcadf1b7",
-          "title": "追踪神秘哔声的来源 / Locating the source of a mysterious beep with Claude",
-          "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T23:57:21Z"
-        },
-        {
-          "id": "2b3c5ee4c5d4900eb4b9b246a33383ce4508f34d",
-          "title": "追踪神秘哔声的来源 / Locating the source of a mysterious beep",
-          "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T00:10:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Simon Willison"
-      ],
-      "items": [
-        {
-          "id": "eecc57cf89b0b62782ae76cc1da17b6cfcadf1b7",
-          "title": "追踪神秘哔声的来源 / Locating the source of a mysterious beep with Claude",
-          "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-09T23:57:21Z"
-        },
-        {
-          "id": "2b3c5ee4c5d4900eb4b9b246a33383ce4508f34d",
-          "title": "追踪神秘哔声的来源 / Locating the source of a mysterious beep",
-          "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-10T00:10:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5908,
-      "importance": 0.5908,
-      "importance_score": 0.5908,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8912,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T23:57:21Z",
-      "latest_at": "2026-11-10T00:10:46Z",
-      "primary_item": {
-        "id": "eecc57cf89b0b62782ae76cc1da17b6cfcadf1b7",
-        "title": "追踪神秘哔声的来源 / Locating the source of a mysterious beep with Claude",
-        "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps",
-        "source": "Simon Willison",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_9c5da62bab37",
-      "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-      "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "primary_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-      "source": "www.cnbc.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "91b4831abd59b203769c1ad89631d7705fd002d2",
-          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "source": "www.cnbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-10T06:58:50.689000Z"
-        },
-        {
-          "id": "6dfc43d849be8628e06743e4965c845f547a3e77",
-          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16% / CoreWeave bond yield tops 16% as AI credit stress rises",
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-10T03:20:06Z"
-        },
-        {
-          "id": "f5fb61091a926ffd6345e016e005682dde81a8f1",
-          "title": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16% / CoreWeave bond yield tops 16% as AI credit stress rises",
-          "url": "https://news.ycombinator.com/item?id=50435660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-10T03:20:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.cnbc.com"
-      ],
-      "items": [
-        {
-          "id": "91b4831abd59b203769c1ad89631d7705fd002d2",
-          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "source": "www.cnbc.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-10T06:58:50.689000Z"
-        },
-        {
-          "id": "6dfc43d849be8628e06743e4965c845f547a3e77",
-          "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16% / CoreWeave bond yield tops 16% as AI credit stress rises",
-          "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-10T03:20:06Z"
-        },
-        {
-          "id": "f5fb61091a926ffd6345e016e005682dde81a8f1",
-          "title": "随着人工智能信贷压力上升，CoreWeave 债券收益率突破 16% / CoreWeave bond yield tops 16% as AI credit stress rises",
-          "url": "https://news.ycombinator.com/item?id=50435660",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-10T03:20:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5683,
-      "importance": 0.5683,
-      "importance_score": 0.5683,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9863,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-10T03:20:06Z",
-      "latest_at": "2026-11-10T06:58:50.689000Z",
-      "primary_item": {
-        "id": "91b4831abd59b203769c1ad89631d7705fd002d2",
-        "title": "随着人工智能引发的信贷压力加剧，CoreWeave债券收益率突破16%",
-        "url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
-        "source": "www.cnbc.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_745840ac55f6",
-      "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-      "url": "https://www.aibase.com/news/32193",
-      "primary_url": "https://www.aibase.com/news/32193",
+      "story_id": "story_23d08a82f0bc",
+      "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+      "url": "https://www.aibase.com/news/32198",
+      "primary_url": "https://www.aibase.com/news/32198",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
-          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-          "url": "https://www.aibase.com/news/32193",
+          "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
+          "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/news/32198",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-10T07:56:05.800958Z"
+        },
+        {
+          "id": "d70b2bc0aa65a562a6d2c05f4a90268d13016fc7",
+          "title": "迪士尼携手 Adobe 开发专属 AI 模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/zh/news/32198",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
-          "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-          "url": "https://www.aibase.com/news/32193",
+          "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
+          "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/news/32198",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-10T07:56:05.800958Z"
+        },
+        {
+          "id": "d70b2bc0aa65a562a6d2c05f4a90268d13016fc7",
+          "title": "迪士尼携手 Adobe 开发专属 AI 模型，布局主题公园、影视及体育业务",
+          "url": "https://www.aibase.com/zh/news/32198",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8897,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-10T07:56:05.800958Z",
       "latest_at": "2026-11-10T07:56:05.800958Z",
       "primary_item": {
-        "id": "818d4dd04644a1a7ed1e169db1ad1949ef82e162",
-        "title": "Anthropic 发布 Fable / Mythos 新版：支持超千个智能体协同，多项硬核性能大升级",
-        "url": "https://www.aibase.com/news/32193",
+        "id": "c6e4392ccf141cd1cb41d11fbb50cb9c8058cc00",
+        "title": "迪士尼携手Adobe开发专属AI模型，布局主题公园、影视及体育业务",
+        "url": "https://www.aibase.com/news/32198",
         "source": "AIbase",
         "source_name": "AIbase"
       }
