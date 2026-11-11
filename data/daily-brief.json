@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T21:52:13.024053Z",
+  "generated_at": "2026-11-11T01:38:21.100910Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -76,15 +76,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8875,
-      "importance": 0.8875,
-      "importance_score": 0.8875,
+      "score": 0.8788,
+      "importance": 0.8788,
+      "importance_score": 0.8788,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9196,
+        "recency": 0.8709,
         "story_heat": 0.5
       },
       "category": "official",
@@ -129,10 +129,20 @@
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "17515df339b0007fe180b131a39f23e42fe67482",
+          "title": "ChatGPT 推出 Businesses 功能 / Businesses in ChatGPT – OpenAI",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T18:10:40Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News · 24h最热",
         "OpenAI News",
         "Readhub · AI"
       ],
@@ -154,20 +164,29 @@
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
+        },
+        {
+          "id": "17515df339b0007fe180b131a39f23e42fe67482",
+          "title": "ChatGPT 推出 Businesses 功能 / Businesses in ChatGPT – OpenAI",
+          "url": "https://openai.com/index/introducing-businesses-chatgpt",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-10T18:10:40Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8736,
+      "importance": 0.8736,
+      "importance_score": 0.8736,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8425,
-        "story_heat": 0.25
+        "recency": 0.7978,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -187,21 +206,21 @@
       }
     },
     {
-      "story_id": "story_0fe8b882dbb9",
-      "title": "GitHub Copilot 中的 Gemini 4 Carbon / Gemini 4 Carbon in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "story_id": "story_871ae47d300c",
+      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1bd788375c49e28109adc857f73168083f54024c",
-          "title": "GitHub Copilot 中的 Gemini 4 Carbon / Gemini 4 Carbon in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T19:26:51Z"
+          "published_at": "2026-11-11T00:10:31Z"
         }
       ],
       "source_count": 1,
@@ -210,26 +229,26 @@
       ],
       "items": [
         {
-          "id": "1bd788375c49e28109adc857f73168083f54024c",
-          "title": "GitHub Copilot 中的 Gemini 4 Carbon / Gemini 4 Carbon in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T19:26:51Z"
+          "published_at": "2026-11-11T00:10:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8538,
-      "importance": 0.8538,
-      "importance_score": 0.8538,
+      "score": 0.8482,
+      "importance": 0.8482,
+      "importance_score": 0.8482,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9656,
+        "ai_relevance": 0.91,
+        "recency": 0.9791,
         "story_heat": 0.0
       },
       "category": "official",
@@ -238,12 +257,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T19:26:51Z",
-      "latest_at": "2026-11-10T19:26:51Z",
+      "earliest_at": "2026-11-11T00:10:31Z",
+      "latest_at": "2026-11-11T00:10:31Z",
       "primary_item": {
-        "id": "1bd788375c49e28109adc857f73168083f54024c",
-        "title": "GitHub Copilot 中的 Gemini 4 Carbon / Gemini 4 Carbon in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
+        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -283,15 +302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8355,
+      "importance": 0.8355,
+      "importance_score": 0.8355,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9594,
+        "recency": 0.9086,
         "story_heat": 0.0
       },
       "category": "official",
@@ -311,49 +330,49 @@
       }
     },
     {
-      "story_id": "story_724fae925148",
-      "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "primary_url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "source": "Hugging Face Blog",
+      "story_id": "story_f28f90d2895a",
+      "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-          "source": "Hugging Face Blog",
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z"
+          "published_at": "2026-11-12T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-          "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-          "source": "Hugging Face Blog",
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z"
+          "published_at": "2026-11-12T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7292,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "official",
@@ -362,60 +381,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T00:00:00Z",
-      "latest_at": "2026-11-10T00:00:00Z",
+      "earliest_at": "2026-11-12T00:00:00Z",
+      "latest_at": "2026-11-12T00:00:00Z",
       "primary_item": {
-        "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
-        "title": "使用您的 Google Cloud 帐户支付 Hugging Face Hub 费用 / Pay for Hugging Face Hub with your Google Cloud Account",
-        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-        "source": "Hugging Face Blog",
+        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+        "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.167.1 / Codex CLI 0.167.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
+      "story_id": "story_0fe8b882dbb9",
+      "title": "GitHub Copilot 中的 Gemini 4 Carbon / Gemini 4 Carbon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
-          "title": "法典 CLI 0.167.1 / Codex CLI 0.167.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "GitHub Copilot 中的 Gemini 4 Carbon / Gemini 4 Carbon in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z"
+          "published_at": "2026-11-10T19:26:51Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
-          "title": "法典 CLI 0.167.1 / Codex CLI 0.167.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "GitHub Copilot 中的 Gemini 4 Carbon / Gemini 4 Carbon in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z"
+          "published_at": "2026-11-10T19:26:51Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8446,
+      "importance": 0.8446,
+      "importance_score": 0.8446,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7292,
+        "ai_relevance": 0.95,
+        "recency": 0.9145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,13 +443,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T00:00:00Z",
-      "latest_at": "2026-11-10T00:00:00Z",
+      "earliest_at": "2026-11-10T19:26:51Z",
+      "latest_at": "2026-11-10T19:26:51Z",
       "primary_item": {
-        "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
-        "title": "法典 CLI 0.167.1 / Codex CLI 0.167.1",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "id": "1bd788375c49e28109adc857f73168083f54024c",
+        "title": "GitHub Copilot 中的 Gemini 4 Carbon / Gemini 4 Carbon in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -488,15 +507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8452,
-      "importance": 0.8452,
-      "importance_score": 0.8452,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8677,
+        "recency": 0.8217,
         "story_heat": 0.25
       },
       "category": "official",
@@ -514,6 +533,149 @@
         "url": "https://deepmind.google/blog/introducing-alphaproof-code",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_02e4a20d191a",
+      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.828,
+      "importance": 0.828,
+      "importance_score": 0.828,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8332,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T13:00:00Z",
+      "latest_at": "2026-11-10T13:00:00Z",
+      "primary_item": {
+        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
+        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
+        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f4676473da85",
+      "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+      "url": "https://www.aibase.com/news/32221",
+      "primary_url": "https://www.aibase.com/news/32221",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
+          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "url": "https://www.aibase.com/news/32221",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:38:21.100910Z"
+        },
+        {
+          "id": "860816bf8b468de3317adbf9a5deabe626e82ffb",
+          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "url": "https://www.aibase.com/zh/news/32221",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
+          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "url": "https://www.aibase.com/news/32221",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:38:21.100910Z"
+        },
+        {
+          "id": "860816bf8b468de3317adbf9a5deabe626e82ffb",
+          "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+          "url": "https://www.aibase.com/zh/news/32221",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T01:38:21.100910Z",
+      "latest_at": "2026-11-11T01:38:21.100910Z",
+      "primary_item": {
+        "id": "7486459e529adf8942fb40a47e88a3682fd0ce5e",
+        "title": "Anthropic 正面宣战微软谷歌：推出 Claude Sheets 与视频通话助手，全面进军智能办公软件领域",
+        "url": "https://www.aibase.com/news/32221",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -570,15 +732,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8422,
-      "importance": 0.8422,
-      "importance_score": 0.8422,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8068,
+        "recency": 0.764,
         "story_heat": 0.25
       },
       "category": "official",
@@ -595,68 +757,6 @@
         "title": "前沿工作：人工智能对自由职业的影响 / Work at the Frontier: AI’s effect on freelance work",
         "url": "https://openai.com/index/ai-effect-on-freelance-work",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_02e4a20d191a",
-      "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "primary_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-          "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-          "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8364,
-      "importance": 0.8364,
-      "importance_score": 0.8364,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8798,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T13:00:00Z",
-      "latest_at": "2026-11-10T13:00:00Z",
-      "primary_item": {
-        "id": "1f1b5bdc92c902de83c6e919f495dc50bb63cb2e",
-        "title": "Google Cloud 推出用于医疗保健的 Gemini。 / Google Cloud launches Gemini for healthcare.",
-        "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -695,15 +795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.933,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -723,88 +823,26 @@
       }
     },
     {
-      "story_id": "story_3229de0d9192",
-      "title": "拥抱决策模型 / Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "primary_url": "https://huggingface.co/blog/decision",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2aa75c357740c94768091126824fe0a964128bf5",
-          "title": "拥抱决策模型 / Decision Models in Hugging Face",
-          "url": "https://huggingface.co/blog/decision",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "2aa75c357740c94768091126824fe0a964128bf5",
-          "title": "拥抱决策模型 / Decision Models in Hugging Face",
-          "url": "https://huggingface.co/blog/decision",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7292,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T00:00:00Z",
-      "latest_at": "2026-11-10T00:00:00Z",
-      "primary_item": {
-        "id": "2aa75c357740c94768091126824fe0a964128bf5",
-        "title": "拥抱决策模型 / Decision Models in Hugging Face",
-        "url": "https://huggingface.co/blog/decision",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_272ac6dac162",
-      "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-      "url": "https://www.aibase.com/news/32215",
-      "primary_url": "https://www.aibase.com/news/32215",
+      "story_id": "story_584d407f7722",
+      "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+      "url": "https://www.aibase.com/news/32220",
+      "primary_url": "https://www.aibase.com/news/32220",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
-          "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "url": "https://www.aibase.com/news/32215",
+          "id": "4c2ab921a287345ea14655841147ba234ee9992d",
+          "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+          "url": "https://www.aibase.com/news/32220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T16:01:28.576874Z"
+          "published_at": "2026-11-11T01:38:21.100910Z"
         },
         {
-          "id": "e59e92445221bfcf3aa3048d96a96f8e25466415",
-          "title": "谷歌给 Gemini 装「删除键」：AI 记住的隐私，现在你能看能改能删",
-          "url": "https://www.aibase.com/zh/news/32215",
+          "id": "f197124f139ba88e93e77421fefae22b7f26f476",
+          "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+          "url": "https://www.aibase.com/zh/news/32220",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -818,18 +856,18 @@
       ],
       "items": [
         {
-          "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
-          "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-          "url": "https://www.aibase.com/news/32215",
+          "id": "4c2ab921a287345ea14655841147ba234ee9992d",
+          "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+          "url": "https://www.aibase.com/news/32220",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-10T16:01:28.576874Z"
+          "published_at": "2026-11-11T01:38:21.100910Z"
         },
         {
-          "id": "e59e92445221bfcf3aa3048d96a96f8e25466415",
-          "title": "谷歌给 Gemini 装「删除键」：AI 记住的隐私，现在你能看能改能删",
-          "url": "https://www.aibase.com/zh/news/32215",
+          "id": "f197124f139ba88e93e77421fefae22b7f26f476",
+          "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+          "url": "https://www.aibase.com/zh/news/32220",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -838,15 +876,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.778,
-      "importance": 0.778,
-      "importance_score": 0.778,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.919,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -855,12 +893,155 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T16:01:28.576874Z",
-      "latest_at": "2026-11-10T16:01:28.576874Z",
+      "earliest_at": "2026-11-11T01:38:21.100910Z",
+      "latest_at": "2026-11-11T01:38:21.100910Z",
       "primary_item": {
-        "id": "d12245bea44bc1d83b011441b3638f8b6579d300",
-        "title": "谷歌给 Gemini 装\"删除键\"：AI 记住的隐私，现在你能看能改能删",
-        "url": "https://www.aibase.com/news/32215",
+        "id": "4c2ab921a287345ea14655841147ba234ee9992d",
+        "title": "Mac 也能当 AI 机房？苹果全资子公司暗测 Harbor，把端侧算力拼成集群",
+        "url": "https://www.aibase.com/news/32220",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_66ed14c6418f",
+      "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "primary_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8453,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T14:00:00Z",
+      "latest_at": "2026-11-10T14:00:00Z",
+      "primary_item": {
+        "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
+        "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6b268d6df8e4",
+      "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+      "url": "https://www.aibase.com/news/32222",
+      "primary_url": "https://www.aibase.com/news/32222",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bb9e0e4b74081d64e1fb59c9121e443e6d49b1b2",
+          "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+          "url": "https://www.aibase.com/news/32222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:38:21.100910Z"
+        },
+        {
+          "id": "7ea94bfff0a1ee4f35d45aaf1ec7896b4a81b4e3",
+          "title": "MiniMax 开源 H3-Image：10 秒生成 16MP 图像，价格仅同档工具 50%–70%",
+          "url": "https://www.aibase.com/zh/news/32222",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bb9e0e4b74081d64e1fb59c9121e443e6d49b1b2",
+          "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+          "url": "https://www.aibase.com/news/32222",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:38:21.100910Z"
+        },
+        {
+          "id": "7ea94bfff0a1ee4f35d45aaf1ec7896b4a81b4e3",
+          "title": "MiniMax 开源 H3-Image：10 秒生成 16MP 图像，价格仅同档工具 50%–70%",
+          "url": "https://www.aibase.com/zh/news/32222",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T01:38:21.100910Z",
+      "latest_at": "2026-11-11T01:38:21.100910Z",
+      "primary_item": {
+        "id": "bb9e0e4b74081d64e1fb59c9121e443e6d49b1b2",
+        "title": "MiniMax开源H3-Image:10秒生成16MP图像，价格仅同档工具50%–70%",
+        "url": "https://www.aibase.com/news/32222",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -900,15 +1081,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8672,
+        "recency": 0.8212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -962,15 +1143,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8254,
-      "importance": 0.8254,
-      "importance_score": 0.8254,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8969,
+        "recency": 0.8494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -990,65 +1171,84 @@
       }
     },
     {
-      "story_id": "story_66ed14c6418f",
-      "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "primary_url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_b9ff0ec3e465",
+      "title": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
+      "url": "https://www.aibase.com/news/32224",
+      "primary_url": "https://www.aibase.com/news/32224",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:00:00Z"
+          "id": "0297adc893fde0ef1c84541d51b5487c2164cc53",
+          "title": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
+          "url": "https://www.aibase.com/news/32224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:38:21.100910Z"
+        },
+        {
+          "id": "a98b377d33cca38d21683e0dbcfa788a3af1fbb0",
+          "title": "OpenAI 收购 AI 旅行初创公司 Odessia，创始人加入团队",
+          "url": "https://www.aibase.com/zh/news/32224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Google AI Blog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-          "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-          "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-10T14:00:00Z"
+          "id": "0297adc893fde0ef1c84541d51b5487c2164cc53",
+          "title": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
+          "url": "https://www.aibase.com/news/32224",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-11T01:38:21.100910Z"
+        },
+        {
+          "id": "a98b377d33cca38d21683e0dbcfa788a3af1fbb0",
+          "title": "OpenAI 收购 AI 旅行初创公司 Odessia，创始人加入团队",
+          "url": "https://www.aibase.com/zh/news/32224",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8247,
-      "importance": 0.8247,
-      "importance_score": 0.8247,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8926,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-10T14:00:00Z",
-      "latest_at": "2026-11-10T14:00:00Z",
+      "earliest_at": "2026-11-11T01:38:21.100910Z",
+      "latest_at": "2026-11-11T01:38:21.100910Z",
       "primary_item": {
-        "id": "626536596ff119aea1ecc48b00fcb8e8eec214e7",
-        "title": "我们正在使 Adob​​e 的创意和生产力工具更接近您的日常 Google 应用程序。 / We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
+        "id": "0297adc893fde0ef1c84541d51b5487c2164cc53",
+        "title": "OpenAI收购AI旅行初创公司Odessia，创始人加入团队",
+        "url": "https://www.aibase.com/news/32224",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1086,15 +1286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8304,
+        "recency": 0.7864,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1111,87 +1311,6 @@
         "url": "https://openai.com/index/closing-ai-guidance-gap-education",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_12a05a996aab",
-      "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-      "url": "https://www.aibase.com/news/32194",
-      "primary_url": "https://www.aibase.com/news/32194",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
-          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-          "url": "https://www.aibase.com/news/32194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
-        },
-        {
-          "id": "7f1c825b6d9176686e106eb0c39dd219af69da03",
-          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-          "url": "https://www.aibase.com/zh/news/32194",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
-          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-          "url": "https://www.aibase.com/news/32194",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
-        },
-        {
-          "id": "7f1c825b6d9176686e106eb0c39dd219af69da03",
-          "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-          "url": "https://www.aibase.com/zh/news/32194",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8177,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T07:56:05.800958Z",
-      "latest_at": "2026-11-10T07:56:05.800958Z",
-      "primary_item": {
-        "id": "cc2015f68ed3caa524c54ad2fedb381f34e9fb07",
-        "title": "Meta 推出轻量主力 Muse Ember：性能持平 Claude 5.5，单次任务成本大降至三分之一",
-        "url": "https://www.aibase.com/news/32194",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1229,15 +1348,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8495,
+        "recency": 0.8045,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1257,165 +1376,153 @@
       }
     },
     {
-      "story_id": "story_ab59b853d8f4",
-      "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
-      "url": "https://www.aibase.com/news/32207",
-      "primary_url": "https://www.aibase.com/news/32207",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2df82173bb28",
+      "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-10",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "17c6c9252c5df5ac69d5c1599efc5e1744183941",
-          "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
-          "url": "https://www.aibase.com/news/32207",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
+          "id": "bfecd76b45b3b8ba9abe0981a5daf7816f721287",
+          "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
         },
         {
-          "id": "47355220bc4f0b212ef5bbeeefb6862fcdb48e2c",
-          "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
-          "url": "https://www.aibase.com/zh/news/32207",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "bf187b40bff373478fa2f5fc455f4e4f5953051e",
+          "title": "MiniMax 开源 H3-Image 图像模型，10秒就能产出4096×4096的4K高清图，兼顾细节真实感、出色指令理解，最多支持16张参考图，而且还是同档位主流工具的5至7折。不管是二次微调的开发者，还是追求高效出图的创作者，都能拿到高性价比的视觉生成方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
+        },
+        {
+          "id": "1fb2cf77f756934d0f9bb0161c43c32efef157ff",
+          "title": "作者在灰度到 GPT-6.2 Sol 后，连跑了代码动画、交互式 3D、网站设计和 AI 剪辑等案例，还放出了成片供大家对照。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
+        },
+        {
+          "id": "611cf806de943f7793ea7d1e9bd3ad797a9f92fb",
+          "title": "作者用豆包里的 Seedream 5.5，给 LLM 推理和后训练画了三张原理图。第一张定稿之后，又在同一个对话里对它连续提了 30 轮修改，每轮改一两处。看看最终生成的效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
+        },
+        {
+          "id": "fbcd0136c7b6f0a33a1d3d66d88bca68e10a94a2",
+          "title": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
+        },
+        {
+          "id": "b4a366110171601f07211cc746d49bd030541736",
+          "title": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 6,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "社区更新 · 2026-11-10"
       ],
       "items": [
         {
-          "id": "17c6c9252c5df5ac69d5c1599efc5e1744183941",
-          "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
-          "url": "https://www.aibase.com/news/32207",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
+          "id": "bfecd76b45b3b8ba9abe0981a5daf7816f721287",
+          "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
         },
         {
-          "id": "47355220bc4f0b212ef5bbeeefb6862fcdb48e2c",
-          "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
-          "url": "https://www.aibase.com/zh/news/32207",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "bf187b40bff373478fa2f5fc455f4e4f5953051e",
+          "title": "MiniMax 开源 H3-Image 图像模型，10秒就能产出4096×4096的4K高清图，兼顾细节真实感、出色指令理解，最多支持16张参考图，而且还是同档位主流工具的5至7折。不管是二次微调的开发者，还是追求高效出图的创作者，都能拿到高性价比的视觉生成方案。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
+        },
+        {
+          "id": "1fb2cf77f756934d0f9bb0161c43c32efef157ff",
+          "title": "作者在灰度到 GPT-6.2 Sol 后，连跑了代码动画、交互式 3D、网站设计和 AI 剪辑等案例，还放出了成片供大家对照。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
+        },
+        {
+          "id": "611cf806de943f7793ea7d1e9bd3ad797a9f92fb",
+          "title": "作者用豆包里的 Seedream 5.5，给 LLM 推理和后训练画了三张原理图。第一张定稿之后，又在同一个对话里对它连续提了 30 轮修改，每轮改一两处。看看最终生成的效果如何！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
+        },
+        {
+          "id": "fbcd0136c7b6f0a33a1d3d66d88bca68e10a94a2",
+          "title": "作者这篇文章把 AI 短剧和电影短片的写法区别细细拆解了下：短剧要让观众想追下一集，短片则要把故事和情绪完整收住。作者从一句话判断选题，到拆分集、排镜头、写台词，用一部 69 集短剧和一部 4 分钟短片带着你完整走一遍，还给到了审稿清单、提示词和剧本 Skill。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
+        },
+        {
+          "id": "b4a366110171601f07211cc746d49bd030541736",
+          "title": "当 Agent 一句话就能写出能跑的代码，工程师还该练什么？斯坦福 CS146S 的老师一边教学生，一边在真实团队部署 Agent，把这个问题带进了开源贡献、维护者审阅和团队协作。一起看看下一代工程师的竞争力到底在哪里！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-10",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-10T21:52:13.024053Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
-      "importance_label": "行业动态",
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6597,
+      "importance": 0.6597,
+      "importance_score": 0.6597,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8177,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.947,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-10T07:56:05.800958Z",
-      "latest_at": "2026-11-10T07:56:05.800958Z",
+      "earliest_at": "2026-11-10T21:52:13.024053Z",
+      "latest_at": "2026-11-10T21:52:13.024053Z",
       "primary_item": {
-        "id": "17c6c9252c5df5ac69d5c1599efc5e1744183941",
-        "title": "个人版 Gemini 关联邮箱与网盘后：部分摘要与敏感内容将面临人工审核",
-        "url": "https://www.aibase.com/news/32207",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_407871b8f2e8",
-      "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-      "url": "https://www.aibase.com/news/32210",
-      "primary_url": "https://www.aibase.com/news/32210",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "97afd50b4ef041024588f0a41b873c8abc2dab59",
-          "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-          "url": "https://www.aibase.com/news/32210",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
-        },
-        {
-          "id": "2193d2ddb9b6ad5287ab385f789cee13fd800977",
-          "title": "影视工业加速拥抱生成式 AI，金鸡百花电影节首次设立 AI 单元",
-          "url": "https://www.aibase.com/zh/news/32210",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "97afd50b4ef041024588f0a41b873c8abc2dab59",
-          "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-          "url": "https://www.aibase.com/news/32210",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-10T07:56:05.800958Z"
-        },
-        {
-          "id": "2193d2ddb9b6ad5287ab385f789cee13fd800977",
-          "title": "影视工业加速拥抱生成式 AI，金鸡百花电影节首次设立 AI 单元",
-          "url": "https://www.aibase.com/zh/news/32210",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8177,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-10T07:56:05.800958Z",
-      "latest_at": "2026-11-10T07:56:05.800958Z",
-      "primary_item": {
-        "id": "97afd50b4ef041024588f0a41b873c8abc2dab59",
-        "title": "影视工业加速拥抱生成式AI 金鸡百花电影节首次设立AI单元",
-        "url": "https://www.aibase.com/news/32210",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "bfecd76b45b3b8ba9abe0981a5daf7816f721287",
+        "title": "C 盘又红了，明明没装多少东西，AI 工具留下的模型、临时文件和开发缓存却越攒越多。自己删怕把环境搞坏，装清理软件又不放心。作者把系统盘排查、AI 缓存清理和装模型前的配置检查，做成了一个豆包工作 Skill。有需要可以试试！",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-10",
+        "source_name": "WaytoAGI"
       }
     }
   ]
