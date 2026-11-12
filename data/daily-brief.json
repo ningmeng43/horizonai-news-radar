@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T23:15:00.215192Z",
+  "generated_at": "2026-11-12T03:58:40.301920Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8639,
-      "importance": 0.8639,
-      "importance_score": 0.8639,
+      "score": 0.8528,
+      "importance": 0.8528,
+      "importance_score": 0.8528,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.927,
+        "recency": 0.8658,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,15 +120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "score": 0.842,
+      "importance": 0.842,
+      "importance_score": 0.842,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 1.0,
+        "recency": 0.9442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9174,
+        "recency": 0.8569,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8132,
+      "importance": 0.8132,
+      "importance_score": 0.8132,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8877,
+        "recency": 0.8292,
         "story_heat": 0.0
       },
       "category": "official",
@@ -306,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7686,
+        "recency": 0.7178,
         "story_heat": 0.0
       },
       "category": "official",
@@ -334,65 +334,84 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.167.2",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_dca8976c0a7e",
+      "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+      "url": "https://www.aibase.com/news/32270",
+      "primary_url": "https://www.aibase.com/news/32270",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "7d9ca2900d69a2b769742642ccd22ec472f351ab",
-          "title": "Codex CLI 0.167.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
+          "id": "a4477ec6492087718782506ce434cdc928a45a72",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+          "url": "https://www.aibase.com/news/32270",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T03:58:40.301920Z"
+        },
+        {
+          "id": "b5c0c95edebc5d8cdd875897ea90e2d00d4bd95c",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常「一盘散沙」？",
+          "url": "https://www.aibase.com/zh/news/32270",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "7d9ca2900d69a2b769742642ccd22ec472f351ab",
-          "title": "Codex CLI 0.167.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
+          "id": "a4477ec6492087718782506ce434cdc928a45a72",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+          "url": "https://www.aibase.com/news/32270",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T03:58:40.301920Z"
+        },
+        {
+          "id": "b5c0c95edebc5d8cdd875897ea90e2d00d4bd95c",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常「一盘散沙」？",
+          "url": "https://www.aibase.com/zh/news/32270",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7148,
-        "story_heat": 0.0
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T00:00:00Z",
-      "latest_at": "2026-11-11T00:00:00Z",
+      "earliest_at": "2026-11-12T03:58:40.301920Z",
+      "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "7d9ca2900d69a2b769742642ccd22ec472f351ab",
-        "title": "Codex CLI 0.167.2",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "id": "a4477ec6492087718782506ce434cdc928a45a72",
+        "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+        "url": "https://www.aibase.com/news/32270",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -430,15 +449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8154,
+      "importance": 0.8154,
+      "importance_score": 0.8154,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9006,
+        "recency": 0.8412,
         "story_heat": 0.0
       },
       "category": "official",
@@ -492,15 +511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8244,
-      "importance": 0.8244,
-      "importance_score": 0.8244,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8023,
+        "recency": 0.7494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -520,88 +539,26 @@
       }
     },
     {
-      "story_id": "story_d2296a64c0dc",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "primary_url": "https://huggingface.co/blog/token-pooling",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "372c6b656e3afc20196dda2b6d1a3632adb710e9",
-          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-          "url": "https://huggingface.co/blog/token-pooling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "372c6b656e3afc20196dda2b6d1a3632adb710e9",
-          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-          "url": "https://huggingface.co/blog/token-pooling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7148,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T00:00:00Z",
-      "latest_at": "2026-11-11T00:00:00Z",
-      "primary_item": {
-        "id": "372c6b656e3afc20196dda2b6d1a3632adb710e9",
-        "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-        "url": "https://huggingface.co/blog/token-pooling",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8b09982dc041",
-      "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-      "url": "https://www.aibase.com/news/32253",
-      "primary_url": "https://www.aibase.com/news/32253",
+      "story_id": "story_3466b046f4db",
+      "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+      "url": "https://www.aibase.com/news/32267",
+      "primary_url": "https://www.aibase.com/news/32267",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
-          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-          "url": "https://www.aibase.com/news/32253",
+          "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
+          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+          "url": "https://www.aibase.com/news/32267",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T16:49:21.640968Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "f8fd3db7aa278f5e85f3e1f53125abf85185bf59",
-          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-          "url": "https://www.aibase.com/zh/news/32253",
+          "id": "295271021858ea49bada918b8a6f24facec955ef",
+          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+          "url": "https://www.aibase.com/zh/news/32267",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -615,18 +572,18 @@
       ],
       "items": [
         {
-          "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
-          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-          "url": "https://www.aibase.com/news/32253",
+          "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
+          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+          "url": "https://www.aibase.com/news/32267",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T16:49:21.640968Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "f8fd3db7aa278f5e85f3e1f53125abf85185bf59",
-          "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-          "url": "https://www.aibase.com/zh/news/32253",
+          "id": "295271021858ea49bada918b8a6f24facec955ef",
+          "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+          "url": "https://www.aibase.com/zh/news/32267",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -635,15 +592,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -652,76 +609,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T16:49:21.640968Z",
-      "latest_at": "2026-11-11T16:49:21.640968Z",
+      "earliest_at": "2026-11-12T03:58:40.301920Z",
+      "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "f84c8285517f96b902bbe5468bacdc19bb1178f6",
-        "title": "OpenAI 砍掉旧语音模式，GPT-Live 上位，用户却不买账",
-        "url": "https://www.aibase.com/news/32253",
+        "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
+        "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
+        "url": "https://www.aibase.com/news/32267",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_871ae47d300c",
-      "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-          "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:10:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7166,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T00:10:31Z",
-      "latest_at": "2026-11-11T00:10:31Z",
-      "primary_item": {
-        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
-        "title": "GitHub 应用程序支持 Enterprise Copilot 座位管理 / GitHub App support for Enterprise Copilot seat management",
-        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -759,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8105,
-      "importance": 0.8105,
-      "importance_score": 0.8105,
+      "score": 0.8009,
+      "importance": 0.8009,
+      "importance_score": 0.8009,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.814,
+        "recency": 0.7603,
         "story_heat": 0.0
       },
       "category": "official",
@@ -787,26 +682,26 @@
       }
     },
     {
-      "story_id": "story_c6ba452028d3",
-      "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
-      "url": "https://www.aibase.com/news/32251",
-      "primary_url": "https://www.aibase.com/news/32251",
+      "story_id": "story_00d58f4ae6ba",
+      "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+      "url": "https://www.aibase.com/news/32259",
+      "primary_url": "https://www.aibase.com/news/32259",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
-          "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
-          "url": "https://www.aibase.com/news/32251",
+          "id": "a63a2806cb54f0488899842909c84c5a27412928",
+          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+          "url": "https://www.aibase.com/news/32259",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T16:49:21.640968Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "6156579e7c050f1b91e4dff518975fc5b222a71d",
-          "title": "北京互联网法院：平台误判 AI 生成内容未标识构成违约",
-          "url": "https://www.aibase.com/zh/news/32251",
+          "id": "c783d8fc15da09fddddff5353268cfcf6eb3e2f8",
+          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿美元融资，Anthropic 抢当首批客户",
+          "url": "https://www.aibase.com/zh/news/32259",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -820,18 +715,18 @@
       ],
       "items": [
         {
-          "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
-          "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
-          "url": "https://www.aibase.com/news/32251",
+          "id": "a63a2806cb54f0488899842909c84c5a27412928",
+          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+          "url": "https://www.aibase.com/news/32259",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T16:49:21.640968Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "6156579e7c050f1b91e4dff518975fc5b222a71d",
-          "title": "北京互联网法院：平台误判 AI 生成内容未标识构成违约",
-          "url": "https://www.aibase.com/zh/news/32251",
+          "id": "c783d8fc15da09fddddff5353268cfcf6eb3e2f8",
+          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿美元融资，Anthropic 抢当首批客户",
+          "url": "https://www.aibase.com/zh/news/32259",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -840,15 +735,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7766,
-      "importance": 0.7766,
-      "importance_score": 0.7766,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -857,99 +752,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T16:49:21.640968Z",
-      "latest_at": "2026-11-11T16:49:21.640968Z",
+      "earliest_at": "2026-11-12T03:58:40.301920Z",
+      "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "77a2ceb0b7fed835da5166eac2f393baa7b3227a",
-        "title": "北京互联网法院:平台误判AI生成内容未标识构成违约",
-        "url": "https://www.aibase.com/news/32251",
+        "id": "a63a2806cb54f0488899842909c84c5a27412928",
+        "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+        "url": "https://www.aibase.com/news/32259",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_8c999d6885d2",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "primary_url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5c125f5448d26d0aab0b42fe0f15f7fa9e8070a5",
-          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-          "url": "https://openai.com/index/jiostar-vijay-seshadri",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "5c125f5448d26d0aab0b42fe0f15f7fa9e8070a5",
-          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-          "url": "https://openai.com/index/jiostar-vijay-seshadri",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7148,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T00:00:00Z",
-      "latest_at": "2026-11-11T00:00:00Z",
-      "primary_item": {
-        "id": "5c125f5448d26d0aab0b42fe0f15f7fa9e8070a5",
-        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-        "url": "https://openai.com/index/jiostar-vijay-seshadri",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ac21b81512b6",
-      "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-      "url": "https://www.aibase.com/news/32237",
-      "primary_url": "https://www.aibase.com/news/32237",
+      "story_id": "story_ae80540b3398",
+      "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+      "url": "https://www.aibase.com/news/32261",
+      "primary_url": "https://www.aibase.com/news/32261",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "url": "https://www.aibase.com/news/32237",
+          "id": "264cf989d10b6029c6638437f37f972480ae7613",
+          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "url": "https://www.aibase.com/news/32261",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T08:42:31.235988Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "81e07b4ef74a8311b32049c51bb22cb25e2784cb",
-          "title": "AMD 推出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "url": "https://www.aibase.com/zh/news/32237",
+          "id": "d7ac017f0ce16883f8b03270941bce21469f5608",
+          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "url": "https://www.aibase.com/zh/news/32261",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -963,18 +796,18 @@
       ],
       "items": [
         {
-          "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-          "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "url": "https://www.aibase.com/news/32237",
+          "id": "264cf989d10b6029c6638437f37f972480ae7613",
+          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "url": "https://www.aibase.com/news/32261",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T08:42:31.235988Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "81e07b4ef74a8311b32049c51bb22cb25e2784cb",
-          "title": "AMD 推出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-          "url": "https://www.aibase.com/zh/news/32237",
+          "id": "d7ac017f0ce16883f8b03270941bce21469f5608",
+          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "url": "https://www.aibase.com/zh/news/32261",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -983,15 +816,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1000,37 +833,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T08:42:31.235988Z",
-      "latest_at": "2026-11-11T08:42:31.235988Z",
+      "earliest_at": "2026-11-12T03:58:40.301920Z",
+      "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "42e0af89245a08b476e63cca483b31fdb09466f1",
-        "title": "AMD 亮出本地编程平台 Instinct Coder 355：一台机器塞进 98% 前沿模型",
-        "url": "https://www.aibase.com/news/32237",
+        "id": "264cf989d10b6029c6638437f37f972480ae7613",
+        "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+        "url": "https://www.aibase.com/news/32261",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_f2f467c089d1",
-      "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
-      "url": "https://www.aibase.com/news/32243",
-      "primary_url": "https://www.aibase.com/news/32243",
+      "story_id": "story_c402cab82686",
+      "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+      "url": "https://www.aibase.com/news/32255",
+      "primary_url": "https://www.aibase.com/news/32255",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "782fa871de57efe38bbe7952348af6eae5568931",
-          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
-          "url": "https://www.aibase.com/news/32243",
+          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
+          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "url": "https://www.aibase.com/news/32255",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T08:42:31.235988Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "ea1af221826efdc8c5c896867f6c2adcac2b6488",
-          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
-          "url": "https://www.aibase.com/zh/news/32243",
+          "id": "090ba3731b7f93875ab05fa1d8d30fe789674cb1",
+          "title": "谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "url": "https://www.aibase.com/zh/news/32255",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1044,18 +877,18 @@
       ],
       "items": [
         {
-          "id": "782fa871de57efe38bbe7952348af6eae5568931",
-          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
-          "url": "https://www.aibase.com/news/32243",
+          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
+          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "url": "https://www.aibase.com/news/32255",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T08:42:31.235988Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "ea1af221826efdc8c5c896867f6c2adcac2b6488",
-          "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
-          "url": "https://www.aibase.com/zh/news/32243",
+          "id": "090ba3731b7f93875ab05fa1d8d30fe789674cb1",
+          "title": "谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "url": "https://www.aibase.com/zh/news/32255",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1064,15 +897,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1081,12 +914,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T08:42:31.235988Z",
-      "latest_at": "2026-11-11T08:42:31.235988Z",
+      "earliest_at": "2026-11-12T03:58:40.301920Z",
+      "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "782fa871de57efe38bbe7952348af6eae5568931",
-        "title": "Adobe MAX 放招：Photoshop 能重打光清倒影，更要把软件交给 AI 代理操控",
-        "url": "https://www.aibase.com/news/32243",
+        "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
+        "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+        "url": "https://www.aibase.com/news/32255",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1216,15 +1049,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6616,
-      "importance": 0.6616,
-      "importance_score": 0.6616,
+      "score": 0.6507,
+      "importance": 0.6507,
+      "importance_score": 0.6507,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.9114,
+        "recency": 0.8512,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1242,26 +1075,26 @@
       }
     },
     {
-      "story_id": "story_81677a3ab592",
-      "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-      "url": "https://www.aibase.com/news/32249",
-      "primary_url": "https://www.aibase.com/news/32249",
+      "story_id": "story_938a5b654895",
+      "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
+      "url": "https://www.aibase.com/news/32260",
+      "primary_url": "https://www.aibase.com/news/32260",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
-          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "url": "https://www.aibase.com/news/32249",
+          "id": "62fbb953da9c35e4a58f3ca172778bf340052052",
+          "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
+          "url": "https://www.aibase.com/news/32260",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T08:42:31.235988Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "f347fe809e86302ef0dd11fecb9e4b950f158420",
-          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "url": "https://www.aibase.com/zh/news/32249",
+          "id": "dcb21b58bf931e936525d0597ae803e086d45e94",
+          "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
+          "url": "https://www.aibase.com/zh/news/32260",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1275,18 +1108,18 @@
       ],
       "items": [
         {
-          "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
-          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "url": "https://www.aibase.com/news/32249",
+          "id": "62fbb953da9c35e4a58f3ca172778bf340052052",
+          "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
+          "url": "https://www.aibase.com/news/32260",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T08:42:31.235988Z"
+          "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "f347fe809e86302ef0dd11fecb9e4b950f158420",
-          "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-          "url": "https://www.aibase.com/zh/news/32249",
+          "id": "dcb21b58bf931e936525d0597ae803e086d45e94",
+          "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
+          "url": "https://www.aibase.com/zh/news/32260",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1295,15 +1128,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1312,93 +1145,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T08:42:31.235988Z",
-      "latest_at": "2026-11-11T08:42:31.235988Z",
+      "earliest_at": "2026-11-12T03:58:40.301920Z",
+      "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "ecf34549bbf8bce7bb27dc70f5f161f3fc6a5e6f",
-        "title": "OpenAI 三季度营收飙升至 100 亿美元：环比大增近 50%，企业业务单季实现翻倍",
-        "url": "https://www.aibase.com/news/32249",
+        "id": "62fbb953da9c35e4a58f3ca172778bf340052052",
+        "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
+        "url": "https://www.aibase.com/news/32260",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2479f0b88359",
-      "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在\"人\"",
-      "url": "https://www.aibase.com/news/32233",
-      "primary_url": "https://www.aibase.com/news/32233",
+      "story_id": "story_38f0ee82afbb",
+      "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+      "url": "https://www.aibase.com/news/32266",
+      "primary_url": "https://www.aibase.com/news/32266",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4da9ea72b9b078d7d2d0e468005b66a6f7cdc935",
-          "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在\"人\"",
-          "url": "https://www.aibase.com/news/32233",
+          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
+          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+          "url": "https://www.aibase.com/news/32266",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T08:42:31.235988Z"
-        },
-        {
-          "id": "5a0550c5b94c0df908a093f3853e04334508a7bf",
-          "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在「人」",
-          "url": "https://www.aibase.com/zh/news/32233",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-12T03:58:40.301920Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4da9ea72b9b078d7d2d0e468005b66a6f7cdc935",
-          "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在\"人\"",
-          "url": "https://www.aibase.com/news/32233",
+          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
+          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+          "url": "https://www.aibase.com/news/32266",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-11T08:42:31.235988Z"
-        },
-        {
-          "id": "5a0550c5b94c0df908a093f3853e04334508a7bf",
-          "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在「人」",
-          "url": "https://www.aibase.com/zh/news/32233",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-12T03:58:40.301920Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7585,
-      "importance": 0.7585,
-      "importance_score": 0.7585,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8106,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T08:42:31.235988Z",
-      "latest_at": "2026-11-11T08:42:31.235988Z",
+      "earliest_at": "2026-11-12T03:58:40.301920Z",
+      "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "4da9ea72b9b078d7d2d0e468005b66a6f7cdc935",
-        "title": "OpenAI 买下 AI 旅行公司 Odessia：醉翁之意在\"人\"",
-        "url": "https://www.aibase.com/news/32233",
+        "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
+        "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
+        "url": "https://www.aibase.com/news/32266",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1512,15 +1325,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5973,
-      "importance": 0.5973,
-      "importance_score": 0.5973,
+      "score": 0.587,
+      "importance": 0.587,
+      "importance_score": 0.587,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8697,
+        "recency": 0.8123,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1534,6 +1347,262 @@
         "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
         "url": "https://pietromiotti.com/latest/maya-site/?maya=",
         "source": "pietromiotti.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_645f1651bd53",
+      "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+      "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+      "primary_url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+      "source": "Slashdot",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "d4cac9439147c6f5c2ef9bc4182125f3594be4de",
+          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-12T00:00:00Z"
+        },
+        {
+          "id": "c738eb59b1a8d54d399062794ed1874388b1a35d",
+          "title": "美联航禁止人工智能代理为旅客预订机票",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "source": "www.cbsnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T22:36:01.186000Z"
+        },
+        {
+          "id": "a898052c9677f592cd22b3aebac895dc3e06fea4",
+          "title": "美联航禁止人工智能代理为旅客预订机票 / United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-11T21:24:35Z"
+        },
+        {
+          "id": "f61fcd21d3637878200b7a9d3a1e74a84cd111e0",
+          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://news.ycombinator.com/item?id=50458900",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T21:24:35Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Slashdot",
+        "hackernews",
+        "www.cbsnews.com"
+      ],
+      "items": [
+        {
+          "id": "d4cac9439147c6f5c2ef9bc4182125f3594be4de",
+          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+          "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-12T00:00:00Z"
+        },
+        {
+          "id": "c738eb59b1a8d54d399062794ed1874388b1a35d",
+          "title": "美联航禁止人工智能代理为旅客预订机票",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "source": "www.cbsnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T22:36:01.186000Z"
+        },
+        {
+          "id": "a898052c9677f592cd22b3aebac895dc3e06fea4",
+          "title": "美联航禁止人工智能代理为旅客预订机票 / United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-11T21:24:35Z"
+        },
+        {
+          "id": "f61fcd21d3637878200b7a9d3a1e74a84cd111e0",
+          "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://news.ycombinator.com/item?id=50458900",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-11T21:24:35Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5858,
+      "importance": 0.5858,
+      "importance_score": 0.5858,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9442,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-11T21:24:35Z",
+      "latest_at": "2026-11-12T00:00:00Z",
+      "primary_item": {
+        "id": "d4cac9439147c6f5c2ef9bc4182125f3594be4de",
+        "title": "联合航空禁止人工智能代理代表旅客预订航班 / United Airlines Bans AI Agents From Booking Flights On Behalf of Travelers",
+        "url": "https://slashdot.org/story/26/11/11/2229248/united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+        "source": "Slashdot",
+        "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_f1355b540760",
+      "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+      "url": "https://www.aibase.com/news/32263",
+      "primary_url": "https://www.aibase.com/news/32263",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
+          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "url": "https://www.aibase.com/news/32263",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T03:58:40.301920Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
+          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+          "url": "https://www.aibase.com/news/32263",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T03:58:40.301920Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T03:58:40.301920Z",
+      "latest_at": "2026-11-12T03:58:40.301920Z",
+      "primary_item": {
+        "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
+        "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
+        "url": "https://www.aibase.com/news/32263",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_560ee1c5dc9a",
+      "title": "塞尔比表示，Anthropic的IPO可能引发AI市场回调",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "614fc2115cb0f37cdc29e2f0c3a6648849fcebbf",
+          "title": "塞尔比表示，Anthropic的IPO可能引发AI市场回调",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-12T01:31:54.601000Z"
+        },
+        {
+          "id": "77fcfee82a334b8533ce3eff2aef2983cd8f8302",
+          "title": "塞尔比表示，Anthropic的IPO可能引发人工智能市场回调",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T07:59:47.818000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "614fc2115cb0f37cdc29e2f0c3a6648849fcebbf",
+          "title": "塞尔比表示，Anthropic的IPO可能引发AI市场回调",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-12T01:31:54.601000Z"
+        },
+        {
+          "id": "77fcfee82a334b8533ce3eff2aef2983cd8f8302",
+          "title": "塞尔比表示，Anthropic的IPO可能引发人工智能市场回调",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T07:59:47.818000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9653,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-11T07:59:47.818000Z",
+      "latest_at": "2026-11-12T01:31:54.601000Z",
+      "primary_item": {
+        "id": "614fc2115cb0f37cdc29e2f0c3a6648849fcebbf",
+        "title": "塞尔比表示，Anthropic的IPO可能引发AI市场回调",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     }
