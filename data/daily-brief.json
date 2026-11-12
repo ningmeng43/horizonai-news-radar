@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-11-12T03:58:40.301920Z",
+  "generated_at": "2026-11-12T12:19:09.413218Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0990939c7d6e",
+      "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "primary_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "56ac938b70352617ddc35b273b898745281efb48",
+          "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T09:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "56ac938b70352617ddc35b273b898745281efb48",
+          "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
+          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T09:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8528,
+      "importance": 0.8528,
+      "importance_score": 0.8528,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9601,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T09:30:00Z",
+      "latest_at": "2026-11-12T09:30:00Z",
+      "primary_item": {
+        "id": "56ac938b70352617ddc35b273b898745281efb48",
+        "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
+        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_cce714811b51",
       "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -57,15 +119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8658,
+        "recency": 0.7676,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,68 +144,6 @@
         "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f28f90d2895a",
-      "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9442,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T00:00:00Z",
-      "latest_at": "2026-11-12T00:00:00Z",
-      "primary_item": {
-        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
-        "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
-        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -182,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8569,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -244,15 +244,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8132,
-      "importance": 0.8132,
-      "importance_score": 0.8132,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8292,
+        "recency": 0.7351,
         "story_heat": 0.0
       },
       "category": "official",
@@ -272,49 +272,49 @@
       }
     },
     {
-      "story_id": "story_b22522d14a17",
-      "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "primary_url": "https://huggingface.co/blog/qvac/botpsy",
-      "source": "Hugging Face Blog",
+      "story_id": "story_f28f90d2895a",
+      "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "url": "https://huggingface.co/blog/qvac/botpsy",
-          "source": "Hugging Face Blog",
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T05:01:16Z"
+          "published_at": "2026-11-12T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-          "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-          "url": "https://huggingface.co/blog/qvac/botpsy",
-          "source": "Hugging Face Blog",
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-11T05:01:16Z"
+          "published_at": "2026-11-12T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8092,
-      "importance": 0.8092,
-      "importance_score": 0.8092,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7178,
+        "ai_relevance": 0.91,
+        "recency": 0.837,
         "story_heat": 0.0
       },
       "category": "official",
@@ -323,14 +323,381 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-11T05:01:16Z",
-      "latest_at": "2026-11-11T05:01:16Z",
+      "earliest_at": "2026-11-12T00:00:00Z",
+      "latest_at": "2026-11-12T00:00:00Z",
       "primary_item": {
-        "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
-        "title": "BotPsy：具有数十亿参数代理语言模型的设备上个人助理 / BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-        "url": "https://huggingface.co/blog/qvac/botpsy",
-        "source": "Hugging Face Blog",
+        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+        "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6327fe668953",
+      "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+      "url": "https://www.aibase.com/news/32285",
+      "primary_url": "https://www.aibase.com/news/32285",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
+          "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "url": "https://www.aibase.com/news/32285",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T12:19:09.413218Z"
+        },
+        {
+          "id": "461b43edbc3b87999256967bc56ca864a8b810cf",
+          "title": "单张消费级显卡跑出 60FPS 游戏世界：Matrix-Game4.0 上线 Reactor，浏览器里「边玩边生成」",
+          "url": "https://www.aibase.com/zh/news/32285",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
+          "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+          "url": "https://www.aibase.com/news/32285",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T12:19:09.413218Z"
+        },
+        {
+          "id": "461b43edbc3b87999256967bc56ca864a8b810cf",
+          "title": "单张消费级显卡跑出 60FPS 游戏世界：Matrix-Game4.0 上线 Reactor，浏览器里「边玩边生成」",
+          "url": "https://www.aibase.com/zh/news/32285",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T12:19:09.413218Z",
+      "latest_at": "2026-11-12T12:19:09.413218Z",
+      "primary_item": {
+        "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
+        "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
+        "url": "https://www.aibase.com/news/32285",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bad6ee94c356",
+      "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
+          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
+          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7457,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T16:00:00Z",
+      "latest_at": "2026-11-11T16:00:00Z",
+      "primary_item": {
+        "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
+        "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b06379671ede",
+      "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "primary_url": "https://openai.com/index/children-first-declaration",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "79e39388e6dec86031f16a6bf4930f52c25de92a",
+          "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
+          "url": "https://openai.com/index/children-first-declaration",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "79e39388e6dec86031f16a6bf4930f52c25de92a",
+          "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
+          "url": "https://openai.com/index/children-first-declaration",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8227,
+      "importance": 0.8227,
+      "importance_score": 0.8227,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.837,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T00:00:00Z",
+      "latest_at": "2026-11-12T00:00:00Z",
+      "primary_item": {
+        "id": "79e39388e6dec86031f16a6bf4930f52c25de92a",
+        "title": "支持人工智能和儿童安全研究 / Supporting research on AI and children’s safety",
+        "url": "https://openai.com/index/children-first-declaration",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bedf0d048592",
+      "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
+      "url": "https://www.aibase.com/news/32277",
+      "primary_url": "https://www.aibase.com/news/32277",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dabb9a17e930adf40a3de6d7d6e57fd8aef800f0",
+          "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
+          "url": "https://www.aibase.com/news/32277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T12:19:09.413218Z"
+        },
+        {
+          "id": "a016e824f73fe5a289228eb19c2bf0d8cbab3dc1",
+          "title": "火山引擎推出 Seedance2.5flash：生成速度翻倍，720P 约 0.99 元/秒、较旗舰降低 34%",
+          "url": "https://www.aibase.com/zh/news/32277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dabb9a17e930adf40a3de6d7d6e57fd8aef800f0",
+          "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
+          "url": "https://www.aibase.com/news/32277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T12:19:09.413218Z"
+        },
+        {
+          "id": "a016e824f73fe5a289228eb19c2bf0d8cbab3dc1",
+          "title": "火山引擎推出 Seedance2.5flash：生成速度翻倍，720P 约 0.99 元/秒、较旗舰降低 34%",
+          "url": "https://www.aibase.com/zh/news/32277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T12:19:09.413218Z",
+      "latest_at": "2026-11-12T12:19:09.413218Z",
+      "primary_item": {
+        "id": "dabb9a17e930adf40a3de6d7d6e57fd8aef800f0",
+        "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
+        "url": "https://www.aibase.com/news/32277",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dd998234f8fa",
+      "title": "追赶国际AI第一梯队还需数年?张一鸣谈字节大模型研发目标",
+      "url": "https://www.aibase.com/news/32280",
+      "primary_url": "https://www.aibase.com/news/32280",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d38b9331c2c46385aa0c052c06ea31e2446991a",
+          "title": "追赶国际AI第一梯队还需数年?张一鸣谈字节大模型研发目标",
+          "url": "https://www.aibase.com/news/32280",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T12:19:09.413218Z"
+        },
+        {
+          "id": "c584ff796930cee6578f043ea182428fac3f1a15",
+          "title": "追赶国际 AI 第一梯队还需数年？张一鸣谈字节大模型研发目标",
+          "url": "https://www.aibase.com/zh/news/32280",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d38b9331c2c46385aa0c052c06ea31e2446991a",
+          "title": "追赶国际AI第一梯队还需数年?张一鸣谈字节大模型研发目标",
+          "url": "https://www.aibase.com/news/32280",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T12:19:09.413218Z"
+        },
+        {
+          "id": "c584ff796930cee6578f043ea182428fac3f1a15",
+          "title": "追赶国际 AI 第一梯队还需数年？张一鸣谈字节大模型研发目标",
+          "url": "https://www.aibase.com/zh/news/32280",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T12:19:09.413218Z",
+      "latest_at": "2026-11-12T12:19:09.413218Z",
+      "primary_item": {
+        "id": "8d38b9331c2c46385aa0c052c06ea31e2446991a",
+        "title": "追赶国际AI第一梯队还需数年?张一鸣谈字节大模型研发目标",
+        "url": "https://www.aibase.com/news/32280",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -387,15 +754,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8865,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -412,130 +779,6 @@
         "url": "https://www.aibase.com/news/32270",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bad6ee94c356",
-      "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8412,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T16:00:00Z",
-      "latest_at": "2026-11-11T16:00:00Z",
-      "primary_item": {
-        "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
-        "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_80b38ea7da37",
-      "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
-          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
-          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T08:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
-          "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
-          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T08:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7494,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T08:00:00Z",
-      "latest_at": "2026-11-11T08:00:00Z",
-      "primary_item": {
-        "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
-        "title": "面向退伍军人和现役军人的 ChatGPT Plus / ChatGPT Plus for veterans and servicemembers",
-        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -592,15 +835,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8865,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -615,311 +858,6 @@
         "id": "279d31fcbee4dba1ea3654d817e4064f6d78cc50",
         "title": "Runway 开源 27B 世界动作模型 Praxis-1：登顶机器人权威榜单，全面支持 Apache 2.0 商业开源",
         "url": "https://www.aibase.com/news/32267",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_14eef01dc0f4",
-      "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
-      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-      "primary_url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
-          "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
-          "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
-          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-11T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7603,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-11T09:00:00Z",
-      "latest_at": "2026-11-11T09:00:00Z",
-      "primary_item": {
-        "id": "b987ab812262afb4d370b04d94c99774bc976b63",
-        "title": "体验 Esther Mahlangu 博士的艺术和遗产 / Experience the art and legacy of Dr. Esther Mahlangu",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_00d58f4ae6ba",
-      "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-      "url": "https://www.aibase.com/news/32259",
-      "primary_url": "https://www.aibase.com/news/32259",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a63a2806cb54f0488899842909c84c5a27412928",
-          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "url": "https://www.aibase.com/news/32259",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:58:40.301920Z"
-        },
-        {
-          "id": "c783d8fc15da09fddddff5353268cfcf6eb3e2f8",
-          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿美元融资，Anthropic 抢当首批客户",
-          "url": "https://www.aibase.com/zh/news/32259",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a63a2806cb54f0488899842909c84c5a27412928",
-          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-          "url": "https://www.aibase.com/news/32259",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:58:40.301920Z"
-        },
-        {
-          "id": "c783d8fc15da09fddddff5353268cfcf6eb3e2f8",
-          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿美元融资，Anthropic 抢当首批客户",
-          "url": "https://www.aibase.com/zh/news/32259",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:58:40.301920Z",
-      "latest_at": "2026-11-12T03:58:40.301920Z",
-      "primary_item": {
-        "id": "a63a2806cb54f0488899842909c84c5a27412928",
-        "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
-        "url": "https://www.aibase.com/news/32259",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ae80540b3398",
-      "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-      "url": "https://www.aibase.com/news/32261",
-      "primary_url": "https://www.aibase.com/news/32261",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "264cf989d10b6029c6638437f37f972480ae7613",
-          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "url": "https://www.aibase.com/news/32261",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:58:40.301920Z"
-        },
-        {
-          "id": "d7ac017f0ce16883f8b03270941bce21469f5608",
-          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "url": "https://www.aibase.com/zh/news/32261",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "264cf989d10b6029c6638437f37f972480ae7613",
-          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "url": "https://www.aibase.com/news/32261",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:58:40.301920Z"
-        },
-        {
-          "id": "d7ac017f0ce16883f8b03270941bce21469f5608",
-          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-          "url": "https://www.aibase.com/zh/news/32261",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:58:40.301920Z",
-      "latest_at": "2026-11-12T03:58:40.301920Z",
-      "primary_item": {
-        "id": "264cf989d10b6029c6638437f37f972480ae7613",
-        "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
-        "url": "https://www.aibase.com/news/32261",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c402cab82686",
-      "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-      "url": "https://www.aibase.com/news/32255",
-      "primary_url": "https://www.aibase.com/news/32255",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
-          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "url": "https://www.aibase.com/news/32255",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:58:40.301920Z"
-        },
-        {
-          "id": "090ba3731b7f93875ab05fa1d8d30fe789674cb1",
-          "title": "谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "url": "https://www.aibase.com/zh/news/32255",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
-          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "url": "https://www.aibase.com/news/32255",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T03:58:40.301920Z"
-        },
-        {
-          "id": "090ba3731b7f93875ab05fa1d8d30fe789674cb1",
-          "title": "谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-          "url": "https://www.aibase.com/zh/news/32255",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T03:58:40.301920Z",
-      "latest_at": "2026-11-12T03:58:40.301920Z",
-      "primary_item": {
-        "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
-        "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
-        "url": "https://www.aibase.com/news/32255",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1049,15 +987,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6507,
-      "importance": 0.6507,
-      "importance_score": 0.6507,
+      "score": 0.6334,
+      "importance": 0.6334,
+      "importance_score": 0.6334,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.54,
         "ai_relevance": 0.67,
-        "recency": 0.8512,
+        "recency": 0.7546,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1075,26 +1013,26 @@
       }
     },
     {
-      "story_id": "story_938a5b654895",
-      "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
-      "url": "https://www.aibase.com/news/32260",
-      "primary_url": "https://www.aibase.com/news/32260",
+      "story_id": "story_00d58f4ae6ba",
+      "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+      "url": "https://www.aibase.com/news/32259",
+      "primary_url": "https://www.aibase.com/news/32259",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "62fbb953da9c35e4a58f3ca172778bf340052052",
-          "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
-          "url": "https://www.aibase.com/news/32260",
+          "id": "a63a2806cb54f0488899842909c84c5a27412928",
+          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+          "url": "https://www.aibase.com/news/32259",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "dcb21b58bf931e936525d0597ae803e086d45e94",
-          "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
-          "url": "https://www.aibase.com/zh/news/32260",
+          "id": "c783d8fc15da09fddddff5353268cfcf6eb3e2f8",
+          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿美元融资，Anthropic 抢当首批客户",
+          "url": "https://www.aibase.com/zh/news/32259",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1108,18 +1046,18 @@
       ],
       "items": [
         {
-          "id": "62fbb953da9c35e4a58f3ca172778bf340052052",
-          "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
-          "url": "https://www.aibase.com/news/32260",
+          "id": "a63a2806cb54f0488899842909c84c5a27412928",
+          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+          "url": "https://www.aibase.com/news/32259",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-12T03:58:40.301920Z"
         },
         {
-          "id": "dcb21b58bf931e936525d0597ae803e086d45e94",
-          "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
-          "url": "https://www.aibase.com/zh/news/32260",
+          "id": "c783d8fc15da09fddddff5353268cfcf6eb3e2f8",
+          "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿美元融资，Anthropic 抢当首批客户",
+          "url": "https://www.aibase.com/zh/news/32259",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1128,15 +1066,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8865,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1148,206 +1086,171 @@
       "earliest_at": "2026-11-12T03:58:40.301920Z",
       "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "62fbb953da9c35e4a58f3ca172778bf340052052",
-        "title": "马斯克 xAI 面临多起集体诉讼：Grok 被指卷入儿童色情图像风波",
-        "url": "https://www.aibase.com/news/32260",
+        "id": "a63a2806cb54f0488899842909c84c5a27412928",
+        "title": "估值飙升至 70 亿美元！英国 AI 芯片新星 Fractile 获 7.2 亿融资，Anthropic 抢当首批客户",
+        "url": "https://www.aibase.com/news/32259",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_38f0ee82afbb",
-      "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-      "url": "https://www.aibase.com/news/32266",
-      "primary_url": "https://www.aibase.com/news/32266",
+      "story_id": "story_81a19eccc61c",
+      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+      "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
+      "primary_url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
+      "source": "InfoQ CN",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "444a5aac0ecfe48d3c2d7044ab641b0b4332cce4",
+          "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+          "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-12T11:00:00Z"
+        },
+        {
+          "id": "178ad9b73f05a8119ae4c43fd05cf649e9d68a2b",
+          "title": "刚刚，谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+          "url": "https://www.36kr.com/p/4065770698331011",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-11-12T12:19:09.413218Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "InfoQ CN"
+      ],
+      "items": [
+        {
+          "id": "444a5aac0ecfe48d3c2d7044ab641b0b4332cce4",
+          "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+          "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
+          "source": "InfoQ CN",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-11-12T11:00:00Z"
+        },
+        {
+          "id": "178ad9b73f05a8119ae4c43fd05cf649e9d68a2b",
+          "title": "刚刚，谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+          "url": "https://www.36kr.com/p/4065770698331011",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": "2026-11-12T12:19:09.413218Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.607,
+      "importance": 0.607,
+      "importance_score": 0.607,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.5,
+        "ai_relevance": 0.71,
+        "recency": 0.9811,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T11:00:00Z",
+      "latest_at": "2026-11-12T12:19:09.413218Z",
+      "primary_item": {
+        "id": "444a5aac0ecfe48d3c2d7044ab641b0b4332cce4",
+        "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
+        "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
+        "source": "InfoQ CN",
+        "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_ae80540b3398",
+      "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+      "url": "https://www.aibase.com/news/32261",
+      "primary_url": "https://www.aibase.com/news/32261",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
-          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-          "url": "https://www.aibase.com/news/32266",
+          "id": "264cf989d10b6029c6638437f37f972480ae7613",
+          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "url": "https://www.aibase.com/news/32261",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-12T03:58:40.301920Z"
+        },
+        {
+          "id": "d7ac017f0ce16883f8b03270941bce21469f5608",
+          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "url": "https://www.aibase.com/zh/news/32261",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
-          "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-          "url": "https://www.aibase.com/news/32266",
+          "id": "264cf989d10b6029c6638437f37f972480ae7613",
+          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "url": "https://www.aibase.com/news/32261",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-12T03:58:40.301920Z"
+        },
+        {
+          "id": "d7ac017f0ce16883f8b03270941bce21469f5608",
+          "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+          "url": "https://www.aibase.com/zh/news/32261",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8865,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-12T03:58:40.301920Z",
       "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "2fbfc2344ffd5d19f56be509a593ce6e0a0a74a4",
-        "title": "AI作弊越来越难查，大学开始重新考虑如何给学生打分",
-        "url": "https://www.aibase.com/news/32266",
+        "id": "264cf989d10b6029c6638437f37f972480ae7613",
+        "title": "同一段 DNA，在不同细胞里命运不同：AlphaGenome 2 把预测拉到细胞级",
+        "url": "https://www.aibase.com/news/32261",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_8d8bc38f54a7",
-      "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-      "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-      "primary_url": "https://pietromiotti.com/latest/maya-site/?maya=",
-      "source": "pietromiotti.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "88599ce2438ae36c412e9e1b5696135589718490",
-          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-          "source": "pietromiotti.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T13:34:43.874000Z"
-        },
-        {
-          "id": "aec4662b2a3d46b5fdf9ee00fc27cc151e688c48",
-          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-11T12:05:22Z"
-        },
-        {
-          "id": "c7454bd258c5c8faa968ca75c8ee2bfafec29ad4",
-          "title": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "url": "https://news.ycombinator.com/item?id=50452455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T12:05:22Z"
-        },
-        {
-          "id": "f2dea484d88d23344afc300bd91328481de11ca1",
-          "title": "我的 AI 代理发现了一个未映射的 Maya 站点 / My AI agents found an unmapped Maya site",
-          "url": "https://pietromiotti.com/latest/maya-site",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-11T12:05:22Z"
-        },
-        {
-          "id": "d751d09673e9e4956dea3fc095e833eaa4d37d1f",
-          "title": "我的 AI 代理发现了一个未映射的 Maya 站点 / My AI agents found an unmapped Maya site",
-          "url": "https://news.ycombinator.com/item?id=50452455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T12:05:22Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "pietromiotti.com"
-      ],
-      "items": [
-        {
-          "id": "88599ce2438ae36c412e9e1b5696135589718490",
-          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-          "source": "pietromiotti.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T13:34:43.874000Z"
-        },
-        {
-          "id": "aec4662b2a3d46b5fdf9ee00fc27cc151e688c48",
-          "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-11T12:05:22Z"
-        },
-        {
-          "id": "c7454bd258c5c8faa968ca75c8ee2bfafec29ad4",
-          "title": "Google SWE 将 48 个 AI 代理指向 NASA 激光雷达，72 小时内发现未绘制地图的玛雅金字塔 / Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-          "url": "https://news.ycombinator.com/item?id=50452455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T12:05:22Z"
-        },
-        {
-          "id": "f2dea484d88d23344afc300bd91328481de11ca1",
-          "title": "我的 AI 代理发现了一个未映射的 Maya 站点 / My AI agents found an unmapped Maya site",
-          "url": "https://pietromiotti.com/latest/maya-site",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-11T12:05:22Z"
-        },
-        {
-          "id": "d751d09673e9e4956dea3fc095e833eaa4d37d1f",
-          "title": "我的 AI 代理发现了一个未映射的 Maya 站点 / My AI agents found an unmapped Maya site",
-          "url": "https://news.ycombinator.com/item?id=50452455",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-11T12:05:22Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.587,
-      "importance": 0.587,
-      "importance_score": 0.587,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8123,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-11T12:05:22Z",
-      "latest_at": "2026-11-11T13:34:43.874000Z",
-      "primary_item": {
-        "id": "88599ce2438ae36c412e9e1b5696135589718490",
-        "title": "谷歌软件工程团队（SWE）将48个AI代理投入NASA激光雷达数据分析，72小时内发现一座未被绘入地图的玛雅金字塔",
-        "url": "https://pietromiotti.com/latest/maya-site/?maya=",
-        "source": "pietromiotti.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1442,15 +1345,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5858,
-      "importance": 0.5858,
-      "importance_score": 0.5858,
+      "score": 0.5665,
+      "importance": 0.5665,
+      "importance_score": 0.5665,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9442,
+        "recency": 0.837,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1468,141 +1371,241 @@
       }
     },
     {
-      "story_id": "story_f1355b540760",
-      "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-      "url": "https://www.aibase.com/news/32263",
-      "primary_url": "https://www.aibase.com/news/32263",
+      "story_id": "story_c402cab82686",
+      "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+      "url": "https://www.aibase.com/news/32255",
+      "primary_url": "https://www.aibase.com/news/32255",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
-          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "url": "https://www.aibase.com/news/32263",
+          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
+          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "url": "https://www.aibase.com/news/32255",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-12T03:58:40.301920Z"
+        },
+        {
+          "id": "090ba3731b7f93875ab05fa1d8d30fe789674cb1",
+          "title": "谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "url": "https://www.aibase.com/zh/news/32255",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
-          "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-          "url": "https://www.aibase.com/news/32263",
+          "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
+          "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "url": "https://www.aibase.com/news/32255",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-12T03:58:40.301920Z"
+        },
+        {
+          "id": "090ba3731b7f93875ab05fa1d8d30fe789674cb1",
+          "title": "谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+          "url": "https://www.aibase.com/zh/news/32255",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8865,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-11-12T03:58:40.301920Z",
       "latest_at": "2026-11-12T03:58:40.301920Z",
       "primary_item": {
-        "id": "09ef774e4bf0d4156834e5eb1d0bb1de4afe9a6d",
-        "title": "AI初创公司Helix获620万美元融资，推出本地语音真人验证技术",
-        "url": "https://www.aibase.com/news/32263",
+        "id": "28c57dfc284a8a8892f45201ae435b5e97cb4740",
+        "title": "告别冗长文本！谷歌发布 Gemini Decisions API：单次前向传递打分，端到端延迟压至 150 毫秒",
+        "url": "https://www.aibase.com/news/32255",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_560ee1c5dc9a",
-      "title": "塞尔比表示，Anthropic的IPO可能引发AI市场回调",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
+      "story_id": "story_d1aa340a6435",
+      "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "primary_url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "GitHub · Trending Today",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "614fc2115cb0f37cdc29e2f0c3a6648849fcebbf",
-          "title": "塞尔比表示，Anthropic的IPO可能引发AI市场回调",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-12T01:31:54.601000Z"
+          "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
+          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "77fcfee82a334b8533ce3eff2aef2983cd8f8302",
-          "title": "塞尔比表示，Anthropic的IPO可能引发人工智能市场回调",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T07:59:47.818000Z"
+          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
+          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 /      free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T12:06:01.812000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "www.bloomberg.com"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "614fc2115cb0f37cdc29e2f0c3a6648849fcebbf",
-          "title": "塞尔比表示，Anthropic的IPO可能引发AI市场回调",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-12T01:31:54.601000Z"
+          "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
+          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "77fcfee82a334b8533ce3eff2aef2983cd8f8302",
-          "title": "塞尔比表示，Anthropic的IPO可能引发人工智能市场回调",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-11T07:59:47.818000Z"
+          "id": "7ad3cbe07d0ee3c125eaae99c56b832413b04759",
+          "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 /      free-claude-code",
+          "url": "https://github.com/Alishahryar1/free-claude-code",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-12T12:06:01.812000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9653,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-11T07:59:47.818000Z",
-      "latest_at": "2026-11-12T01:31:54.601000Z",
+      "earliest_at": "2026-11-12T12:06:01.812000Z",
+      "latest_at": "2026-11-12T12:19:09.413218Z",
       "primary_item": {
-        "id": "614fc2115cb0f37cdc29e2f0c3a6648849fcebbf",
-        "title": "塞尔比表示，Anthropic的IPO可能引发AI市场回调",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-11/anthropic-ipo-lockup-risks-triggering-ai-correction-selby-says",
-        "source": "www.bloomberg.com",
+        "id": "21e33b0fa8c7ca81df127bb133a5a23bb7fa2752",
+        "title": "Alisahryar1 / 免费克劳德代码 / Alishahryar1 / free-claude-code",
+        "url": "https://github.com/Alishahryar1/free-claude-code",
+        "source": "GitHub · Trending Today",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7ede3d19464f",
+      "title": "得益于AI概览功能，Reddit的流量下降了13%",
+      "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+      "primary_url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f4f2abe07279bd39a191092de74656cb712e507f",
+          "title": "得益于AI概览功能，Reddit的流量下降了13%",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-12T11:35:54.939000Z"
+        },
+        {
+          "id": "0959288010a61d2524871103fd2d70d0df9839c6",
+          "title": "得益于AI概览功能，Reddit的流量下降了13% / Reddit's traffic is down 13%, thanks to Google's AI Overviews",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-12T10:52:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "f4f2abe07279bd39a191092de74656cb712e507f",
+          "title": "得益于AI概览功能，Reddit的流量下降了13%",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-12T11:35:54.939000Z"
+        },
+        {
+          "id": "0959288010a61d2524871103fd2d70d0df9839c6",
+          "title": "得益于AI概览功能，Reddit的流量下降了13% / Reddit's traffic is down 13%, thanks to Google's AI Overviews",
+          "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-12T10:52:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5439,
+      "importance": 0.5439,
+      "importance_score": 0.5439,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9896,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T10:52:01Z",
+      "latest_at": "2026-11-12T11:35:54.939000Z",
+      "primary_item": {
+        "id": "f4f2abe07279bd39a191092de74656cb712e507f",
+        "title": "得益于AI概览功能，Reddit的流量下降了13%",
+        "url": "https://www.businessinsider.com/reddit-traffic-down-13-percent-similarweb-google-ai-overviews-2026-11",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
