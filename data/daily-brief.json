@@ -1,8 +1,70 @@
 {
-  "generated_at": "2026-11-13T01:17:38.599124Z",
+  "generated_at": "2026-11-13T08:22:16.779762Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "aff218038415ee87812e41136d03188eae6f9248",
+          "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "aff218038415ee87812e41136d03188eae6f9248",
+          "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8861,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T00:00:00Z",
+      "latest_at": "2026-11-13T00:00:00Z",
+      "primary_item": {
+        "id": "aff218038415ee87812e41136d03188eae6f9248",
+        "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_a88bddb17214",
       "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
@@ -38,15 +100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8527,
-      "importance": 0.8527,
-      "importance_score": 0.8527,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9148,
+        "recency": 0.8259,
         "story_heat": 0.0
       },
       "category": "official",
@@ -100,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8459,
-      "importance": 0.8459,
-      "importance_score": 0.8459,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9662,
+        "recency": 0.8724,
         "story_heat": 0.0
       },
       "category": "official",
@@ -162,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9264,
+        "recency": 0.8364,
         "story_heat": 0.0
       },
       "category": "official",
@@ -224,15 +286,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9002,
+        "recency": 0.8128,
         "story_heat": 0.0
       },
       "category": "official",
@@ -286,15 +348,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.834,
-      "importance": 0.834,
-      "importance_score": 0.834,
+      "score": 0.8183,
+      "importance": 0.8183,
+      "importance_score": 0.8183,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9,
+        "recency": 0.8126,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,15 +410,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9398,
+        "recency": 0.8485,
         "story_heat": 0.0
       },
       "category": "official",
@@ -373,6 +435,87 @@
         "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_524073fec7c2",
+      "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+      "url": "https://www.aibase.com/news/32309",
+      "primary_url": "https://www.aibase.com/news/32309",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "url": "https://www.aibase.com/news/32309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "1a4844a33884b7c8ec8fe4ccc031d88e9f8f27b2",
+          "title": "Happy 系列再添一员，阿里以端到端整曲生成切入 AI 音乐赛道",
+          "url": "https://www.aibase.com/zh/news/32309",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+          "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+          "url": "https://www.aibase.com/news/32309",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "1a4844a33884b7c8ec8fe4ccc031d88e9f8f27b2",
+          "title": "Happy 系列再添一员，阿里以端到端整曲生成切入 AI 音乐赛道",
+          "url": "https://www.aibase.com/zh/news/32309",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T08:22:16.779762Z",
+      "latest_at": "2026-11-13T08:22:16.779762Z",
+      "primary_item": {
+        "id": "136a9e1e572d91a7083c3efb7c40401233003dda",
+        "title": "\"Happy系列\"再添一员，阿里以端到端整曲生成切入AI音乐赛道",
+        "url": "https://www.aibase.com/news/32309",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -410,15 +553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8286,
-      "importance": 0.8286,
-      "importance_score": 0.8286,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8253,
+        "recency": 0.7451,
         "story_heat": 0.0
       },
       "category": "official",
@@ -472,15 +615,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8093,
+      "importance": 0.8093,
+      "importance_score": 0.8093,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.8574,
+        "recency": 0.7741,
         "story_heat": 0.0
       },
       "category": "official",
@@ -500,62 +643,82 @@
       }
     },
     {
-      "story_id": "story_c38d18eedc9c",
-      "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
-      "url": "https://www.aibase.com/news/32288",
-      "primary_url": "https://www.aibase.com/news/32288",
+      "story_id": "story_8eb03feffba9",
+      "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+      "url": "https://www.aibase.com/news/32310",
+      "primary_url": "https://www.aibase.com/news/32310",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
-          "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
-          "url": "https://www.aibase.com/news/32288",
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "url": "https://www.aibase.com/news/32310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "849c1b96e3fbce05317ba8d23fd1b88eb4a0f0bf",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "url": "https://www.aibase.com/zh/news/32310",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
-          "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
-          "url": "https://www.aibase.com/news/32288",
+          "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "url": "https://www.aibase.com/news/32310",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "849c1b96e3fbce05317ba8d23fd1b88eb4a0f0bf",
+          "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+          "url": "https://www.aibase.com/zh/news/32310",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T01:17:38.599124Z",
-      "latest_at": "2026-11-13T01:17:38.599124Z",
+      "earliest_at": "2026-11-13T08:22:16.779762Z",
+      "latest_at": "2026-11-13T08:22:16.779762Z",
       "primary_item": {
-        "id": "10a3a3f1a980f73753624c7ae1d1c298e5dc630a",
-        "title": "Fireworks AI遭网络攻击，Notion约1%用户聊天记录泄露",
-        "url": "https://www.aibase.com/news/32288",
+        "id": "49ac1b69ce61449203286b1c9fe257311c25fe4a",
+        "title": "Edge0 重磅开源 145B 端侧模型，内存狂省 60% 还能满血写代码",
+        "url": "https://www.aibase.com/news/32310",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -595,15 +758,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7961,
+        "recency": 0.7187,
         "story_heat": 0.0
       },
       "category": "official",
@@ -657,15 +820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8572,
+        "recency": 0.774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -685,184 +848,423 @@
       }
     },
     {
-      "story_id": "story_8ea92ee6dbff",
-      "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
-      "url": "https://www.aibase.com/news/32289",
-      "primary_url": "https://www.aibase.com/news/32289",
+      "story_id": "story_8325a72c1bcb",
+      "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+      "url": "https://www.aibase.com/news/32311",
+      "primary_url": "https://www.aibase.com/news/32311",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
-          "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
-          "url": "https://www.aibase.com/news/32289",
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "url": "https://www.aibase.com/news/32311",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "9edc51abd656643b67a5b4066c93b709a28b0ddf",
+          "title": "OpenAI 上市前夜再融 150 亿美元，估值推至 1.25 万亿美元",
+          "url": "https://www.aibase.com/zh/news/32311",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
-          "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
-          "url": "https://www.aibase.com/news/32289",
+          "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+          "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+          "url": "https://www.aibase.com/news/32311",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "9edc51abd656643b67a5b4066c93b709a28b0ddf",
+          "title": "OpenAI 上市前夜再融 150 亿美元，估值推至 1.25 万亿美元",
+          "url": "https://www.aibase.com/zh/news/32311",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T01:17:38.599124Z",
-      "latest_at": "2026-11-13T01:17:38.599124Z",
+      "earliest_at": "2026-11-13T08:22:16.779762Z",
+      "latest_at": "2026-11-13T08:22:16.779762Z",
       "primary_item": {
-        "id": "15a68e45f7672133af57d3d8e146f49d3e071357",
-        "title": "Google推出Gemini4Hydrogen，全球Search迎来最大模型升级",
-        "url": "https://www.aibase.com/news/32289",
+        "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
+        "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
+        "url": "https://www.aibase.com/news/32311",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_9c40bf72aa75",
-      "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
-      "url": "https://www.aibase.com/news/32290",
-      "primary_url": "https://www.aibase.com/news/32290",
+      "story_id": "story_671b09c61bd2",
+      "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+      "url": "https://www.aibase.com/news/32313",
+      "primary_url": "https://www.aibase.com/news/32313",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e2ddc2de8e8ad8cb86a2912a54fe6f454d08a7de",
-          "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
-          "url": "https://www.aibase.com/news/32290",
+          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "url": "https://www.aibase.com/news/32313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "8e41868582083e38aff27cdb1f704a92c3e45f0b",
+          "title": "OpenAI 机器人业务转向「模型内整合」，具身智能纳入通用基础模型框架",
+          "url": "https://www.aibase.com/zh/news/32313",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "e2ddc2de8e8ad8cb86a2912a54fe6f454d08a7de",
-          "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
-          "url": "https://www.aibase.com/news/32290",
+          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "url": "https://www.aibase.com/news/32313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "8e41868582083e38aff27cdb1f704a92c3e45f0b",
+          "title": "OpenAI 机器人业务转向「模型内整合」，具身智能纳入通用基础模型框架",
+          "url": "https://www.aibase.com/zh/news/32313",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T01:17:38.599124Z",
-      "latest_at": "2026-11-13T01:17:38.599124Z",
+      "earliest_at": "2026-11-13T08:22:16.779762Z",
+      "latest_at": "2026-11-13T08:22:16.779762Z",
       "primary_item": {
-        "id": "e2ddc2de8e8ad8cb86a2912a54fe6f454d08a7de",
-        "title": "Samsung联合Google推出AI智能眼镜，12月10日正式开售",
-        "url": "https://www.aibase.com/news/32290",
+        "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+        "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+        "url": "https://www.aibase.com/news/32313",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_24f04f36615f",
-      "title": "一句\"糟透了\"刷屏领英：开源阵营为英伟达换帅黯然",
-      "url": "https://www.aibase.com/news/32287",
-      "primary_url": "https://www.aibase.com/news/32287",
+      "story_id": "story_9ec5c0fe02ca",
+      "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+      "url": "https://www.aibase.com/news/32305",
+      "primary_url": "https://www.aibase.com/news/32305",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1a59fe7a5ef84d6d7646338bd1c06f81e72dde3e",
-          "title": "一句\"糟透了\"刷屏领英：开源阵营为英伟达换帅黯然",
-          "url": "https://www.aibase.com/news/32287",
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/news/32305",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "818752449c56452427a32caa604c7ac2e368e5dc",
+          "title": "关停五年，「虾米」借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/zh/news/32305",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "1a59fe7a5ef84d6d7646338bd1c06f81e72dde3e",
-          "title": "一句\"糟透了\"刷屏领英：开源阵营为英伟达换帅黯然",
-          "url": "https://www.aibase.com/news/32287",
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/news/32305",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "818752449c56452427a32caa604c7ac2e368e5dc",
+          "title": "关停五年，「虾米」借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/zh/news/32305",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T01:17:38.599124Z",
-      "latest_at": "2026-11-13T01:17:38.599124Z",
+      "earliest_at": "2026-11-13T08:22:16.779762Z",
+      "latest_at": "2026-11-13T08:22:16.779762Z",
       "primary_item": {
-        "id": "1a59fe7a5ef84d6d7646338bd1c06f81e72dde3e",
-        "title": "一句\"糟透了\"刷屏领英：开源阵营为英伟达换帅黯然",
-        "url": "https://www.aibase.com/news/32287",
+        "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+        "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+        "url": "https://www.aibase.com/news/32305",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5c8a7e2ce9e4",
+      "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+      "primary_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
+          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-12T17:36:40Z"
+        },
+        {
+          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
+          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-12T18:17:29Z"
+        },
+        {
+          "id": "24f63d7e06f06770b56cf7ed699e4599ab31133e",
+          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-12T17:36:40Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
+          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-12T17:36:40Z"
+        },
+        {
+          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
+          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-12T18:17:29Z"
+        },
+        {
+          "id": "24f63d7e06f06770b56cf7ed699e4599ab31133e",
+          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
+          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-12T17:36:40Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6517,
+      "importance": 0.6517,
+      "importance_score": 0.6517,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.5688,
+        "source_tier": 0.58,
+        "ai_relevance": 0.79,
+        "recency": 0.808,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-12T17:36:40Z",
+      "latest_at": "2026-11-12T18:17:29Z",
+      "primary_item": {
+        "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
+        "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
+        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_20109b501db8",
+      "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+      "url": "https://www.aibase.com/news/32306",
+      "primary_url": "https://www.aibase.com/news/32306",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "url": "https://www.aibase.com/news/32306",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "81643533e39fe34a75926dc7dcc028b9288d5075",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "url": "https://www.aibase.com/zh/news/32306",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "url": "https://www.aibase.com/news/32306",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "81643533e39fe34a75926dc7dcc028b9288d5075",
+          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+          "url": "https://www.aibase.com/zh/news/32306",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T08:22:16.779762Z",
+      "latest_at": "2026-11-13T08:22:16.779762Z",
+      "primary_item": {
+        "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
+        "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
+        "url": "https://www.aibase.com/news/32306",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -992,15 +1394,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6565,
-      "importance": 0.6565,
-      "importance_score": 0.6565,
+      "score": 0.6403,
+      "importance": 0.6403,
+      "importance_score": 0.6403,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9295,
+        "recency": 0.8392,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1018,208 +1420,68 @@
       }
     },
     {
-      "story_id": "story_d40a860b4811",
-      "title": "英伟达创始人黄仁勋卸任总裁与CEO",
-      "url": "https://www.aibase.com/news/32291",
-      "primary_url": "https://www.aibase.com/news/32291",
+      "story_id": "story_ffbf4451391c",
+      "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+      "url": "https://www.aibase.com/news/32314",
+      "primary_url": "https://www.aibase.com/news/32314",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "253a98c54a26812591ebc070af3fadbac32608a1",
-          "title": "英伟达创始人黄仁勋卸任总裁与CEO",
-          "url": "https://www.aibase.com/news/32291",
+          "id": "a5364afe70588a4c086bf840f190d495981effff",
+          "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "url": "https://www.aibase.com/news/32314",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "4db310ef9661a7175ef4aef30460bdd9a8a45c23",
+          "title": "无需显卡也能跑！40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "url": "https://www.aibase.com/zh/news/32314",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "253a98c54a26812591ebc070af3fadbac32608a1",
-          "title": "英伟达创始人黄仁勋卸任总裁与CEO",
-          "url": "https://www.aibase.com/news/32291",
+          "id": "a5364afe70588a4c086bf840f190d495981effff",
+          "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "url": "https://www.aibase.com/news/32314",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-13T01:17:38.599124Z"
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "4db310ef9661a7175ef4aef30460bdd9a8a45c23",
+          "title": "无需显卡也能跑！40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+          "url": "https://www.aibase.com/zh/news/32314",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T01:17:38.599124Z",
-      "latest_at": "2026-11-13T01:17:38.599124Z",
-      "primary_item": {
-        "id": "253a98c54a26812591ebc070af3fadbac32608a1",
-        "title": "英伟达创始人黄仁勋卸任总裁与CEO",
-        "url": "https://www.aibase.com/news/32291",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5c8a7e2ce9e4",
-      "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-      "primary_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-12T17:36:40Z"
-        },
-        {
-          "id": "24f63d7e06f06770b56cf7ed699e4599ab31133e",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-12T17:36:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-12T17:36:40Z"
-        },
-        {
-          "id": "24f63d7e06f06770b56cf7ed699e4599ab31133e",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-12T17:36:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6423,
-      "importance": 0.6423,
-      "importance_score": 0.6423,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.895,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-12T17:36:40Z",
-      "latest_at": "2026-11-12T17:36:40Z",
-      "primary_item": {
-        "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
-        "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_6327fe668953",
-      "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-      "url": "https://www.aibase.com/news/32285",
-      "primary_url": "https://www.aibase.com/news/32285",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
-          "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-          "url": "https://www.aibase.com/news/32285",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T12:19:09.413218Z"
-        },
-        {
-          "id": "461b43edbc3b87999256967bc56ca864a8b810cf",
-          "title": "单张消费级显卡跑出 60FPS 游戏世界：Matrix-Game4.0 上线 Reactor，浏览器里「边玩边生成」",
-          "url": "https://www.aibase.com/zh/news/32285",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
-          "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-          "url": "https://www.aibase.com/news/32285",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T12:19:09.413218Z"
-        },
-        {
-          "id": "461b43edbc3b87999256967bc56ca864a8b810cf",
-          "title": "单张消费级显卡跑出 60FPS 游戏世界：Matrix-Game4.0 上线 Reactor，浏览器里「边玩边生成」",
-          "url": "https://www.aibase.com/zh/news/32285",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8291,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1228,174 +1490,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T12:19:09.413218Z",
-      "latest_at": "2026-11-12T12:19:09.413218Z",
+      "earliest_at": "2026-11-13T08:22:16.779762Z",
+      "latest_at": "2026-11-13T08:22:16.779762Z",
       "primary_item": {
-        "id": "047ce37bf05f2bc7da070279646f6be439a6fe69",
-        "title": "单张消费级显卡跑出60FPS游戏世界:Matrix-Game4.0上线Reactor，浏览器里「边玩边生成",
-        "url": "https://www.aibase.com/news/32285",
+        "id": "a5364afe70588a4c086bf840f190d495981effff",
+        "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
+        "url": "https://www.aibase.com/news/32314",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bedf0d048592",
-      "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
-      "url": "https://www.aibase.com/news/32277",
-      "primary_url": "https://www.aibase.com/news/32277",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "dabb9a17e930adf40a3de6d7d6e57fd8aef800f0",
-          "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
-          "url": "https://www.aibase.com/news/32277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T12:19:09.413218Z"
-        },
-        {
-          "id": "a016e824f73fe5a289228eb19c2bf0d8cbab3dc1",
-          "title": "火山引擎推出 Seedance2.5flash：生成速度翻倍，720P 约 0.99 元/秒、较旗舰降低 34%",
-          "url": "https://www.aibase.com/zh/news/32277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "dabb9a17e930adf40a3de6d7d6e57fd8aef800f0",
-          "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
-          "url": "https://www.aibase.com/news/32277",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-12T12:19:09.413218Z"
-        },
-        {
-          "id": "a016e824f73fe5a289228eb19c2bf0d8cbab3dc1",
-          "title": "火山引擎推出 Seedance2.5flash：生成速度翻倍，720P 约 0.99 元/秒、较旗舰降低 34%",
-          "url": "https://www.aibase.com/zh/news/32277",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8291,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T12:19:09.413218Z",
-      "latest_at": "2026-11-12T12:19:09.413218Z",
-      "primary_item": {
-        "id": "dabb9a17e930adf40a3de6d7d6e57fd8aef800f0",
-        "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
-        "url": "https://www.aibase.com/news/32277",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_81a19eccc61c",
-      "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-      "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
-      "primary_url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
-      "source": "InfoQ CN",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "444a5aac0ecfe48d3c2d7044ab641b0b4332cce4",
-          "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-          "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-12T11:00:00Z"
-        },
-        {
-          "id": "178ad9b73f05a8119ae4c43fd05cf649e9d68a2b",
-          "title": "刚刚，谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-          "url": "https://www.36kr.com/p/4065770698331011",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-11-12T12:19:09.413218Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "InfoQ CN"
-      ],
-      "items": [
-        {
-          "id": "444a5aac0ecfe48d3c2d7044ab641b0b4332cce4",
-          "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-          "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
-          "source": "InfoQ CN",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-11-12T11:00:00Z"
-        },
-        {
-          "id": "178ad9b73f05a8119ae4c43fd05cf649e9d68a2b",
-          "title": "刚刚，谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-          "url": "https://www.36kr.com/p/4065770698331011",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": "2026-11-12T12:19:09.413218Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5768,
-      "importance": 0.5768,
-      "importance_score": 0.5768,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5112,
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.8135,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-12T11:00:00Z",
-      "latest_at": "2026-11-12T12:19:09.413218Z",
-      "primary_item": {
-        "id": "444a5aac0ecfe48d3c2d7044ab641b0b4332cce4",
-        "title": "谷歌发布首款决策模型 Gemini Decision 1：9 项测试拿下 7 项第一，准确率最高92.2%",
-        "url": "https://www.infoq.cn/article/E7QKIMUz3h0G0IE5Paii",
-        "source": "InfoQ CN",
-        "source_name": "OPML RSS"
       }
     }
   ]
