@@ -1,8 +1,152 @@
 {
-  "generated_at": "2026-11-13T08:22:16.779762Z",
+  "generated_at": "2026-11-13T16:38:06.747361Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_40e78db6601d",
+      "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z"
+        },
+        {
+          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
+          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T14:05:22Z"
+        },
+        {
+          "id": "9f853de54633dc07aea35625c7f0fa25e308ae8c",
+          "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8785,
+      "importance": 0.8785,
+      "importance_score": 0.8785,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9639,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T14:05:22Z",
+      "latest_at": "2026-11-13T16:38:06.747361Z",
+      "primary_item": {
+        "id": "bcbd298040993e9d4bac15c4692e29755582d4bb",
+        "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5bf4951adbe9",
+      "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+          "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+          "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
+          "url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8558,
+      "importance": 0.8558,
+      "importance_score": 0.8558,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9767,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T15:00:00Z",
+      "latest_at": "2026-11-13T15:00:00Z",
+      "primary_item": {
+        "id": "79d6c8d87c30dafcc370eb46110431b59109dba0",
+        "title": "ChatGPT 钱包简介 / Introducing ChatGPT Wallet",
+        "url": "https://openai.com/index/introducing-chatgpt-wallet",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_91992ed9f82d",
       "title": "法典 CLI 0.168.0 / Codex CLI 0.168.0",
@@ -19,9 +163,18 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-13T00:00:00Z"
+        },
+        {
+          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
+          "title": "法典 CLI 0.169.0 / Codex CLI 0.169.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "OpenAI Codex Changelog"
       ],
@@ -34,24 +187,34 @@
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-13T00:00:00Z"
+        },
+        {
+          "id": "ca218b41e4defe86f033e3116698e1f72c7ff25f",
+          "title": "法典 CLI 0.169.0 / Codex CLI 0.169.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8526,
+      "importance": 0.8526,
+      "importance_score": 0.8526,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8861,
-        "story_heat": 0.0
+        "recency": 0.7865,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -66,49 +229,49 @@
       }
     },
     {
-      "story_id": "story_a88bddb17214",
-      "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face Blog",
+      "story_id": "story_fba640cc6c89",
+      "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
+      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face Blog",
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z"
+          "published_at": "2026-11-13T12:22:41Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face Blog",
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z"
+          "published_at": "2026-11-13T12:22:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8367,
-      "importance": 0.8367,
-      "importance_score": 0.8367,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8259,
+        "ai_relevance": 0.87,
+        "recency": 0.9404,
         "story_heat": 0.0
       },
       "category": "official",
@@ -117,13 +280,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T19:07:35Z",
-      "latest_at": "2026-11-12T19:07:35Z",
+      "earliest_at": "2026-11-13T12:22:41Z",
+      "latest_at": "2026-11-13T12:22:41Z",
       "primary_item": {
-        "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-        "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-        "source": "Hugging Face Blog",
+        "id": "80ac462642d08ac454ccc85158579adc912e472c",
+        "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
+        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8724,
+        "recency": 0.7742,
         "story_heat": 0.0
       },
       "category": "official",
@@ -186,68 +349,6 @@
         "title": "构建一次，在任何代理上运行：代理技能实用指南 / Build once, run on any agent: A practical guide to agent skills",
         "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5b0f73df89a6",
-      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "primary_url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8364,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T20:00:00Z",
-      "latest_at": "2026-11-12T20:00:00Z",
-      "primary_item": {
-        "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-        "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "url": "https://openai.com/business/customer-stories/amplitude",
-        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -286,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8128,
+        "recency": 0.7213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,15 +449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8126,
+        "recency": 0.7212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -372,6 +473,211 @@
         "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
         "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
         "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5851583e8c62",
+      "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+      "url": "https://www.aibase.com/news/32320",
+      "primary_url": "https://www.aibase.com/news/32320",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "url": "https://www.aibase.com/news/32320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:38:06.747361Z"
+        },
+        {
+          "id": "2f547a924f2ec5d443e66d36c93c144e07f104c2",
+          "title": "腾讯混元发布实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "url": "https://www.aibase.com/zh/news/32320",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+          "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "url": "https://www.aibase.com/news/32320",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:38:06.747361Z"
+        },
+        {
+          "id": "2f547a924f2ec5d443e66d36c93c144e07f104c2",
+          "title": "腾讯混元发布实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+          "url": "https://www.aibase.com/zh/news/32320",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T16:38:06.747361Z",
+      "latest_at": "2026-11-13T16:38:06.747361Z",
+      "primary_item": {
+        "id": "6c71f2d9404d8bd44d517c143c5be2aaac6dc151",
+        "title": "腾讯混元甩出实时语音模型 Hy Realtime，会聊天、能唱歌、还会自己联网搜",
+        "url": "https://www.aibase.com/news/32320",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a88bddb17214",
+      "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "primary_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
+          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T19:07:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
+          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T19:07:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.733,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T19:07:35Z",
+      "latest_at": "2026-11-12T19:07:35Z",
+      "primary_item": {
+        "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
+        "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5b0f73df89a6",
+      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "primary_url": "https://openai.com/business/customer-stories/amplitude",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
+          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T20:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
+          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+          "url": "https://openai.com/business/customer-stories/amplitude",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-12T20:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7423,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T20:00:00Z",
+      "latest_at": "2026-11-12T20:00:00Z",
+      "primary_item": {
+        "id": "d2e600269211fcf0b2ff48eb378c860934402231",
+        "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
+        "url": "https://openai.com/business/customer-stories/amplitude",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -410,15 +716,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.7995,
+      "importance": 0.7995,
+      "importance_score": 0.7995,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8485,
+        "recency": 0.753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,6 +741,87 @@
         "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_866eb7e208fb",
+      "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+      "url": "https://www.aibase.com/news/32317",
+      "primary_url": "https://www.aibase.com/news/32317",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "url": "https://www.aibase.com/news/32317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:33:06.747361Z"
+        },
+        {
+          "id": "910c388ba88264abdab8b71511538601330598bb",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "url": "https://www.aibase.com/zh/news/32317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "url": "https://www.aibase.com/news/32317",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T16:33:06.747361Z"
+        },
+        {
+          "id": "910c388ba88264abdab8b71511538601330598bb",
+          "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+          "url": "https://www.aibase.com/zh/news/32317",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9988,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T16:33:06.747361Z",
+      "latest_at": "2026-11-13T16:38:06.747361Z",
+      "primary_item": {
+        "id": "ee4aaa679e98087c80ff158622f4098bfffbaa6b",
+        "title": "Claude 辅助完成 19 万行代码，成功对三元哥德巴赫猜想进行形式化证明",
+        "url": "https://www.aibase.com/news/32317",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -491,15 +878,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8875,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -516,130 +903,6 @@
         "url": "https://www.aibase.com/news/32309",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_90d79223706e",
-      "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "primary_url": "https://openai.com/business/customer-stories/gondola",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
-          "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
-          "url": "https://openai.com/business/customer-stories/gondola",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
-          "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
-          "url": "https://openai.com/business/customer-stories/gondola",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7451,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T12:00:00Z",
-      "latest_at": "2026-11-12T12:00:00Z",
-      "primary_item": {
-        "id": "dfeb0701c225eb17c75b9ca5eec91c163d3c6cee",
-        "title": "Gondola 团队利用 Codex 打造更多产品，收入翻倍 / Gondola doubles revenue as its team builds more with Codex",
-        "url": "https://openai.com/business/customer-stories/gondola",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_500bc7867e53",
-      "title": "秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens",
-      "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-      "primary_url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d0bbcebd0d0a8a6e6663dde62d4b522b4e7af95",
-          "title": "秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens",
-          "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:38:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0d0bbcebd0d0a8a6e6663dde62d4b522b4e7af95",
-          "title": "秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens",
-          "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:38:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.7741,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T14:38:25Z",
-      "latest_at": "2026-11-12T14:38:25Z",
-      "primary_item": {
-        "id": "0d0bbcebd0d0a8a6e6663dde62d4b522b4e7af95",
-        "title": "秘密扫描检测 Cloudflare 服务令牌 / Secret scanning detects Cloudflare service tokens",
-        "url": "https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -696,15 +959,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8875,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -721,130 +984,6 @@
         "url": "https://www.aibase.com/news/32310",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0990939c7d6e",
-      "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "primary_url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "56ac938b70352617ddc35b273b898745281efb48",
-          "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T09:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "56ac938b70352617ddc35b273b898745281efb48",
-          "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-          "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T09:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7187,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T09:30:00Z",
-      "latest_at": "2026-11-12T09:30:00Z",
-      "primary_item": {
-        "id": "56ac938b70352617ddc35b273b898745281efb48",
-        "title": "Holiday Extras 正在重新思考可以使用 Codex 构建什么 / Holiday Extras is rethinking what it can build with Codex",
-        "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_95156f597c41",
-      "title": "公共监控警报现在有直接链接 / Public monitoring alerts now have direct links",
-      "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-      "primary_url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7fc9f03badb9a0501d1a1bc3b25acdf189ad580d",
-          "title": "公共监控警报现在有直接链接 / Public monitoring alerts now have direct links",
-          "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:37:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7fc9f03badb9a0501d1a1bc3b25acdf189ad580d",
-          "title": "公共监控警报现在有直接链接 / Public monitoring alerts now have direct links",
-          "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T14:37:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.774,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T14:37:38Z",
-      "latest_at": "2026-11-12T14:37:38Z",
-      "primary_item": {
-        "id": "7fc9f03badb9a0501d1a1bc3b25acdf189ad580d",
-        "title": "公共监控警报现在有直接链接 / Public monitoring alerts now have direct links",
-        "url": "https://github.blog/changelog/2026-11-12-public-monitoring-alerts-now-have-direct-links",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -901,15 +1040,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8875,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -924,168 +1063,6 @@
         "id": "44c340aa9909a1002a3fb8bf70d25b553528ee8f",
         "title": "OpenAI 上市前夜再融 150 亿,估值推到 1.25 万亿美元",
         "url": "https://www.aibase.com/news/32311",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_671b09c61bd2",
-      "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
-      "url": "https://www.aibase.com/news/32313",
-      "primary_url": "https://www.aibase.com/news/32313",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
-          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
-          "url": "https://www.aibase.com/news/32313",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:22:16.779762Z"
-        },
-        {
-          "id": "8e41868582083e38aff27cdb1f704a92c3e45f0b",
-          "title": "OpenAI 机器人业务转向「模型内整合」，具身智能纳入通用基础模型框架",
-          "url": "https://www.aibase.com/zh/news/32313",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
-          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
-          "url": "https://www.aibase.com/news/32313",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:22:16.779762Z"
-        },
-        {
-          "id": "8e41868582083e38aff27cdb1f704a92c3e45f0b",
-          "title": "OpenAI 机器人业务转向「模型内整合」，具身智能纳入通用基础模型框架",
-          "url": "https://www.aibase.com/zh/news/32313",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T08:22:16.779762Z",
-      "latest_at": "2026-11-13T08:22:16.779762Z",
-      "primary_item": {
-        "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
-        "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
-        "url": "https://www.aibase.com/news/32313",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_9ec5c0fe02ca",
-      "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-      "url": "https://www.aibase.com/news/32305",
-      "primary_url": "https://www.aibase.com/news/32305",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
-          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-          "url": "https://www.aibase.com/news/32305",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:22:16.779762Z"
-        },
-        {
-          "id": "818752449c56452427a32caa604c7ac2e368e5dc",
-          "title": "关停五年，「虾米」借 AI 还魂：阿里 30 元推出快乐虾米",
-          "url": "https://www.aibase.com/zh/news/32305",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
-          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-          "url": "https://www.aibase.com/news/32305",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:22:16.779762Z"
-        },
-        {
-          "id": "818752449c56452427a32caa604c7ac2e368e5dc",
-          "title": "关停五年，「虾米」借 AI 还魂：阿里 30 元推出快乐虾米",
-          "url": "https://www.aibase.com/zh/news/32305",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T08:22:16.779762Z",
-      "latest_at": "2026-11-13T08:22:16.779762Z",
-      "primary_item": {
-        "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
-        "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
-        "url": "https://www.aibase.com/news/32305",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1163,15 +1140,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6517,
-      "importance": 0.6517,
-      "importance_score": 0.6517,
+      "score": 0.6353,
+      "importance": 0.6353,
+      "importance_score": 0.6353,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.808,
+        "recency": 0.7171,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1186,87 +1163,6 @@
         "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_20109b501db8",
-      "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-      "url": "https://www.aibase.com/news/32306",
-      "primary_url": "https://www.aibase.com/news/32306",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
-          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "url": "https://www.aibase.com/news/32306",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:22:16.779762Z"
-        },
-        {
-          "id": "81643533e39fe34a75926dc7dcc028b9288d5075",
-          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "url": "https://www.aibase.com/zh/news/32306",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
-          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "url": "https://www.aibase.com/news/32306",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-13T08:22:16.779762Z"
-        },
-        {
-          "id": "81643533e39fe34a75926dc7dcc028b9288d5075",
-          "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-          "url": "https://www.aibase.com/zh/news/32306",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-13T08:22:16.779762Z",
-      "latest_at": "2026-11-13T08:22:16.779762Z",
-      "primary_item": {
-        "id": "5dce9020cef57f6a72d1e6ca173f1c1f5f27d54b",
-        "title": "微软给 AI 算力的电费账单：不蹭补贴，也不让邻居买单",
-        "url": "https://www.aibase.com/news/32306",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1394,15 +1290,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6403,
-      "importance": 0.6403,
-      "importance_score": 0.6403,
+      "score": 0.6233,
+      "importance": 0.6233,
+      "importance_score": 0.6233,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8392,
+        "recency": 0.7448,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1420,26 +1316,26 @@
       }
     },
     {
-      "story_id": "story_ffbf4451391c",
-      "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-      "url": "https://www.aibase.com/news/32314",
-      "primary_url": "https://www.aibase.com/news/32314",
+      "story_id": "story_671b09c61bd2",
+      "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+      "url": "https://www.aibase.com/news/32313",
+      "primary_url": "https://www.aibase.com/news/32313",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a5364afe70588a4c086bf840f190d495981effff",
-          "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "url": "https://www.aibase.com/news/32314",
+          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "url": "https://www.aibase.com/news/32313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-13T08:22:16.779762Z"
         },
         {
-          "id": "4db310ef9661a7175ef4aef30460bdd9a8a45c23",
-          "title": "无需显卡也能跑！40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "url": "https://www.aibase.com/zh/news/32314",
+          "id": "8e41868582083e38aff27cdb1f704a92c3e45f0b",
+          "title": "OpenAI 机器人业务转向「模型内整合」，具身智能纳入通用基础模型框架",
+          "url": "https://www.aibase.com/zh/news/32313",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1453,18 +1349,18 @@
       ],
       "items": [
         {
-          "id": "a5364afe70588a4c086bf840f190d495981effff",
-          "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "url": "https://www.aibase.com/news/32314",
+          "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+          "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+          "url": "https://www.aibase.com/news/32313",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
           "published_at": "2026-11-13T08:22:16.779762Z"
         },
         {
-          "id": "4db310ef9661a7175ef4aef30460bdd9a8a45c23",
-          "title": "无需显卡也能跑！40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-          "url": "https://www.aibase.com/zh/news/32314",
+          "id": "8e41868582083e38aff27cdb1f704a92c3e45f0b",
+          "title": "OpenAI 机器人业务转向「模型内整合」，具身智能纳入通用基础模型框架",
+          "url": "https://www.aibase.com/zh/news/32313",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -1473,15 +1369,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8875,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1493,11 +1389,190 @@
       "earliest_at": "2026-11-13T08:22:16.779762Z",
       "latest_at": "2026-11-13T08:22:16.779762Z",
       "primary_item": {
-        "id": "a5364afe70588a4c086bf840f190d495981effff",
-        "title": "无需显卡也能跑！ 40 核老旧服务器硬刚 2.8 万亿参数大模型，傲腾内存成破局利器",
-        "url": "https://www.aibase.com/news/32314",
+        "id": "a68819bbd3f2f97cbe9a532871a2b4098f183d7a",
+        "title": "OpenAI机器人业务转向\"模型内整合\"，具身智能纳入通用基础模型框架",
+        "url": "https://www.aibase.com/news/32313",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9ec5c0fe02ca",
+      "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+      "url": "https://www.aibase.com/news/32305",
+      "primary_url": "https://www.aibase.com/news/32305",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/news/32305",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "818752449c56452427a32caa604c7ac2e368e5dc",
+          "title": "关停五年，「虾米」借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/zh/news/32305",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+          "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/news/32305",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-13T08:22:16.779762Z"
+        },
+        {
+          "id": "818752449c56452427a32caa604c7ac2e368e5dc",
+          "title": "关停五年，「虾米」借 AI 还魂：阿里 30 元推出快乐虾米",
+          "url": "https://www.aibase.com/zh/news/32305",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8875,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T08:22:16.779762Z",
+      "latest_at": "2026-11-13T08:22:16.779762Z",
+      "primary_item": {
+        "id": "b91c8141e940ccc92e2ab740014c5f22262dc240",
+        "title": "关停五年，\"虾米\"借 AI 还魂：阿里 30 元推出快乐虾米",
+        "url": "https://www.aibase.com/news/32305",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
+          "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T15:08:44Z"
+        },
+        {
+          "id": "2d362152faee7a28aad3a2f174c9656de3bd2994",
+          "title": "Show HN: Clozemaster MCP 服务器，可将课堂笔记转换为填空句",
+          "url": "https://www.youtube.com/watch?v=mN1eZl0hKTQ",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T14:59:55.047000Z"
+        },
+        {
+          "id": "a2bdc41eb2f6197e217e871614a0da6aa5e31cde",
+          "title": "黄仁勋的垮台：英伟达的贪婪和腐败 [视频] / The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
+          "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T13:45:06Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
+          "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T15:08:44Z"
+        },
+        {
+          "id": "2d362152faee7a28aad3a2f174c9656de3bd2994",
+          "title": "Show HN: Clozemaster MCP 服务器，可将课堂笔记转换为填空句",
+          "url": "https://www.youtube.com/watch?v=mN1eZl0hKTQ",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T14:59:55.047000Z"
+        },
+        {
+          "id": "a2bdc41eb2f6197e217e871614a0da6aa5e31cde",
+          "title": "黄仁勋的垮台：英伟达的贪婪和腐败 [视频] / The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
+          "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T13:45:06Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.567,
+      "importance": 0.567,
+      "importance_score": 0.567,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9787,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T13:45:06Z",
+      "latest_at": "2026-11-13T15:08:44Z",
+      "primary_item": {
+        "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
+        "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+        "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
