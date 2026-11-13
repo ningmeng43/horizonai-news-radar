@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T16:38:06.747361Z",
+  "generated_at": "2026-11-13T22:19:26.987904Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8785,
-      "importance": 0.8785,
-      "importance_score": 0.8785,
+      "score": 0.8648,
+      "importance": 0.8648,
+      "importance_score": 0.8648,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9639,
+        "recency": 0.8879,
         "story_heat": 0.25
       },
       "category": "official",
@@ -82,6 +82,68 @@
         "title": "llama.cpp v1.0.0：为本地 AI 生态打造更坚实的基础 / llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
         "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e8c3c469932b",
+      "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
+          "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T18:23:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
+          "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T18:23:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8501,
+      "importance": 0.8501,
+      "importance_score": 0.8501,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9449,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T18:23:48Z",
+      "latest_at": "2026-11-13T18:23:48Z",
+      "primary_item": {
+        "id": "fe5b53054d8620e562361ac2fbde39fb583c7f55",
+        "title": "GitHub Copilot 中的 Gemini 4 Hydrogen / Gemini 4 Hydrogen in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -120,15 +182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8558,
-      "importance": 0.8558,
-      "importance_score": 0.8558,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9767,
+        "recency": 0.8996,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,15 +262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8526,
-      "importance": 0.8526,
-      "importance_score": 0.8526,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7865,
+        "recency": 0.7244,
         "story_heat": 0.25
       },
       "category": "official",
@@ -229,49 +291,49 @@
       }
     },
     {
-      "story_id": "story_fba640cc6c89",
-      "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
-      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-      "source": "GitHub Changelog",
+      "story_id": "story_2427bacb74a9",
+      "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "primary_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-          "source": "GitHub Changelog",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z"
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "80ac462642d08ac454ccc85158579adc912e472c",
-          "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
-          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
-          "source": "GitHub Changelog",
+          "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+          "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-13T12:22:41Z"
+          "published_at": "2026-11-13T18:00:39Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
+      "score": 0.8551,
+      "importance": 0.8551,
+      "importance_score": 0.8551,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9404,
+        "ai_relevance": 0.98,
+        "recency": 0.9396,
         "story_heat": 0.0
       },
       "category": "official",
@@ -280,12 +342,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-13T12:22:41Z",
-      "latest_at": "2026-11-13T12:22:41Z",
+      "earliest_at": "2026-11-13T18:00:39Z",
+      "latest_at": "2026-11-13T18:00:39Z",
       "primary_item": {
-        "id": "80ac462642d08ac454ccc85158579adc912e472c",
-        "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
-        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+        "id": "8d6047526ff3cf385f3c1d78c8bc353a3d3b4442",
+        "title": "使用 SimReady Assets 构建机器人拾放模拟 / Build a Robot Pick-and-Place Simulation with SimReady Assets",
+        "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bc1ca702be31",
+      "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+      "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "primary_url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T20:40:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+          "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+          "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T20:40:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9764,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T20:40:05Z",
+      "latest_at": "2026-11-13T20:40:05Z",
+      "primary_item": {
+        "id": "28a35c9276d4f91ecf4c3f72520016072b08a540",
+        "title": "即将于 12 月弃用选定的 GitHub Copilot 模型 / Upcoming deprecation of selected GitHub Copilot models in December",
+        "url": "https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -325,15 +449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8114,
-      "importance": 0.8114,
-      "importance_score": 0.8114,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7742,
+        "recency": 0.7132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -353,49 +477,49 @@
       }
     },
     {
-      "story_id": "story_a8d5fa7d24b3",
-      "title": "Gemini 4 氢简介 / Introducing Gemini 4 Hydrogen",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-      "source": "Google DeepMind",
+      "story_id": "story_8400bdfe1e2a",
+      "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "primary_url": "https://huggingface.co/blog/allenai/xybench",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Gemini 4 氢简介 / Introducing Gemini 4 Hydrogen",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z"
+          "published_at": "2026-11-13T17:02:35Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google DeepMind"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-          "title": "Gemini 4 氢简介 / Introducing Gemini 4 Hydrogen",
-          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-          "source": "Google DeepMind",
+          "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+          "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:50Z"
+          "published_at": "2026-11-13T17:02:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.8468,
+      "importance": 0.8468,
+      "importance_score": 0.8468,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7213,
+        "ai_relevance": 0.95,
+        "recency": 0.9266,
         "story_heat": 0.0
       },
       "category": "official",
@@ -404,60 +528,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T18:00:50Z",
-      "latest_at": "2026-11-12T18:00:50Z",
+      "earliest_at": "2026-11-13T17:02:35Z",
+      "latest_at": "2026-11-13T17:02:35Z",
       "primary_item": {
-        "id": "b34c08f782fded4636a008af35f2c436dadb3378",
-        "title": "Gemini 4 氢简介 / Introducing Gemini 4 Hydrogen",
-        "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen",
-        "source": "Google DeepMind",
+        "id": "0288890466b70d4405f5ca3f04df63e831a672c4",
+        "title": "XYBench：帮助解决问题背后的问题 / XYBench: Helping with the problem behind the question",
+        "url": "https://huggingface.co/blog/allenai/xybench",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_ad614f81e42f",
-      "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-      "source": "Google AI Blog",
+      "story_id": "story_18a36c2817e7",
+      "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
+          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+          "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z"
+          "published_at": "2026-11-13T18:27:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google AI Blog"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-          "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-          "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-          "source": "Google AI Blog",
+          "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+          "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-12T18:00:00Z"
+          "published_at": "2026-11-13T18:27:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8018,
-      "importance": 0.8018,
-      "importance_score": 0.8018,
+      "score": 0.8422,
+      "importance": 0.8422,
+      "importance_score": 0.8422,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7212,
+        "recency": 0.9456,
         "story_heat": 0.0
       },
       "category": "official",
@@ -466,13 +590,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-12T18:00:00Z",
-      "latest_at": "2026-11-12T18:00:00Z",
+      "earliest_at": "2026-11-13T18:27:13Z",
+      "latest_at": "2026-11-13T18:27:13Z",
       "primary_item": {
-        "id": "03719f1fd6e64a9470023a98f1e536510b22e278",
-        "title": "Google 搜索借助 Gemini 4 Hydrogen 进行重大升级 / Google Search gets a major upgrade with Gemini 4 Hydrogen",
-        "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
-        "source": "Google AI Blog",
+        "id": "5604e5218e704ab0923f3e11bbf18855021b2111",
+        "title": "GitHub Copilot 应用程序中的 GitHub Enterprise Server 支持 / GitHub Enterprise Server support in the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -530,15 +654,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9211,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -555,192 +679,6 @@
         "url": "https://www.aibase.com/news/32320",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a88bddb17214",
-      "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-          "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T19:07:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.733,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T19:07:35Z",
-      "latest_at": "2026-11-12T19:07:35Z",
-      "primary_item": {
-        "id": "5ee60a5fec278e19a9794d755f7abb1e9df220f3",
-        "title": "LLMON：一种 LLM 原生标记语言，现在在 Granite 4.1 3B 和 8B 中 / LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5b0f73df89a6",
-      "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "primary_url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-          "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-          "url": "https://openai.com/business/customer-stories/amplitude",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7423,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T20:00:00Z",
-      "latest_at": "2026-11-12T20:00:00Z",
-      "primary_item": {
-        "id": "d2e600269211fcf0b2ff48eb378c860934402231",
-        "title": "Amplitude 如何利用 OpenAI 在 1-2 天内改进产品 / How Amplitude ships product improvements in 1–2 days with OpenAI",
-        "url": "https://openai.com/business/customer-stories/amplitude",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_05a61ad7e4a9",
-      "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-      "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
-      "primary_url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
-          "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-          "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:59:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
-          "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-          "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-12T20:59:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.753,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-12T20:59:36Z",
-      "latest_at": "2026-11-12T20:59:36Z",
-      "primary_item": {
-        "id": "a430ab318ee82e09e7e7acfe5bb7e80b73b6f481",
-        "title": "ARM32 Linux 和 Windows 退役的行动 / Actions for ARM32 Linux & Windows retirement",
-        "url": "https://github.blog/changelog/2026-11-12-actions-for-arm32-linux-windows-retirement",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -797,15 +735,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
+      "score": 0.7782,
+      "importance": 0.7782,
+      "importance_score": 0.7782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9988,
+        "recency": 0.92,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -822,6 +760,68 @@
         "url": "https://www.aibase.com/news/32317",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_fba640cc6c89",
+      "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
+      "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T12:22:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "80ac462642d08ac454ccc85158579adc912e472c",
+          "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
+          "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-13T12:22:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8662,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-13T12:22:41Z",
+      "latest_at": "2026-11-13T12:22:41Z",
+      "primary_item": {
+        "id": "80ac462642d08ac454ccc85158579adc912e472c",
+        "title": "使用 REST API 管理存储库的 AI Scan / Manage AI Scan for repositories using the REST API",
+        "url": "https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -878,15 +878,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8875,
+        "recency": 0.8175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -959,15 +959,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8875,
+        "recency": 0.8175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -984,6 +984,85 @@
         "url": "https://www.aibase.com/news/32310",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f17748102e2c",
+      "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "primary_url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "01243e8890326cbc6dad58f0babc7f553d980032",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-13T18:40:30Z"
+        },
+        {
+          "id": "432c078816438f63601a8a6739b57cbd88848b25",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T18:40:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "01243e8890326cbc6dad58f0babc7f553d980032",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-13T18:40:30Z"
+        },
+        {
+          "id": "432c078816438f63601a8a6739b57cbd88848b25",
+          "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃哦，Jensen！ / Export-banned Nvidia chips are behind China’s most powerful AI models—uh oh, Jensen!",
+          "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-13T18:40:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6478,
+      "importance": 0.6478,
+      "importance_score": 0.6478,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5616,
+        "source_tier": 0.58,
+        "ai_relevance": 0.78,
+        "recency": 0.9487,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T18:40:30Z",
+      "latest_at": "2026-11-13T18:40:30Z",
+      "primary_item": {
+        "id": "01243e8890326cbc6dad58f0babc7f553d980032",
+        "title": "被禁止出口的 Nvidia 芯片是中国最强大的人工智能模型的背后——呃，詹森！ / Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1040,15 +1119,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8875,
+        "recency": 0.8175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1065,254 +1144,6 @@
         "url": "https://www.aibase.com/news/32311",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5c8a7e2ce9e4",
-      "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-      "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-      "primary_url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-12T17:36:40Z"
-        },
-        {
-          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
-          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-12T18:17:29Z"
-        },
-        {
-          "id": "24f63d7e06f06770b56cf7ed699e4599ab31133e",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-12T17:36:40Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-12T17:36:40Z"
-        },
-        {
-          "id": "ff22e07299db7890757cfae5e6da21a9883ccb61",
-          "title": "Hugging Face 首席执行官誓言继续为开源人工智能而奋斗 / Hugging Face CEO vows to keep fighting for open-source AI",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-12T18:17:29Z"
-        },
-        {
-          "id": "24f63d7e06f06770b56cf7ed699e4599ab31133e",
-          "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open-source AI after Jensen Huang’s exit",
-          "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-12T17:36:40Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6353,
-      "importance": 0.6353,
-      "importance_score": 0.6353,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7171,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-12T17:36:40Z",
-      "latest_at": "2026-11-12T18:17:29Z",
-      "primary_item": {
-        "id": "c26a529fcf9cf4d874efe04bb6e45f4cf44c98d9",
-        "title": "Hugging Face 首席执行官誓言在黄仁勋退出后继续为开源人工智能而战 / Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-        "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_2df82173bb28",
-      "title": "AI 视频最怕镜头单看都不错，拼起来却人物变脸、台词吞字、字幕乱跑。作者用 Gemini 4 搭配 Omni 1.2，把一个西游记喜剧点子做成完整短片，也把从剧本、分镜到生成、配音、后期的七步流程摊开了。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-12",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "0c95bdcd07eec092af9fd408750b1f3e2c394faa",
-          "title": "AI 视频最怕镜头单看都不错，拼起来却人物变脸、台词吞字、字幕乱跑。作者用 Gemini 4 搭配 Omni 1.2，把一个西游记喜剧点子做成完整短片，也把从剧本、分镜到生成、配音、后期的七步流程摊开了。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "5f84610847a78015b8b281e8f9996b8d1e71448a",
-          "title": "为什么别人用 AI 很顺手，轮到自己却越用越费劲？梦飞用 WorkBuddy 演示了一条对于小白而言更容易上手的路：挑一件自己熟悉的小事，说清目标、范围和不能改的地方，只给相关材料；看到第一版结果后，再具体指出哪里要调整。如果你也总觉得 AI“不懂我”，可以跟着做一次。先让它帮你完成一件小事，后面才更容易用起来。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "a158b5f3a6d39f9d8bc67dfa15e1cc4bb25b3552",
-          "title": "和 AI 聊出的好点子，过几天就被埋在对话记录里；想接着做，又得从头交代。Muse 的 Spaces 可以把长期任务留成一个随时能打开的工作台。作者搭了免费额度雷达、AI 视频工作流、自媒体创作中心和热点看板，带你用真实素材做出第一版。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "dfd96db1052408bb469136a2c8983e4e74cf85fe",
-          "title": "对于想转型 AI 的产品经理来说，面对从 GPU 到 Agent 的庞大技术体系，究竟应该学什么、学到什么程度？又该怎样把技术知识转化成实际的产品能力？这篇《技术能力全景指南》就是围绕这四个问题展开的。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "0026387c92e1d4d4090ceb557998c57ea2659e37",
-          "title": "想做 AI 工具，又不知道“做什么有人用”？可以先翻翻用户早就在搜的老需求。作者以字体生成器为例，演示了如何用 Ahrefs 找出生成、编辑、转换等需求，再查看加上 AI 后的搜索趋势，顺着关键词就能找到近期流量上涨的对标产品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "47fa945bf47a335f8105cfa5e9fa9079c61d0984",
-          "title": "装好 DeepSeek Harness 后却卡在一众插件前：该装哪个？装完去哪找？这篇文章从桌面端安装讲起，把 7 款工作台按上手难度分好类，覆盖自媒体排版、产品原型、小游戏等场景，或许可以帮你快速找到最适合你的插件。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "社区更新 · 2026-11-12"
-      ],
-      "items": [
-        {
-          "id": "0c95bdcd07eec092af9fd408750b1f3e2c394faa",
-          "title": "AI 视频最怕镜头单看都不错，拼起来却人物变脸、台词吞字、字幕乱跑。作者用 Gemini 4 搭配 Omni 1.2，把一个西游记喜剧点子做成完整短片，也把从剧本、分镜到生成、配音、后期的七步流程摊开了。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "5f84610847a78015b8b281e8f9996b8d1e71448a",
-          "title": "为什么别人用 AI 很顺手，轮到自己却越用越费劲？梦飞用 WorkBuddy 演示了一条对于小白而言更容易上手的路：挑一件自己熟悉的小事，说清目标、范围和不能改的地方，只给相关材料；看到第一版结果后，再具体指出哪里要调整。如果你也总觉得 AI“不懂我”，可以跟着做一次。先让它帮你完成一件小事，后面才更容易用起来。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "a158b5f3a6d39f9d8bc67dfa15e1cc4bb25b3552",
-          "title": "和 AI 聊出的好点子，过几天就被埋在对话记录里；想接着做，又得从头交代。Muse 的 Spaces 可以把长期任务留成一个随时能打开的工作台。作者搭了免费额度雷达、AI 视频工作流、自媒体创作中心和热点看板，带你用真实素材做出第一版。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "dfd96db1052408bb469136a2c8983e4e74cf85fe",
-          "title": "对于想转型 AI 的产品经理来说，面对从 GPU 到 Agent 的庞大技术体系，究竟应该学什么、学到什么程度？又该怎样把技术知识转化成实际的产品能力？这篇《技术能力全景指南》就是围绕这四个问题展开的。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "0026387c92e1d4d4090ceb557998c57ea2659e37",
-          "title": "想做 AI 工具，又不知道“做什么有人用”？可以先翻翻用户早就在搜的老需求。作者以字体生成器为例，演示了如何用 Ahrefs 找出生成、编辑、转换等需求，再查看加上 AI 后的搜索趋势，顺着关键词就能找到近期流量上涨的对标产品。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        },
-        {
-          "id": "47fa945bf47a335f8105cfa5e9fa9079c61d0984",
-          "title": "装好 DeepSeek Harness 后却卡在一众插件前：该装哪个？装完去哪找？这篇文章从桌面端安装讲起，把 7 款工作台按上手难度分好类，覆盖自媒体排版、产品原型、小游戏等场景，或许可以帮你快速找到最适合你的插件。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-12",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-12T20:13:45.566735Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.6233,
-      "importance": 0.6233,
-      "importance_score": 0.6233,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7448,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-12T20:13:45.566735Z",
-      "latest_at": "2026-11-12T20:13:45.566735Z",
-      "primary_item": {
-        "id": "0c95bdcd07eec092af9fd408750b1f3e2c394faa",
-        "title": "AI 视频最怕镜头单看都不错，拼起来却人物变脸、台词吞字、字幕乱跑。作者用 Gemini 4 搭配 Omni 1.2，把一个西游记喜剧点子做成完整短片，也把从剧本、分镜到生成、配音、后期的七步流程摊开了。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-11-12",
-        "source_name": "WaytoAGI"
       }
     },
     {
@@ -1369,15 +1200,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8875,
+        "recency": 0.8175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1394,6 +1225,122 @@
         "url": "https://www.aibase.com/news/32313",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
+          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T17:54:54.250000Z"
+        },
+        {
+          "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
+          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T15:08:44Z"
+        },
+        {
+          "id": "2d362152faee7a28aad3a2f174c9656de3bd2994",
+          "title": "Show HN: Clozemaster MCP 服务器，可将课堂笔记转换为填空句",
+          "url": "https://www.youtube.com/watch?v=mN1eZl0hKTQ",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T14:59:55.047000Z"
+        },
+        {
+          "id": "a2bdc41eb2f6197e217e871614a0da6aa5e31cde",
+          "title": "黄仁勋的垮台：英伟达的贪婪和腐败 [视频] / The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
+          "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T13:45:06Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
+          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T17:54:54.250000Z"
+        },
+        {
+          "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
+          "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-13T15:08:44Z"
+        },
+        {
+          "id": "2d362152faee7a28aad3a2f174c9656de3bd2994",
+          "title": "Show HN: Clozemaster MCP 服务器，可将课堂笔记转换为填空句",
+          "url": "https://www.youtube.com/watch?v=mN1eZl0hKTQ",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T14:59:55.047000Z"
+        },
+        {
+          "id": "a2bdc41eb2f6197e217e871614a0da6aa5e31cde",
+          "title": "黄仁勋的垮台：英伟达的贪婪和腐败 [视频] / The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
+          "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-13T13:45:06Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5847,
+      "importance": 0.5847,
+      "importance_score": 0.5847,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9383,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-13T13:45:06Z",
+      "latest_at": "2026-11-13T17:54:54.250000Z",
+      "primary_item": {
+        "id": "3a55bfcc69f4ee51a74becfcb6b60d6c77555f4d",
+        "title": "乔纳森·布洛——如果人工智能已经解决了编程问题，为什么我的软件还是老样子？[视频]",
+        "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1450,15 +1397,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8875,
+        "recency": 0.8175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1478,101 +1425,101 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "primary_url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_bab1fcc2784e",
+      "title": "《拒绝低劣的AI：一份宣言》",
+      "url": "https://www.slopmanifesto.com",
+      "primary_url": "https://www.slopmanifesto.com",
+      "source": "www.slopmanifesto.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
-          "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "id": "32910e40af542048ebc8fc95feee5aaf8e015f4b",
+          "title": "《拒绝低劣的AI：一份宣言》",
+          "url": "https://www.slopmanifesto.com",
+          "source": "www.slopmanifesto.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T21:53:54.735000Z"
+        },
+        {
+          "id": "c8bea8029c5835a76c734a8828cb1d3149c4a6c7",
+          "title": "《拒绝低劣的AI：一份宣言》 / No AI Slop: A Manifesto",
+          "url": "https://www.slopmanifesto.com",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-13T15:08:44Z"
+          "published_at": "2026-11-13T19:51:56Z"
         },
         {
-          "id": "2d362152faee7a28aad3a2f174c9656de3bd2994",
-          "title": "Show HN: Clozemaster MCP 服务器，可将课堂笔记转换为填空句",
-          "url": "https://www.youtube.com/watch?v=mN1eZl0hKTQ",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T14:59:55.047000Z"
-        },
-        {
-          "id": "a2bdc41eb2f6197e217e871614a0da6aa5e31cde",
-          "title": "黄仁勋的垮台：英伟达的贪婪和腐败 [视频] / The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
-          "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T13:45:06Z"
+          "id": "27aad786edafbe817e659a53741cc7eab20b6a9c",
+          "title": "没有人工智能障碍：宣言 / No AI Slop: A Manifesto",
+          "url": "https://news.ycombinator.com/item?id=50488769",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T19:51:56Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "www.youtube.com"
+        "hackernews",
+        "www.slopmanifesto.com"
       ],
       "items": [
         {
-          "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
-          "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-          "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+          "id": "32910e40af542048ebc8fc95feee5aaf8e015f4b",
+          "title": "《拒绝低劣的AI：一份宣言》",
+          "url": "https://www.slopmanifesto.com",
+          "source": "www.slopmanifesto.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-13T21:53:54.735000Z"
+        },
+        {
+          "id": "c8bea8029c5835a76c734a8828cb1d3149c4a6c7",
+          "title": "《拒绝低劣的AI：一份宣言》 / No AI Slop: A Manifesto",
+          "url": "https://www.slopmanifesto.com",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-13T15:08:44Z"
+          "published_at": "2026-11-13T19:51:56Z"
         },
         {
-          "id": "2d362152faee7a28aad3a2f174c9656de3bd2994",
-          "title": "Show HN: Clozemaster MCP 服务器，可将课堂笔记转换为填空句",
-          "url": "https://www.youtube.com/watch?v=mN1eZl0hKTQ",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-13T14:59:55.047000Z"
-        },
-        {
-          "id": "a2bdc41eb2f6197e217e871614a0da6aa5e31cde",
-          "title": "黄仁勋的垮台：英伟达的贪婪和腐败 [视频] / The Downfall of Jensen Huang: Nvidia's Greed and Corruption [video]",
-          "url": "https://www.youtube.com/watch?v=YYU_geUwQoA",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T13:45:06Z"
+          "id": "27aad786edafbe817e659a53741cc7eab20b6a9c",
+          "title": "没有人工智能障碍：宣言 / No AI Slop: A Manifesto",
+          "url": "https://news.ycombinator.com/item?id=50488769",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-13T19:51:56Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9787,
+        "recency": 0.9939,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-13T13:45:06Z",
-      "latest_at": "2026-11-13T15:08:44Z",
+      "earliest_at": "2026-11-13T19:51:56Z",
+      "latest_at": "2026-11-13T21:53:54.735000Z",
       "primary_item": {
-        "id": "2ed729574be84e5c3b66ae960ca17344dd63a591",
-        "title": "Jonathan Blow – 如果人工智能解决了编码问题，为什么我的软件还是一样？ [视频] / Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-        "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "32910e40af542048ebc8fc95feee5aaf8e015f4b",
+        "title": "《拒绝低劣的AI：一份宣言》",
+        "url": "https://www.slopmanifesto.com",
+        "source": "www.slopmanifesto.com",
+        "source_name": "Buzzing"
       }
     }
   ]
