@@ -1,66 +1,67 @@
 {
-  "generated_at": "2026-11-15T00:35:32.166012Z",
+  "generated_at": "2026-11-15T07:25:14.792833Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 13,
   "items": [
     {
-      "story_id": "story_53dbbc26da9d",
-      "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-      "url": "https://www.aibase.com/news/32323",
-      "primary_url": "https://www.aibase.com/news/32323",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_91cc17dfbbc6",
+      "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
       "sources": [
         {
-          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "url": "https://www.aibase.com/news/32323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-14T09:42:30.875045Z"
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-15T03:35:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Daily Digest"
       ],
       "items": [
         {
-          "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-          "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-          "url": "https://www.aibase.com/news/32323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-14T09:42:30.875045Z"
+          "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+          "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-11-15T03:35:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7328,
-      "importance": 0.7328,
-      "importance_score": 0.7328,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8066,
+        "recency": 0.9461,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-14T09:42:30.875045Z",
-      "latest_at": "2026-11-14T09:42:30.875045Z",
+      "earliest_at": "2026-11-15T03:35:00Z",
+      "latest_at": "2026-11-15T03:35:00Z",
       "primary_item": {
-        "id": "e86fe674515d1a792f8b4fcde11764a6b9adb3fd",
-        "title": "运动、饮食、作息都可能导致血糖波动，千问接入动态血糖仪，上线「分析我的血糖状态」",
-        "url": "https://www.aibase.com/news/32323",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "3fa5a2605d8928a43237ea56faecc4d08a5147cf",
+        "title": "何夕2077 AI 深度信号周报 2026 W46：评分有效性、具身边界与委派损耗",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-11-15-ai-deep-signals-weekly-2026-w46",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -261,15 +262,15 @@
       ],
       "item_count": 10,
       "duplicate_count": 10,
-      "score": 0.6597,
-      "importance": 0.6597,
-      "importance_score": 0.6597,
+      "score": 0.6437,
+      "importance": 0.6437,
+      "importance_score": 0.6437,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9473,
+        "recency": 0.8584,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -339,15 +340,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6047,
-      "importance": 0.6047,
-      "importance_score": 0.6047,
+      "score": 0.59,
+      "importance": 0.59,
+      "importance_score": 0.59,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.8706,
+        "recency": 0.7889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -365,120 +366,180 @@
       }
     },
     {
-      "story_id": "story_197819bcc934",
-      "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "www.techpowerup.com",
+      "story_id": "story_fa6f9a523c4f",
+      "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "primary_url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
+          "id": "4d56bff98d6517a238656d0e34c20ab398645aa0",
+          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z"
+          "published_at": "2026-11-15T04:24:05.904000Z"
         },
         {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z"
+          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T04:09:11Z"
         },
         {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "url": "https://news.ycombinator.com/item?id=50503930",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
+          "published_at": "2026-11-15T04:09:11Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Reddit (热门)",
-        "hackernews",
-        "www.techpowerup.com"
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
+          "id": "4d56bff98d6517a238656d0e34c20ab398645aa0",
+          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z"
+          "published_at": "2026-11-15T04:24:05.904000Z"
         },
         {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z"
+          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T04:09:11Z"
         },
         {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "url": "https://news.ycombinator.com/item?id=50503930",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
+          "published_at": "2026-11-15T04:09:11Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5627,
-      "importance": 0.5627,
-      "importance_score": 0.5627,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5631,
+      "importance": 0.5631,
+      "importance_score": 0.5631,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8163,
-        "story_heat": 0.75
+        "recency": 0.9573,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T02:10:01Z",
-      "latest_at": "2026-11-14T10:32:03.584000Z",
+      "earliest_at": "2026-11-15T04:09:11Z",
+      "latest_at": "2026-11-15T04:24:05.904000Z",
       "primary_item": {
-        "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-        "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "source": "www.techpowerup.com",
+        "id": "4d56bff98d6517a238656d0e34c20ab398645aa0",
+        "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
+        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2971b0574e52",
+      "title": "Epic CEO 炮轰 Steam 强制要求游戏标注 AI 使用情况，称开发公司不接受 AI 将丧失竞争力",
+      "url": "https://www.ithome.com/1/027/315.htm",
+      "primary_url": "https://www.ithome.com/1/027/315.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9c401236fa70bba206f9abfb5a7a10b6b87b753a",
+          "title": "Epic CEO 炮轰 Steam 强制要求游戏标注 AI 使用情况，称开发公司不接受 AI 将丧失竞争力",
+          "url": "https://www.ithome.com/1/027/315.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "de94f36d866cac47ab15213736ad66af5d88512c",
+          "title": "Epic CEO 炮轰“Steam 强制要求游戏标注 AI 使用情况”，称开发公司不接受 AI 将丧失竞争力",
+          "url": "https://www.ithome.com/1/027/315.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T06:04:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "9c401236fa70bba206f9abfb5a7a10b6b87b753a",
+          "title": "Epic CEO 炮轰 Steam 强制要求游戏标注 AI 使用情况，称开发公司不接受 AI 将丧失竞争力",
+          "url": "https://www.ithome.com/1/027/315.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "de94f36d866cac47ab15213736ad66af5d88512c",
+          "title": "Epic CEO 炮轰“Steam 强制要求游戏标注 AI 使用情况”，称开发公司不接受 AI 将丧失竞争力",
+          "url": "https://www.ithome.com/1/027/315.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T06:04:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T06:04:52Z",
+      "latest_at": "2026-11-15T07:25:14.792833Z",
+      "primary_item": {
+        "id": "9c401236fa70bba206f9abfb5a7a10b6b87b753a",
+        "title": "Epic CEO 炮轰 Steam 强制要求游戏标注 AI 使用情况，称开发公司不接受 AI 将丧失竞争力",
+        "url": "https://www.ithome.com/1/027/315.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -499,12 +560,12 @@
           "published_at": "2026-11-14T19:38:56.216000Z"
         },
         {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
           "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
           "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:09:25Z"
         },
         {
@@ -519,7 +580,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "developer.nvidia.com",
         "hackernews"
       ],
@@ -534,12 +595,12 @@
           "published_at": "2026-11-14T19:38:56.216000Z"
         },
         {
-          "id": "521bf0670814346061bd747307a915a263dc009d",
+          "id": "fab83e7fd9f28d8c1b5f9aaa9f204e2f619876b6",
           "title": "通过两台配备vLLM的Nvidia DGX工作站，以607.8 tok/s的速度处理GLM-5.3 / Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM",
           "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-14T14:09:25Z"
         },
         {
@@ -554,15 +615,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9311,
+        "recency": 0.8437,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -577,6 +638,85 @@
         "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
         "source": "developer.nvidia.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3f060b226b66",
+      "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
+      "url": "https://github.com/paul-nameless/agweb",
+      "primary_url": "https://github.com/paul-nameless/agweb",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "5afc09bd96b721532395b875c430d395588d155b",
+          "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://github.com/paul-nameless/agweb",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T14:08:12Z"
+        },
+        {
+          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
+          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://news.ycombinator.com/item?id=50497147",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:08:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5afc09bd96b721532395b875c430d395588d155b",
+          "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://github.com/paul-nameless/agweb",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T14:08:12Z"
+        },
+        {
+          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
+          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
+          "url": "https://news.ycombinator.com/item?id=50497147",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T14:08:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.506,
+      "importance": 0.506,
+      "importance_score": 0.506,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7791,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T14:08:12Z",
+      "latest_at": "2026-11-14T14:08:12Z",
+      "primary_item": {
+        "id": "5afc09bd96b721532395b875c430d395588d155b",
+        "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
+        "url": "https://github.com/paul-nameless/agweb",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -652,15 +792,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5478,
-      "importance": 0.5478,
-      "importance_score": 0.5478,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8725,
+        "recency": 0.7906,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -674,321 +814,6 @@
         "title": "Show HN: DeepSeek V3，约200行纯Jax代码",
         "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
         "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c0e7ee2c6665",
-      "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-      "url": "https://www.ithome.com/1/027/229.htm",
-      "primary_url": "https://www.ithome.com/1/027/229.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
-          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
-          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T13:03:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
-          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
-          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T13:03:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8871,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T13:03:22Z",
-      "latest_at": "2026-11-14T16:17:52.474607Z",
-      "primary_item": {
-        "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
-        "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-        "url": "https://www.ithome.com/1/027/229.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_3f060b226b66",
-      "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
-      "url": "https://github.com/paul-nameless/agweb",
-      "primary_url": "https://github.com/paul-nameless/agweb",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
-          "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T14:08:12Z"
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
-          "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "url": "https://github.com/paul-nameless/agweb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T14:08:12Z"
-        },
-        {
-          "id": "44ac6481a0513fd306ff2b36e1109fc05add60ca",
-          "title": "Show HN：Agweb – 一款专为代理打造的浏览器，不会妨碍您 / Show HN: Agweb – a browser for agents that stays out of your way",
-          "url": "https://news.ycombinator.com/item?id=50497147",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T14:08:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5206,
-      "importance": 0.5206,
-      "importance_score": 0.5206,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8599,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T14:08:12Z",
-      "latest_at": "2026-11-14T14:08:12Z",
-      "primary_item": {
-        "id": "61c23c96bc1425c7f168b3af65c4e58dea2c638b",
-        "title": "Show HN: Agweb——一款专为经纪人设计的浏览器，操作简便，不干扰您的工作 / Show HN: Agweb – a browser for agents that stays out of your way",
-        "url": "https://github.com/paul-nameless/agweb",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_fbb4c2fd353e",
-      "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
-      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "primary_url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
-          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T13:43:28Z"
-        },
-        {
-          "id": "9422a8411a9653199cf9e196227bcff0757481f2",
-          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The documentary [video]",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T13:43:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
-          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T13:43:28Z"
-        },
-        {
-          "id": "9422a8411a9653199cf9e196227bcff0757481f2",
-          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The documentary [video]",
-          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T13:43:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5197,
-      "importance": 0.5197,
-      "importance_score": 0.5197,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8548,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T13:43:28Z",
-      "latest_at": "2026-11-14T13:43:28Z",
-      "primary_item": {
-        "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
-        "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
-        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_c19e7ef010f7",
-      "title": "你完全可以凭记忆发明出变形金刚",
-      "url": "https://alexwang.ai/posts/associative-memory",
-      "primary_url": "https://alexwang.ai/posts/associative-memory",
-      "source": "alexwang.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:46.164000Z"
-        },
-        {
-          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T04:49:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "alexwang.ai"
-      ],
-      "items": [
-        {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:46.164000Z"
-        },
-        {
-          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T04:49:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8164,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T04:49:47Z",
-      "latest_at": "2026-11-14T10:32:46.164000Z",
-      "primary_item": {
-        "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-        "title": "你完全可以凭记忆发明出变形金刚",
-        "url": "https://alexwang.ai/posts/associative-memory",
-        "source": "alexwang.ai",
         "source_name": "Buzzing"
       }
     },
@@ -1045,15 +870,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5096,
-      "importance": 0.5096,
-      "importance_score": 0.5096,
+      "score": 0.4961,
+      "importance": 0.4961,
+      "importance_score": 0.4961,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7988,
+        "recency": 0.7238,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1071,30 +896,30 @@
       }
     },
     {
-      "story_id": "story_966f15c56a4e",
-      "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-      "url": "https://www.ithome.com/1/027/148.htm",
-      "primary_url": "https://www.ithome.com/1/027/148.htm",
+      "story_id": "story_c0e7ee2c6665",
+      "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+      "url": "https://www.ithome.com/1/027/229.htm",
+      "primary_url": "https://www.ithome.com/1/027/229.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "24a57acbe00d52844c34d6d9230fd1453ba31a7d",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
+          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
+          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "331f9c8c1ab232e9afedbc9215522d05a9f09b6b",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
+          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
+          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T07:09:10Z"
+          "published_at": "2026-11-14T13:03:22Z"
         }
       ],
       "source_count": 2,
@@ -1104,49 +929,127 @@
       ],
       "items": [
         {
-          "id": "24a57acbe00d52844c34d6d9230fd1453ba31a7d",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
+          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
+          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "331f9c8c1ab232e9afedbc9215522d05a9f09b6b",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
+          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
+          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T07:09:10Z"
+          "published_at": "2026-11-14T13:03:22Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8066,
+        "recency": 0.8038,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T07:09:10Z",
-      "latest_at": "2026-11-14T09:42:30.875045Z",
+      "earliest_at": "2026-11-14T13:03:22Z",
+      "latest_at": "2026-11-14T16:17:52.474607Z",
       "primary_item": {
-        "id": "24a57acbe00d52844c34d6d9230fd1453ba31a7d",
-        "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-        "url": "https://www.ithome.com/1/027/148.htm",
+        "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
+        "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+        "url": "https://www.ithome.com/1/027/229.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_fbb4c2fd353e",
+      "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "primary_url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
+          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T13:43:28Z"
+        },
+        {
+          "id": "9422a8411a9653199cf9e196227bcff0757481f2",
+          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The documentary [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T13:43:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
+          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T13:43:28Z"
+        },
+        {
+          "id": "9422a8411a9653199cf9e196227bcff0757481f2",
+          "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The documentary [video]",
+          "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T13:43:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5052,
+      "importance": 0.5052,
+      "importance_score": 0.5052,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7745,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T13:43:28Z",
+      "latest_at": "2026-11-14T13:43:28Z",
+      "primary_item": {
+        "id": "279e62d0dcf191210bdbcba9cc5645ee3079aa4f",
+        "title": "KDE：一部关于自由软件的纪录片 [视频] / KDE: The Documentary on Free Software [video]",
+        "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1202,15 +1105,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7954,
+        "recency": 0.7207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1281,15 +1184,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
+      "score": 0.4974,
+      "importance": 0.4974,
+      "importance_score": 0.4974,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8066,
+        "recency": 0.7309,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1302,164 +1205,6 @@
         "id": "34d690a7970f2da5066911215a5e8a0c0b31c1fb",
         "title": "英特尔联合 23 家韩国企业成立「K-AI 全栈联盟」，构建 AI 基础设施生态",
         "url": "https://www.ithome.com/1/027/180.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d68179c04d83",
-      "title": "劝爸妈别刷 AI 短剧，我太难了",
-      "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4905557.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "cc3b373c340ba8fcb4290a4a2eb767acc126638e",
-          "title": "劝爸妈别刷 AI 短剧，我太难了",
-          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "05b9b1a93601b9cd1afd85ab4ca77c4de7c21305",
-          "title": "劝爸妈别刷AI短剧，我太难了",
-          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:17:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "cc3b373c340ba8fcb4290a4a2eb767acc126638e",
-          "title": "劝爸妈别刷 AI 短剧，我太难了",
-          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "05b9b1a93601b9cd1afd85ab4ca77c4de7c21305",
-          "title": "劝爸妈别刷AI短剧，我太难了",
-          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:17:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7276,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T02:17:30Z",
-      "latest_at": "2026-11-14T02:34:05.318247Z",
-      "primary_item": {
-        "id": "cc3b373c340ba8fcb4290a4a2eb767acc126638e",
-        "title": "劝爸妈别刷 AI 短剧，我太难了",
-        "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_79f63ca20c9c",
-      "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
-      "url": "https://www.ithome.com/1/027/052.htm",
-      "primary_url": "https://www.ithome.com/1/027/052.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f45d53f4d34ac822d1ca5b78c46de372e02a917c",
-          "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
-          "url": "https://www.ithome.com/1/027/052.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "460af1b921ba1b882a41691f8078e2796131eafb",
-          "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
-          "url": "https://www.ithome.com/1/027/052.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:11:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f45d53f4d34ac822d1ca5b78c46de372e02a917c",
-          "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
-          "url": "https://www.ithome.com/1/027/052.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "460af1b921ba1b882a41691f8078e2796131eafb",
-          "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
-          "url": "https://www.ithome.com/1/027/052.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:11:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7276,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T02:11:43Z",
-      "latest_at": "2026-11-14T02:34:05.318247Z",
-      "primary_item": {
-        "id": "f45d53f4d34ac822d1ca5b78c46de372e02a917c",
-        "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
-        "url": "https://www.ithome.com/1/027/052.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
