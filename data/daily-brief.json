@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T20:50:37.613458Z",
+  "generated_at": "2026-11-15T00:35:32.166012Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_53dbbc26da9d",
@@ -38,15 +38,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7328,
+      "importance": 0.7328,
+      "importance_score": 0.7328,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8515,
+        "recency": 0.8066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -261,15 +261,15 @@
       ],
       "item_count": 10,
       "duplicate_count": 10,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6597,
+      "importance": 0.6597,
+      "importance_score": 0.6597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9473,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -339,15 +339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6134,
-      "importance": 0.6134,
-      "importance_score": 0.6134,
+      "score": 0.6047,
+      "importance": 0.6047,
+      "importance_score": 0.6047,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9191,
+        "recency": 0.8706,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -362,6 +362,123 @@
         "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_197819bcc934",
+      "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "source": "www.techpowerup.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "www.techpowerup.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.584000Z"
+        },
+        {
+          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
+          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:10:01Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Reddit (热门)",
+        "hackernews",
+        "www.techpowerup.com"
+      ],
+      "items": [
+        {
+          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "www.techpowerup.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-14T10:32:03.584000Z"
+        },
+        {
+          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
+          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "2d7623a763c69046c3901343648bd636f62daa03",
+          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+          "url": "https://news.ycombinator.com/item?id=50493251",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-14T02:52:59Z"
+        },
+        {
+          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
+          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
+          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
+          "source": "Reddit (热门)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:10:01Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5627,
+      "importance": 0.5627,
+      "importance_score": 0.5627,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8163,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T02:10:01Z",
+      "latest_at": "2026-11-14T10:32:03.584000Z",
+      "primary_item": {
+        "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
+        "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
+        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "source": "www.techpowerup.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -437,15 +554,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5677,
-      "importance": 0.5677,
-      "importance_score": 0.5677,
+      "score": 0.5584,
+      "importance": 0.5584,
+      "importance_score": 0.5584,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9829,
+        "recency": 0.9311,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -535,15 +652,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5566,
-      "importance": 0.5566,
-      "importance_score": 0.5566,
+      "score": 0.5478,
+      "importance": 0.5478,
+      "importance_score": 0.5478,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.921,
+        "recency": 0.8725,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -614,15 +731,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9365,
+        "recency": 0.8871,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -693,15 +810,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9077,
+        "recency": 0.8599,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -771,15 +888,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.5197,
+      "importance": 0.5197,
+      "importance_score": 0.5197,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9023,
+        "recency": 0.8548,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -794,164 +911,6 @@
         "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_21ab7432dba4",
-      "title": "克劳德会议",
-      "url": "https://claude.com/resources/articles/claude-meetings",
-      "primary_url": "https://claude.com/resources/articles/claude-meetings",
-      "source": "claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
-          "title": "克劳德会议",
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:44:27.205000Z"
-        },
-        {
-          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
-          "title": "克劳德会议 / Claude Meetings",
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:39:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "claude.com"
-      ],
-      "items": [
-        {
-          "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
-          "title": "克劳德会议",
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:44:27.205000Z"
-        },
-        {
-          "id": "c7ad6451d622eeb9017ca3f5dbad957b2cf1ea32",
-          "title": "克劳德会议 / Claude Meetings",
-          "url": "https://claude.com/resources/articles/claude-meetings",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:39:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8643,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T22:39:15Z",
-      "latest_at": "2026-11-14T10:44:27.205000Z",
-      "primary_item": {
-        "id": "70a2b8edc02f30ab27e6a8ea9df7cd95089875a1",
-        "title": "克劳德会议",
-        "url": "https://claude.com/resources/articles/claude-meetings",
-        "source": "claude.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_10c60fc60c0f",
-      "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-      "url": "https://unsloth.ai/docs/models/qwen3.8",
-      "primary_url": "https://unsloth.ai/docs/models/qwen3.8",
-      "source": "unsloth.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "unsloth.ai"
-      ],
-      "items": [
-        {
-          "id": "12903a53c9546f10f167828099cb78396294e480",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "unsloth.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.410000Z"
-        },
-        {
-          "id": "b5ce038019dead0f758119ef2bc643b995a8c5de",
-          "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新 / Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:06:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8617,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T00:06:04Z",
-      "latest_at": "2026-11-14T10:32:03.410000Z",
-      "primary_item": {
-        "id": "12903a53c9546f10f167828099cb78396294e480",
-        "title": "Unsloth Qwen 3.8-27B 量化——Dynamic v3.1 更新",
-        "url": "https://unsloth.ai/docs/models/qwen3.8",
-        "source": "unsloth.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1008,15 +967,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5209,
-      "importance": 0.5209,
-      "importance_score": 0.5209,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8618,
+        "recency": 0.8164,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1086,15 +1045,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5176,
-      "importance": 0.5176,
-      "importance_score": 0.5176,
+      "score": 0.5096,
+      "importance": 0.5096,
+      "importance_score": 0.5096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8432,
+        "recency": 0.7988,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1108,262 +1067,6 @@
         "title": "[Claude] 请问上班族, 后端开发, 订阅 claude x5 还是 x20 ?",
         "url": "https://www.v2ex.com/t/1257062",
         "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_197819bcc934",
-      "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "url": "https://news.ycombinator.com/item?id=50493251",
-      "primary_url": "https://news.ycombinator.com/item?id=50493251",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Reddit (热门)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7715,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T02:10:01Z",
-      "latest_at": "2026-11-14T02:52:59Z",
-      "primary_item": {
-        "id": "2d7623a763c69046c3901343648bd636f62daa03",
-        "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-        "url": "https://news.ycombinator.com/item?id=50493251",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_643f4f010bfe",
-      "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-      "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-      "primary_url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0487e816a59c8b0d92d54932262459c31a544f53",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T00:02:21.523000Z"
-        },
-        {
-          "id": "64cd95e84c06932afd482b9e9d0dec67b9307860",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任 / FAA SMART AI system vendor and  Microsoft both say ground stop isn't their fault",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T23:49:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "0487e816a59c8b0d92d54932262459c31a544f53",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T00:02:21.523000Z"
-        },
-        {
-          "id": "64cd95e84c06932afd482b9e9d0dec67b9307860",
-          "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任 / FAA SMART AI system vendor and  Microsoft both say ground stop isn't their fault",
-          "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T23:49:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7405,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T23:49:27Z",
-      "latest_at": "2026-11-14T00:02:21.523000Z",
-      "primary_item": {
-        "id": "0487e816a59c8b0d92d54932262459c31a544f53",
-        "title": "美国联邦航空管理局（FAA）的SMART AI系统供应商和微软均表示，航班停飞并非他们的责任",
-        "url": "https://www.businessinsider.com/smart-system-microsoft-faa-ground-stop-not-their-fault-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_da51afadad30",
-      "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-      "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "primary_url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://news.ycombinator.com/item?id=50492141",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "09c03475580e31d548233207197f9127496e8641",
-          "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-          "url": "https://news.ycombinator.com/item?id=50492141",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T00:28:11Z"
-        },
-        {
-          "id": "66d12209692eec3def727ca53357b4e371faa565",
-          "title": "Anthropic 升级 Claude 代码项目以运行并行 AI 工作人员 / Anthropic upgrades Claude Code Projects to run parallel AI workers",
-          "url": "https://claude.com/resources/articles/projects-redesigned",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T00:28:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5249,
-      "importance": 0.5249,
-      "importance_score": 0.5249,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7451,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T00:28:11Z",
-      "latest_at": "2026-11-14T00:28:11Z",
-      "primary_item": {
-        "id": "1dc3f31798851d1605c20763d1f2850ca1cf7c3a",
-        "title": "Anthropic 升级 Claude 代码项目，免提运行并行 AI 工作人员 / Anthropic Upgrades Claude Code Projects to Run Parallel AI Workers Hands-Free",
-        "url": "https://alphasignal.ai/news/anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers-hands-free",
-        "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       }
     },
@@ -1421,15 +1124,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8515,
+        "recency": 0.8066,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1499,15 +1202,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8396,
+        "recency": 0.7954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1522,85 +1225,6 @@
         "url": "https://www.v2ex.com/t/1257059",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_4ecfb44c1aed",
-      "title": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across US airspace",
-      "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-      "primary_url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7c6a511b253b63fbc96b61d5f4e36e68f8128f3d",
-          "title": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across US airspace",
-          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:37:24Z"
-        },
-        {
-          "id": "5f548674a9edec30da07310eadc2ceee2f1499b8",
-          "title": "美国联邦航空局 (FAA) 扩大人工智能建议，以管理整个美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T21:20:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "7c6a511b253b63fbc96b61d5f4e36e68f8128f3d",
-          "title": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across US airspace",
-          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-13T22:37:24Z"
-        },
-        {
-          "id": "5f548674a9edec30da07310eadc2ceee2f1499b8",
-          "title": "美国联邦航空局 (FAA) 扩大人工智能建议，以管理整个美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across entire US airspace",
-          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-13T21:20:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4964,
-      "importance": 0.4964,
-      "importance_score": 0.4964,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7255,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-13T21:20:47Z",
-      "latest_at": "2026-11-13T22:37:24Z",
-      "primary_item": {
-        "id": "7c6a511b253b63fbc96b61d5f4e36e68f8128f3d",
-        "title": "美国联邦航空局 (FAA) 扩大人工智能建议以管理美国空域的空中交通拥堵 / FAA expands AI advice to manage air traffic congestion across US airspace",
-        "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1657,15 +1281,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5191,
-      "importance": 0.5191,
-      "importance_score": 0.5191,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8515,
+        "recency": 0.8066,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1683,82 +1307,161 @@
       }
     },
     {
-      "story_id": "story_d11365f0dd8c",
-      "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "url": "https://atg.science/careers",
-      "primary_url": "https://atg.science/careers",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_d68179c04d83",
+      "title": "劝爸妈别刷 AI 短剧，我太难了",
+      "url": "https://www.huxiu.com/article/4905557.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4905557.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "9dd5d00576c2d903dcffa21c2c15faf5c5375649",
-          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-          "url": "https://atg.science/careers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-13T21:01:11Z"
+          "id": "cc3b373c340ba8fcb4290a4a2eb767acc126638e",
+          "title": "劝爸妈别刷 AI 短剧，我太难了",
+          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "95eb34b04dace089987da89f0718ac44919b2269",
-          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-          "url": "https://news.ycombinator.com/item?id=50489589",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-13T21:01:11Z"
+          "id": "05b9b1a93601b9cd1afd85ab4ca77c4de7c21305",
+          "title": "劝爸妈别刷AI短剧，我太难了",
+          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:17:30Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "9dd5d00576c2d903dcffa21c2c15faf5c5375649",
-          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-          "url": "https://atg.science/careers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-13T21:01:11Z"
+          "id": "cc3b373c340ba8fcb4290a4a2eb767acc126638e",
+          "title": "劝爸妈别刷 AI 短剧，我太难了",
+          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "95eb34b04dace089987da89f0718ac44919b2269",
-          "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-          "url": "https://news.ycombinator.com/item?id=50489589",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-13T21:01:11Z"
+          "id": "05b9b1a93601b9cd1afd85ab4ca77c4de7c21305",
+          "title": "劝爸妈别刷AI短剧，我太难了",
+          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:17:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4934,
-      "importance": 0.4934,
-      "importance_score": 0.4934,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7089,
+        "recency": 0.7276,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-13T21:01:11Z",
-      "latest_at": "2026-11-13T21:01:11Z",
+      "earliest_at": "2026-11-14T02:17:30Z",
+      "latest_at": "2026-11-14T02:34:05.318247Z",
       "primary_item": {
-        "id": "9dd5d00576c2d903dcffa21c2c15faf5c5375649",
-        "title": "Autonomous (YC F25) 正在聘请 MTS 来构建人工智能代理来管理您的财富 / Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-        "url": "https://atg.science/careers",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "cc3b373c340ba8fcb4290a4a2eb767acc126638e",
+        "title": "劝爸妈别刷 AI 短剧，我太难了",
+        "url": "https://www.huxiu.com/article/4905557.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_79f63ca20c9c",
+      "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
+      "url": "https://www.ithome.com/1/027/052.htm",
+      "primary_url": "https://www.ithome.com/1/027/052.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f45d53f4d34ac822d1ca5b78c46de372e02a917c",
+          "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
+          "url": "https://www.ithome.com/1/027/052.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "460af1b921ba1b882a41691f8078e2796131eafb",
+          "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
+          "url": "https://www.ithome.com/1/027/052.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:11:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "f45d53f4d34ac822d1ca5b78c46de372e02a917c",
+          "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
+          "url": "https://www.ithome.com/1/027/052.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "460af1b921ba1b882a41691f8078e2796131eafb",
+          "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
+          "url": "https://www.ithome.com/1/027/052.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T02:11:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7276,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T02:11:43Z",
+      "latest_at": "2026-11-14T02:34:05.318247Z",
+      "primary_item": {
+        "id": "f45d53f4d34ac822d1ca5b78c46de372e02a917c",
+        "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
+        "url": "https://www.ithome.com/1/027/052.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
