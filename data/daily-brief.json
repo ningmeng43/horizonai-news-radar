@@ -1,8 +1,132 @@
 {
-  "generated_at": "2026-11-19T22:31:23.196832Z",
+  "generated_at": "2026-11-20T03:49:11.552456Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+          "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+          "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8563,
+      "importance": 0.8563,
+      "importance_score": 0.8563,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.9463,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:00:00Z",
+      "latest_at": "2026-11-20T00:00:00Z",
+      "primary_item": {
+        "id": "76878f2544fbf81719114d7b092f324572f3c7c3",
+        "title": "法典 CLI 0.171.0 / Codex CLI 0.171.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9855c1875dd4",
+      "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+      "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+          "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+          "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-20T00:02:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9469,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T00:02:21Z",
+      "latest_at": "2026-11-20T00:02:21Z",
+      "primary_item": {
+        "id": "55c28a98855c92957202c130c8939308b0edf0e2",
+        "title": "公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview",
+        "url": "https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_b00f82b6db94",
       "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
@@ -38,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9368,
+        "recency": 0.8678,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,68 +186,6 @@
         "title": "在 Gemini API 中引入工具检索 / Introducing Tool Retrieval in the Gemini API",
         "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4501efae01a1",
-      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T18:50:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8347,
-      "importance": 0.8347,
-      "importance_score": 0.8347,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9483,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T18:50:57Z",
-      "latest_at": "2026-11-19T18:50:57Z",
-      "primary_item": {
-        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
-        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
-        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -162,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8108,
+        "recency": 0.7511,
         "story_heat": 0.0
       },
       "category": "official",
@@ -190,21 +252,102 @@
       }
     },
     {
-      "story_id": "story_c0849b8081a4",
-      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "story_id": "story_210abe041d09",
+      "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+      "url": "https://www.aibase.com/news/32418",
+      "primary_url": "https://www.aibase.com/news/32418",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7fbbb666388b426158218884787113a14cc30303",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/news/32418",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:49:11.552456Z"
+        },
+        {
+          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/zh/news/32418",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7fbbb666388b426158218884787113a14cc30303",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/news/32418",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:49:11.552456Z"
+        },
+        {
+          "id": "129109d1522d3338a23764235c5d496c8d5db3ae",
+          "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+          "url": "https://www.aibase.com/zh/news/32418",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T03:49:11.552456Z",
+      "latest_at": "2026-11-20T03:49:11.552456Z",
+      "primary_item": {
+        "id": "7fbbb666388b426158218884787113a14cc30303",
+        "title": "ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送",
+        "url": "https://www.aibase.com/news/32418",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4501efae01a1",
+      "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+      "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "source_count": 1,
@@ -213,26 +356,26 @@
       ],
       "items": [
         {
-          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+          "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+          "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-19T18:48:46Z"
+          "published_at": "2026-11-19T18:50:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8221,
+      "importance": 0.8221,
+      "importance_score": 0.8221,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9478,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,12 +384,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T18:48:46Z",
-      "latest_at": "2026-11-19T18:48:46Z",
+      "earliest_at": "2026-11-19T18:50:57Z",
+      "latest_at": "2026-11-19T18:50:57Z",
       "primary_item": {
-        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
-        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
-        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "id": "2fa244df4937d160d117c1567dbb5fafb1257489",
+        "title": "Azure DevOps 的企业实时迁移全面可用 / Enterprise Live Migrations from Azure DevOps generally available",
+        "url": "https://github.blog/changelog/2026-11-19-enterprise-live-migrations-from-azure-devops-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -286,15 +429,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9233,
+        "recency": 0.8553,
         "story_heat": 0.0
       },
       "category": "official",
@@ -314,26 +457,26 @@
       }
     },
     {
-      "story_id": "story_e72c41118f09",
-      "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-      "url": "https://www.aibase.com/news/32409",
-      "primary_url": "https://www.aibase.com/news/32409",
+      "story_id": "story_b228d0a88350",
+      "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+      "url": "https://www.aibase.com/news/32424",
+      "primary_url": "https://www.aibase.com/news/32424",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5b72189be3d94e1bef8952be59cabc02266b8bf3",
-          "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-          "url": "https://www.aibase.com/news/32409",
+          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
+          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/news/32424",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T14:36:22.215108Z"
+          "published_at": "2026-11-20T03:49:11.552456Z"
         },
         {
-          "id": "4a689119583646ae35a40bc4d235a672ecb663f3",
-          "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-          "url": "https://www.aibase.com/zh/news/32409",
+          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
+          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/zh/news/32424",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -347,18 +490,18 @@
       ],
       "items": [
         {
-          "id": "5b72189be3d94e1bef8952be59cabc02266b8bf3",
-          "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-          "url": "https://www.aibase.com/news/32409",
+          "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
+          "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/news/32424",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T14:36:22.215108Z"
+          "published_at": "2026-11-20T03:49:11.552456Z"
         },
         {
-          "id": "4a689119583646ae35a40bc4d235a672ecb663f3",
-          "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-          "url": "https://www.aibase.com/zh/news/32409",
+          "id": "7cfd85a324c8098137d7dce5d93f03470101460c",
+          "title": "Google 开放 Genie4 世界模型 API，支持实时交互与原生音频生成",
+          "url": "https://www.aibase.com/zh/news/32424",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -367,15 +510,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -384,12 +527,155 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T14:36:22.215108Z",
-      "latest_at": "2026-11-19T14:36:22.215108Z",
+      "earliest_at": "2026-11-20T03:49:11.552456Z",
+      "latest_at": "2026-11-20T03:49:11.552456Z",
       "primary_item": {
-        "id": "5b72189be3d94e1bef8952be59cabc02266b8bf3",
-        "title": "港中深联合微软研究院提出 ConvexLLM：让声音跳过转写，直接调用大模型推理能力",
-        "url": "https://www.aibase.com/news/32409",
+        "id": "2ef8a3aa7518c97af98d779df07c6edfc195650f",
+        "title": "Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成",
+        "url": "https://www.aibase.com/news/32424",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c0849b8081a4",
+      "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+      "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T18:48:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+          "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+          "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T18:48:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.822,
+      "importance": 0.822,
+      "importance_score": 0.822,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.878,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T18:48:46Z",
+      "latest_at": "2026-11-19T18:48:46Z",
+      "primary_item": {
+        "id": "95b2e4b00ea9e815ab7b8adcae7d6757a5235dea",
+        "title": "红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available",
+        "url": "https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_66c45deae76e",
+      "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+      "url": "https://www.aibase.com/news/32423",
+      "primary_url": "https://www.aibase.com/news/32423",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
+          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "url": "https://www.aibase.com/news/32423",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:49:11.552456Z"
+        },
+        {
+          "id": "8bc034a6545408acccb0ca4155aa88817c4170a9",
+          "title": "微软 CEO 纳德拉警告：零售商若屏蔽 AI 购物代理，市场份额恐流向 Shopify 等开放平台",
+          "url": "https://www.aibase.com/zh/news/32423",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
+          "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+          "url": "https://www.aibase.com/news/32423",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-20T03:49:11.552456Z"
+        },
+        {
+          "id": "8bc034a6545408acccb0ca4155aa88817c4170a9",
+          "title": "微软 CEO 纳德拉警告：零售商若屏蔽 AI 购物代理，市场份额恐流向 Shopify 等开放平台",
+          "url": "https://www.aibase.com/zh/news/32423",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-20T03:49:11.552456Z",
+      "latest_at": "2026-11-20T03:49:11.552456Z",
+      "primary_item": {
+        "id": "d40763252c2ea48f70c8706ec4e5310c7cbce250",
+        "title": "微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台",
+        "url": "https://www.aibase.com/news/32423",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -429,15 +715,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8161,
+        "recency": 0.756,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,26 +743,26 @@
       }
     },
     {
-      "story_id": "story_b8b1bcd9e21d",
-      "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-      "url": "https://www.aibase.com/news/32417",
-      "primary_url": "https://www.aibase.com/news/32417",
+      "story_id": "story_379de8e8adab",
+      "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+      "url": "https://www.aibase.com/news/32426",
+      "primary_url": "https://www.aibase.com/news/32426",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "url": "https://www.aibase.com/news/32417",
+          "id": "191b0555419966daf6771ec10acc60aaa67b431b",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/news/32426",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T14:36:22.215108Z"
+          "published_at": "2026-11-20T03:49:11.552456Z"
         },
         {
-          "id": "2e9b35f417eb590ced410f47e721d22b9350c48b",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "url": "https://www.aibase.com/zh/news/32417",
+          "id": "ce417a32990cf49ac173d0805995c027e944537a",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/zh/news/32426",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -490,18 +776,18 @@
       ],
       "items": [
         {
-          "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "url": "https://www.aibase.com/news/32417",
+          "id": "191b0555419966daf6771ec10acc60aaa67b431b",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/news/32426",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T14:36:22.215108Z"
+          "published_at": "2026-11-20T03:49:11.552456Z"
         },
         {
-          "id": "2e9b35f417eb590ced410f47e721d22b9350c48b",
-          "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-          "url": "https://www.aibase.com/zh/news/32417",
+          "id": "ce417a32990cf49ac173d0805995c027e944537a",
+          "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+          "url": "https://www.aibase.com/zh/news/32426",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -510,15 +796,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.892,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -527,99 +813,37 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T14:36:22.215108Z",
-      "latest_at": "2026-11-19T14:36:22.215108Z",
+      "earliest_at": "2026-11-20T03:49:11.552456Z",
+      "latest_at": "2026-11-20T03:49:11.552456Z",
       "primary_item": {
-        "id": "182094156891e7ed75e9d42fcfe4d19c00efcab6",
-        "title": "满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜",
-        "url": "https://www.aibase.com/news/32417",
+        "id": "191b0555419966daf6771ec10acc60aaa67b431b",
+        "title": "改提示词不如改代码：谷歌让 AI 自改运行框架",
+        "url": "https://www.aibase.com/news/32426",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7e8aaa6e499c",
-      "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-      "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-      "primary_url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T00:00:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-          "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-          "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-19T00:00:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.794,
-      "importance": 0.794,
-      "importance_score": 0.794,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7224,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T00:00:13Z",
-      "latest_at": "2026-11-19T00:00:13Z",
-      "primary_item": {
-        "id": "ea6b368f3100877f5f518c67e8659a48f06ee343",
-        "title": "使用 GitHub CLI 等待拉取请求事件 / Wait for pull request events with GitHub CLI",
-        "url": "https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_90d519691ca1",
-      "title": "AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%",
-      "url": "https://www.aibase.com/news/32398",
-      "primary_url": "https://www.aibase.com/news/32398",
+      "story_id": "story_642c197335fc",
+      "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+      "url": "https://www.aibase.com/news/32419",
+      "primary_url": "https://www.aibase.com/news/32419",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "620524a9be8183b1afeeec64e9719c139b218678",
-          "title": "AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%",
-          "url": "https://www.aibase.com/news/32398",
+          "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
+          "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/news/32419",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
+          "published_at": "2026-11-20T03:49:11.552456Z"
         },
         {
-          "id": "fbc7ee1c470a28ab80ef6fa89754fc3cf676e72b",
-          "title": "AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%",
-          "url": "https://www.aibase.com/zh/news/32398",
+          "id": "ae3901bab645bf6af256ab3cb3c7f1939804ecd7",
+          "title": "谷歌 Gemini 上线 Mac「电脑操控」功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/zh/news/32419",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -633,18 +857,18 @@
       ],
       "items": [
         {
-          "id": "620524a9be8183b1afeeec64e9719c139b218678",
-          "title": "AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%",
-          "url": "https://www.aibase.com/news/32398",
+          "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
+          "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/news/32419",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
+          "published_at": "2026-11-20T03:49:11.552456Z"
         },
         {
-          "id": "fbc7ee1c470a28ab80ef6fa89754fc3cf676e72b",
-          "title": "AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%",
-          "url": "https://www.aibase.com/zh/news/32398",
+          "id": "ae3901bab645bf6af256ab3cb3c7f1939804ecd7",
+          "title": "谷歌 Gemini 上线 Mac「电脑操控」功能：后台自动干活，支持修图与做 PPT",
+          "url": "https://www.aibase.com/zh/news/32419",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -653,15 +877,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -670,12 +894,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T05:26:34.136433Z",
-      "latest_at": "2026-11-19T05:26:34.136433Z",
+      "earliest_at": "2026-11-20T03:49:11.552456Z",
+      "latest_at": "2026-11-20T03:49:11.552456Z",
       "primary_item": {
-        "id": "620524a9be8183b1afeeec64e9719c139b218678",
-        "title": "AI 自己动手改电路：OpenAI 让模型优化芯片，AMD 旗舰 GPU 性效比最高提 14%",
-        "url": "https://www.aibase.com/news/32398",
+        "id": "2ed46f4b6d95cc3a6033df1b02f2a87f209335ba",
+        "title": "谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT",
+        "url": "https://www.aibase.com/news/32419",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -841,15 +1065,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6559,
+      "importance": 0.6559,
+      "importance_score": 0.6559,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9264,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -867,26 +1091,26 @@
       }
     },
     {
-      "story_id": "story_79095a43b180",
-      "title": "AI算力推高内存成本，苹果拟与三星签四年期DRAM长约",
-      "url": "https://www.aibase.com/news/32401",
-      "primary_url": "https://www.aibase.com/news/32401",
+      "story_id": "story_78726ea3cee2",
+      "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+      "url": "https://www.aibase.com/news/32427",
+      "primary_url": "https://www.aibase.com/news/32427",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "38591d82551d36ebe4d0ff58baab40570639610c",
-          "title": "AI算力推高内存成本，苹果拟与三星签四年期DRAM长约",
-          "url": "https://www.aibase.com/news/32401",
+          "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
+          "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+          "url": "https://www.aibase.com/news/32427",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
+          "published_at": "2026-11-20T03:49:11.552456Z"
         },
         {
-          "id": "339c27f1045968c95528648b6d49f46f9bf93a5a",
-          "title": "AI 算力推高内存成本，苹果拟与三星签四年期 DRAM 长约",
-          "url": "https://www.aibase.com/zh/news/32401",
+          "id": "b03ba26bb5181445a618c372b43f870e75a31773",
+          "title": "谷歌主页新增 AI 搜索侧边栏，支持查看历史对话与连接 Gemini 笔记本",
+          "url": "https://www.aibase.com/zh/news/32427",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -900,18 +1124,18 @@
       ],
       "items": [
         {
-          "id": "38591d82551d36ebe4d0ff58baab40570639610c",
-          "title": "AI算力推高内存成本，苹果拟与三星签四年期DRAM长约",
-          "url": "https://www.aibase.com/news/32401",
+          "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
+          "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+          "url": "https://www.aibase.com/news/32427",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
+          "published_at": "2026-11-20T03:49:11.552456Z"
         },
         {
-          "id": "339c27f1045968c95528648b6d49f46f9bf93a5a",
-          "title": "AI 算力推高内存成本，苹果拟与三星签四年期 DRAM 长约",
-          "url": "https://www.aibase.com/zh/news/32401",
+          "id": "b03ba26bb5181445a618c372b43f870e75a31773",
+          "title": "谷歌主页新增 AI 搜索侧边栏，支持查看历史对话与连接 Gemini 笔记本",
+          "url": "https://www.aibase.com/zh/news/32427",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -920,15 +1144,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -937,12 +1161,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T05:26:34.136433Z",
-      "latest_at": "2026-11-19T05:26:34.136433Z",
+      "earliest_at": "2026-11-20T03:49:11.552456Z",
+      "latest_at": "2026-11-20T03:49:11.552456Z",
       "primary_item": {
-        "id": "38591d82551d36ebe4d0ff58baab40570639610c",
-        "title": "AI算力推高内存成本，苹果拟与三星签四年期DRAM长约",
-        "url": "https://www.aibase.com/news/32401",
+        "id": "250e92160f6250f418ec879fb737cf43d1e4c063",
+        "title": "谷歌主页新增AI搜索侧边栏，支持查看历史对话与连接Gemini笔记本",
+        "url": "https://www.aibase.com/news/32427",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1001,15 +1225,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6528,
-      "importance": 0.6528,
-      "importance_score": 0.6528,
+      "score": 0.6401,
+      "importance": 0.6401,
+      "importance_score": 0.6401,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9529,
+        "recency": 0.8827,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1024,87 +1248,6 @@
         "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity",
         "source": "TechCrunch AI",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_a2a1f27d60bc",
-      "title": "Anthropic拟以每股83美元进行IPO定价，完全稀释估值达1.5万亿美元",
-      "url": "https://www.aibase.com/news/32392",
-      "primary_url": "https://www.aibase.com/news/32392",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2b7c0c9e68197caa6817978174720a5ed9ff734b",
-          "title": "Anthropic拟以每股83美元进行IPO定价，完全稀释估值达1.5万亿美元",
-          "url": "https://www.aibase.com/news/32392",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
-        },
-        {
-          "id": "0ac02c0565b9c9f5e5c3c4444c614aa1af164f64",
-          "title": "Anthropic 拟以每股 83 美元进行 IPO 定价，完全稀释估值达 1.5 万亿美元",
-          "url": "https://www.aibase.com/zh/news/32392",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2b7c0c9e68197caa6817978174720a5ed9ff734b",
-          "title": "Anthropic拟以每股83美元进行IPO定价，完全稀释估值达1.5万亿美元",
-          "url": "https://www.aibase.com/news/32392",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
-        },
-        {
-          "id": "0ac02c0565b9c9f5e5c3c4444c614aa1af164f64",
-          "title": "Anthropic 拟以每股 83 美元进行 IPO 定价，完全稀释估值达 1.5 万亿美元",
-          "url": "https://www.aibase.com/zh/news/32392",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7814,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T05:26:34.136433Z",
-      "latest_at": "2026-11-19T05:26:34.136433Z",
-      "primary_item": {
-        "id": "2b7c0c9e68197caa6817978174720a5ed9ff734b",
-        "title": "Anthropic拟以每股83美元进行IPO定价，完全稀释估值达1.5万亿美元",
-        "url": "https://www.aibase.com/news/32392",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1161,15 +1304,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6474,
-      "importance": 0.6474,
-      "importance_score": 0.6474,
+      "score": 0.6352,
+      "importance": 0.6352,
+      "importance_score": 0.6352,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5688,
         "source_tier": 0.58,
         "ai_relevance": 0.79,
-        "recency": 0.9232,
+        "recency": 0.8552,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1187,82 +1330,196 @@
       }
     },
     {
-      "story_id": "story_a13089c51ba4",
-      "title": "DeepSeek调整API定价策略:服务端搜索与网页抓取正式免除单独计费",
-      "url": "https://www.aibase.com/news/32403",
-      "primary_url": "https://www.aibase.com/news/32403",
+      "story_id": "story_f0d0f469e0bf",
+      "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+      "primary_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T18:19:45.063000Z"
+        },
+        {
+          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z"
+        },
+        {
+          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
+          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T17:02:40Z"
+        },
+        {
+          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z"
+        },
+        {
+          "id": "82f7f71db83136ed823dfd92f50ab621cfeecd4f",
+          "title": "Anthropic 在纳斯达克首次亮相 / Anthropic’s Nasdaq debut",
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T17:02:40Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T18:19:45.063000Z"
+        },
+        {
+          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z"
+        },
+        {
+          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
+          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T17:02:40Z"
+        },
+        {
+          "id": "cb01128865cf609e1445fbc9bdea4ce0a9369e2d",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic’s Nasdaq debut",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z"
+        },
+        {
+          "id": "82f7f71db83136ed823dfd92f50ab621cfeecd4f",
+          "title": "Anthropic 在纳斯达克首次亮相 / Anthropic’s Nasdaq debut",
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T17:02:40Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5977,
+      "importance": 0.5977,
+      "importance_score": 0.5977,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8719,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T17:02:40Z",
+      "latest_at": "2026-11-19T18:19:45.063000Z",
+      "primary_item": {
+        "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
+        "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f8c81906f1c0",
+      "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+      "url": "https://www.aibase.com/news/32422",
+      "primary_url": "https://www.aibase.com/news/32422",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e8dd6473d485588f233e0d235d598a127c18fdac",
-          "title": "DeepSeek调整API定价策略:服务端搜索与网页抓取正式免除单独计费",
-          "url": "https://www.aibase.com/news/32403",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "url": "https://www.aibase.com/news/32422",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
-        },
-        {
-          "id": "19c28103d8b9cd8a76134af34e0fe4d12edc5034",
-          "title": "DeepSeek 调整 API 定价策略：服务端搜索与网页抓取正式免除单独计费",
-          "url": "https://www.aibase.com/zh/news/32403",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T03:49:11.552456Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "e8dd6473d485588f233e0d235d598a127c18fdac",
-          "title": "DeepSeek调整API定价策略:服务端搜索与网页抓取正式免除单独计费",
-          "url": "https://www.aibase.com/news/32403",
+          "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+          "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+          "url": "https://www.aibase.com/news/32422",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
-        },
-        {
-          "id": "19c28103d8b9cd8a76134af34e0fe4d12edc5034",
-          "title": "DeepSeek 调整 API 定价策略：服务端搜索与网页抓取正式免除单独计费",
-          "url": "https://www.aibase.com/zh/news/32403",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-11-20T03:49:11.552456Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-19T05:26:34.136433Z",
-      "latest_at": "2026-11-19T05:26:34.136433Z",
+      "earliest_at": "2026-11-20T03:49:11.552456Z",
+      "latest_at": "2026-11-20T03:49:11.552456Z",
       "primary_item": {
-        "id": "e8dd6473d485588f233e0d235d598a127c18fdac",
-        "title": "DeepSeek调整API定价策略:服务端搜索与网页抓取正式免除单独计费",
-        "url": "https://www.aibase.com/news/32403",
+        "id": "65559688ebf3e1f5378c5cac18a0c4c2ddd61261",
+        "title": "Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张",
+        "url": "https://www.aibase.com/news/32422",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1320,15 +1577,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5944,
-      "importance": 0.5944,
-      "importance_score": 0.5944,
+      "score": 0.5827,
+      "importance": 0.5827,
+      "importance_score": 0.5827,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8828,
+        "recency": 0.8178,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1343,282 +1600,6 @@
         "url": "https://www.theverge.com/tech/1037535/google-blue-origin-project-suncatcher-2029",
         "source": "The Verge",
         "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_d9d2fba47fd3",
-      "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "primary_url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:38:40Z"
-        },
-        {
-          "id": "93a31f43e6764662948d87d666c700c3b71ce76e",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话并暴露私人数据 / Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T17:38:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-19T17:38:40Z"
-        },
-        {
-          "id": "93a31f43e6764662948d87d666c700c3b71ce76e",
-          "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话并暴露私人数据 / Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
-          "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-19T17:38:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6365,
-      "importance": 0.6365,
-      "importance_score": 0.6365,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T17:38:40Z",
-      "latest_at": "2026-11-19T17:38:40Z",
-      "primary_item": {
-        "id": "9b9377324de9e3b92e86338ffcf5ab4a4bb5c69b",
-        "title": "报告称，Meta 的人工智能代理 Muse 正在混淆对话，可能会泄露私人数据 / Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      }
-    },
-    {
-      "story_id": "story_8892271db19c",
-      "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
-      "url": "https://www.aibase.com/news/32394",
-      "primary_url": "https://www.aibase.com/news/32394",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "db51c8f91a37afb601cd1362a804cfc8a9cd2ff3",
-          "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
-          "url": "https://www.aibase.com/news/32394",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
-        },
-        {
-          "id": "c133edc6fe8a81638c85e557a4a45bd9267753ad",
-          "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
-          "url": "https://www.aibase.com/zh/news/32394",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "db51c8f91a37afb601cd1362a804cfc8a9cd2ff3",
-          "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
-          "url": "https://www.aibase.com/news/32394",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-19T05:26:34.136433Z"
-        },
-        {
-          "id": "c133edc6fe8a81638c85e557a4a45bd9267753ad",
-          "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
-          "url": "https://www.aibase.com/zh/news/32394",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7533,
-      "importance": 0.7533,
-      "importance_score": 0.7533,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7814,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-19T05:26:34.136433Z",
-      "latest_at": "2026-11-19T05:26:34.136433Z",
-      "primary_item": {
-        "id": "db51c8f91a37afb601cd1362a804cfc8a9cd2ff3",
-        "title": "OpenAI 自曝模型失控险情：最强 AI 曾突破网络封锁，紧急停训 11 天",
-        "url": "https://www.aibase.com/news/32394",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_584db0d8b9b3",
-      "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市 / Anthropic raises $81bn in record-breaking stock market debut",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "f4c7a9bb46b95d81d5e4fddeefd110c2d7080c18",
-          "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市 / Anthropic raises $81bn in record-breaking stock market debut",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T10:48:04Z"
-        },
-        {
-          "id": "e1c4a58ea1d5c7673e94b63d1acf91cf85ba0ec5",
-          "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市 / AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T02:20:15Z"
-        },
-        {
-          "id": "515e7f6d662710e91433f626b43589b16776a5ab",
-          "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市 / Claude-maker Anthropic poised for $1.4tn stock market debut",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-18T23:44:27Z"
-        },
-        {
-          "id": "4deacead4ede119850cd3db91f2ec420e01f8de7",
-          "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-18T23:43:57.786000Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "BBC News",
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "f4c7a9bb46b95d81d5e4fddeefd110c2d7080c18",
-          "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市 / Anthropic raises $81bn in record-breaking stock market debut",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T10:48:04Z"
-        },
-        {
-          "id": "e1c4a58ea1d5c7673e94b63d1acf91cf85ba0ec5",
-          "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市 / AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T02:20:15Z"
-        },
-        {
-          "id": "515e7f6d662710e91433f626b43589b16776a5ab",
-          "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市 / Claude-maker Anthropic poised for $1.4tn stock market debut",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-18T23:44:27Z"
-        },
-        {
-          "id": "4deacead4ede119850cd3db91f2ec420e01f8de7",
-          "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市",
-          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-18T23:43:57.786000Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5678,
-      "importance": 0.5678,
-      "importance_score": 0.5678,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8443,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-18T23:43:57.786000Z",
-      "latest_at": "2026-11-19T10:48:04Z",
-      "primary_item": {
-        "id": "f4c7a9bb46b95d81d5e4fddeefd110c2d7080c18",
-        "title": "“克劳德”开发者Anthropic即将以1.4万亿美元估值登陆股市 / Anthropic raises $81bn in record-breaking stock market debut",
-        "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
       }
     }
   ]
