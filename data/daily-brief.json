@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T01:55:56.167076Z",
+  "generated_at": "2026-11-22T09:15:13.585519Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_2df82173bb28",
@@ -110,15 +110,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6592,
-      "importance": 0.6592,
-      "importance_score": 0.6592,
+      "score": 0.6421,
+      "importance": 0.6421,
+      "importance_score": 0.6421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9444,
+        "recency": 0.8496,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -136,81 +136,337 @@
       }
     },
     {
-      "story_id": "story_5d87055f8941",
-      "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
-      "url": "https://pwn.ai/upload2shell/research.html",
-      "primary_url": "https://pwn.ai/upload2shell/research.html",
-      "source": "pwn.ai",
-      "source_name": "Buzzing",
+      "story_id": "story_5cc0b3bf0f56",
+      "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "primary_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
-          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
-          "url": "https://pwn.ai/upload2shell/research.html",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T01:06:51.065000Z"
+          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T05:11:43Z"
         },
         {
-          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
-          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
-          "url": "https://pwn.ai/upload2shell/research.html",
+          "id": "48501ff3ac61877d2f5bcd3032a7b107008fc56b",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "www.dragos.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T16:03:55.721000Z"
+        },
+        {
+          "id": "bd13e08b5139d986834b5067edf41c37912084d1",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / Three breaches, endless leaks: Your AI supply chain needs canaries",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-22T00:52:23Z"
+          "published_at": "2026-11-21T15:48:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.dragos.com"
+      ],
+      "items": [
+        {
+          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T05:11:43Z"
+        },
+        {
+          "id": "48501ff3ac61877d2f5bcd3032a7b107008fc56b",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "www.dragos.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T16:03:55.721000Z"
+        },
+        {
+          "id": "bd13e08b5139d986834b5067edf41c37912084d1",
+          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / Three breaches, endless leaks: Your AI supply chain needs canaries",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T15:48:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9431,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T15:48:50Z",
+      "latest_at": "2026-11-22T05:11:43Z",
+      "primary_item": {
+        "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
+        "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / AI Supply Chain Security: What Canary Tokens Found",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_381628060ea9",
+      "title": "推理提供商上的数据处理事件",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+      "primary_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+      "source": "openrouter.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
+          "title": "推理提供商上的数据处理事件",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T07:28:01.316000Z"
+        },
+        {
+          "id": "fb229b787007403cac77c695759b6a0776a478f5",
+          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:14:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "pwn.ai"
+        "Hacker News (黑客新闻)",
+        "openrouter.ai"
       ],
       "items": [
         {
-          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
-          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
-          "url": "https://pwn.ai/upload2shell/research.html",
-          "source": "pwn.ai",
+          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
+          "title": "推理提供商上的数据处理事件",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "openrouter.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-22T01:06:51.065000Z"
+          "published_at": "2026-11-22T07:28:01.316000Z"
         },
         {
-          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
-          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
-          "url": "https://pwn.ai/upload2shell/research.html",
-          "source": "Lobsters (技术社区)",
+          "id": "fb229b787007403cac77c695759b6a0776a478f5",
+          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-22T00:52:23Z"
+          "published_at": "2026-11-22T02:14:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9883,
+        "recency": 0.9745,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T00:52:23Z",
-      "latest_at": "2026-11-22T01:06:51.065000Z",
+      "earliest_at": "2026-11-22T02:14:14Z",
+      "latest_at": "2026-11-22T07:28:01.316000Z",
       "primary_item": {
-        "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
-        "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
-        "url": "https://pwn.ai/upload2shell/research.html",
+        "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
+        "title": "推理提供商上的数据处理事件",
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+        "source": "openrouter.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6d859339b158",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "primary_url": "https://pwn.ai/upload2shell",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9941729af0fc4a985beab373d94ae70830b1c1d5",
+          "title": "Upload2Shell (CVE-2026-125396)",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T05:35:57.070000Z"
+        },
+        {
+          "id": "291eb99bb7c3f35df9c13e8ff28c1eb6151d06d4",
+          "title": "Upload2Shell · CVE-2026-125396",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T18:29:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "9941729af0fc4a985beab373d94ae70830b1c1d5",
+          "title": "Upload2Shell (CVE-2026-125396)",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T05:35:57.070000Z"
+        },
+        {
+          "id": "291eb99bb7c3f35df9c13e8ff28c1eb6151d06d4",
+          "title": "Upload2Shell · CVE-2026-125396",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T18:29:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9486,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T18:29:29Z",
+      "latest_at": "2026-11-22T05:35:57.070000Z",
+      "primary_item": {
+        "id": "9941729af0fc4a985beab373d94ae70830b1c1d5",
+        "title": "Upload2Shell (CVE-2026-125396)",
+        "url": "https://pwn.ai/upload2shell",
         "source": "pwn.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6e086317ffb3",
+      "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T02:09:43.926000Z"
+        },
+        {
+          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:03:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T02:09:43.926000Z"
+        },
+        {
+          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
+          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:03:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9027,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T02:03:46Z",
+      "latest_at": "2026-11-22T02:09:43.926000Z",
+      "primary_item": {
+        "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
+        "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
+        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+        "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     },
@@ -268,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9807,
+        "recency": 0.8823,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -291,183 +547,6 @@
         "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c82934c02ed9",
-      "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-      "url": "http://ricapar.net/ClawDOS",
-      "primary_url": "http://ricapar.net/ClawDOS",
-      "source": "ricapar.net",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "ricapar.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T13:07:54.916000Z"
-        },
-        {
-          "id": "391bb8ed1fbc5577ec5533bf055a65dc2a61cf35",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T05:38:01Z"
-        },
-        {
-          "id": "676963c438105d647a6a86adcc682ef67e6ccf2b",
-          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
-          "url": "https://news.ycombinator.com/item?id=50586292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T05:38:01Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "ricapar.net"
-      ],
-      "items": [
-        {
-          "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "ricapar.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T13:07:54.916000Z"
-        },
-        {
-          "id": "391bb8ed1fbc5577ec5533bf055a65dc2a61cf35",
-          "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
-          "url": "http://ricapar.net/ClawDOS",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T05:38:01Z"
-        },
-        {
-          "id": "676963c438105d647a6a86adcc682ef67e6ccf2b",
-          "title": "ClawDOS – DOS 的人工智能编码代理 / ClawDOS – An AI coding agent for DOS",
-          "url": "https://news.ycombinator.com/item?id=50586292",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T05:38:01Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8312,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T05:38:01Z",
-      "latest_at": "2026-11-21T13:07:54.916000Z",
-      "primary_item": {
-        "id": "0a4d9b70e1e3b89d3fbd53ece7c4c4e5cb67ed0a",
-        "title": "ClawDOS——一款适用于DOS的人工智能编程代理",
-        "url": "http://ricapar.net/ClawDOS",
-        "source": "ricapar.net",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_158994b8ae4e",
-      "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "primary_url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
-          "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T23:10:21Z"
-        },
-        {
-          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "url": "https://news.ycombinator.com/item?id=50594564",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T23:10:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
-          "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T23:10:21Z"
-        },
-        {
-          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "url": "https://news.ycombinator.com/item?id=50594564",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T23:10:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9609,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T23:10:21Z",
-      "latest_at": "2026-11-21T23:10:21Z",
-      "primary_item": {
-        "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
-        "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -524,15 +603,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9444,
+        "recency": 0.8496,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -603,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5162,
+      "importance": 0.5162,
+      "importance_score": 0.5162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9285,
+        "recency": 0.8353,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -626,85 +705,6 @@
         "url": "https://www.pandex.io",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_5cc0b3bf0f56",
-      "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
-      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "primary_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-      "source": "www.dragos.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "48501ff3ac61877d2f5bcd3032a7b107008fc56b",
-          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "www.dragos.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T16:03:55.721000Z"
-        },
-        {
-          "id": "bd13e08b5139d986834b5067edf41c37912084d1",
-          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / Three breaches, endless leaks: Your AI supply chain needs canaries",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T15:48:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.dragos.com"
-      ],
-      "items": [
-        {
-          "id": "48501ff3ac61877d2f5bcd3032a7b107008fc56b",
-          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "www.dragos.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T16:03:55.721000Z"
-        },
-        {
-          "id": "bd13e08b5139d986834b5067edf41c37912084d1",
-          "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀” / Three breaches, endless leaks: Your AI supply chain needs canaries",
-          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-21T15:48:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8672,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T15:48:50Z",
-      "latest_at": "2026-11-21T16:03:55.721000Z",
-      "primary_item": {
-        "id": "48501ff3ac61877d2f5bcd3032a7b107008fc56b",
-        "title": "三起安全事件，无休止的数据泄露：您的AI供应链需要“金丝雀”",
-        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
-        "source": "www.dragos.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -760,15 +760,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5218,
-      "importance": 0.5218,
-      "importance_score": 0.5218,
+      "score": 0.5061,
+      "importance": 0.5061,
+      "importance_score": 0.5061,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8665,
+        "recency": 0.7796,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -839,15 +839,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.502,
+      "importance": 0.502,
+      "importance_score": 0.502,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8409,
+        "recency": 0.7565,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -861,6 +861,164 @@
         "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
         "url": "https://github.com/natsu0529/agent-mcts",
         "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z"
+        },
+        {
+          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
+          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
+          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T22:26:53.368000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z"
+        },
+        {
+          "id": "bc1cee2e291ec5c9d16351a097d86ae4e4289328",
+          "title": "Show HN: 人工智能能否用90%的Rust语言重写OpenCode？",
+          "url": "https://www.youtube.com/watch?v=SwX4OoxMaKM",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T22:26:53.368000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9151,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T22:26:53.368000Z",
+      "latest_at": "2026-11-22T03:06:35Z",
+      "primary_item": {
+        "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+        "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_5d87055f8941",
+      "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+      "url": "https://pwn.ai/upload2shell/research.html",
+      "primary_url": "https://pwn.ai/upload2shell/research.html",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8891,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T00:52:23Z",
+      "latest_at": "2026-11-22T01:06:51.065000Z",
+      "primary_item": {
+        "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+        "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+        "url": "https://pwn.ai/upload2shell/research.html",
+        "source": "pwn.ai",
         "source_name": "Buzzing"
       }
     },
@@ -918,15 +1076,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8806,
+        "recency": 0.7923,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -997,15 +1155,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5237,
-      "importance": 0.5237,
-      "importance_score": 0.5237,
+      "score": 0.5079,
+      "importance": 0.5079,
+      "importance_score": 0.5079,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8774,
+        "recency": 0.7894,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,6 +1178,164 @@
         "url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_158994b8ae4e",
+      "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "primary_url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
+          "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T23:10:21Z"
+        },
+        {
+          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
+          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://news.ycombinator.com/item?id=50594564",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T23:10:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
+          "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T23:10:21Z"
+        },
+        {
+          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
+          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://news.ycombinator.com/item?id=50594564",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T23:10:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8645,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T23:10:21Z",
+      "latest_at": "2026-11-21T23:10:21Z",
+      "primary_item": {
+        "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
+        "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_4326f3d1f6ec",
+      "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
+      "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+      "primary_url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
+          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
+          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T14:27:55.376000Z"
+        },
+        {
+          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
+          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
+          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T14:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
+          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
+          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-21T14:27:55.376000Z"
+        },
+        {
+          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
+          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
+          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T14:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7624,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T14:00:01Z",
+      "latest_at": "2026-11-21T14:27:55.376000Z",
+      "primary_item": {
+        "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
+        "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
+        "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1075,15 +1391,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.862,
+        "recency": 0.7756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1153,15 +1469,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8492,
+        "recency": 0.764,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1176,85 +1492,6 @@
         "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_4326f3d1f6ec",
-      "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-      "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-      "primary_url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T14:27:55.376000Z"
-        },
-        {
-          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T14:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T14:27:55.376000Z"
-        },
-        {
-          "id": "6585d5a2332b59871b35931ee30c7540b4b21039",
-          "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式 / I'm a real estate developer selling a $30 million mansion, and here’s why I’d accept Anthropic shares instead of cash",
-          "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T14:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8474,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T14:00:01Z",
-      "latest_at": "2026-11-21T14:27:55.376000Z",
-      "primary_item": {
-        "id": "b1fcefeda1e64b383bca865df36e58c1359d9b48",
-        "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
-        "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1310,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.516,
-      "importance": 0.516,
-      "importance_score": 0.516,
+      "score": 0.5009,
+      "importance": 0.5009,
+      "importance_score": 0.5009,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8343,
+        "recency": 0.7506,
         "story_heat": 0.25
       },
       "category": "watch",
