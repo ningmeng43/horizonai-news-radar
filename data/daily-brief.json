@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T21:58:12.742987Z",
+  "generated_at": "2026-11-22T01:55:56.167076Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_2df82173bb28",
@@ -110,15 +110,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6592,
+      "importance": 0.6592,
+      "importance_score": 0.6592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9444,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -133,6 +133,164 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-21",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_5d87055f8941",
+      "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+      "url": "https://pwn.ai/upload2shell/research.html",
+      "primary_url": "https://pwn.ai/upload2shell/research.html",
+      "source": "pwn.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "pwn.ai"
+      ],
+      "items": [
+        {
+          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "pwn.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T01:06:51.065000Z"
+        },
+        {
+          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
+          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
+          "url": "https://pwn.ai/upload2shell/research.html",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T00:52:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5437,
+      "importance": 0.5437,
+      "importance_score": 0.5437,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9883,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T00:52:23Z",
+      "latest_at": "2026-11-22T01:06:51.065000Z",
+      "primary_item": {
+        "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
+        "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
+        "url": "https://pwn.ai/upload2shell/research.html",
+        "source": "pwn.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9f7e68615129",
+      "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+      "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+      "primary_url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e4601128db993e279115809c55cca0773d118007",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T00:34:50.197000Z"
+        },
+        {
+          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T22:02:52Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e4601128db993e279115809c55cca0773d118007",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T00:34:50.197000Z"
+        },
+        {
+          "id": "a947ad56cc613ca0679afafb1feab4c3bff50099",
+          "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场 / The AI sell-off now has Taiwan taking emergency steps to calm its chip-heavy market",
+          "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-21T22:02:52Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9807,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T22:02:52Z",
+      "latest_at": "2026-11-22T00:34:50.197000Z",
+      "primary_item": {
+        "id": "e4601128db993e279115809c55cca0773d118007",
+        "title": "受人工智能板块抛售潮影响，台湾现正采取紧急措施以稳定其以芯片为主的市场",
+        "url": "https://www.businessinsider.com/taiwan-market-sell-off-regulation-ai-trade-tech-semiconductors-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -153,12 +311,12 @@
           "published_at": "2026-11-21T13:07:54.916000Z"
         },
         {
-          "id": "ca2b0eef5b4cd71fe4ef0c4a9cda6f71e2f70e5e",
+          "id": "391bb8ed1fbc5577ec5533bf055a65dc2a61cf35",
           "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
           "url": "http://ricapar.net/ClawDOS",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-21T05:38:01Z"
         },
         {
@@ -173,7 +331,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "ricapar.net"
       ],
@@ -188,12 +346,12 @@
           "published_at": "2026-11-21T13:07:54.916000Z"
         },
         {
-          "id": "ca2b0eef5b4cd71fe4ef0c4a9cda6f71e2f70e5e",
+          "id": "391bb8ed1fbc5577ec5533bf055a65dc2a61cf35",
           "title": "ClawDOS——一款适用于DOS的人工智能编程代理 / ClawDOS – An AI coding agent for DOS",
           "url": "http://ricapar.net/ClawDOS",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-21T05:38:01Z"
         },
         {
@@ -208,15 +366,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5492,
-      "importance": 0.5492,
-      "importance_score": 0.5492,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8802,
+        "recency": 0.8312,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -231,6 +389,85 @@
         "url": "http://ricapar.net/ClawDOS",
         "source": "ricapar.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_158994b8ae4e",
+      "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "primary_url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
+          "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T23:10:21Z"
+        },
+        {
+          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
+          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://news.ycombinator.com/item?id=50594564",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T23:10:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
+          "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T23:10:21Z"
+        },
+        {
+          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
+          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://news.ycombinator.com/item?id=50594564",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T23:10:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9609,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T23:10:21Z",
+      "latest_at": "2026-11-21T23:10:21Z",
+      "primary_item": {
+        "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
+        "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -287,15 +524,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9444,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -313,82 +550,82 @@
       }
     },
     {
-      "story_id": "story_5c37313386c9",
-      "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-      "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-      "primary_url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_cfea722a5658",
+      "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "primary_url": "https://www.pandex.io",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T17:07:38.909000Z"
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
         },
         {
-          "id": "60e13d14c3255fef6b716904d927be881f583c07",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T12:00:02Z"
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T17:07:38.909000Z"
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
         },
         {
-          "id": "60e13d14c3255fef6b716904d927be881f583c07",
-          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
-          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-21T12:00:02Z"
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9325,
+        "recency": 0.9285,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T12:00:02Z",
-      "latest_at": "2026-11-21T17:07:38.909000Z",
+      "earliest_at": "2026-11-21T20:47:41Z",
+      "latest_at": "2026-11-21T20:47:41Z",
       "primary_item": {
-        "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
-        "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
-        "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "909d7442088e87203136232133bfd76c1ddde102",
+        "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+        "url": "https://www.pandex.io",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -445,15 +682,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9183,
+        "recency": 0.8672,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -471,276 +708,238 @@
       }
     },
     {
-      "story_id": "story_fd986dd95e42",
-      "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "primary_url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_4e6153d6e334",
+      "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
+      "url": "https://www.v2ex.com/t/1258824",
+      "primary_url": "https://www.v2ex.com/t/1258824",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "2c9b78f58fa09e945423ded8989505207205857d",
-          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
-          "url": "https://onurgumus.github.io/zero-csharp/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T15:39:09Z"
+          "id": "25cd4b98bc945869dc775656ef3e63e5f05d6ee5",
+          "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
+          "url": "https://www.v2ex.com/t/1258824",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T16:00:44Z"
         },
         {
-          "id": "b9f13d2bade101b35a0a5dba97669b24f39f6765",
-          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C#, Power of C# without any GC",
-          "url": "https://onurgumus.github.io/zero-csharp/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T15:39:09Z"
+          "id": "72ef525dc5e6c3b80940b191ca4611c15e8ffab6",
+          "title": "[分享发现] 体验多天，发现国行苹果 ai 一点都不好用！",
+          "url": "https://www.v2ex.com/t/1258824",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T16:00:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热"
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "2c9b78f58fa09e945423ded8989505207205857d",
-          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
-          "url": "https://onurgumus.github.io/zero-csharp/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T15:39:09Z"
+          "id": "25cd4b98bc945869dc775656ef3e63e5f05d6ee5",
+          "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
+          "url": "https://www.v2ex.com/t/1258824",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T16:00:44Z"
         },
         {
-          "id": "b9f13d2bade101b35a0a5dba97669b24f39f6765",
-          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C#, Power of C# without any GC",
-          "url": "https://onurgumus.github.io/zero-csharp/index.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T15:39:09Z"
+          "id": "72ef525dc5e6c3b80940b191ca4611c15e8ffab6",
+          "title": "[分享发现] 体验多天，发现国行苹果 ai 一点都不好用！",
+          "url": "https://www.v2ex.com/t/1258824",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T16:00:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5301,
-      "importance": 0.5301,
-      "importance_score": 0.5301,
+      "score": 0.5218,
+      "importance": 0.5218,
+      "importance_score": 0.5218,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9128,
+        "recency": 0.8665,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-21T15:39:09Z",
-      "latest_at": "2026-11-21T15:39:09Z",
+      "earliest_at": "2026-11-21T16:00:44Z",
+      "latest_at": "2026-11-21T16:00:44Z",
       "primary_item": {
-        "id": "2c9b78f58fa09e945423ded8989505207205857d",
-        "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
-        "url": "https://onurgumus.github.io/zero-csharp/index.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "id": "25cd4b98bc945869dc775656ef3e63e5f05d6ee5",
+        "title": "[Apple] 体验多天，发现国行苹果 ai 一点都不好用！",
+        "url": "https://www.v2ex.com/t/1258824",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
-      "story_id": "story_5d3c25a64fe3",
-      "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
+      "story_id": "story_79c1f4e3bee2",
+      "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
+      "url": "https://github.com/natsu0529/agent-mcts",
+      "primary_url": "https://github.com/natsu0529/agent-mcts",
+      "source": "github.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
+          "id": "c313de9ae0f7283184eb7dd1d7b8d996ee9fcbf8",
+          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
+          "url": "https://github.com/natsu0529/agent-mcts",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T23:34:58.378000Z"
+          "published_at": "2026-11-21T13:55:57.067000Z"
         },
         {
-          "id": "4b3ebdefb9aa8fc0f6a3fb122030d003063b6a2f",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:08:57Z"
-        },
-        {
-          "id": "89a2e924edeb8aa73ea6bf1fe1b11b782d33843e",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
+          "id": "cd1ed20c0b8a3ea423d3d0939012753ac75c7f8b",
+          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索 / Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+          "url": "https://github.com/natsu0529/agent-mcts",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-21T13:53:08Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "BBC News",
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
+        "HN Algolia · AI 24h",
+        "github.com"
       ],
       "items": [
         {
-          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
+          "id": "c313de9ae0f7283184eb7dd1d7b8d996ee9fcbf8",
+          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
+          "url": "https://github.com/natsu0529/agent-mcts",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T23:34:58.378000Z"
+          "published_at": "2026-11-21T13:55:57.067000Z"
         },
         {
-          "id": "4b3ebdefb9aa8fc0f6a3fb122030d003063b6a2f",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:08:57Z"
-        },
-        {
-          "id": "89a2e924edeb8aa73ea6bf1fe1b11b782d33843e",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
+          "id": "cd1ed20c0b8a3ea423d3d0939012753ac75c7f8b",
+          "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索 / Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+          "url": "https://github.com/natsu0529/agent-mcts",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-11-21T13:53:08Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7238,
-        "story_heat": 0.5
+        "recency": 0.8409,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-20T23:08:57Z",
-      "latest_at": "2026-11-20T23:34:58.378000Z",
+      "earliest_at": "2026-11-21T13:53:08Z",
+      "latest_at": "2026-11-21T13:55:57.067000Z",
       "primary_item": {
-        "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-        "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
+        "id": "c313de9ae0f7283184eb7dd1d7b8d996ee9fcbf8",
+        "title": "Show HN: Agent-mcts——基于Claude代码的蒙特卡洛树搜索",
+        "url": "https://github.com/natsu0529/agent-mcts",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_4d6c192ff862",
-      "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "primary_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "source": "arstechnica.com",
+      "story_id": "story_5c37313386c9",
+      "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+      "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+      "primary_url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "arstechnica.com",
+          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T22:15:54.395000Z"
+          "published_at": "2026-11-21T17:07:38.909000Z"
         },
         {
-          "id": "f11063f39c65d2f07040c2d7a1fc7aa422cb56c0",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T21:58:29Z"
-        },
-        {
-          "id": "25cfdb8f1afb2581168495415b47525afde38694",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "Ars Technica",
+          "id": "60e13d14c3255fef6b716904d927be881f583c07",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-20T21:58:29Z"
+          "published_at": "2026-11-21T12:00:02Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Ars Technica",
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "arstechnica.com",
+          "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-20T22:15:54.395000Z"
+          "published_at": "2026-11-21T17:07:38.909000Z"
         },
         {
-          "id": "f11063f39c65d2f07040c2d7a1fc7aa422cb56c0",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T21:58:29Z"
-        },
-        {
-          "id": "25cfdb8f1afb2581168495415b47525afde38694",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "Ars Technica",
+          "id": "60e13d14c3255fef6b716904d927be881f583c07",
+          "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿” / Scale AI cofounder says she passed on an Anthropic investment to support her ex's lifestyle: 'Lost a billion'",
+          "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-11-20T21:58:29Z"
+          "published_at": "2026-11-21T12:00:02Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5243,
+      "importance": 0.5243,
+      "importance_score": 0.5243,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7101,
-        "story_heat": 0.5
+        "recency": 0.8806,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-20T21:58:29Z",
-      "latest_at": "2026-11-20T22:15:54.395000Z",
+      "earliest_at": "2026-11-21T12:00:02Z",
+      "latest_at": "2026-11-21T17:07:38.909000Z",
       "primary_item": {
-        "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
-        "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-        "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-        "source": "arstechnica.com",
+        "id": "6981da4332466228aed88ed59dbbc1b3f520b525",
+        "title": "Scale AI联合创始人称，她曾放弃一笔来自Anthropic的投资以支持前夫：“损失了10亿”",
+        "url": "https://www.businessinsider.com/lucy-guo-scale-ai-ex-girlfriend-anthropic-investment-2026-11",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -798,15 +997,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.533,
-      "importance": 0.533,
-      "importance_score": 0.533,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9291,
+        "recency": 0.8774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -821,6 +1020,84 @@
         "url": "https://www.techradar.com/pro/openai-claims-ai-agents-now-complete-nearly-half-of-two-to-four-hour-research-tasks-on-their-own-but-says-humans-are-still-central-to-ai-development",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_fd986dd95e42",
+      "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
+      "url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "primary_url": "https://onurgumus.github.io/zero-csharp/index.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2c9b78f58fa09e945423ded8989505207205857d",
+          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
+          "url": "https://onurgumus.github.io/zero-csharp/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T15:39:09Z"
+        },
+        {
+          "id": "b9f13d2bade101b35a0a5dba97669b24f39f6765",
+          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C#, Power of C# without any GC",
+          "url": "https://onurgumus.github.io/zero-csharp/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T15:39:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2c9b78f58fa09e945423ded8989505207205857d",
+          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
+          "url": "https://onurgumus.github.io/zero-csharp/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T15:39:09Z"
+        },
+        {
+          "id": "b9f13d2bade101b35a0a5dba97669b24f39f6765",
+          "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C#, Power of C# without any GC",
+          "url": "https://onurgumus.github.io/zero-csharp/index.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T15:39:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.862,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T15:39:09Z",
+      "latest_at": "2026-11-21T15:39:09Z",
+      "primary_item": {
+        "id": "2c9b78f58fa09e945423ded8989505207205857d",
+        "title": "Show HN: Zero C#，无需垃圾回收（GC）的 C# 强大功能 / Show HN: Zero C# – C# without a runtime or GC",
+        "url": "https://onurgumus.github.io/zero-csharp/index.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -876,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8992,
+        "recency": 0.8492,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -955,15 +1232,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5183,
+      "importance": 0.5183,
+      "importance_score": 0.5183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8973,
+        "recency": 0.8474,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1033,15 +1310,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5248,
-      "importance": 0.5248,
-      "importance_score": 0.5248,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8834,
+        "recency": 0.8343,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1054,243 +1331,6 @@
         "id": "9ce43a8edc02ab9140977dec800a0b8c4ac47ca3",
         "title": "德里克·洛：引爆一堆叠氮化铅 / Derek Lowe: Detonating a Pile of Lead Azide",
         "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_d8f37fc4bf48",
-      "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-      "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-      "primary_url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cec0ae5a1fc8713104fa0762acf7123cc9e23554",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T00:06:54.148000Z"
-        },
-        {
-          "id": "09703ff004c4ab2a36508b893d259a6fd5c50762",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决 / The race to prove the Riemann Hypothesis just became a human-versus-AI showdown",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:33:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cec0ae5a1fc8713104fa0762acf7123cc9e23554",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T00:06:54.148000Z"
-        },
-        {
-          "id": "09703ff004c4ab2a36508b893d259a6fd5c50762",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决 / The race to prove the Riemann Hypothesis just became a human-versus-AI showdown",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:33:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4971,
-      "importance": 0.4971,
-      "importance_score": 0.4971,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7294,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T23:33:11Z",
-      "latest_at": "2026-11-21T00:06:54.148000Z",
-      "primary_item": {
-        "id": "cec0ae5a1fc8713104fa0762acf7123cc9e23554",
-        "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-        "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7f78d7354514",
-      "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-      "primary_url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T22:46:59Z"
-        },
-        {
-          "id": "b541e646d96c2e85906ab7faa674891db195cbc6",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:59:44.577000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T22:46:59Z"
-        },
-        {
-          "id": "b541e646d96c2e85906ab7faa674891db195cbc6",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:59:44.577000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4946,
-      "importance": 0.4946,
-      "importance_score": 0.4946,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7155,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T21:59:44.577000Z",
-      "latest_at": "2026-11-20T22:46:59Z",
-      "primary_item": {
-        "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
-        "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-        "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_956f406f46c1",
-      "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "primary_url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "5c47b4d26b08fe291c6bccf83bf4625e569ff242",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T22:18:20Z"
-        },
-        {
-          "id": "dd7e533b4ca9749bdc752be11f5fefe2f686ec3b",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://news.ycombinator.com/item?id=50583117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T22:18:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5c47b4d26b08fe291c6bccf83bf4625e569ff242",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T22:18:20Z"
-        },
-        {
-          "id": "dd7e533b4ca9749bdc752be11f5fefe2f686ec3b",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://news.ycombinator.com/item?id=50583117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T22:18:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4937,
-      "importance": 0.4937,
-      "importance_score": 0.4937,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7105,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T22:18:20Z",
-      "latest_at": "2026-11-20T22:18:20Z",
-      "primary_item": {
-        "id": "5c47b4d26b08fe291c6bccf83bf4625e569ff242",
-        "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-        "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
