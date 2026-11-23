@@ -1,88 +1,411 @@
 {
-  "generated_at": "2026-11-22T22:38:46.165853Z",
+  "generated_at": "2026-11-23T03:25:05.593902Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 20,
   "items": [
     {
-      "story_id": "story_de5cd1a6d51d",
-      "title": "困惑与智慧 / Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "primary_url": "https://openai.com/index/perplexity-and-intelligence",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_a3acd6a4034b",
+      "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
+      "url": "https://www.aibase.com/news/32459",
+      "primary_url": "https://www.aibase.com/news/32459",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "81f59ef87b5ab16def75e856634cf8a774fa114d",
-          "title": "困惑与智慧 / Perplexity and Intelligence",
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-22T00:00:00Z"
+          "id": "675900e7b729069b4326d2b3c6546d91bf2f1717",
+          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
+          "url": "https://www.aibase.com/news/32459",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
         },
         {
-          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
-          "title": "困惑与智慧",
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T18:20:52.884000Z"
+          "id": "51215a0d220e0d4511aadde459ca7ebc4d3f7011",
+          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能「跑 AI」",
+          "url": "https://www.aibase.com/zh/news/32459",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "OpenAI News",
-        "openai.com"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "81f59ef87b5ab16def75e856634cf8a774fa114d",
-          "title": "困惑与智慧 / Perplexity and Intelligence",
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-22T00:00:00Z"
+          "id": "675900e7b729069b4326d2b3c6546d91bf2f1717",
+          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
+          "url": "https://www.aibase.com/news/32459",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
         },
         {
-          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
-          "title": "困惑与智慧",
-          "url": "https://openai.com/index/perplexity-and-intelligence",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T18:20:52.884000Z"
+          "id": "51215a0d220e0d4511aadde459ca7ebc4d3f7011",
+          "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能「跑 AI」",
+          "url": "https://www.aibase.com/zh/news/32459",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8268,
-      "importance": 0.8268,
-      "importance_score": 0.8268,
-      "importance_label": "官方更新",
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7211,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.25
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-22T00:00:00Z",
-      "latest_at": "2026-11-22T18:20:52.884000Z",
+      "earliest_at": "2026-11-23T03:25:05.593902Z",
+      "latest_at": "2026-11-23T03:25:05.593902Z",
       "primary_item": {
-        "id": "81f59ef87b5ab16def75e856634cf8a774fa114d",
-        "title": "困惑与智慧 / Perplexity and Intelligence",
-        "url": "https://openai.com/index/perplexity-and-intelligence",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "675900e7b729069b4326d2b3c6546d91bf2f1717",
+        "title": "38 万参数的 Transformer 塞进一张软盘：三十年前的 486 老电脑，如今也能“跑 AI”",
+        "url": "https://www.aibase.com/news/32459",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a42db91deff9",
+      "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+      "url": "https://www.aibase.com/news/32450",
+      "primary_url": "https://www.aibase.com/news/32450",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
+          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "url": "https://www.aibase.com/news/32450",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "6e5b662fbcd9fd442c93cd03d37a0b34c46aed39",
+          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "url": "https://www.aibase.com/zh/news/32450",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
+          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "url": "https://www.aibase.com/news/32450",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "6e5b662fbcd9fd442c93cd03d37a0b34c46aed39",
+          "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+          "url": "https://www.aibase.com/zh/news/32450",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:25:05.593902Z",
+      "latest_at": "2026-11-23T03:25:05.593902Z",
+      "primary_item": {
+        "id": "5dcbf08f502b27fee9570185201dcddd8df64ec7",
+        "title": "AI 与人各交一份千禧难题答卷：一边靠 Claude 写完 79 页证明，一边掏出 12 年手写的 940 页草稿",
+        "url": "https://www.aibase.com/news/32450",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dffded7b2fe2",
+      "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+      "url": "https://www.aibase.com/news/32462",
+      "primary_url": "https://www.aibase.com/news/32462",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ad6441bc94e7d48a9517e6b8e567e41d56b7d775",
+          "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+          "url": "https://www.aibase.com/news/32462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "0758a260157cd3278d9feee2dcf014b970a31f45",
+          "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给「大肥鱼」们立规矩",
+          "url": "https://www.aibase.com/zh/news/32462",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ad6441bc94e7d48a9517e6b8e567e41d56b7d775",
+          "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+          "url": "https://www.aibase.com/news/32462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "0758a260157cd3278d9feee2dcf014b970a31f45",
+          "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给「大肥鱼」们立规矩",
+          "url": "https://www.aibase.com/zh/news/32462",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:25:05.593902Z",
+      "latest_at": "2026-11-23T03:25:05.593902Z",
+      "primary_item": {
+        "id": "ad6441bc94e7d48a9517e6b8e567e41d56b7d775",
+        "title": "AI 账号互相捧场刷屏评论区：B 站发问卷，给“大肥鱼”们立规矩",
+        "url": "https://www.aibase.com/news/32462",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d0d594a20656",
+      "title": "沉寂百日后先上前菜：智谱下周发 GLM-5.4，3 万亿旗舰 12 月见",
+      "url": "https://www.aibase.com/news/32458",
+      "primary_url": "https://www.aibase.com/news/32458",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "78cd7245044f1df72949d757a43b4a4cbcee2ab9",
+          "title": "沉寂百日后先上前菜：智谱下周发 GLM-5.4，3 万亿旗舰 12 月见",
+          "url": "https://www.aibase.com/news/32458",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "6e2450a29c002762221cc8c341e8a72fd57c9ddb",
+          "title": "沉寂百日后先上前菜：智谱下周发 GLM-5.4，3 万亿旗舰 12 月见",
+          "url": "https://www.aibase.com/zh/news/32458",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "78cd7245044f1df72949d757a43b4a4cbcee2ab9",
+          "title": "沉寂百日后先上前菜：智谱下周发 GLM-5.4，3 万亿旗舰 12 月见",
+          "url": "https://www.aibase.com/news/32458",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "6e2450a29c002762221cc8c341e8a72fd57c9ddb",
+          "title": "沉寂百日后先上前菜：智谱下周发 GLM-5.4，3 万亿旗舰 12 月见",
+          "url": "https://www.aibase.com/zh/news/32458",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:25:05.593902Z",
+      "latest_at": "2026-11-23T03:25:05.593902Z",
+      "primary_item": {
+        "id": "78cd7245044f1df72949d757a43b4a4cbcee2ab9",
+        "title": "沉寂百日后先上前菜：智谱下周发 GLM-5.4，3 万亿旗舰 12 月见",
+        "url": "https://www.aibase.com/news/32458",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8f3fa4876db1",
+      "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
+      "url": "https://www.aibase.com/news/32455",
+      "primary_url": "https://www.aibase.com/news/32455",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "06356fb0147e9c8d8bd8b7b5b8a436c7f0e4c55b",
+          "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
+          "url": "https://www.aibase.com/news/32455",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "ae6c313c2e74c03056edc2d152f090a9f474463e",
+          "title": "给 AI 发展划一条「困惑度」红线：OpenAI 首席科学家提议设行业门槛",
+          "url": "https://www.aibase.com/zh/news/32455",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "06356fb0147e9c8d8bd8b7b5b8a436c7f0e4c55b",
+          "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
+          "url": "https://www.aibase.com/news/32455",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "ae6c313c2e74c03056edc2d152f090a9f474463e",
+          "title": "给 AI 发展划一条「困惑度」红线：OpenAI 首席科学家提议设行业门槛",
+          "url": "https://www.aibase.com/zh/news/32455",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:25:05.593902Z",
+      "latest_at": "2026-11-23T03:25:05.593902Z",
+      "primary_item": {
+        "id": "06356fb0147e9c8d8bd8b7b5b8a436c7f0e4c55b",
+        "title": "给 AI 发展划一条“困惑度”红线：OpenAI 首席科学家提议设行业门槛",
+        "url": "https://www.aibase.com/news/32455",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -192,15 +515,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6692,
-      "importance": 0.6692,
-      "importance_score": 0.6692,
+      "score": 0.6572,
+      "importance": 0.6572,
+      "importance_score": 0.6572,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9334,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -215,6 +538,327 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-11-22",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_beffc62591b3",
+      "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”",
+      "url": "https://www.aibase.com/news/32460",
+      "primary_url": "https://www.aibase.com/news/32460",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eced9e506e406426a89574d47a1f60d61bba4eab",
+          "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”",
+          "url": "https://www.aibase.com/news/32460",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "ae1e8743c4c9193668d4d14c2ab485e72ebb2c0d",
+          "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将「显著扩大」",
+          "url": "https://www.aibase.com/zh/news/32460",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "eced9e506e406426a89574d47a1f60d61bba4eab",
+          "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”",
+          "url": "https://www.aibase.com/news/32460",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "ae1e8743c4c9193668d4d14c2ab485e72ebb2c0d",
+          "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将「显著扩大」",
+          "url": "https://www.aibase.com/zh/news/32460",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:25:05.593902Z",
+      "latest_at": "2026-11-23T03:25:05.593902Z",
+      "primary_item": {
+        "id": "eced9e506e406426a89574d47a1f60d61bba4eab",
+        "title": "腾讯混元团队 Reddit 答问 120 分钟：不刻意刷榜，下一代模型规模将“显著扩大”",
+        "url": "https://www.aibase.com/news/32460",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3070d92e9ecb",
+      "title": "靠 Kimi K2.5 起家的 Cursor 向国会表态：有意逐步淘汰中国大模型",
+      "url": "https://www.aibase.com/news/32461",
+      "primary_url": "https://www.aibase.com/news/32461",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4e20e7e4c7a819641a59391f798d7585ea3f558a",
+          "title": "靠 Kimi K2.5 起家的 Cursor 向国会表态：有意逐步淘汰中国大模型",
+          "url": "https://www.aibase.com/news/32461",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "4de12c30c54edd97cd2c022c6ff7486daaf303e8",
+          "title": "靠 Kimi K2.5 起家的 Cursor 向国会表态：有意逐步淘汰中国大模型",
+          "url": "https://www.aibase.com/zh/news/32461",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4e20e7e4c7a819641a59391f798d7585ea3f558a",
+          "title": "靠 Kimi K2.5 起家的 Cursor 向国会表态：有意逐步淘汰中国大模型",
+          "url": "https://www.aibase.com/news/32461",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        },
+        {
+          "id": "4de12c30c54edd97cd2c022c6ff7486daaf303e8",
+          "title": "靠 Kimi K2.5 起家的 Cursor 向国会表态：有意逐步淘汰中国大模型",
+          "url": "https://www.aibase.com/zh/news/32461",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:25:05.593902Z",
+      "latest_at": "2026-11-23T03:25:05.593902Z",
+      "primary_item": {
+        "id": "4e20e7e4c7a819641a59391f798d7585ea3f558a",
+        "title": "靠 Kimi K2.5 起家的 Cursor 向国会表态：有意逐步淘汰中国大模型",
+        "url": "https://www.aibase.com/news/32461",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4f0ed76760ef",
+      "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "primary_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "source": "www.gpupartner.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "www.gpupartner.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T23:23:39.823000Z"
+        },
+        {
+          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T21:01:16Z"
+        },
+        {
+          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://news.ycombinator.com/item?id=50603845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:01:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.gpupartner.com"
+      ],
+      "items": [
+        {
+          "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "www.gpupartner.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T23:23:39.823000Z"
+        },
+        {
+          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
+          "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T21:01:16Z"
+        },
+        {
+          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
+          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+          "url": "https://news.ycombinator.com/item?id=50603845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T21:01:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9435,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T21:01:16Z",
+      "latest_at": "2026-11-22T23:23:39.823000Z",
+      "primary_item": {
+        "id": "fa621fcc18a3efeb20d42fb6c68e68aed3083f68",
+        "title": "《Inkling、Qwen 和 Unsloth 入门指南：本地人工智能》",
+        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+        "source": "www.gpupartner.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5bd51a6826c2",
+      "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+      "url": "https://www.aibase.com/news/32456",
+      "primary_url": "https://www.aibase.com/news/32456",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3d6b05123bcb49c86dc729ba735c0b68c628a141",
+          "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+          "url": "https://www.aibase.com/news/32456",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3d6b05123bcb49c86dc729ba735c0b68c628a141",
+          "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+          "url": "https://www.aibase.com/news/32456",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:25:05.593902Z",
+      "latest_at": "2026-11-23T03:25:05.593902Z",
+      "primary_item": {
+        "id": "3d6b05123bcb49c86dc729ba735c0b68c628a141",
+        "title": "MiniMax 拿内部模型开刀密码学：把纸面攻击变成秒级实战，NIST 竞赛算法首次被真攻破",
+        "url": "https://www.aibase.com/news/32456",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -290,15 +934,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
+      "score": 0.5451,
+      "importance": 0.5451,
+      "importance_score": 0.5451,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9183,
+        "recency": 0.8572,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -316,179 +960,398 @@
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
-      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "source": "www.youtube.com",
+      "story_id": "story_5cc0b3bf0f56",
+      "title": "AI 供应链安全：Canary Tokens 的发现",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "primary_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "source": "www.dragos.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2066052d1d469948e676457e24fd3f814149a22e",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "www.youtube.com",
+          "id": "3d4118265351b98a8d265b80afda1768d3d8efca",
+          "title": "AI 供应链安全：Canary Tokens 的发现",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "www.dragos.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-22T16:44:44.430000Z"
+          "published_at": "2026-11-23T01:16:11.338000Z"
         },
         {
-          "id": "732b2bf8d151051cc25ada064b114bebab0b6fb1",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T16:37:37Z"
-        },
-        {
-          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
+          "title": "AI 供应链安全：Canary Tokens 的发现 / AI Supply Chain Security: What Canary Tokens Found",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-22T03:06:35Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)",
-        "www.youtube.com"
-      ],
-      "items": [
-        {
-          "id": "2066052d1d469948e676457e24fd3f814149a22e",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "www.youtube.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T16:44:44.430000Z"
-        },
-        {
-          "id": "732b2bf8d151051cc25ada064b114bebab0b6fb1",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T16:37:37Z"
-        },
-        {
-          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-          "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒） / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T03:06:35Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5561,
-      "importance": 0.5561,
-      "importance_score": 0.5561,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9183,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T03:06:35Z",
-      "latest_at": "2026-11-22T16:44:44.430000Z",
-      "primary_item": {
-        "id": "2066052d1d469948e676457e24fd3f814149a22e",
-        "title": "在事情发生之前，我们就曾就[一份令人费解的关于广义相对论预测的人工智能证明]向数学家们请教过（13分38秒）",
-        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-        "source": "www.youtube.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bdb0e6adc141",
-      "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "206e1928c8f1cd9e09bf50306b4a01f0981ec02c",
-          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T21:32:52.969000Z"
-        },
-        {
-          "id": "3247426c44586eb94c0a45fdc3bd23106befbdf3",
-          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道，电费该由谁来承担。 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdloySTJONWxBb2FZbXlwLVJaLU1ocUV6dzZjWU1pV2NUZEFaOEJBVFB6cjhxZWhvbE9jUi1XMWRNYXd2T0MwLTJMam1zUlJTZjZ6aU01bGpfVG9lZVlHRE1mNlNfWmdweHZMb2FyVUt5OERDd2xweW5kWkRUUWt1dzI5bnZ6VHVkTGx0d0ZlVlFQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T16:12:47.831000Z"
+          "published_at": "2026-11-22T05:11:43Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "news.google.com"
+        "Hacker News · 24h最热",
+        "www.dragos.com"
       ],
       "items": [
         {
-          "id": "206e1928c8f1cd9e09bf50306b4a01f0981ec02c",
-          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
+          "id": "3d4118265351b98a8d265b80afda1768d3d8efca",
+          "title": "AI 供应链安全：Canary Tokens 的发现",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "www.dragos.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-22T21:32:52.969000Z"
+          "published_at": "2026-11-23T01:16:11.338000Z"
         },
         {
-          "id": "3247426c44586eb94c0a45fdc3bd23106befbdf3",
-          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道，电费该由谁来承担。 - Fortune",
-          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdloySTJONWxBb2FZbXlwLVJaLU1ocUV6dzZjWU1pV2NUZEFaOEJBVFB6cjhxZWhvbE9jUi1XMWRNYXd2T0MwLTJMam1zUlJTZjZ6aU01bGpfVG9lZVlHRE1mNlNfWmdweHZMb2FyVUt5OERDd2xweW5kWkRUUWt1dzI5bnZ6VHVkTGx0d0ZlVlFQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T16:12:47.831000Z"
+          "id": "dcea4c807595531e0c5bdfa875f1dcefb87ecde8",
+          "title": "AI 供应链安全：Canary Tokens 的发现 / AI Supply Chain Security: What Canary Tokens Found",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T05:11:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9843,
+        "recency": 0.9695,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T16:12:47.831000Z",
-      "latest_at": "2026-11-22T21:32:52.969000Z",
+      "earliest_at": "2026-11-22T05:11:43Z",
+      "latest_at": "2026-11-23T01:16:11.338000Z",
       "primary_item": {
-        "id": "206e1928c8f1cd9e09bf50306b4a01f0981ec02c",
-        "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
+        "id": "3d4118265351b98a8d265b80afda1768d3d8efca",
+        "title": "AI 供应链安全：Canary Tokens 的发现",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "source": "www.dragos.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ba93566b3baf",
+      "title": "人工智能正成为气候的一场灾难",
+      "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "primary_url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+      "source": "www.bloodinthemachine.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3f5ee8ed7c77d2ce70d17cbf92183b39f9f78de0",
+          "title": "人工智能正成为气候的一场灾难",
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+          "source": "www.bloodinthemachine.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T01:16:11.341000Z"
+        },
+        {
+          "id": "bb80e73808e1a81e6c20289c1c54675d940b1041",
+          "title": "人工智能正成为气候的一场灾难 / AI is becoming a disaster for the climate",
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T12:19:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.bloodinthemachine.com"
+      ],
+      "items": [
+        {
+          "id": "3f5ee8ed7c77d2ce70d17cbf92183b39f9f78de0",
+          "title": "人工智能正成为气候的一场灾难",
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+          "source": "www.bloodinthemachine.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T01:16:11.341000Z"
+        },
+        {
+          "id": "bb80e73808e1a81e6c20289c1c54675d940b1041",
+          "title": "人工智能正成为气候的一场灾难 / AI is becoming a disaster for the climate",
+          "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T12:19:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5403,
+      "importance": 0.5403,
+      "importance_score": 0.5403,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9695,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T12:19:46Z",
+      "latest_at": "2026-11-23T01:16:11.341000Z",
+      "primary_item": {
+        "id": "3f5ee8ed7c77d2ce70d17cbf92183b39f9f78de0",
+        "title": "人工智能正成为气候的一场灾难",
+        "url": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+        "source": "www.bloodinthemachine.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ae6e6a35191d",
+      "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "primary_url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "source": "claude.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "411ad76cfe1cbef26fe1e76778c8f80f4bc2b50c",
+          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T00:43:51.380000Z"
+        },
+        {
+          "id": "afb15388aa9f132bee20f71b70ed8654483bccb9",
+          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图 / Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T23:12:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "claude.ai"
+      ],
+      "items": [
+        {
+          "id": "411ad76cfe1cbef26fe1e76778c8f80f4bc2b50c",
+          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-23T00:43:51.380000Z"
+        },
+        {
+          "id": "afb15388aa9f132bee20f71b70ed8654483bccb9",
+          "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图 / Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T23:12:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9619,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T23:12:10Z",
+      "latest_at": "2026-11-23T00:43:51.380000Z",
+      "primary_item": {
+        "id": "411ad76cfe1cbef26fe1e76778c8f80f4bc2b50c",
+        "title": "亚历山德罗·马苏洛（Alessandro Masullo）手稿的“精益”形式化进展图",
+        "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+        "source": "claude.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4886ca7677fc",
+      "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com",
+      "primary_url": "https://0rwx.com",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "f6e6b6f3c2bd97de3a83325bb24e6c64b0456a0a",
+          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "url": "https://0rwx.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T23:53:00Z"
+        },
+        {
+          "id": "336fc0d0f244b7632b96722d1fcec619c5abc3fa",
+          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "url": "https://news.ycombinator.com/item?id=50605445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T23:53:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f6e6b6f3c2bd97de3a83325bb24e6c64b0456a0a",
+          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "url": "https://0rwx.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T23:53:00Z"
+        },
+        {
+          "id": "336fc0d0f244b7632b96722d1fcec619c5abc3fa",
+          "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+          "url": "https://news.ycombinator.com/item?id=50605445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T23:53:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9502,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T23:53:00Z",
+      "latest_at": "2026-11-22T23:53:00Z",
+      "primary_item": {
+        "id": "f6e6b6f3c2bd97de3a83325bb24e6c64b0456a0a",
+        "title": "0rwx – 受 Unix 权限启发的 AI 使用的简单模型 / 0rwx – A simple model of AI usage, inspired by Unix permissions",
+        "url": "https://0rwx.com",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_de5cd1a6d51d",
+      "title": "困惑与智慧 / Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "primary_url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2bb57385d8ab1d6984ff059cfcca3d5a048622ee",
+          "title": "困惑与智慧 / Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
+          "title": "困惑与智慧",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T18:20:52.884000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "2bb57385d8ab1d6984ff059cfcca3d5a048622ee",
+          "title": "困惑与智慧 / Perplexity and Intelligence",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "046ffa6d7042c1b304663f7bc261065e2c31ac6c",
+          "title": "困惑与智慧",
+          "url": "https://openai.com/index/perplexity-and-intelligence",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T18:20:52.884000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9334,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T18:20:52.884000Z",
+      "latest_at": "2026-11-22T22:38:46.165853Z",
+      "primary_item": {
+        "id": "2bb57385d8ab1d6984ff059cfcca3d5a048622ee",
+        "title": "困惑与智慧 / Perplexity and Intelligence",
+        "url": "https://openai.com/index/perplexity-and-intelligence",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -564,15 +1427,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.844,
+        "recency": 0.7878,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -590,82 +1453,142 @@
       }
     },
     {
-      "story_id": "story_4f0ed76760ef",
-      "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "primary_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_bdb0e6adc141",
+      "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T21:01:16Z"
+          "id": "206e1928c8f1cd9e09bf50306b4a01f0981ec02c",
+          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T21:32:52.969000Z"
         },
         {
-          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://news.ycombinator.com/item?id=50603845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T21:01:16Z"
+          "id": "3247426c44586eb94c0a45fdc3bd23106befbdf3",
+          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道，电费该由谁来承担。 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdloySTJONWxBb2FZbXlwLVJaLU1ocUV6dzZjWU1pV2NUZEFaOEJBVFB6cjhxZWhvbE9jUi1XMWRNYXd2T0MwLTJMam1zUlJTZjZ6aU01bGpfVG9lZVlHRE1mNlNfWmdweHZMb2FyVUt5OERDd2xweW5kWkRUUWt1dzI5bnZ6VHVkTGx0d0ZlVlFQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T16:12:47.831000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "news.google.com"
       ],
       "items": [
         {
-          "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T21:01:16Z"
+          "id": "206e1928c8f1cd9e09bf50306b4a01f0981ec02c",
+          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T21:32:52.969000Z"
         },
         {
-          "id": "470658f75013398f7988c00dd38a56b32a2a48a3",
-          "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://news.ycombinator.com/item?id=50603845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T21:01:16Z"
+          "id": "3247426c44586eb94c0a45fdc3bd23106befbdf3",
+          "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道，电费该由谁来承担。 - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdloySTJONWxBb2FZbXlwLVJaLU1ocUV6dzZjWU1pV2NUZEFaOEJBVFB6cjhxZWhvbE9jUi1XMWRNYXd2T0MwLTJMam1zUlJTZjZ6aU01bGpfVG9lZVlHRE1mNlNfWmdweHZMb2FyVUt5OERDd2xweW5kWkRUUWt1dzI5bnZ6VHVkTGx0d0ZlVlFQUQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T16:12:47.831000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9768,
+        "recency": 0.9187,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T21:01:16Z",
-      "latest_at": "2026-11-22T21:01:16Z",
+      "earliest_at": "2026-11-22T16:12:47.831000Z",
+      "latest_at": "2026-11-22T21:32:52.969000Z",
       "primary_item": {
-        "id": "aaebdb9662a34d6ded37d0454f0a9e9f58acecca",
-        "title": "使用 Inkling、Qwen 和 Unsloth 进行本地 AI 的初学者指南 / A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-        "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "206e1928c8f1cd9e09bf50306b4a01f0981ec02c",
+        "title": "埃隆·马斯克旗下的SpaceX公司正向人工智能数据中心投入740亿美元。得克萨斯州和亚利桑那州则想知道电费由谁来承担。 - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM05QOFZiN25OdG11Vm5IQXJzRjlfbWMtQ214bmlYdzVlblh2eE5uSllzcUp6XzdjVXg5ZncxMS0yN1RVODZFQ2FuSnZmZkRheWFWMFFHX0F6SjdRV3I0TGdoMWdwSmRrSDAtYWE4OC01NEs0N3hsRk05bGpTcFlLTmEtaFNaWUFyZjcyaGptWkpBY0dvV2c?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_bccde251662c",
+      "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+      "url": "https://www.aibase.com/news/32454",
+      "primary_url": "https://www.aibase.com/news/32454",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b9d7568104fd12fce686137331a89509fbf9df14",
+          "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+          "url": "https://www.aibase.com/news/32454",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b9d7568104fd12fce686137331a89509fbf9df14",
+          "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+          "url": "https://www.aibase.com/news/32454",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T03:25:05.593902Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T03:25:05.593902Z",
+      "latest_at": "2026-11-23T03:25:05.593902Z",
+      "primary_item": {
+        "id": "b9d7568104fd12fce686137331a89509fbf9df14",
+        "title": "OpenAI 首席科学家提议给全行业模型开发“画线”：能力涨到哪儿算停，先得看人类能不能看住它",
+        "url": "https://www.aibase.com/news/32454",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -722,15 +1645,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9362,
+        "recency": 0.8738,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -745,559 +1668,6 @@
         "url": "https://www.businessinsider.com/elon-musk-warning-ai-compute-data-centers-cash-spacex-tesla-2026-11",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_67786b63779f",
-      "title": "“有意识的人工智能”的神话",
-      "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-      "primary_url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-      "source": "www.noemamag.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4f159ebdf780dd282f59f9b8edf905d9ee7dcd90",
-          "title": "“有意识的人工智能”的神话",
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-          "source": "www.noemamag.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T14:37:43.104000Z"
-        },
-        {
-          "id": "546e45e4a6486469baf26202c7d82191cb577e84",
-          "title": "“有意识的人工智能”的神话 / The Mythology of Conscious AI",
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T02:10:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.noemamag.com"
-      ],
-      "items": [
-        {
-          "id": "4f159ebdf780dd282f59f9b8edf905d9ee7dcd90",
-          "title": "“有意识的人工智能”的神话",
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-          "source": "www.noemamag.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T14:37:43.104000Z"
-        },
-        {
-          "id": "546e45e4a6486469baf26202c7d82191cb577e84",
-          "title": "“有意识的人工智能”的神话 / The Mythology of Conscious AI",
-          "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T02:10:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8907,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T02:10:02Z",
-      "latest_at": "2026-11-22T14:37:43.104000Z",
-      "primary_item": {
-        "id": "4f159ebdf780dd282f59f9b8edf905d9ee7dcd90",
-        "title": "“有意识的人工智能”的神话",
-        "url": "https://www.noemamag.com/the-mythology-of-conscious-ai",
-        "source": "www.noemamag.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_381628060ea9",
-      "title": "推理提供商上的数据处理事件",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-      "primary_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-      "source": "openrouter.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
-          "title": "推理提供商上的数据处理事件",
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T07:28:01.316000Z"
-        },
-        {
-          "id": "fb229b787007403cac77c695759b6a0776a478f5",
-          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T02:14:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "openrouter.ai"
-      ],
-      "items": [
-        {
-          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
-          "title": "推理提供商上的数据处理事件",
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T07:28:01.316000Z"
-        },
-        {
-          "id": "fb229b787007403cac77c695759b6a0776a478f5",
-          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
-          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T02:14:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5104,
-      "importance": 0.5104,
-      "importance_score": 0.5104,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8032,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T02:14:14Z",
-      "latest_at": "2026-11-22T07:28:01.316000Z",
-      "primary_item": {
-        "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
-        "title": "推理提供商上的数据处理事件",
-        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-        "source": "openrouter.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_770a34dc0c64",
-      "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
-      "url": "https://boazbk.github.io/mltheoryseminar",
-      "primary_url": "https://boazbk.github.io/mltheoryseminar",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "4bff0d45c8a472e1eafcdfa0488ed8812591c48c",
-          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
-          "url": "https://boazbk.github.io/mltheoryseminar",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T18:01:54Z"
-        },
-        {
-          "id": "3c11102991823caa91a2d5be985a51c471f19b5a",
-          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
-          "url": "https://news.ycombinator.com/item?id=50602153",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T18:01:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4bff0d45c8a472e1eafcdfa0488ed8812591c48c",
-          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
-          "url": "https://boazbk.github.io/mltheoryseminar",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T18:01:54Z"
-        },
-        {
-          "id": "3c11102991823caa91a2d5be985a51c471f19b5a",
-          "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
-          "url": "https://news.ycombinator.com/item?id=50602153",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T18:01:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9355,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T18:01:54Z",
-      "latest_at": "2026-11-22T18:01:54Z",
-      "primary_item": {
-        "id": "4bff0d45c8a472e1eafcdfa0488ed8812591c48c",
-        "title": "哈佛 CS 2881R 人工智能安全 / Harvard CS 2881R AI Safety",
-        "url": "https://boazbk.github.io/mltheoryseminar",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_6e086317ffb3",
-      "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-      "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
-          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T02:09:43.926000Z"
-        },
-        {
-          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
-          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T02:03:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
-          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T02:09:43.926000Z"
-        },
-        {
-          "id": "871d89b9a892a2fb67bb3e10489af50755d208da",
-          "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T02:03:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4997,
-      "importance": 0.4997,
-      "importance_score": 0.4997,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7439,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T02:03:46Z",
-      "latest_at": "2026-11-22T02:09:43.926000Z",
-      "primary_item": {
-        "id": "ae3ff2ce5100b7ea684e46948be6d432169d797f",
-        "title": "一名研究人员在人工智能供应链中植入了200万个“金丝雀”。一场隐私灾难由此浮出水面",
-        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5d87055f8941",
-      "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
-      "url": "https://pwn.ai/upload2shell/research.html",
-      "primary_url": "https://pwn.ai/upload2shell/research.html",
-      "source": "pwn.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
-          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
-          "url": "https://pwn.ai/upload2shell/research.html",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T01:06:51.065000Z"
-        },
-        {
-          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
-          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
-          "url": "https://pwn.ai/upload2shell/research.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T00:52:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "pwn.ai"
-      ],
-      "items": [
-        {
-          "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
-          "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
-          "url": "https://pwn.ai/upload2shell/research.html",
-          "source": "pwn.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-22T01:06:51.065000Z"
-        },
-        {
-          "id": "83128c355d63644f2a316b3cbc290df88b69c668",
-          "title": "GhostScript CVE 2026-125396: \"Upload2Shell\"",
-          "url": "https://pwn.ai/upload2shell/research.html",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T00:52:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4977,
-      "importance": 0.4977,
-      "importance_score": 0.4977,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7328,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T00:52:23Z",
-      "latest_at": "2026-11-22T01:06:51.065000Z",
-      "primary_item": {
-        "id": "d67ccf48968ab5f78d77ef5d4d1db416677a7a57",
-        "title": "GhostScript CVE 2026-125396：“Upload2Shell”",
-        "url": "https://pwn.ai/upload2shell/research.html",
-        "source": "pwn.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_158994b8ae4e",
-      "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "primary_url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T23:10:21Z"
-        },
-        {
-          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "url": "https://news.ycombinator.com/item?id=50594564",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T23:10:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-21T23:10:21Z"
-        },
-        {
-          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
-          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-          "url": "https://news.ycombinator.com/item?id=50594564",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-21T23:10:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4941,
-      "importance": 0.4941,
-      "importance_score": 0.4941,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7125,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-21T23:10:21Z",
-      "latest_at": "2026-11-21T23:10:21Z",
-      "primary_item": {
-        "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
-        "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
-        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_21bd1d482ae2",
-      "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-      "url": "https://simonwillison.net/2026/Nov/21/muru",
-      "primary_url": "https://simonwillison.net/2026/Nov/21/muru",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "url": "https://simonwillison.net/2026/Nov/21/muru",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T09:57:01Z"
-        },
-        {
-          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "url": "https://news.ycombinator.com/item?id=50597959",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T09:57:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "url": "https://simonwillison.net/2026/Nov/21/muru",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T09:57:01Z"
-        },
-        {
-          "id": "a03bf09fdead4f6ee6535e29895af01eced67dff",
-          "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-          "url": "https://news.ycombinator.com/item?id=50597959",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T09:57:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8325,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T09:57:01Z",
-      "latest_at": "2026-11-22T09:57:01Z",
-      "primary_item": {
-        "id": "317c2a1bf139814bf946bf4eaafa3e41585f7dde",
-        "title": "Muru – mod_WSGI 的创建者为 Python 应用程序提供人工智能辅助的 Rust 服务器 / Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-        "url": "https://simonwillison.net/2026/Nov/21/muru",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     }
   ]
