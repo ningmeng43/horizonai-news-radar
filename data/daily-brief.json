@@ -1,244 +1,587 @@
 {
-  "generated_at": "2026-11-28T09:40:27.659470Z",
+  "generated_at": "2026-11-28T17:53:39.315543Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "items": [
     {
-      "story_id": "story_6774700e9f66",
-      "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
-      "url": "https://www.aibase.com/news/32579",
-      "primary_url": "https://www.aibase.com/news/32579",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_2df82173bb28",
+      "title": "AI 写稿越来越快，为什么写出来的东西却越来越像？作者分享了自己的 7 步创作流程，适合想提高写作效率、又不想丢掉个人表达的创作者仔细看看。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-11-27",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
-          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
-          "url": "https://www.aibase.com/news/32579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T17:37:33.858313Z"
+          "id": "0ebf8441e683a3d4c8ecbd07144468a0fe5e2e1c",
+          "title": "AI 写稿越来越快，为什么写出来的东西却越来越像？作者分享了自己的 7 步创作流程，适合想提高写作效率、又不想丢掉个人表达的创作者仔细看看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
         },
         {
-          "id": "e8ed4eebeb9ab4ec3712ed4d40c02bd2140e4237",
-          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的「算力焦虑」",
-          "url": "https://www.aibase.com/zh/news/32579",
+          "id": "3b26e05cd990a830f5e670854bce55788906c450",
+          "title": "只是想让 AI 转告一个建议，它却直接开始改代码——工具很强，用着别扭，未必是你不会用。元子在工程师搭建的 Agent 空间里待了一个月，发现运营与研发在沟通、看数据和做决策时，有着不同的习惯，最后摸索出三个办法，一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "558fadfcf9fb8a8f475c93b51c853155ed4c3f0a",
+          "title": "如果 AI 能做完大多数工作，人还要靠什么证明自己的价值？冯骥从内容行业的变化谈起，提出一个值得警惕的判断：创作门槛降低，未必意味着普通人更容易谋生，流量、算力和收益仍可能向少数平台集中。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "9733bdba4aee633be1843fa07c6c5a2a33f6348a",
+          "title": "收藏了一堆 Agent 教程，还是不知道从哪篇开始？作者把 Anthropic 的免费官方资料排成了三层学习路线：先学会交代任务和检查结果，再学工具与 Skill 的搭建，最后理解 Harness——让模型调用工具、记住进度、持续干活的配套系统。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "dbb4809b828f886f0452e750c1bd020782095501",
+          "title": "照搬爆款视频提示词，眨眼、转头都对了，脸却变成另一个人？作者复盘了自己用 Muse 生成人像视频的翻车过程。做 AI 人像视频的朋友，可以参考他的改法，或许可以帮你分清爆款提示词里哪些值得学、哪些必须重写。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "35dfb20b9a6d0ce7f240b5c01871f46b9255658f",
+          "title": "看完这篇，希望可以帮你在 AI 视频制作过程中关于选工具、后期制作、画面配音、镜头语言这些方面产生一些新的思考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "abe1dd63e9b3e5878f77624f610f74c37f0ec39e",
+          "title": "装好 DeepSeek Harness，面对一堆插件却不知道从哪开始？老金这篇图文教程从安装、连接模型和选择文件夹讲起，带你先跑通读资料、改稿、定时写周报，再按需求扩展 Excel 报价表、视频脚本与分镜、费用查看、长对话压缩，以及飞书派活和手机远程操作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        }
+      ],
+      "source_count": 7,
+      "source_names": [
+        "社区更新 · 2026-11-27"
+      ],
+      "items": [
+        {
+          "id": "0ebf8441e683a3d4c8ecbd07144468a0fe5e2e1c",
+          "title": "AI 写稿越来越快，为什么写出来的东西却越来越像？作者分享了自己的 7 步创作流程，适合想提高写作效率、又不想丢掉个人表达的创作者仔细看看。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "3b26e05cd990a830f5e670854bce55788906c450",
+          "title": "只是想让 AI 转告一个建议，它却直接开始改代码——工具很强，用着别扭，未必是你不会用。元子在工程师搭建的 Agent 空间里待了一个月，发现运营与研发在沟通、看数据和做决策时，有着不同的习惯，最后摸索出三个办法，一起来看看！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "558fadfcf9fb8a8f475c93b51c853155ed4c3f0a",
+          "title": "如果 AI 能做完大多数工作，人还要靠什么证明自己的价值？冯骥从内容行业的变化谈起，提出一个值得警惕的判断：创作门槛降低，未必意味着普通人更容易谋生，流量、算力和收益仍可能向少数平台集中。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "9733bdba4aee633be1843fa07c6c5a2a33f6348a",
+          "title": "收藏了一堆 Agent 教程，还是不知道从哪篇开始？作者把 Anthropic 的免费官方资料排成了三层学习路线：先学会交代任务和检查结果，再学工具与 Skill 的搭建，最后理解 Harness——让模型调用工具、记住进度、持续干活的配套系统。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "dbb4809b828f886f0452e750c1bd020782095501",
+          "title": "照搬爆款视频提示词，眨眼、转头都对了，脸却变成另一个人？作者复盘了自己用 Muse 生成人像视频的翻车过程。做 AI 人像视频的朋友，可以参考他的改法，或许可以帮你分清爆款提示词里哪些值得学、哪些必须重写。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "35dfb20b9a6d0ce7f240b5c01871f46b9255658f",
+          "title": "看完这篇，希望可以帮你在 AI 视频制作过程中关于选工具、后期制作、画面配音、镜头语言这些方面产生一些新的思考。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        },
+        {
+          "id": "abe1dd63e9b3e5878f77624f610f74c37f0ec39e",
+          "title": "装好 DeepSeek Harness，面对一堆插件却不知道从哪开始？老金这篇图文教程从安装、连接模型和选择文件夹讲起，带你先跑通读资料、改稿、定时写周报，再按需求扩展 Excel 报价表、视频脚本与分镜、费用查看、长对话压缩，以及飞书派活和手机远程操作。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-11-27",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-11-28T17:53:39.315543Z"
+        }
+      ],
+      "item_count": 7,
+      "duplicate_count": 7,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T17:53:39.315543Z",
+      "latest_at": "2026-11-28T17:53:39.315543Z",
+      "primary_item": {
+        "id": "0ebf8441e683a3d4c8ecbd07144468a0fe5e2e1c",
+        "title": "AI 写稿越来越快，为什么写出来的东西却越来越像？作者分享了自己的 7 步创作流程，适合想提高写作效率、又不想丢掉个人表达的创作者仔细看看。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-11-27",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_a47ff2eccf68",
+      "title": "Hugging Face 上带隐藏恶意软件的 GGUF 大模型已致 2400 人受害",
+      "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+      "primary_url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "e12ef28a281c1750f4bad86fefb93c90cbb74804",
+          "title": "Hugging Face 上带隐藏恶意软件的 GGUF 大模型已致 2400 人受害",
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
-          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
-          "url": "https://www.aibase.com/news/32579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T17:37:33.858313Z"
         },
         {
-          "id": "e8ed4eebeb9ab4ec3712ed4d40c02bd2140e4237",
-          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的「算力焦虑」",
-          "url": "https://www.aibase.com/zh/news/32579",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7931,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T17:37:33.858313Z",
-      "latest_at": "2026-11-27T18:37:33.858313Z",
-      "primary_item": {
-        "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
-        "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
-        "url": "https://www.aibase.com/news/32579",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_05d73e85004e",
-      "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-      "url": "https://www.aibase.com/news/32580",
-      "primary_url": "https://www.aibase.com/news/32580",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
-          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "url": "https://www.aibase.com/news/32580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T17:45:33.858313Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
-          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-          "url": "https://www.aibase.com/news/32580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T17:45:33.858313Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7306,
-      "importance": 0.7306,
-      "importance_score": 0.7306,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7947,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T17:45:33.858313Z",
-      "latest_at": "2026-11-27T17:45:33.858313Z",
-      "primary_item": {
-        "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
-        "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
-        "url": "https://www.aibase.com/news/32580",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_63d28867f486",
-      "title": "GPT 6.2 Astra 解开了历史之谜",
-      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "primary_url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-      "source": "generativehistory.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
-          "title": "GPT 6.2 Astra 解开了历史之谜",
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-          "source": "generativehistory.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T17:52:00.183000Z"
-        },
-        {
-          "id": "7294eb1a38085e974fcb8c90be814b40266f4cf8",
-          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-          "url": "https://news.ycombinator.com/item?id=50667744",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T15:03:17Z"
-        },
-        {
-          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
-          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra solves a historical mystery",
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "id": "f95907298469721541f72b14a848f684b1649395",
+          "title": "Hugging Face 上带隐藏恶意软件的 GGUF 大模型已致 2400 人受害 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T15:03:17Z"
+          "published_at": "2026-11-28T11:57:04Z"
+        },
+        {
+          "id": "7f1d8ec8fabba4848138f1a532ab3062b56ddafe",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "url": "https://news.ycombinator.com/item?id=50676752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T11:57:04Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "generativehistory.substack.com",
+        "Readhub · AI",
         "hackernews"
       ],
       "items": [
         {
-          "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
-          "title": "GPT 6.2 Astra 解开了历史之谜",
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-          "source": "generativehistory.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T17:52:00.183000Z"
+          "id": "e12ef28a281c1750f4bad86fefb93c90cbb74804",
+          "title": "Hugging Face 上带隐藏恶意软件的 GGUF 大模型已致 2400 人受害",
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "7294eb1a38085e974fcb8c90be814b40266f4cf8",
-          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-          "url": "https://news.ycombinator.com/item?id=50667744",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T15:03:17Z"
-        },
-        {
-          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
-          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra solves a historical mystery",
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "id": "f95907298469721541f72b14a848f684b1649395",
+          "title": "Hugging Face 上带隐藏恶意软件的 GGUF 大模型已致 2400 人受害 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T15:03:17Z"
+          "published_at": "2026-11-28T11:57:04Z"
+        },
+        {
+          "id": "7f1d8ec8fabba4848138f1a532ab3062b56ddafe",
+          "title": "拥抱面部隐藏恶意软件的 GGUF LLM 模型已造成 2400 名受害者 / GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+          "url": "https://news.ycombinator.com/item?id=50676752",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T11:57:04Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5341,
-      "importance": 0.5341,
-      "importance_score": 0.5341,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7959,
+        "recency": 1.0,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T15:03:17Z",
-      "latest_at": "2026-11-27T17:52:00.183000Z",
+      "earliest_at": "2026-11-28T11:57:04Z",
+      "latest_at": "2026-11-28T17:53:39.315543Z",
       "primary_item": {
-        "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
-        "title": "GPT 6.2 Astra 解开了历史之谜",
-        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
-        "source": "generativehistory.substack.com",
+        "id": "e12ef28a281c1750f4bad86fefb93c90cbb74804",
+        "title": "Hugging Face 上带隐藏恶意软件的 GGUF 大模型已致 2400 人受害",
+        "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_be5385e90aa3",
+      "title": "为什么停在 Emacs 上？您或 AI 在运行时在 Clojure 中重新编程的本机应用程序 / Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+      "url": "https://github.com/RiccardoSottini/AffrescoUI",
+      "primary_url": "https://github.com/RiccardoSottini/AffrescoUI",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1d715a31727dab7ecbf498ea8943fec157bf094a",
+          "title": "为什么停在 Emacs 上？您或 AI 在运行时在 Clojure 中重新编程的本机应用程序 / Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+          "url": "https://github.com/RiccardoSottini/AffrescoUI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T14:09:39Z"
+        },
+        {
+          "id": "63ff4087173727bcff49782810012661b066e4d7",
+          "title": "为什么停在 Emacs 上？您或 AI 在运行时在 Clojure 中重新编程的本机应用程序 / Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+          "url": "https://news.ycombinator.com/item?id=50677861",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T14:09:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1d715a31727dab7ecbf498ea8943fec157bf094a",
+          "title": "为什么停在 Emacs 上？您或 AI 在运行时在 Clojure 中重新编程的本机应用程序 / Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+          "url": "https://github.com/RiccardoSottini/AffrescoUI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T14:09:39Z"
+        },
+        {
+          "id": "63ff4087173727bcff49782810012661b066e4d7",
+          "title": "为什么停在 Emacs 上？您或 AI 在运行时在 Clojure 中重新编程的本机应用程序 / Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+          "url": "https://news.ycombinator.com/item?id=50677861",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T14:09:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9475,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T14:09:39Z",
+      "latest_at": "2026-11-28T14:09:39Z",
+      "primary_item": {
+        "id": "1d715a31727dab7ecbf498ea8943fec157bf094a",
+        "title": "为什么停在 Emacs 上？您或 AI 在运行时在 Clojure 中重新编程的本机应用程序 / Why stop at Emacs? Native apps you or an AI reprogram in Clojure while they run",
+        "url": "https://github.com/RiccardoSottini/AffrescoUI",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_53997f7a93f0",
+      "title": "难道只有我觉得在公共场合跟AI说话很奇怪吗？",
+      "url": "https://www.businessinsider.com/talking-to-ai-voice-public-feels-weird-2026-11",
+      "primary_url": "https://www.businessinsider.com/talking-to-ai-voice-public-feels-weird-2026-11",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "002700c67c0d0987461f9b2d450b3ac6a60d180a",
+          "title": "难道只有我觉得在公共场合跟AI说话很奇怪吗？",
+          "url": "https://www.businessinsider.com/talking-to-ai-voice-public-feels-weird-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T12:31:58.402000Z"
+        },
+        {
+          "id": "71395a65114b53d25da3e7a1acf246e428a4b882",
+          "title": "难道只有我觉得在公共场合跟AI说话很奇怪吗？ / So, are we all just supposed to walk around talking to AI now?",
+          "url": "https://www.businessinsider.com/talking-to-ai-voice-public-feels-weird-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-28T12:04:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "002700c67c0d0987461f9b2d450b3ac6a60d180a",
+          "title": "难道只有我觉得在公共场合跟AI说话很奇怪吗？",
+          "url": "https://www.businessinsider.com/talking-to-ai-voice-public-feels-weird-2026-11",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T12:31:58.402000Z"
+        },
+        {
+          "id": "71395a65114b53d25da3e7a1acf246e428a4b882",
+          "title": "难道只有我觉得在公共场合跟AI说话很奇怪吗？ / So, are we all just supposed to walk around talking to AI now?",
+          "url": "https://www.businessinsider.com/talking-to-ai-voice-public-feels-weird-2026-11",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-28T12:04:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9255,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T12:04:01Z",
+      "latest_at": "2026-11-28T12:31:58.402000Z",
+      "primary_item": {
+        "id": "002700c67c0d0987461f9b2d450b3ac6a60d180a",
+        "title": "难道只有我觉得在公共场合跟AI说话很奇怪吗？",
+        "url": "https://www.businessinsider.com/talking-to-ai-voice-public-feels-weird-2026-11",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c0ec0bccd2ac",
+      "title": "OpenAI 就苹果涉嫌窃取商业秘密一事提起反诉",
+      "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6932f9fa3f90df3b608d27482101d8b3fcb8d172",
+          "title": "OpenAI 就苹果涉嫌窃取商业秘密一事提起反诉",
+          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T12:15:54.093000Z"
+        },
+        {
+          "id": "fa72133364fe36b2aa3504eb68be2043ecc75d36",
+          "title": "OpenAI 就苹果涉嫌窃取商业秘密一事提起反诉 / OpenAI counter-sues Apple over alleged theft of trade secrets",
+          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-28T11:35:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "6932f9fa3f90df3b608d27482101d8b3fcb8d172",
+          "title": "OpenAI 就苹果涉嫌窃取商业秘密一事提起反诉",
+          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T12:15:54.093000Z"
+        },
+        {
+          "id": "fa72133364fe36b2aa3504eb68be2043ecc75d36",
+          "title": "OpenAI 就苹果涉嫌窃取商业秘密一事提起反诉 / OpenAI counter-sues Apple over alleged theft of trade secrets",
+          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-28T11:35:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5317,
+      "importance": 0.5317,
+      "importance_score": 0.5317,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9219,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T11:35:34Z",
+      "latest_at": "2026-11-28T12:15:54.093000Z",
+      "primary_item": {
+        "id": "6932f9fa3f90df3b608d27482101d8b3fcb8d172",
+        "title": "OpenAI 就苹果涉嫌窃取商业秘密一事提起反诉",
+        "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.co.uk",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e006ed8d40ae",
+      "title": "Show HN: Fleetlayer——用于在多台机器上运行多个AI代理的框架",
+      "url": "https://fleetlayer.ai",
+      "primary_url": "https://fleetlayer.ai",
+      "source": "fleetlayer.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c1b40f5b4448866773ae8b5838e20078ad1c4ca3",
+          "title": "Show HN: Fleetlayer——用于在多台机器上运行多个AI代理的框架",
+          "url": "https://fleetlayer.ai",
+          "source": "fleetlayer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T08:47:37.532000Z"
+        },
+        {
+          "id": "503a11e6ea2dc99e04c2c6b2ef4fd25533b8d099",
+          "title": "Show HN: Fleetlayer——用于在多台机器上运行多个AI代理的框架 / Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "url": "https://fleetlayer.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T08:37:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "fleetlayer.ai"
+      ],
+      "items": [
+        {
+          "id": "c1b40f5b4448866773ae8b5838e20078ad1c4ca3",
+          "title": "Show HN: Fleetlayer——用于在多台机器上运行多个AI代理的框架",
+          "url": "https://fleetlayer.ai",
+          "source": "fleetlayer.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T08:47:37.532000Z"
+        },
+        {
+          "id": "503a11e6ea2dc99e04c2c6b2ef4fd25533b8d099",
+          "title": "Show HN: Fleetlayer——用于在多台机器上运行多个AI代理的框架 / Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "url": "https://fleetlayer.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T08:37:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8769,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T08:37:09Z",
+      "latest_at": "2026-11-28T08:47:37.532000Z",
+      "primary_item": {
+        "id": "c1b40f5b4448866773ae8b5838e20078ad1c4ca3",
+        "title": "Show HN: Fleetlayer——用于在多台机器上运行多个AI代理的框架",
+        "url": "https://fleetlayer.ai",
+        "source": "fleetlayer.ai",
         "source_name": "Buzzing"
       }
     },
@@ -296,15 +639,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5329,
-      "importance": 0.5329,
-      "importance_score": 0.5329,
+      "score": 0.5142,
+      "importance": 0.5142,
+      "importance_score": 0.5142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9284,
+        "recency": 0.8245,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -319,6 +662,164 @@
         "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
         "source": "drmahfouz.substack.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_00b58e4385b8",
+      "title": "克劳德代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+      "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "primary_url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "9a6687daf55359af4f05457e5b067a384cef7ba3",
+          "title": "克劳德代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T10:37:40Z"
+        },
+        {
+          "id": "a952eb8d2a216a209065a534f55d6f8882b98302",
+          "title": "克劳德代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "url": "https://news.ycombinator.com/item?id=50676390",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T10:37:40Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9a6687daf55359af4f05457e5b067a384cef7ba3",
+          "title": "克劳德代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T10:37:40Z"
+        },
+        {
+          "id": "a952eb8d2a216a209065a534f55d6f8882b98302",
+          "title": "克劳德代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+          "url": "https://news.ycombinator.com/item?id=50676390",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T10:37:40Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5279,
+      "importance": 0.5279,
+      "importance_score": 0.5279,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9004,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T10:37:40Z",
+      "latest_at": "2026-11-28T10:37:40Z",
+      "primary_item": {
+        "id": "9a6687daf55359af4f05457e5b067a384cef7ba3",
+        "title": "克劳德代码破坏：初步基准测试 / Claude Code sabotage: preliminary benchmarking",
+        "url": "https://xinyadu.github.io/blog/claude-code-sabotage.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_50f0be167f44",
+      "title": "GTA 6：人工智能竞赛克隆最大的 PC 视频游戏 / GTA 6: The AI race to clone the biggest video game for PC",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2daf3e8b572370365e3345dacc021d01623ebee1",
+          "title": "GTA 6：人工智能竞赛克隆最大的 PC 视频游戏 / GTA 6: The AI race to clone the biggest video game for PC",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T09:59:57Z"
+        },
+        {
+          "id": "32b36ed513a6a0737fdcd3e77ae68f1e466960ad",
+          "title": "游戏玩家如何利用 AI 和泄露的文件来克隆《侠盗猎车手 6》 / How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-28T01:30:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2daf3e8b572370365e3345dacc021d01623ebee1",
+          "title": "GTA 6：人工智能竞赛克隆最大的 PC 视频游戏 / GTA 6: The AI race to clone the biggest video game for PC",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T09:59:57Z"
+        },
+        {
+          "id": "32b36ed513a6a0737fdcd3e77ae68f1e466960ad",
+          "title": "游戏玩家如何利用 AI 和泄露的文件来克隆《侠盗猎车手 6》 / How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-28T01:30:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8922,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T01:30:50Z",
+      "latest_at": "2026-11-28T09:59:57Z",
+      "primary_item": {
+        "id": "2daf3e8b572370365e3345dacc021d01623ebee1",
+        "title": "GTA 6：人工智能竞赛克隆最大的 PC 视频游戏 / GTA 6: The AI race to clone the biggest video game for PC",
+        "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -375,15 +876,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5144,
-      "importance": 0.5144,
-      "importance_score": 0.5144,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8254,
+        "recency": 0.733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -398,322 +899,6 @@
         "url": "https://github.com/skeeto/prospero",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_f21d90605390",
-      "title": "我害怕人工智能",
-      "url": "https://thesoapbox.email/archive/3",
-      "primary_url": "https://thesoapbox.email/archive/3",
-      "source": "thesoapbox.email",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
-          "title": "我害怕人工智能",
-          "url": "https://thesoapbox.email/archive/3",
-          "source": "thesoapbox.email",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T18:39:34.459000Z"
-        },
-        {
-          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
-          "title": "我害怕人工智能 / I'm Scared of AI",
-          "url": "https://thesoapbox.email/archive/3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T17:45:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "thesoapbox.email"
-      ],
-      "items": [
-        {
-          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
-          "title": "我害怕人工智能",
-          "url": "https://thesoapbox.email/archive/3",
-          "source": "thesoapbox.email",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T18:39:34.459000Z"
-        },
-        {
-          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
-          "title": "我害怕人工智能 / I'm Scared of AI",
-          "url": "https://thesoapbox.email/archive/3",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T17:45:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5107,
-      "importance": 0.5107,
-      "importance_score": 0.5107,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8051,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T17:45:31Z",
-      "latest_at": "2026-11-27T18:39:34.459000Z",
-      "primary_item": {
-        "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
-        "title": "我害怕人工智能",
-        "url": "https://thesoapbox.email/archive/3",
-        "source": "thesoapbox.email",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4f426f509098",
-      "title": "数学家担心，人工智能即将使网络安全形同虚设",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "primary_url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "source": "www.thetimes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设",
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "www.thetimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T17:52:00.179000Z"
-        },
-        {
-          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:09:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.thetimes.com"
-      ],
-      "items": [
-        {
-          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设",
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "www.thetimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T17:52:00.179000Z"
-        },
-        {
-          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
-          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:09:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5091,
-      "importance": 0.5091,
-      "importance_score": 0.5091,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7959,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T11:09:04Z",
-      "latest_at": "2026-11-27T17:52:00.179000Z",
-      "primary_item": {
-        "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
-        "title": "数学家担心，人工智能即将使网络安全形同虚设",
-        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-        "source": "www.thetimes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d6b51fef844a",
-      "title": "“Kimi for Science”：更多科学构想，化为现实",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "primary_url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "source": "www.kimi.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
-          "title": "“Kimi for Science”：更多科学构想，化为现实",
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "www.kimi.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T15:43:52.256000Z"
-        },
-        {
-          "id": "cc4ac8e73dffc8881009d19b284703ef7ec99cd4",
-          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science: More scientific ideas, made possible",
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T12:03:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.kimi.ai"
-      ],
-      "items": [
-        {
-          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
-          "title": "“Kimi for Science”：更多科学构想，化为现实",
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "www.kimi.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T15:43:52.256000Z"
-        },
-        {
-          "id": "cc4ac8e73dffc8881009d19b284703ef7ec99cd4",
-          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science: More scientific ideas, made possible",
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T12:03:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7717,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T12:03:11Z",
-      "latest_at": "2026-11-27T15:43:52.256000Z",
-      "primary_item": {
-        "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
-        "title": "“Kimi for Science”：更多科学构想，化为现实",
-        "url": "https://www.kimi.ai/news/kimi-for-science-program",
-        "source": "www.kimi.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_81feaa01abed",
-      "title": "Ask HN: 克劳德·科德是否在削弱AI和智能体利用项目？",
-      "url": "https://news.ycombinator.com/item?id=50665232",
-      "primary_url": "https://news.ycombinator.com/item?id=50665232",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f273574471b9cb94bd55e45c56c5b2294d4e965c",
-          "title": "Ask HN: 克劳德·科德是否在削弱AI和智能体利用项目？",
-          "url": "https://news.ycombinator.com/item?id=50665232",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T10:39:38.625000Z"
-        },
-        {
-          "id": "242988a280225919ccfdba17f5dde8ea2aace292",
-          "title": "Ask HN: 克劳德·科德是否在削弱AI和智能体利用项目？ / Ask HN: Is Claude Code nerfing AI and agent-harness projects?",
-          "url": "https://news.ycombinator.com/item?id=50665232",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-27T10:27:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "f273574471b9cb94bd55e45c56c5b2294d4e965c",
-          "title": "Ask HN: 克劳德·科德是否在削弱AI和智能体利用项目？",
-          "url": "https://news.ycombinator.com/item?id=50665232",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T10:39:38.625000Z"
-        },
-        {
-          "id": "242988a280225919ccfdba17f5dde8ea2aace292",
-          "title": "Ask HN: 克劳德·科德是否在削弱AI和智能体利用项目？ / Ask HN: Is Claude Code nerfing AI and agent-harness projects?",
-          "url": "https://news.ycombinator.com/item?id=50665232",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-11-27T10:27:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4949,
-      "importance": 0.4949,
-      "importance_score": 0.4949,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7173,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T10:27:39Z",
-      "latest_at": "2026-11-27T10:39:38.625000Z",
-      "primary_item": {
-        "id": "f273574471b9cb94bd55e45c56c5b2294d4e965c",
-        "title": "Ask HN: 克劳德·科德是否在削弱AI和智能体利用项目？",
-        "url": "https://news.ycombinator.com/item?id=50665232",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -770,15 +955,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5114,
-      "importance": 0.5114,
-      "importance_score": 0.5114,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.809,
+        "recency": 0.7185,
         "story_heat": 0.25
       },
       "category": "watch",
