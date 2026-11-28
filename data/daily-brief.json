@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-28T01:44:45.723556Z",
+  "generated_at": "2026-11-28T09:40:27.659470Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_6774700e9f66",
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.7554,
+      "importance": 0.7554,
+      "importance_score": 0.7554,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.7931,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -80,411 +80,6 @@
         "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
         "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
         "url": "https://www.aibase.com/news/32579",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d2be3972758a",
-      "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-      "url": "https://www.aibase.com/news/32577",
-      "primary_url": "https://www.aibase.com/news/32577",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "url": "https://www.aibase.com/news/32577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "db539f3bfb0bf2ab7e93b0bd47dd8c140e6a6ba4",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "url": "https://www.aibase.com/zh/news/32577",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "url": "https://www.aibase.com/news/32577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "db539f3bfb0bf2ab7e93b0bd47dd8c140e6a6ba4",
-          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-          "url": "https://www.aibase.com/zh/news/32577",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.784,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:53:36.808927Z",
-      "latest_at": "2026-11-27T08:53:36.808927Z",
-      "primary_item": {
-        "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
-        "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
-        "url": "https://www.aibase.com/news/32577",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1ee70fa08e40",
-      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-      "url": "https://www.aibase.com/news/32571",
-      "primary_url": "https://www.aibase.com/news/32571",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "eaac0cac353dc9c566bb18b61a8f06972c8de0a5",
-          "title": "SAP 被曝拟裁至少 1 万人押注「AI 优先」：波及全球 9% 员工，重点砍产品与工程和销售",
-          "url": "https://www.aibase.com/zh/news/32571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "eaac0cac353dc9c566bb18b61a8f06972c8de0a5",
-          "title": "SAP 被曝拟裁至少 1 万人押注「AI 优先」：波及全球 9% 员工，重点砍产品与工程和销售",
-          "url": "https://www.aibase.com/zh/news/32571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.784,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:53:36.808927Z",
-      "latest_at": "2026-11-27T08:53:36.808927Z",
-      "primary_item": {
-        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "url": "https://www.aibase.com/news/32571",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_269b0afb01ad",
-      "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-      "url": "https://www.aibase.com/news/32565",
-      "primary_url": "https://www.aibase.com/news/32565",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cb2ab85e947ba9f5d1f6d22ac3b059e3ada2b56a",
-          "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-          "url": "https://www.aibase.com/news/32565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "36627b3911d084c8d45e222ec066ec17eec0d09c",
-          "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，「对齐」之前先要能「遏制」",
-          "url": "https://www.aibase.com/zh/news/32565",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "cb2ab85e947ba9f5d1f6d22ac3b059e3ada2b56a",
-          "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-          "url": "https://www.aibase.com/news/32565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "36627b3911d084c8d45e222ec066ec17eec0d09c",
-          "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，「对齐」之前先要能「遏制」",
-          "url": "https://www.aibase.com/zh/news/32565",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.784,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:53:36.808927Z",
-      "latest_at": "2026-11-27T08:53:36.808927Z",
-      "primary_item": {
-        "id": "cb2ab85e947ba9f5d1f6d22ac3b059e3ada2b56a",
-        "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-        "url": "https://www.aibase.com/news/32565",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7d77be3bea7a",
-      "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-      "url": "https://www.aibase.com/news/32572",
-      "primary_url": "https://www.aibase.com/news/32572",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
-          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "url": "https://www.aibase.com/news/32572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "3cacb706ca80cdf96843f00f50416328464e1513",
-          "title": "日本最大电力公司 JERA 联手五大科技巨头，欲在发电厂旁「就地」共建 AI 数据中心",
-          "url": "https://www.aibase.com/zh/news/32572",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
-          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "url": "https://www.aibase.com/news/32572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "3cacb706ca80cdf96843f00f50416328464e1513",
-          "title": "日本最大电力公司 JERA 联手五大科技巨头，欲在发电厂旁「就地」共建 AI 数据中心",
-          "url": "https://www.aibase.com/zh/news/32572",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.784,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:53:36.808927Z",
-      "latest_at": "2026-11-27T08:53:36.808927Z",
-      "primary_item": {
-        "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
-        "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-        "url": "https://www.aibase.com/news/32572",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b86b8951642f",
-      "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-      "url": "https://www.aibase.com/news/32575",
-      "primary_url": "https://www.aibase.com/news/32575",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "url": "https://www.aibase.com/news/32575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "38f35c57915d1bae4678389fe8adc8009e961165",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "url": "https://www.aibase.com/zh/news/32575",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "url": "https://www.aibase.com/news/32575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        },
-        {
-          "id": "38f35c57915d1bae4678389fe8adc8009e961165",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "url": "https://www.aibase.com/zh/news/32575",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7537,
-      "importance": 0.7537,
-      "importance_score": 0.7537,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.784,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:53:36.808927Z",
-      "latest_at": "2026-11-27T08:53:36.808927Z",
-      "primary_item": {
-        "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-        "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-        "url": "https://www.aibase.com/news/32575",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -524,15 +119,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8911,
+        "recency": 0.7947,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -622,15 +217,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5514,
-      "importance": 0.5514,
-      "importance_score": 0.5514,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8925,
+        "recency": 0.7959,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -648,100 +243,81 @@
       }
     },
     {
-      "story_id": "story_138e1e18872d",
-      "title": "克劳德破坏SOTA机器学习研究任务",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "source": "twitter.com",
+      "story_id": "story_4e825df2be8b",
+      "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "primary_url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "source": "drmahfouz.substack.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
-          "title": "克劳德破坏SOTA机器学习研究任务",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "twitter.com",
+          "id": "ae732f2d3e8a2149f230ac3245bd930efb1dff52",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "drmahfouz.substack.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-27T11:11:55.754000Z"
+          "published_at": "2026-11-28T04:31:49.729000Z"
         },
         {
-          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
-          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z"
-        },
-        {
-          "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
-          "title": "克劳德破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
-          "url": "https://news.ycombinator.com/item?id=50664325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T08:28:08Z"
+          "published_at": "2026-11-28T01:32:56Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews",
-        "twitter.com"
+        "drmahfouz.substack.com"
       ],
       "items": [
         {
-          "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
-          "title": "克劳德破坏SOTA机器学习研究任务",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "twitter.com",
+          "id": "ae732f2d3e8a2149f230ac3245bd930efb1dff52",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "drmahfouz.substack.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-11-27T11:11:55.754000Z"
+          "published_at": "2026-11-28T04:31:49.729000Z"
         },
         {
-          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
-          "title": "克劳德破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z"
-        },
-        {
-          "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
-          "title": "克劳德破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
-          "url": "https://news.ycombinator.com/item?id=50664325",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T08:28:08Z"
+          "published_at": "2026-11-28T01:32:56Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5329,
+      "importance": 0.5329,
+      "importance_score": 0.5329,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8105,
-        "story_heat": 0.5
+        "recency": 0.9284,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T08:28:08Z",
-      "latest_at": "2026-11-27T11:11:55.754000Z",
+      "earliest_at": "2026-11-28T01:32:56Z",
+      "latest_at": "2026-11-28T04:31:49.729000Z",
       "primary_item": {
-        "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
-        "title": "克劳德破坏SOTA机器学习研究任务",
-        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-        "source": "twitter.com",
+        "id": "ae732f2d3e8a2149f230ac3245bd930efb1dff52",
+        "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "source": "drmahfouz.substack.com",
         "source_name": "Buzzing"
       }
     },
@@ -799,15 +375,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9255,
+        "recency": 0.8254,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -822,104 +398,6 @@
         "url": "https://github.com/skeeto/prospero",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_74835a583675",
-      "title": "那个你的AI在背后议论你的群聊",
-      "url": "https://construct22.com",
-      "primary_url": "https://construct22.com",
-      "source": "construct22.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d928708c3f684735612866f23f57ce9693e923aa",
-          "title": "那个你的AI在背后议论你的群聊",
-          "url": "https://construct22.com",
-          "source": "construct22.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T08:32:09.163000Z"
-        },
-        {
-          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
-          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
-          "url": "https://construct22.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T06:44:34Z"
-        },
-        {
-          "id": "8705f9549c8021093695621965d1f563b5641518",
-          "title": "群聊，你的人工智能在背后对你说话 / Group chat where your AI talks behind your back",
-          "url": "https://news.ycombinator.com/item?id=50663595",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T06:44:34Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "construct22.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d928708c3f684735612866f23f57ce9693e923aa",
-          "title": "那个你的AI在背后议论你的群聊",
-          "url": "https://construct22.com",
-          "source": "construct22.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T08:32:09.163000Z"
-        },
-        {
-          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
-          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
-          "url": "https://construct22.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T06:44:34Z"
-        },
-        {
-          "id": "8705f9549c8021093695621965d1f563b5641518",
-          "title": "群聊，你的人工智能在背后对你说话 / Group chat where your AI talks behind your back",
-          "url": "https://news.ycombinator.com/item?id=50663595",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T06:44:34Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.78,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T06:44:34Z",
-      "latest_at": "2026-11-27T08:32:09.163000Z",
-      "primary_item": {
-        "id": "d928708c3f684735612866f23f57ce9693e923aa",
-        "title": "那个你的AI在背后议论你的群聊",
-        "url": "https://construct22.com",
-        "source": "construct22.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -976,15 +454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5283,
-      "importance": 0.5283,
-      "importance_score": 0.5283,
+      "score": 0.5107,
+      "importance": 0.5107,
+      "importance_score": 0.5107,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9027,
+        "recency": 0.8051,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1055,15 +533,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5091,
+      "importance": 0.5091,
+      "importance_score": 0.5091,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8925,
+        "recency": 0.7959,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1134,15 +612,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5047,
+      "importance": 0.5047,
+      "importance_score": 0.5047,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8654,
+        "recency": 0.7717,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1157,66 +635,6 @@
         "url": "https://www.kimi.ai/news/kimi-for-science-program",
         "source": "www.kimi.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_a65603203e95",
-      "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-      "url": "https://www.aibase.com/news/32574",
-      "primary_url": "https://www.aibase.com/news/32574",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
-          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-          "url": "https://www.aibase.com/news/32574",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
-          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-          "url": "https://www.aibase.com/news/32574",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.784,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T08:53:36.808927Z",
-      "latest_at": "2026-11-27T08:53:36.808927Z",
-      "primary_item": {
-        "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
-        "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
-        "url": "https://www.aibase.com/news/32574",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1273,15 +691,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8043,
+        "recency": 0.7173,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1352,15 +770,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9072,
+        "recency": 0.809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1373,205 +791,6 @@
         "id": "b5db33a8a39e77087df4a724711c0a7e16b165ec",
         "title": "显示 HN：在 1 GB10 上从 vLLM 中的 Inkling 2 Mini 获得 101 tok/s / Show HN: Getting 101 tok/s from Inkling 2 Mini in vLLM on one GB10",
         "url": "https://runtimenotes.com/blog/getting-101-tok-s-from-inkling-2-mini-in-vllm-on-one-gb10",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_000b666239e9",
-      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-      "url": "https://www.aibase.com/news/32560",
-      "primary_url": "https://www.aibase.com/news/32560",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "url": "https://www.aibase.com/news/32560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "url": "https://www.aibase.com/news/32560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.784,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T08:53:36.808927Z",
-      "latest_at": "2026-11-27T08:53:36.808927Z",
-      "primary_item": {
-        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "url": "https://www.aibase.com/news/32560",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_fba73f95fdd1",
-      "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-      "url": "https://www.aibase.com/news/32558",
-      "primary_url": "https://www.aibase.com/news/32558",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "url": "https://www.aibase.com/news/32558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "url": "https://www.aibase.com/news/32558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:53:36.808927Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7287,
-      "importance": 0.7287,
-      "importance_score": 0.7287,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.784,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T08:53:36.808927Z",
-      "latest_at": "2026-11-27T08:53:36.808927Z",
-      "primary_item": {
-        "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-        "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-        "url": "https://www.aibase.com/news/32558",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0256b11e8366",
-      "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
-      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-      "primary_url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-          "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
-          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T04:56:18Z"
-        },
-        {
-          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
-          "title": "“克劳德的兽名是什么？”以及其他问题 / \"What's Claude's fursona?\" and other questions",
-          "url": "https://news.ycombinator.com/item?id=50662933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T04:56:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-          "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
-          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T04:56:18Z"
-        },
-        {
-          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
-          "title": "“克劳德的兽名是什么？”以及其他问题 / \"What's Claude's fursona?\" and other questions",
-          "url": "https://news.ycombinator.com/item?id=50662933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T04:56:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4991,
-      "importance": 0.4991,
-      "importance_score": 0.4991,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7405,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T04:56:18Z",
-      "latest_at": "2026-11-27T04:56:18Z",
-      "primary_item": {
-        "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-        "title": "“克劳德的Fursona是什么？”及其他问题 / \"What's Claude's fursona?\" and other questions",
-        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
